@@ -1801,6 +1801,15 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57213046",
+          "author": null,
+          "description": "View video in browser: media captionCoronavirus: How Covid-19 crushed India's healthcare systems\n\nIndia's government has instructed social media companies to remove any content that refers to the \"Indian variant\" of Covid-19.\n\n\nThe IT ministry said the World Health Organization (WHO) listed the variant as B.1.617 and any reference to \"Indian\" was false.\n\n\nGeographical terms have been used to describe a number of other variants, including the UK and Brazil.\n\n\nIndia's government has faced criticism over its h…",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57213046",
+          "publishedOn": "2021-05-22T14:11:24.000Z",
+          "wordCount": 987,
+          "title": "[World] Covid: India tells social media firms to remove 'India variant' from content"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-57212534",
           "author": null,
           "description": "image copyrightReuters\nimage captionMin Aung Hlaing, pictured in March, has given his first media interview since February's coup\n\nMyanmar's military leader has claimed Aung San Suu Kyi is \"in good health\" in his first interview since leading a violent coup in February.\n\n\nMin Aung Hlaing also said Ms Suu Kyi would appear in court within days.\n\n\nShe has been under house arrest and has not been seen in public since the military seized control.\n\n\nThe military leader also repeated unverified claims of voter fra…",
@@ -2349,6 +2358,51 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1978454",
+          "author": null,
+          "description": "从水利部长江水利委员会获悉，受强降雨影响，洞庭湖、鄱阳湖两湖水系来水增加。截至当日14时，长江流域共有5站超警戒水位，超警幅度为0.09米至1.30米，主要分布在洞庭湖湘江、鄱阳湖信江。长江中下游干流及两湖控制站水位快速上涨，未来几日仍将持续上涨。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1978454",
+          "publishedOn": "2021-05-22T15:05:46.000Z",
+          "wordCount": 137,
+          "title": "从水利部长江水利委员会获悉，受强降雨影响，洞庭湖、鄱阳湖两湖水系来水增加。截至当日14时，长江流域共有5站超警戒水位，超警幅度为0.09米至1.30米，主要分布..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978453",
+          "author": null,
+          "description": "安徽六安今日新增一名新冠肺炎确诊病例，系影楼工作人员。（人民日报）",
+          "link": "https://wallstreetcn.com/livenews/1978453",
+          "publishedOn": "2021-05-22T14:50:02.000Z",
+          "wordCount": 136,
+          "title": "安徽六安今日新增一名新冠肺炎确诊病例，系影楼工作人员。（人民日报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978452",
+          "author": null,
+          "description": "国务院副总理胡春华21日至22日在山西考察老工业基地就业工作。他强调，要深入学习贯彻习近平总书记重要指示精神，按照党中央、国务院决策部署，进一步强化就业优先政策，大力拓宽就业创业渠道，完善就业服务，切实做好老工业基地就业工作。胡春华指出，做好老工业基地就业工作，对促进就业大局稳定具有重要意义。要支持老工业基地转型发展，用创新推进传统产业升级，因地制宜发展特色优势产业，培育壮大就业吸纳能力强的新业态新模式，持续扩大就业容量。要针对老工业基地就业的特点，大力加强社区等就业服务，尤其要加大对大龄和女性失业人员的就业帮扶，提供更为精准的服务。（中国政府网）",
+          "link": "https://wallstreetcn.com/livenews/1978452",
+          "publishedOn": "2021-05-22T14:46:08.000Z",
+          "wordCount": 137,
+          "title": "国务院副总理胡春华21日至22日在山西考察老工业基地就业工作。他强调，要深入学习贯彻习近平总书记重要指示精神，按照党中央、国务院决策部署，进一步强化就业优..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978451",
+          "author": null,
+          "description": "三星生物与Moderna签署疫苗生产合同。（韩国联合通讯社）",
+          "link": "https://wallstreetcn.com/livenews/1978451",
+          "publishedOn": "2021-05-22T14:36:54.000Z",
+          "wordCount": 136,
+          "title": "三星生物与Moderna签署疫苗生产合同。（韩国联合通讯社）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978450",
+          "author": null,
+          "description": "美国纽约州报告新增456例新冠肺炎确诊病例。",
+          "link": "https://wallstreetcn.com/livenews/1978450",
+          "publishedOn": "2021-05-22T14:26:34.000Z",
+          "wordCount": 136,
+          "title": "美国纽约州报告新增456例新冠肺炎确诊病例。"
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1978449",
           "author": null,

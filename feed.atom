@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T15:07:27.991Z</updated>
+    <updated>2021-05-22T15:38:37.784Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -29,6 +29,77 @@
 [视频]国际联播快讯…]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从水利部长江水利委员会获悉，受强降雨影响，洞庭湖、鄱阳湖两湖水系来水增加。截至当日14时，长江流域共有5站超警戒水位，超警幅度为0.09米至1.30米，主要分布...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978454</id>
+        <link href="https://wallstreetcn.com/livenews/1978454"/>
+        <updated>2021-05-22T15:05:46.000Z</updated>
+        <summary type="html"><![CDATA[从水利部长江水利委员会获悉，受强降雨影响，洞庭湖、鄱阳湖两湖水系来水增加。截至当日14时，长江流域共有5站超警戒水位，超警幅度为0.09米至1.30米，主要分布在洞庭湖湘江、鄱阳湖信江。长江中下游干流及两湖控制站水位快速上涨，未来几日仍将持续上涨。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安徽六安今日新增一名新冠肺炎确诊病例，系影楼工作人员。（人民日报）]]></title>
+        <id>https://wallstreetcn.com/livenews/1978453</id>
+        <link href="https://wallstreetcn.com/livenews/1978453"/>
+        <updated>2021-05-22T14:50:02.000Z</updated>
+        <summary type="html"><![CDATA[安徽六安今日新增一名新冠肺炎确诊病例，系影楼工作人员。（人民日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国务院副总理胡春华21日至22日在山西考察老工业基地就业工作。他强调，要深入学习贯彻习近平总书记重要指示精神，按照党中央、国务院决策部署，进一步强化就业优...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978452</id>
+        <link href="https://wallstreetcn.com/livenews/1978452"/>
+        <updated>2021-05-22T14:46:08.000Z</updated>
+        <summary type="html"><![CDATA[国务院副总理胡春华21日至22日在山西考察老工业基地就业工作。他强调，要深入学习贯彻习近平总书记重要指示精神，按照党中央、国务院决策部署，进一步强化就业优先政策，大力拓宽就业创业渠道，完善就业服务，切实做好老工业基地就业工作。胡春华指出，做好老工业基地就业工作，对促进就业大局稳定具有重要意义。要支持老工业基地转型发展，用创新推进传统产业升级，因地制宜发展特色优势产业，培育壮大就业吸纳能力强的新业态新模式，持续扩大就业容量。要针对老工业基地就业的特点，大力加强社区等就业服务，尤其要加大对大龄和女性失业人员的就业帮扶，提供更为精准的服务。（中国政府网）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星生物与Moderna签署疫苗生产合同。（韩国联合通讯社）]]></title>
+        <id>https://wallstreetcn.com/livenews/1978451</id>
+        <link href="https://wallstreetcn.com/livenews/1978451"/>
+        <updated>2021-05-22T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[三星生物与Moderna签署疫苗生产合同。（韩国联合通讯社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国纽约州报告新增456例新冠肺炎确诊病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978450</id>
+        <link href="https://wallstreetcn.com/livenews/1978450"/>
+        <updated>2021-05-22T14:26:34.000Z</updated>
+        <summary type="html"><![CDATA[美国纽约州报告新增456例新冠肺炎确诊病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Covid: India tells social media firms to remove 'India variant' from content]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-india-57213046</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-india-57213046"/>
+        <updated>2021-05-22T14:11:24.000Z</updated>
+        <summary type="html"><![CDATA[View video in browser: media captionCoronavirus: How Covid-19 crushed India's healthcare systems
+
+India's government has instructed social media companies to remove any content that refers to the "Indian variant" of Covid-19.
+
+
+The IT ministry said the World Health Organization (WHO) listed the variant as B.1.617 and any reference to "Indian" was false.
+
+
+Geographical terms have been used to describe a number of other variants, including the UK and Brazil.
+
+
+India's government has faced criticism over its h…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
         </author>
     </entry>
     <entry>
