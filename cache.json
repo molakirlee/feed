@@ -1425,6 +1425,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631003",
+          "author": "于旭东",
+          "description": "分析人士指出，目前欧洲股市之所以如此吸引人，是因为经济开放及复苏、疫苗接种加速，以及该地区不太容易受到通胀预期走高的担忧，并且欧股中也鲜有大量因为宏观环境收紧而备受威胁的科技股。",
+          "link": "https://wallstreetcn.com/articles/3631003",
+          "publishedOn": "2021-05-22T11:50:00.000Z",
+          "wordCount": 122,
+          "title": "欧股终于逆袭！五年来首次跑赢美股，多家投行继续看好"
+        },
+        {
+          "id": "3631000",
+          "author": "叶桢",
+          "description": "有人认为，当下是新一轮周期行情的开始，也有人表示，周期已经走到了顶部。",
+          "link": "https://wallstreetcn.com/articles/3631000",
+          "publishedOn": "2021-05-22T11:23:53.000Z",
+          "wordCount": 144,
+          "title": "分析师“激辩”周期股：近期的回调是结束还是以新一轮行情的开始？"
+        },
+        {
           "id": "3631002",
           "author": "于旭东",
           "description": "萨默斯表示，如果数字货币市值占到黄金市值的三分之一，从目前水平大幅升值，那么数字货币将成为整个金融系统的一部分。",
@@ -2295,6 +2313,24 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1978449",
+          "author": null,
+          "description": "上海环境能源交易所董事长赖晓明表示：“按照国家安排，现在基本确定，在6月底之前全国碳排放权交易要上线启动，我们现在主管部门的统一领导下，加紧做各项准备工作。”赖晓明透露，目前，全国碳市场的交易系统已经基本建设完成，相关的规则制度也已经完备。（一财）",
+          "link": "https://wallstreetcn.com/livenews/1978449",
+          "publishedOn": "2021-05-22T13:04:29.000Z",
+          "wordCount": 137,
+          "title": "上海环境能源交易所董事长赖晓明表示：“按照国家安排，现在基本确定，在6月底之前全国碳排放权交易要上线启动，我们现在主管部门的统一领导下，加紧做各项准备..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978448",
+          "author": null,
+          "description": "欧洲央行副行长金多斯：近期的数据表现更加乐观。\n6月的货币政策决定将取决于数据表现。\n政策必须保持宽松。",
+          "link": "https://wallstreetcn.com/livenews/1978448",
+          "publishedOn": "2021-05-22T12:29:06.000Z",
+          "wordCount": 140,
+          "title": "欧洲央行副行长金多斯：近期的数据表现更加乐观。\n6月的货币政策决定将取决于数据表现。\n政策必须保持宽松。"
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1978447",
           "author": null,

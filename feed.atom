@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T12:17:54.733Z</updated>
+    <updated>2021-05-22T13:27:50.905Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -29,6 +29,30 @@
 [视频]国际联播快讯…]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海环境能源交易所董事长赖晓明表示：“按照国家安排，现在基本确定，在6月底之前全国碳排放权交易要上线启动，我们现在主管部门的统一领导下，加紧做各项准备...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978449</id>
+        <link href="https://wallstreetcn.com/livenews/1978449"/>
+        <updated>2021-05-22T13:04:29.000Z</updated>
+        <summary type="html"><![CDATA[上海环境能源交易所董事长赖晓明表示：“按照国家安排，现在基本确定，在6月底之前全国碳排放权交易要上线启动，我们现在主管部门的统一领导下，加紧做各项准备工作。”赖晓明透露，目前，全国碳市场的交易系统已经基本建设完成，相关的规则制度也已经完备。（一财）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲央行副行长金多斯：近期的数据表现更加乐观。
+6月的货币政策决定将取决于数据表现。
+政策必须保持宽松。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978448</id>
+        <link href="https://wallstreetcn.com/livenews/1978448"/>
+        <updated>2021-05-22T12:29:06.000Z</updated>
+        <summary type="html"><![CDATA[欧洲央行副行长金多斯：近期的数据表现更加乐观。
+6月的货币政策决定将取决于数据表现。
+政策必须保持宽松。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
@@ -62,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[欧股终于逆袭！五年来首次跑赢美股，多家投行继续看好]]></title>
+        <id>3631003</id>
+        <link href="https://wallstreetcn.com/articles/3631003"/>
+        <updated>2021-05-22T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[分析人士指出，目前欧洲股市之所以如此吸引人，是因为经济开放及复苏、疫苗接种加速，以及该地区不太容易受到通胀预期走高的担忧，并且欧股中也鲜有大量因为宏观环境收紧而备受威胁的科技股。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英国足球俱乐部可能因支持超级联赛而面临罚款。（英国天空新闻）]]></title>
         <id>https://wallstreetcn.com/livenews/1978444</id>
         <link href="https://wallstreetcn.com/livenews/1978444"/>
@@ -92,6 +126,16 @@
 在確認其住所的一名工人被感染後，蔡英文本週檢…]]></summary>
         <author>
             <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师“激辩”周期股：近期的回调是结束还是以新一轮行情的开始？]]></title>
+        <id>3631000</id>
+        <link href="https://wallstreetcn.com/articles/3631000"/>
+        <updated>2021-05-22T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[有人认为，当下是新一轮周期行情的开始，也有人表示，周期已经走到了顶部。]]></summary>
+        <author>
+            <name>叶桢</name>
         </author>
     </entry>
     <entry>
