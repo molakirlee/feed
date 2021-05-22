@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T12:15:07.659Z</updated>
+    <updated>2021-05-22T12:17:54.733Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新闻联播 2021/05/22]]></title>
+        <id>http://tv.cctv.com/lm/xwlb/day/20210522.shtml</id>
+        <link href="http://tv.cctv.com/lm/xwlb/day/20210522.shtml"/>
+        <updated>2021-05-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《新闻联播》 20210522 19:00 ⏱00:30:02
+[视频]习近平出席全球健康峰会并发表重要讲话 ⏱00:05:08
+[视频]携手推进全球抗疫合作 共建人类卫生健康共同体——习近平主席出席全球健康峰会成果 ⏱00:02:39
+[视频]【央视快评】携手共建人类卫生健康共同体 ⏱00:00:07
+[视频]我国生物多样性保护取得显著成效 ⏱00:02:00
+[视频]祝融号火星车驶上火星表面开始巡视探测 ⏱00:02:13
+[视频]奋斗百年路 启航新征程·数风流人物 ⏱00:02:08
+[视频]西藏和平解放70年 各项事业全方位进步 ⏱00:01:26
+[视频]云南 青海等地发生地震 抢险救援抓紧进行 ⏱00:02:13
+[视频]国家卫生健康委通报最新疫情 ⏱00:00:32
+[视频]“杂交水稻之父”袁隆平院士逝世 ⏱00:00:50
+[视频]中国肝脏外科的开拓者吴孟超院士逝世 ⏱00:00:40
+[视频]国内联播快讯 ⏱00:02:27
+[视频]多国人士高度评价习近平主席在全球健康峰会上的重要讲话 ⏱00:02:23
+[视频]全球新冠肺炎确诊病例超1亿6515万 ⏱00:01:12
+[视频]国际联播快讯…]]></summary>
+        <author>
+            <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国家卫健委就近向云南省大理州漾濞县和青海省果洛州玛多县分别派遣国家级医疗卫生专家组，强化当地医疗救治力量。（央视新闻）]]></title>
         <id>https://wallstreetcn.com/livenews/1978447</id>
