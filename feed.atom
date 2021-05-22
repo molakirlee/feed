@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T07:16:10.369Z</updated>
+    <updated>2021-05-22T07:22:11.691Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -144,6 +144,16 @@ Keynote 给我们看了那么多好看的，实际能用上的其实没多少。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amid violence and protests, Colombian universities seek to promote a national dialogue]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/amid-violence-and-protests-colombian-universities-seek-promote-national-dialogue?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/amid-violence-and-protests-colombian-universities-seek-promote-national-dialogue"/>
+        <updated>2021-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Students lead nationwide demonstrations while academic leaders propose policy changes to help overcome the crisis]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mac 新手想知道 02：更高效地操作桌面和窗口]]></title>
         <id>https://sspai.com/post/66754</id>
         <link href="https://sspai.com/post/66754"/>
@@ -189,6 +199,16 @@ PS5 国行主机正式发售，玩家关心的重要问题终于浮出水面
 现场展示了历代的 PS 游戏主机。玩家在现场抢先体验了 PS5 国行的《宇宙机器人 无线控制器使用指南》《漫威蜘蛛侠 迈尔斯·莫拉莱斯》《原神》等次世代游戏大作，与 …]]></summary>
         <author>
             <name>瞎玩菌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreliable social science research gets more attention than solid studies]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/unreliable-social-science-research-gets-more-attention-solid-studies?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/unreliable-social-science-research-gets-more-attention-solid-studies"/>
+        <updated>2021-05-21T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Failed replications rack up more citations than studies that hold up over time]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
@@ -262,6 +282,240 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Priorities to protect nature in Europe]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-a?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmitigated spread in Brazil]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-b?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Locating atoms with higher precision]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-c?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantifying translation in space and time]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-d?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Purnell, B. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding the breaking point]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-e?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biphenylene carbon sheets]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-f?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening synapses with leptin]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-g?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Ferrarelli, L. K.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear spectroscopy goes extreme]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-h?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-h?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Zhu, X.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[150 years of The Descent of Man]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-i?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-i?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avian influenza spillover]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-j?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-j?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replay supports planning]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-k?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-k?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Stern, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A complex role for chlorine radicals]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-l?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-l?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Yeston, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A boost for brain-computer interfaces]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-m?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-m?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Stern, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering suitable redox molecules]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-n?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-n?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using antidepressants to fight cancer]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-o?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-o?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Williams, I.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To eat or not to eat]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-p?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-p?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Vinson, V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The pace of Holocene vegetation change]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-q?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-q?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fungal symbiosis with early land plants]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-r?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-r?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Hines, P. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heme homeostasis]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/803-s?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/803-s?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Charneski, C. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable malaria susceptibility]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-a?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Scanlon, S. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagery and recall of faces]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-b?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Stern, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reprocessible, rubbery, printable polymers]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-c?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better boron placement]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-d?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Yeston, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megakelvin campfires on the Sun]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-e?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Smith, K. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phagocytosis promotes plaque]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-f?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Hurtley, S. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unexpected benefits of microbiota]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6544/804-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6544/804-g?rss=1"/>
+        <updated>2021-05-20T17:40:55.000Z</updated>
+        <author>
+            <name>Nusinovich, Y.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
         <id>60a694ab906c5207e3a7f544</id>
         <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
@@ -272,6 +526,26 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Millions of electric cars are coming. What happens to all the dead batteries?]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries"/>
+        <updated>2021-05-20T16:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers urgently seek better ways to reuse spent cells]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deadly river ‘earthquakes’ could be manageable]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/deadly-river-earthquakes-could-be-manageable?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/deadly-river-earthquakes-could-be-manageable"/>
+        <updated>2021-05-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New techniques could help combat the flooding disasters triggered by sediment buildup]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
         <id>60a4b5c7906c5207e3a7e2bb</id>
         <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
@@ -279,6 +553,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab-grown minihearts beat like the real thing]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/lab-grown-minihearts-beat-real-thing?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/lab-grown-minihearts-beat-real-thing"/>
+        <updated>2021-05-20T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Self-organizing organoids resemble a 1-month-old embryo’s heart]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
@@ -378,6 +662,26 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ecstasy plus therapy for PTSD, and the effects of early childhood development programs on mothers]]></title>
+        <id>https://www.sciencemag.org/podcast/ecstasy-plus-therapy-ptsd-and-effects-early-childhood-development-programs-mothers?rss=1</id>
+        <link href="https://www.sciencemag.org/podcast/ecstasy-plus-therapy-ptsd-and-effects-early-childhood-development-programs-mothers"/>
+        <updated>2021-05-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On this week’s show: pairing therapy with ecstasy for post-traumatic stress disorder is key, and why it’s important to track effects on moms when early childhood development intervention programs are underway]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two more coronaviruses can infect people, studies suggest]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/two-more-coronaviruses-can-infect-people-studies-suggest?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/two-more-coronaviruses-can-infect-people-studies-suggest"/>
+        <updated>2021-05-20T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Research increases worry about the pandemic potential of other members of the virus family]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notion API]]></title>
         <id>https://css-tricks.com/?p=340731</id>
         <link href="https://css-tricks.com/notion-api/"/>
@@ -439,6 +743,36 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the world’s largest COVID-19 vaccine campaign faltering?]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/why-world-s-largest-covid-19-vaccine-campaign-faltering?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/why-world-s-largest-covid-19-vaccine-campaign-faltering"/>
+        <updated>2021-05-19T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Unexpected vaccine hesitancy and other obstacles have frustrated India’s massive immunization challenge]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More than half of Caribbean lizards and snakes disappeared after Europeans arrived]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/more-half-caribbean-lizards-and-snakes-disappeared-after-europeans-arrived?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/more-half-caribbean-lizards-and-snakes-disappeared-after-europeans-arrived"/>
+        <updated>2021-05-19T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Reptiles thrived alongside earlier Indigenous peoples]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New type of imager could help spot smuggled nuclear materials]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/new-type-imager-could-help-spot-smuggled-nuclear-materials?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/new-type-imager-could-help-spot-smuggled-nuclear-materials"/>
+        <updated>2021-05-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technique may unmask hidden dangers faster and more precisely than current methods]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
@@ -610,6 +944,231 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cleaning in a flash]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-a?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Smith, H. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metabolic pathway regulates cell fate]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-b?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Purnell, B. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural plutonium from supernovae]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-c?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Smith, K. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids armed with anti-coronavirus B cells]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-d?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Scanlon, S. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing an immunotherapy for AD]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-e?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Maroso, M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building back colonic crypts]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-f?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Williams, I.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computational analysis of cell walls]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-g?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Hines, P. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlling interfacial superconductivity]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-h?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-h?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress in RSV prevention]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-i?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-i?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeting distal C-H bonds in arenes]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-j?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-j?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Yeston, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characterizing a cancer spliceosome]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-k?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-k?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A T cell sleeper agent against stress]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-l?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-l?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Scanlon, S. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A brain circuit that drives and gates curiosity]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-m?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-m?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Stern, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomics of radiation-induced damage]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-n?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-n?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Nusinovich, Y.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What makes things twist?]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-o?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-o?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The evolution of ecological networks]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-p?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-p?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staying dry]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-q?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-q?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Smith, H. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAFs not always required]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/698-r?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/698-r?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>VanHook, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imaging cancer cell by cell]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-a?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Ray, L. B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Costs of moving stem cells]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-b?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A pre-eruptive fever]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-c?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Grocholski, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building bridges in the brain]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-d?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Hines, P. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risk and replacement]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-e?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Funk, M. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Population-level lupus]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-f?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A twist on the Ising model]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6543/699-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6543/699-g?rss=1"/>
+        <updated>2021-05-13T17:39:48.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -707,6 +1266,240 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High fliers]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-a?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tougher solar cell interfaces]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-b?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum entanglement goes large]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-c?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Osborne, I. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A large-scale screen to target SARS-CoV-2]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-d?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vinson, V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing behavioral secrets in extinct species]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-e?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Through a shrimp eye brightly]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-f?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Smith, O. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human impact on landscapes in early Africa]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-g?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Aldenderfer, M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking insulin in obesity]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-h?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-h?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A distinctive ancestor]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-i?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-i?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconstructing ancestral bacteria]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-j?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-j?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental impacts on gene networks]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-k?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-k?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The value of dirty DNA]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-l?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-l?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Development of the human striatum revealed]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-m?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-m?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Hines, P. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery solved?]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-n?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-n?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A role for vacancies]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-o?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-o?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Grocholski, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reversible fiber fusion and fission]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-p?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-p?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Slovakian test case]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-q?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-q?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUBbing new inflammasome inhibitors]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-r?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-r?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Olingy, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stabilized by protein interactions]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/584-s?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/584-s?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Ferrarelli, L. K.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fill-up for the forest]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-a?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pollinator-focused solar arrays]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-b?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragile queen mole rats]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-c?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Purnell, B. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signals of stress]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-d?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy changing culture]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-e?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Wible, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plastic dust in the wind]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-f?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Smith, H. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending the reach of LIDAR]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6542/585-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6542/585-g?rss=1"/>
+        <updated>2021-05-06T17:41:10.000Z</updated>
+        <author>
+            <name>Osborne, I. S.</name>
         </author>
     </entry>
     <entry>
@@ -813,6 +1606,231 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating ecosystem disruption]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-a?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varying the stop lights]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-b?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Grocholski, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-Columbian reforestation in Amazonia]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-c?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An optically active spiral]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-d?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gated ion flow in graphene oxide membranes]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-e?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROS-mediated lung protection]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-f?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Maroso, M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digging for water]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-g?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting DCs into overdrive]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-h?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-h?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Ferrarelli, L. K.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The gut microbiota in industrialization]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-i?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-i?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assembling for transcription initiation]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-j?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-j?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The daily rhythms of agriculture]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-k?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-k?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Hines, P. J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small RNAs guard CRISPR-Cas]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-l?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-l?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viral peptide is key to T cell priming]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-m?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-m?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Scanlon, S. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump starting pathogen evolution]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-n?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-n?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move aside, aluminum]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-o?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-o?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biosynthesis and replication, from A to Z]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-p?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-p?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early emergence]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-q?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-q?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Fogg, C. N.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an early variant got ahead]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/476-r?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/476-r?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Vinson, V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[toxIN death knell]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-a?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Vinson, V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Slinky" chromatin in archaea]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-b?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-dimensional self-assembly of curved NGs]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-c?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Suleymanov, Y.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobilizing metabolism against HIV]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-d?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Scanlon, S. T.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relative immunity]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-e?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon nitride nanotube reactors]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-f?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural whitening]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6541/477-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6541/477-g?rss=1"/>
+        <updated>2021-04-29T17:39:07.000Z</updated>
+        <author>
+            <name>Rai, T. S.</name>
         </author>
     </entry>
     <entry>
