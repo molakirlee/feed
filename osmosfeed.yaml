@@ -1,9 +1,9 @@
 cacheUrl: https://molakirlee.github.io/feed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+#  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+#  - href: https://css-tricks.com/feed/
+#  - href: https://www.smashingmagazine.com/feed/
+#  - href: https://www.freecodecamp.org/news/rss/
   - href: zhihu.com/rss
   - href: http://zaobao.feedsportal.com/c/34003/f/616931/index.rss
   - href: https://36kr.com/feed
