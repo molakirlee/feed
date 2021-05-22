@@ -1,11 +1,13 @@
 cacheUrl: https://molakirlee.github.io/feed/cache.json
 sources:
+# original source
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
-  #
+# Xilock Source
   - href: https://sspai.com/feed
+# Science
   - href: https://www.sciencemag.org/rss/news_current.xml
   - href: https://science.sciencemag.org/rss/twis.xml
   - href: https://science.sciencemag.org/rss/ec.xml
