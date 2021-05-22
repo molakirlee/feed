@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T15:38:37.784Z</updated>
+    <updated>2021-05-22T16:29:34.838Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -203,6 +203,28 @@ IE 的崛起和绑定 Windows 有关。90 年代还没有免费浏览器的概�
 政策必须保持宽松。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] China's Zhurong rover takes first drive on Mars]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-china-57211001</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-china-57211001"/>
+        <updated>2021-05-22T12:21:37.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightReuters
+image captionThe Zhurong rover drove down the ramp of the lander on to the surface of Mars
+
+China's remote-controlled rover, which landed on Mars a week ago, has driven down from its landing capsule to the surface of the planet.
+
+
+This makes China the second country after the US to operate a rover there. 
+
+
+The Zhurong rover is due to study the planet's surface soil and atmosphere. It will also look for signs of life, including any subsurface water or ice. 
+
+
+China's Tianwen-1 mission…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
         </author>
     </entry>
     <entry>
