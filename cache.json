@@ -1328,6 +1328,15 @@
       "siteUrl": "https://www.geekpark.net",
       "articles": [
         {
+          "id": "https://www.geekpark.net/news/278683",
+          "author": null,
+          "description": "张一鸣「早退」\n微博的程序员知道，每次一到周五晚上或者大型节日，不管人造还是传统的，往往会有演艺界人士闹出一些幺蛾子，把后台拉崩。他们没有想到的是，有一天先崩溃的是他们。\n本周，「人造情人节」520 这一天，大早上就传出新闻，所有程序员和宅男的「老婆」、日本女演员新垣结衣传出结婚的消息，这大概是中国中青年男性同时失恋人数最多的一天。\n同一天，字节跳动创始人张一鸣发布内部全员信，宣布卸任 CEO 一职。\n在全员信中，张一鸣提到，字节跳动联合创始人梁汝波将接任成为新 CEO。张一鸣和梁汝波将于 2021 年底前完成字节跳动 CEO 职责的过渡交接。\n公开资料显示，梁汝波是张一鸣的大学同学，两人自 2009 年共同创办垂直房产搜索引擎「九九房」起，即成为长期创业伙伴。\n2012 年，梁汝波与张一鸣共同创办字节跳动。此后至 2016 年，梁汝波一直担任字节跳动产品研发负责人，负责早期多个重要产品和业务，包括今日头条、头条号、广告系统和用户增长系统等。\n2016 年起，梁汝波负责飞书和效率工程。2020 年起，梁汝波负责集团人力资源和管理等工作，推动了字节跳动的组织建设和人才发展。\n张一鸣表示，梁汝波是改进公司日常管理…",
+          "link": "https://www.geekpark.net/news/278683",
+          "publishedOn": "2021-05-23T01:43:06.000Z",
+          "wordCount": 165,
+          "title": "张一鸣「早退」、阿里、腾讯「血战」东南亚和要上市的 Waymo｜极客一周"
+        },
+        {
           "id": "https://www.geekpark.net/news/278682",
           "author": null,
           "description": "就像很多逐渐远离人们视线的老产品一样，Internet Explorer 虽然没有直接宣告死亡，但基本已经名存实亡。它依然存活的理由在于，一些传统网站还要依靠它才能运行，而随着继任者 Microsoft Edge 加入 IE 模式，这个理由也显得无足轻重。\n于是在最近的 Windows 博客中，微软正式宣告它进入死亡倒计时：Internet Explorer 11 桌面应用程序将在 2022 年 6 月 15 日停止使用，并且不再支持某些版本的 Windows 10。\n服役二十多年的 IE 即将退下，继任者 Edge 能接过大旗吗？\n\n\n从浏览器霸主到群嘲对象\n\nIE 的崛起和绑定 Windows 有关。90 年代还没有免费浏览器的概念，当时的霸主是作为商业软件的 Netscape Navigator（网景浏览器）。为了对抗网景，微软将 IE 捆绑在 Windows 95、Windows NT 中推出，虽然这一行为在后来被法院判定为垄断，但对竞争对手来说这个判决来得太迟了，IE 浏览器的市场份额在 2002 年到达了 95% 的顶峰，远远甩开对手。\n\n          微软反垄断案上的比尔盖茨\n网景浏览器衰…",
@@ -1433,6 +1442,15 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/news/global",
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
+        {
+          "id": "3631004",
+          "author": "许超",
+          "description": "印度日增感染回落至25万例左右之际，研究发现辉瑞、阿斯利康疫苗针对印度报告的B.1.617.2毒株有效性分别达到88%和60%。",
+          "link": "https://wallstreetcn.com/articles/3631004",
+          "publishedOn": "2021-05-23T01:07:21.000Z",
+          "wordCount": 110,
+          "title": "好消息来了！辉瑞、阿斯利康疫苗对印度报告的变异病毒有效"
+        },
         {
           "id": "3631003",
           "author": "于旭东",
@@ -1800,6 +1818,15 @@
       "feedUrl": "https://rsshub.app/bbc/world-asia",
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-china-57216601",
+          "author": null,
+          "description": "image copyrightSTR/AFP via Getty Images\nimage captionHigh winds and freezing rain hit participants of the race\n\nAt least 20 people have died in north-western China as extreme weather struck a cross-country mountain race.\n\n\nOn Saturday high winds and freezing rain hit participants in the 100km (60-mile) race in the Yellow River Stone Forest, a tourist site in Gansu province, state-run media reported.\n\n\nThe race was halted when some of the 172 runners went missing, Xinhua news agency said.\n\n\nThe bodies were f…",
+          "link": "https://www.bbc.co.uk/news/world-asia-china-57216601",
+          "publishedOn": "2021-05-23T02:12:46.000Z",
+          "wordCount": 688,
+          "title": "[World] China race: Severe weather kills cross-country runners"
+        },
         {
           "id": "https://www.bbc.co.uk/news/world-australia-57072308",
           "author": null,
@@ -2439,6 +2466,69 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1978465",
+          "author": null,
+          "description": "北京金融监管局局长霍学文表示，2020年北京市金融业资产总额161.57万亿元，同比增长7.7%。（新华财经）",
+          "link": "https://wallstreetcn.com/livenews/1978465",
+          "publishedOn": "2021-05-23T01:58:10.000Z",
+          "wordCount": 136,
+          "title": "北京金融监管局局长霍学文表示，2020年北京市金融业资产总额161.57万亿元，同比增长7.7%。（新华财经）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978464",
+          "author": null,
+          "description": "下周将有44股解禁，按照最新收盘价计算，合计解禁市值1165.81亿元。44股中，解禁市值规模最大的是具有“机器人第一股”之称的科沃斯，下周将有3.8亿股上市流通，主要是首发原股东限售股份，解禁市值高达621.34亿元。此外，北京君正的解禁市值达到117.05亿元，解禁股为定向增发机构配售股份。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1978464",
+          "publishedOn": "2021-05-23T00:48:12.000Z",
+          "wordCount": 137,
+          "title": "下周将有44股解禁，按照最新收盘价计算，合计解禁市值1165.81亿元。44股中，解禁市值规模最大的是具有“机器人第一股”之称的科沃斯，下周将有3.8亿股上市流通，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978462",
+          "author": null,
+          "description": "5月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例19例，其中境外输入病例18例（上海4例，四川4例，广东3例，福建2例，北京1例，天津1例，辽宁1例，浙江1例，云南1例），本土病例1例（在安徽）；无新增死亡病例；无新增疑似病例。",
+          "link": "https://wallstreetcn.com/livenews/1978462",
+          "publishedOn": "2021-05-23T00:23:00.000Z",
+          "wordCount": 137,
+          "title": "5月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例19例，其中境外输入病例18例（上海4例，四川4例，广东3例，福建2例，北京1例，天..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978461",
+          "author": null,
+          "description": "5月23日早间，大连万达集团在其官网发布消息称，公司已全部退出了AMC董事会，仅保留少数股权，累计回笼资金14.76亿美元（约合人民币94.96亿元）。万达方面表示，根据万达集团“聚焦国内”的发展战略，万达集团从2018年开始逐步退出AMC公司控股权，但万达在通告中强调，万达电影与AMC公司将签署长期战略合作协议，开展定期交流、培训，双方将在全球及中国大陆地区相互支持，互利共赢。按照万达方面的介绍，截至目前，万达集团海外所有投资退出时均有收益。（澎湃）",
+          "link": "https://wallstreetcn.com/livenews/1978461",
+          "publishedOn": "2021-05-23T00:19:48.000Z",
+          "wordCount": 137,
+          "title": "5月23日早间，大连万达集团在其官网发布消息称，公司已全部退出了AMC董事会，仅保留少数股权，累计回笼资金14.76亿美元（约合人民币94.96亿元）。万达方面表示，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978460",
+          "author": null,
+          "description": "北京市气象台发布沙尘蓝色预警信号：预计当前至23日15时，北京市大部分地区有浮尘天气。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1978460",
+          "publishedOn": "2021-05-23T00:17:56.000Z",
+          "wordCount": 136,
+          "title": "北京市气象台发布沙尘蓝色预警信号：预计当前至23日15时，北京市大部分地区有浮尘天气。（新华社）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978459",
+          "author": null,
+          "description": "市场调研机构Counterpoint公布了2021年4月份欧洲市场各智能手机品牌的市场份额，数据显示，三星以35%的占比位居第一，小米排名第二，占比21%，苹果排名第三，占比20%。第四名和第五名分别为占比6%的OPPO和占比2%的一加。（IT之家）",
+          "link": "https://wallstreetcn.com/livenews/1978459",
+          "publishedOn": "2021-05-23T00:17:29.000Z",
+          "wordCount": 137,
+          "title": "市场调研机构Counterpoint公布了2021年4月份欧洲市场各智能手机品牌的市场份额，数据显示，三星以35%的占比位居第一，小米排名第二，占比21%，苹果排名第三，占..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978458",
+          "author": null,
+          "description": "5月22日，北京市委书记蔡奇围绕推动重大项目开工建设到海淀区调查研究。他强调，投资对优化供给结构、促进经济结构调整具有关键性作用，重大项目是扩大有效投资的重要抓手。要坚定不移贯彻新发展理念，落实碳减排碳中和要求，进一步加强投资调度，集中抓好一批重大项目开工建设，吸引社会资本参与，推动形成更多有效投资，发挥在推动我市高质量发展中的牵引带动作用。北京市委副书记、市长陈吉宁一同调研。（北京日报）",
+          "link": "https://wallstreetcn.com/livenews/1978458",
+          "publishedOn": "2021-05-23T00:03:05.000Z",
+          "wordCount": 137,
+          "title": "5月22日，北京市委书记蔡奇围绕推动重大项目开工建设到海淀区调查研究。他强调，投资对优化供给结构、促进经济结构调整具有关键性作用，重大项目是扩大有效投资..."
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1978456",
           "author": null,
