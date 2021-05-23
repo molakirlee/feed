@@ -1452,6 +1452,15 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631007",
+          "author": "许超",
+          "description": "此次实验成功是维珍公司向太空旅游计划目标迈出的最新一步。迄今已有约600人预订了维珍银河公司太空旅行机票，票价约为25万美元。",
+          "link": "https://wallstreetcn.com/articles/3631007",
+          "publishedOn": "2021-05-23T05:16:14.000Z",
+          "wordCount": 118,
+          "title": "太空旅行“三国杀”最新进展：维珍银河两年来首次载人上天并成功返航"
+        },
+        {
           "id": "3630467",
           "author": "伊芙",
           "description": "下周，拜登将公布任内第一份财政预算案，涵盖对外援助、移民政策等一系列详细清单。下周将会有美德法等国一季度GDP，中国将公布4月规模以上工业企业利润，美国将公布PCE指数。京东物流预计在港上市。",
@@ -2184,15 +2193,6 @@
           "publishedOn": "2021-04-27T17:49:00.000Z",
           "wordCount": 1394,
           "title": "The Right Way to Bring Chinese STEM Talent Back to the U.S."
-        },
-        {
-          "id": "https://www.chinafile.com/reporting-opinion/viewpoint/i-stand-laws-good-servant-peoples-first",
-          "author": "Margaret Ng",
-          "description": "Anthony Kwan—Getty Images\n  \n  \n  \n        \nBarrister Margaret Ng arrives at West Kowloon court ahead of a sentencing hearing, in Hong Kong, April 16, 2021.\n  \n  \nOn April 16, Hong Kong’s High Court sentenced 10 of Hong Kong’s leading pro-democracy activists for their role in leading unauthorized protests in August 2019. Although the protests were peaceful and caused minimal disruption, the court nonetheless handed down a mix of prison and suspended sentences, ranging from 8 to 18 months. In prior unlawful …",
-          "link": "https://www.chinafile.com/reporting-opinion/viewpoint/i-stand-laws-good-servant-peoples-first",
-          "publishedOn": "2021-04-23T17:38:00.000Z",
-          "wordCount": 3151,
-          "title": "‘I Stand the Law’s Good Servant, but the People’s First’"
         }
       ]
     },
@@ -2502,6 +2502,51 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1978479",
+          "author": null,
+          "description": "【中国有色金属工业协会会长：大宗商品涨价严重偏离产业运营价格链，炒作机构勿低估调控决心】中国有色金属工业协会会长葛红林表示，近期大宗商品价格的大幅上涨严重偏离了产业运营过程中的价格链，有色金属供需面并未发生改变，成本也不支撑该行业出现如此大幅度的价格上涨，资本的力量和资金的推动，才是此轮上涨的关键。他指出，最近政策层面对大宗商品加强了调控，但有些机构仍希望推高获利，这低估了政策的调控决心和能力。（21财经）",
+          "link": "https://wallstreetcn.com/livenews/1978479",
+          "publishedOn": "2021-05-23T05:37:28.000Z",
+          "wordCount": 143,
+          "title": "中国有色金属工业协会会长：大宗商品涨价严重偏离产业运营价格链，炒作机构勿低估调控决心"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978478",
+          "author": null,
+          "description": "印度驻俄罗斯大使文卡特什·瓦玛（DB Venkatesh Varma）当地时间22日表示， 印俄计划8月起在印度生产“卫星V”新冠疫苗，每月产量将达3000万至4000万剂。在印度本地生产“卫星V”疫苗之前，俄罗斯将向印度出口约1800万剂疫苗。文卡特什·瓦玛说，根据计划中的协议，俄罗斯计划将在印度生产8.5亿剂“卫星V”疫苗。未来全球“卫星V”新冠疫苗65%至70%的供货都将来自印度。（央视新闻）",
+          "link": "https://wallstreetcn.com/livenews/1978478",
+          "publishedOn": "2021-05-23T05:14:07.000Z",
+          "wordCount": 150,
+          "title": "印度驻俄罗斯大使文卡特什·瓦玛（DB Venkatesh Varma）当地时间22日表示， 印俄计划8月起在印度生产“卫星V”新冠疫苗，每月产量将达3000万至4000万剂。在印度..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978477",
+          "author": null,
+          "description": "Bitstamp行情显示，比特币再度跌破37000美元，跌幅超2%。",
+          "link": "https://wallstreetcn.com/livenews/1978477",
+          "publishedOn": "2021-05-23T05:11:21.000Z",
+          "wordCount": 143,
+          "title": "Bitstamp行情显示，比特币再度跌破37000美元，跌幅超2%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978474",
+          "author": null,
+          "description": "会上，珠海格力电器股份有限公司董事长兼总裁董明珠、广州小鹏汽车科技有限公司董事长兼CEO何小鹏、深圳市大疆创新科技有限公司总裁罗镇华等民营企业家代表作交流发言。据悉，此次民营制造业项目签约，共有广州华星超高清新型显示等32个投资规模大、技术含量高、市场前景好的项目落户广东，涵盖信息技术、装备制造、新材料、生物医药和家电等轻工业，投资总额1441亿元。（大洋网）",
+          "link": "https://wallstreetcn.com/livenews/1978474",
+          "publishedOn": "2021-05-23T04:58:53.000Z",
+          "wordCount": 137,
+          "title": "会上，珠海格力电器股份有限公司董事长兼总裁董明珠、广州小鹏汽车科技有限公司董事长兼CEO何小鹏、深圳市大疆创新科技有限公司总裁罗镇华等民营企业家代表作交..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1978473",
+          "author": null,
+          "description": "外汇局副局长陆磊今天在京参加“2021清华五道口全球金融论坛”时表示，从各国货币政策面对的主要矛盾看，全球流动性保持充裕，通胀预期正在明显抬升。4月28日议息会议，美联储重申“未到讨论缩减QE的时机”，继续释放鸽派信号，世界主要经济体央行也普遍保持鸽派。但4月美国CPI同比升幅达4.2％，高于预期的3.6％，引发股债市场波动，美债市场5年通胀预期提升至2005年以来的最高水平。（国是直通车）",
+          "link": "https://wallstreetcn.com/livenews/1978473",
+          "publishedOn": "2021-05-23T04:24:16.000Z",
+          "wordCount": 137,
+          "title": "外汇局副局长陆磊今天在京参加“2021清华五道口全球金融论坛”时表示，从各国货币政策面对的主要矛盾看，全球流动性保持充裕，通胀预期正在明显抬升。4月28日议..."
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1978472",
           "author": null,
@@ -3864,5 +3909,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
