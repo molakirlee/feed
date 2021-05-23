@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T06:19:15.774Z</updated>
+    <updated>2021-05-23T08:17:38.618Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三年老 Mac 变慢后，我把它从内到外优化了一遍]]></title>
+        <id>https://sspai.com/post/66704</id>
+        <link href="https://sspai.com/post/66704"/>
+        <updated>2021-05-23T06:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+虽然 Tim Cook 桌子上有「iPhone 变慢」按钮是众所周知的秘密，但其实 Mac 也不能幸免。开个玩笑，说回正题。随着使用时间变长，几乎每个人都会遇到电脑性能吃紧、反应变慢的情况。除了更新换代、升级硬件的物理方法，在软件上花点心思做做优化，也许还能再战两三年。
+去年年末明显感受到自己的 Mac 不如从前，年后断断续续做了些优化，正好借此机会记录一下这个过程。
+先说下情况：我的 Mac 是 2018 年初购入的 MacBook Pro (15-inch, 2016)，2.7 GHz 四核 Intel Core i7，16 GB 内存，512 GB 存储。三年多过去，出现以下问题：
+
+硬件（电池）：严重亏损，待机时间显著变短，在较低环境温度下开机几分钟后会自动关机
+硬件（键盘）：部分按键失灵，轻按无效果，重按字母会重复出现（且久而久之蝴蝶键盘手感不好，后来干脆用外接键盘了）
+软件（浏览器）：常用的 Safari 响应速度变慢，由于工作时开的标签页较多，几乎每次重启应用后都要等 Dock 图标蹦哒 1 分钟左右才显示页面
+软件（App）：部分 App 经常出现卡死、崩溃、闪退等现象
+硬盘空间：由于资料长期堆积不整理，且没有较好的整理归档备份习惯，硬盘只剩下 20-30 GB 左右的空间；当 Safari 占用内存过多内存吃紧，或某个 App 崩溃卡死，借用硬盘空间时，如果这时迅雷还在下载较大的文件，会经常性出现空间消耗完需要强制退出后台 App 的情况，迅雷也会弹出「数据库损坏」之类的提示，快下载完的文件会自动删除以腾出空间
+…]]></summary>
+        <author>
+            <name>TrojanYao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[进军1700亿美元市场？吃完疫情红利的奈飞打算开始做游戏了]]></title>
+        <id>3631009</id>
+        <link href="https://wallstreetcn.com/articles/3631009"/>
+        <updated>2021-05-23T06:13:20.000Z</updated>
+        <summary type="html"><![CDATA[这一迹象表明，随着流媒体行业竞争加剧，奈飞正在努力扩大自己的一亩三分地，转向游戏或有助于避免公司会员增长的放缓。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国有色金属工业协会会长：大宗商品涨价严重偏离产业运营价格链，炒作机构勿低估调控决心]]></title>
         <id>https://wallstreetcn.com/livenews/1978479</id>
