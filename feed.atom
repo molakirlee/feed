@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T22:15:07.490Z</updated>
+    <updated>2021-05-23T00:54:58.873Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -29,6 +29,72 @@
 [视频]国际联播快讯…]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視頻：中國數字貨幣的崛起]]></title>
+        <id>https://www.voacantonese.com/a/cantonese-visual-explainer-china-digital-currency-20210523-ry/5899265.html</id>
+        <link href="https://www.voacantonese.com/a/cantonese-visual-explainer-china-digital-currency-20210523-ry/5899265.html"/>
+        <updated>2021-05-23T00:00:30.000Z</updated>
+        <summary type="html"><![CDATA[華盛頓 — 
+究竟中國想怎樣改變貨幣的面貌呢？
+距今已有1000多年的歷史，中國一直處貨幣改變的最前沿。 今天，它希望標誌著另一個全球首創-一種國家支持的數字貨幣。
+在沒有金錢之前，人們使用“以物易物”的貿易體系來獲得他們所需要的東西。但是，這樣的交易很耗時，需要完全匹配才能工作。
+第一類貨幣是對社會具有內在價值的物品。為了進步，政府開始創造貨幣，其貨幣的價值不是來自對象本身，而是來自社會對政府的信任。
+中國人在石器時代末期創造了一些最早的金屬硬幣，並且在大約公元800年成為有歷以來最早引入紙幣的社會。
+在整個歷史中，紙幣有時都與其他有價物品聯繫在一起，例如1900年代初美國的黃金標準。
+如今，幾乎所有貨幣都只是由於人們對創建貨幣的政府的信念及其持有貨幣以備將來使用的意願而獲得價值。
+對貨幣的下一次重新想像可能是完全數字化的，其中貨幣被轉換為電腦代碼。雖然金錢似乎已經是數字的，因為可以通過電子方式進行轉移, 人們仍然可以將積蓄兌換成實體的現金。
+在完全數字貨幣的社會中，情況並非如此。例如比特幣之類的加密貨幣，讓人們一窺數字貨幣的運作方式。但是，它們存在於金融系統之外，而由國家支持的數字貨幣將成為該國法定貨幣的…]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Koori Mail: Thirty years of reporting on Aboriginal Australia]]></title>
+        <id>https://www.bbc.co.uk/news/world-australia-57072308</id>
+        <link href="https://www.bbc.co.uk/news/world-australia-57072308"/>
+        <updated>2021-05-22T23:58:11.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightKoori Mail
+image captionNick Paton, left, a reporter at the Koori Mail, with the newspaper's editor Rudi Maxwell
+
+"Shame Australia!" read the Koori Mail's first editorial 30 years ago. 
+
+
+"It is time for the Aboriginal community to speak out and be heard, to earn the respect we deserve and to regain our self-esteem after 200 years of brutal victimisation," it continued. 
+
+
+The Koori Mail, Australia's only fully indigenous-owned and managed newspaper, was born on 23 May 1991. 
+
+
+'Racist Violen…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] India coronavirus: A tribal area had oxygen while cities gasped]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-india-57098621</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-india-57098621"/>
+        <updated>2021-05-22T23:55:24.000Z</updated>
+        <summary type="html"><![CDATA[image captionDr Rajendra Bharud, district collector for Nandurbar, has been praised for his efforts in tacking the second wave
+
+As India's cities and towns struggled to keep Covid patients breathing amid a severe oxygen shortage, one rural district managed to avoid the crisis, BBC Marathi's Mayank Bhagwat and Janhavee Moole report. 
+
+
+"There's a pattern in the pandemic and it's important to understand it," says Rajendra Bharud, the collector, or senior administrator, in Nandurbar district in India's western…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月22日，河北省安委办、省应急管理厅召开全省矿山“防风险、除隐患、保安全”安全生产大排查大整治行动推进会。会议指出，省委、省政府高度重视安全生产大排查...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978456</id>
+        <link href="https://wallstreetcn.com/livenews/1978456"/>
+        <updated>2021-05-22T23:51:58.000Z</updated>
+        <summary type="html"><![CDATA[5月22日，河北省安委办、省应急管理厅召开全省矿山“防风险、除隐患、保安全”安全生产大排查大整治行动推进会。会议指出，省委、省政府高度重视安全生产大排查大整治行动。各地各部门要深入推进矿山安全生产工作，全面排查整治消除矿山各类问题隐患，确保5月底前实现存量隐患整治到位、增量隐患动态清零，坚决遏制矿山安全事故。（河北日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
