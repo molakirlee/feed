@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T22:15:29.244Z</updated>
+    <updated>2021-05-24T00:52:15.709Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -27,6 +27,36 @@
 [视频]国际联播快讯 ⏱00:02:25]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周策略前瞻：分析师集体看多，风格将重回成长？]]></title>
+        <id>3631027</id>
+        <link href="https://wallstreetcn.com/articles/3631027"/>
+        <updated>2021-05-23T23:37:57.000Z</updated>
+        <summary type="html"><![CDATA[国泰君安直接喊出：震荡不长久，挑战四千点。]]></summary>
+        <author>
+            <name>申思琦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年5月24日]]></title>
+        <id>3631032</id>
+        <link href="https://wallstreetcn.com/articles/3631032"/>
+        <updated>2021-05-23T23:05:21.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新西兰一季度零售销售季环比 2.5%，预期 -1.8%，前值 -2.7%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978519</id>
+        <link href="https://wallstreetcn.com/livenews/1978519"/>
+        <updated>2021-05-23T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[新西兰一季度零售销售季环比 2.5%，预期 -1.8%，前值 -2.7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
