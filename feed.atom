@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T18:38:54.879Z</updated>
+    <updated>2021-05-24T20:17:25.274Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -29,6 +29,113 @@
 [视频]意大利北部发生缆车事故 14人死亡 ⏱00:00:30]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧金山区块链初创公司Chia Network Inc.通过新一轮融资获得大约5亿美元估值，该公司考虑IPO。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979216</id>
+        <link href="https://wallstreetcn.com/livenews/1979216"/>
+        <updated>2021-05-24T18:45:48.000Z</updated>
+        <summary type="html"><![CDATA[旧金山区块链初创公司Chia Network Inc.通过新一轮融资获得大约5亿美元估值，该公司考虑IPO。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月24日，阿联酋“希望号”火星任务项目经理奥姆兰·沙拉夫（Omran Sharaf）表示：“在‘希望号’火星探测器成功抵达火星，近乎完美地进入火星轨道，并从捕获轨...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979215</id>
+        <link href="https://wallstreetcn.com/livenews/1979215"/>
+        <updated>2021-05-24T18:43:35.000Z</updated>
+        <summary type="html"><![CDATA[5月24日，阿联酋“希望号”火星任务项目经理奥姆兰·沙拉夫（Omran Sharaf）表示：“在‘希望号’火星探测器成功抵达火星，近乎完美地进入火星轨道，并从捕获轨道过渡到科学轨道之后，我们已经完成了调试、校准和测试阶段。我很高兴能够报告‘希望号’火星探测器已经准备好开始其为期两年的科学（探测）任务。”下一步，“希望号”将正式开始对火星的大气进行一个完整火星年。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纳斯达克100指数涨幅扩大至超过2%，热门科技股中，推特涨约5.0%，特斯拉涨超4.9%，Facebook涨超3.0%，微软涨约2.4%，苹果涨超1.9%，Zoom涨约1.9%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979214</id>
+        <link href="https://wallstreetcn.com/livenews/1979214"/>
+        <updated>2021-05-24T18:36:46.000Z</updated>
+        <summary type="html"><![CDATA[纳斯达克100指数涨幅扩大至超过2%，热门科技股中，推特涨约5.0%，特斯拉涨超4.9%，Facebook涨超3.0%，微软涨约2.4%，苹果涨超1.9%，Zoom涨约1.9%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊接近达成收购米高梅（MGM）的协议，交易价值大约90亿美元。（华尔街日报）]]></title>
+        <id>https://wallstreetcn.com/livenews/1979213</id>
+        <link href="https://wallstreetcn.com/livenews/1979213"/>
+        <updated>2021-05-24T18:33:59.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊接近达成收购米高梅（MGM）的协议，交易价值大约90亿美元。（华尔街日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTI 7月原油期货收涨2.47美元，涨幅3.88%，报66.05美元/桶。
+布伦特7月原油期货收2.02美元，涨幅3.04%，报68.46美元/桶。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979211</id>
+        <link href="https://wallstreetcn.com/livenews/1979211"/>
+        <updated>2021-05-24T18:31:31.000Z</updated>
+        <summary type="html"><![CDATA[WTI 7月原油期货收涨2.47美元，涨幅3.88%，报66.05美元/桶。
+布伦特7月原油期货收2.02美元，涨幅3.04%，报68.46美元/桶。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上期所原油期货2107合约夜盘收涨3.19%，报423.30元人民币/桶。
+沪金夜盘收跌0.22%，沪银收涨0.42%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979210</id>
+        <link href="https://wallstreetcn.com/livenews/1979210"/>
+        <updated>2021-05-24T18:30:45.000Z</updated>
+        <summary type="html"><![CDATA[上期所原油期货2107合约夜盘收涨3.19%，报423.30元人民币/桶。
+沪金夜盘收跌0.22%，沪银收涨0.42%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛爾蘭瑞安航空被白俄羅斯攔截時序圖]]></title>
+        <id>https://www.voacantonese.com/a/cantonese-ryanair-fr4978-flight-athens-to-vilnius-deverted-to-belarus-20210524-ry/5902491.html</id>
+        <link href="https://www.voacantonese.com/a/cantonese-ryanair-fr4978-flight-athens-to-vilnius-deverted-to-belarus-20210524-ry/5902491.html"/>
+        <updated>2021-05-24T18:30:25.000Z</updated>
+        <summary type="html"><![CDATA[華盛頓 — 
+愛爾蘭瑞安航空公司(Ryan Air)編號FR4978客機在星期日（5月23日）當地時間早上7時29分從雅典起飛，原定飛往立陶宛首都維爾紐斯。
+客機在早上9時46分於白俄羅斯上空遇到白俄空軍攔截，聲稱接獲炸彈警告並要求客機改變飛行航線。該架客機在當地時間早上10時16分在明斯克機場降落，當局逮捕了乘坐該客機的白俄羅斯記者拉曼·普拉塔塞維奇。
+這架客機之後再次起飛，並於週日下午6時26分飛抵立陶宛首都維爾紐斯。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储理事高呼数字美元好处多 警告私人加密货币有洗钱等多种风险]]></title>
+        <id>3631139</id>
+        <link href="https://wallstreetcn.com/articles/3631139"/>
+        <updated>2021-05-24T18:21:42.000Z</updated>
+        <summary type="html"><![CDATA[美联储理事Brainard称，私人货币可能产生对手方风险，威胁消费者保护，或者制造大范围的金融稳定风险，而央行发行的数字美元将减少对手方风险，以及消费者保护和金融稳定的风险。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西5月份前15个工作日铁矿石交货量为128万吨/日。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979209</id>
+        <link href="https://wallstreetcn.com/livenews/1979209"/>
+        <updated>2021-05-24T18:17:27.000Z</updated>
+        <summary type="html"><![CDATA[巴西5月份前15个工作日铁矿石交货量为128万吨/日。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉涨幅扩大至超过5%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979208</id>
+        <link href="https://wallstreetcn.com/livenews/1979208"/>
+        <updated>2021-05-24T18:16:38.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉涨幅扩大至超过5%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +176,57 @@
         <summary type="html"><![CDATA[COMEX 6月黄金期货收涨0.4%，报1884.50美元/盎司。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Kuala Lumpur metro train crash injures more than 200 passengers]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-57223715</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-57223715"/>
+        <updated>2021-05-24T17:52:02.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightEPA
+image captionThe crash happened near the busy KLCC station, in front of the Petronas Towers
+
+More than 200 people have been injured in a train crash in the Malaysian capital Kuala Lumpur.
+
+
+A metro train carrying 213 passengers collided with an empty one in a tunnel near the Petronas Towers, at about 20:45 (12:45 GMT), police said.
+
+
+The empty train had just been repaired, and was going in the opposite direction on the same track as the full one.
+
+
+District police chief Mohamad Zainal Abdullah told reporters there was no sign of foul play.
+
+
+
+Country profile
+
+
+
+"We are still investigating the incident... but we suspect that perhaps there was a miscommunication from the trains' operation control centre," he said.
+
+
+Of the 213 injured, 47 people are in a serious condition while the other 166 have sustained minor injuries, he added.
+
+
+Images and footage posted on social media in the hours after the incident showed bleeding passengers lying on the floor of the train carriage, which was covered in broken glass.
+
+
+image copyrightEPA
+image captionPrime Minister Muhyiddin Yassin has ordered an investigation into the incident
+
+In a statement posted on Facebook, Malaysian Prime Minister Muhyiddin Yassin said the crash, which happened near the city's busy KLCC station, was "serious".
+
+
+He added that he had asked the train operator Prasarana Malaysia Berhad and the country's transport minister "to conduct an in-depth probe to find out the cause of the accident".
+
+
+Transport Minister Wee Ka Siong said in a separate statement that the crash was the metro system's first major accident in the 23 years it had been operating.
+
+
+He also pledged to conduct a full investigation.]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
         </author>
     </entry>
     <entry>
@@ -780,6 +938,16 @@ image captionVishal Kedar (L) and A…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[再造一个“头部私募”？淡水泉海外大爆发，规模逼近500亿，桥水元盛背景人物坐阵]]></title>
+        <id>3631135</id>
+        <link href="https://wallstreetcn.com/articles/3631135"/>
+        <updated>2021-05-24T14:51:39.000Z</updated>
+        <summary type="html"><![CDATA[中国私募行业的蓝海]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美光科技涨超2%，英特尔涨超1%；此前《电子时报》预测内存价格将在二季度出现两位数百分百增长。]]></title>
         <id>https://wallstreetcn.com/livenews/1979143</id>
         <link href="https://wallstreetcn.com/livenews/1979143"/>
@@ -1363,6 +1531,16 @@ A SpiceJet spokesperson told the Indian Express that the Boeing…]]></summary>
 任何CBDC的设计都应该是货币和银行账户的补充，而不是取代。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VR/AR的基础设施！三大运营商正激进布局，行业增速超30%；性能更强利润率更高的高分子防水，国内渗透率提升有望加速，这些公司扩产最快——0524脱水研报]]></title>
+        <id>3631123</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631123?layout=wscn-layout"/>
+        <updated>2021-05-24T13:01:28.000Z</updated>
+        <summary type="html"><![CDATA[VR/AR的基础设施！三大运营商正加码布局，行业增速超30%；云南限电供给收缩，黄磷企业开工率下降，产品报价大幅调涨。]]></summary>
+        <author>
+            <name>脱水研报</name>
         </author>
     </entry>
     <entry>
