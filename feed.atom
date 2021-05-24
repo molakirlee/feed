@@ -2,10 +2,755 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T10:20:39.353Z</updated>
+    <updated>2021-05-24T12:24:25.686Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天問一號成功登陸火星 美中進入新一輪太空競賽]]></title>
+        <id>https://www.voacantonese.com/a/hll-China-begins-its-Mars-probe-entering-a-new-space-race-with-US-20210524-ry/5902014.html</id>
+        <link href="https://www.voacantonese.com/a/hll-China-begins-its-Mars-probe-entering-a-new-space-race-with-US-20210524-ry/5902014.html"/>
+        <updated>2021-05-24T11:41:13.000Z</updated>
+        <summary type="html"><![CDATA[北京街頭一家商場的大屏幕正在播放中國官媒報導中國火星探測器天問一號成功登陸火星的視頻。 （2021年5月15日） 
+
+
+
+台北 — 
+
+
+隨著天問一號成功登陸火星，中國自2016年以來籌劃的火星探測任務已經逐步跨過各個階段的關卡：包括去年7月長征五號火箭發射升空，成功將所搭載的天問一號探測器送入太空。之後，天問一號經大半年的飛行，於今年2月順利進入火星軌道環繞。
+接著，天問一號於5月15日進入火星的大氣層，並於七分鐘內，將其航行速度從時速約2萬公里煞車減速到零，以順利軟著陸在火星的烏托邦平原。當時，因為天問一號的訊號需時18分鐘才能傳回3億公里遠的地球，所以，工程師無法在這七分鐘內即時操控，必須由登陸航行器自主降落，也因此，這登陸過程被視為“恐怖的七分鐘”。
+天問一號登陸後，其環繞器於5月17日進入中繼通信軌道，為火星車祝融號建立穩定的中繼通信鏈路，並於5月19日成功傳回第一張火星照片。而火星車祝融號則於週六(5月22日)順利駛出登陸器，未來3個月，要在地表移動進行五大探勘任務，包括，火星形貌與地質構造特徵、地表土壤特徵與水冰分佈、地表物質組成、火星大氣電離層及表面氣候與環境特徵、火星物理場與內部結構等。
+至此，中國已經達成“繞、落、巡”三步一塊走的前兩步。
+落後美國45年
+據美國太空總署(NASA)轄下噴射推進實驗室(JPL)的工程師劉登凱表示，中國目前相當於達到了美國海盜號(Viking)於1975年定點登陸火星的成就，這代表中國航天技術的一大躍進，也是一個重要的開端。但相較於美國，還是整整落後了45年。
+劉登凱提出，中國並非完全從零開始自主研發火星登陸技術。他對美國之音說：“對中國來講，這應當是一個大的突破。但是，我不覺得它沒有拿到美國的一些數據，因為像Viking(海盜號)的話，它這數據很多是公開的，軌道(數據)是公開的......第二個的話，美國下降成功真的是在1…]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯央行总裁纳比乌里娜(Elvira Nabiullina)表示，俄央行看到存在数字化本币的需求，计划在2022年开始测试数字卢布。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979040</id>
+        <link href="https://wallstreetcn.com/livenews/1979040"/>
+        <updated>2021-05-24T11:32:03.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯央行总裁纳比乌里娜(Elvira Nabiullina)表示，俄央行看到存在数字化本币的需求，计划在2022年开始测试数字卢布。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年5月24日，中国人民银行行长易纲与中国银行业协会外资银行代表团座谈，就外资银行在华展业情况及其提出的相关建议进行了交流。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979039</id>
+        <link href="https://wallstreetcn.com/livenews/1979039"/>
+        <updated>2021-05-24T11:29:01.000Z</updated>
+        <summary type="html"><![CDATA[2021年5月24日，中国人民银行行长易纲与中国银行业协会外资银行代表团座谈，就外资银行在华展业情况及其提出的相关建议进行了交流。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首钢股份公告，公司24日与腾讯云计算（北京）有限责任公司签署《战略合作协议》。此次协议签署，有助于公司建设数字经济基础设施及工业互联网，有助于推动云计算...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979037</id>
+        <link href="https://wallstreetcn.com/livenews/1979037"/>
+        <updated>2021-05-24T11:27:29.000Z</updated>
+        <summary type="html"><![CDATA[首钢股份公告，公司24日与腾讯云计算（北京）有限责任公司签署《战略合作协议》。此次协议签署，有助于公司建设数字经济基础设施及工业互联网，有助于推动云计算、大数据、区块链、产业金融等技术在公司及上下游产业链相关业务落地。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个世纪以来国际企业税最大调整！G7接近就跨国企业征税规则达成协议]]></title>
+        <id>3631088</id>
+        <link href="https://wallstreetcn.com/articles/3631088"/>
+        <updated>2021-05-24T11:20:03.000Z</updated>
+        <summary type="html"><![CDATA[金融时报报道称，G7协议最早将于周五达成，随后将在经合组织层面推进谈判；如果最终达成协议，将是一个世纪以来国际企业税收方面的最大调整。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本央行行长黑田东彦：疫情的影响是不均衡的、且反复，不平等问题、气候风险给决策者带来挑战。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979034</id>
+        <link href="https://wallstreetcn.com/livenews/1979034"/>
+        <updated>2021-05-24T11:18:51.000Z</updated>
+        <summary type="html"><![CDATA[日本央行行长黑田东彦：疫情的影响是不均衡的、且反复，不平等问题、气候风险给决策者带来挑战。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东吴全球首席陈李：下半年优质股票贡献或不明显, 看好中游制造业]]></title>
+        <id>3631111</id>
+        <link href="https://wallstreetcn.com/articles/3631111"/>
+        <updated>2021-05-24T11:15:53.000Z</updated>
+        <summary type="html"><![CDATA[PPI环比高点应该已经过去]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美韓“洪水級”千億投資潮 或將淹沒中國芯片自主路]]></title>
+        <id>https://www.voacantonese.com/a/global-chip-race-20210524/5902003.html</id>
+        <link href="https://www.voacantonese.com/a/global-chip-race-20210524/5902003.html"/>
+        <updated>2021-05-24T11:14:53.000Z</updated>
+        <summary type="html"><![CDATA[美國總統拜登和韓國總統文在寅2021年5月21日在白宮會談後舉行共同記者會。
+
+
+
+華盛頓 — 
+
+數字科技革命正在將半導體芯片產業推向一個“超級週期”，與此同時，新冠疫情凸顯了芯片產業鏈的戰略安全意義。半導體技術研發實力雄厚的美國，也希望提高本土的芯片生產能力。美國、南韓等國家紛紛計劃在此領域投入千億美元，中國的芯片強國路可能在激烈的全球競爭下越走越窄。
+美韓各提芯片製造激勵計劃
+南韓總統文在寅上星期訪美引起關注的議題之一是美韓兩國在芯片製造方面的競爭與合作。美韓首腦在白宮峰會後宣布，兩國同意共同努力增加汽車使用的傳統芯片的全球供應，並通過促進增加相互投資和研發合作，支持兩國的先進半導體製造業。
+白宮在一份聲明中說：“隨著技術領域的日新月異，我們同意加強在關鍵和新興技術方面的伙伴關係，以促進我們的共同安全與繁榮。”
+白宮說，美韓兩國將促進對半導體（包括先進芯片和汽車級芯片）和高容量電池的相互和互補投資，並承諾在這些關鍵產品的材料、零件和設備的整個供應鏈上進行相互和補充投資，以擴大生產能力。
+南韓總統府5月21日在總統文在寅訪美期間表示，南韓已要求美國提供減稅、支持穩定的水電供應等激勵措施，以支持包括三星電子等南韓企業在美國的芯片建廠投資。
+據路透社報導，青瓦台方面確認，三星已經計劃投資177億美元在美國德克薩斯州奧斯汀興建一座新的芯片代工廠。
+此次峰會前，美韓兩國已經先後發力，希望通過政府直接投資和對私營企業的優惠措施，提高各自在半導體芯片製造領域的能力。
+拜登行政當局和美國國會目前正在推動的公共投資立法擬定的半導體投資規模超過千億美元。南韓政府方面5月13日宣布計劃，在2030年以前投資約4500億美元，要打造全球最大的芯片製造產業中心。
+南韓的半導體投資計劃將主要由私企占主導。南韓政府計劃以撥款、減免稅賦和支持基礎設施的方式對私營企業提供政策支持。在南韓企業中，三星電…]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[報道：情報揭示武漢病毒研究所研究人員患病細節]]></title>
+        <id>https://www.voacantonese.com/a/us-intelligence-wuhan-lab-20210524/5901996.html</id>
+        <link href="https://www.voacantonese.com/a/us-intelligence-wuhan-lab-20210524/5901996.html"/>
+        <updated>2021-05-24T11:13:07.000Z</updated>
+        <summary type="html"><![CDATA[中國科學院武漢病毒研究所大樓 (網絡照片 )
+
+
+
+美國華爾街日報星期天（2021年5月23日）報道，熟悉一份情報的美國現任和前任官員說，在中國當局聲稱首位病人感染新冠病毒的時間點之前的幾個星期，武漢病毒研究所三名研究人員2019年11月患病並到醫院就醫。這份情報可能會進一步加強人們要求調查新冠病毒是否從武漢病毒研究所洩漏的呼聲。
+世界衛生組織的決策機構即將召開會議，預計將討論新冠病毒起源調查的下一步行動。
+華爾街日報引述的這份情報比此前美國政府公佈的一份報告更加詳細。美國前特朗普政府國務院今年1月15日公佈的一份“事實報告”說，武漢病毒研究所幾位研究人員2019年秋天患病，症狀與新冠肺炎和普通季節性疾病相符合。
+不過，現任和前任官員對有關情報所基於的證據的充分程度持有不同看法。
+許多病毒學專家認為，2019年11月大約就是新冠病毒最初在武漢傳播的時間點。北京稱，首個證實的新冠病例發生在12月8日，並一再否認病毒來自武漢病毒研究所，但一直不允許該研究所與世衛組織的調查人員和國際專家分享其冠狀病毒研究的原始數據和實驗室記錄。
+中國外交部星期天在回應華爾街日報查詢時說，“美國繼續炒作病毒從實驗室漏出的理論。它是真正關心病毒的起源還是企圖分散注意力？”
+迄今為止，美國拜登政府還沒有對前特朗普政府國務院今年1月的“事實報告”提出異議。白宮國家安全委員會一位發言人說，“我們繼續對新冠大流行最初的情況存有嚴重的疑問，包括病毒在中國的起源。”]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣疫情嚴峻 金門另設防疫規定 台北稱違法]]></title>
+        <id>https://www.voacantonese.com/a/taipei-voids-kinmen-covid-measure-20210524/5901991.html</id>
+        <link href="https://www.voacantonese.com/a/taipei-voids-kinmen-covid-measure-20210524/5901991.html"/>
+        <updated>2021-05-24T11:09:40.000Z</updated>
+        <summary type="html"><![CDATA[台灣的金門獅嶼與中國大陸的廈門只有幾公里之遙（路透社資料照）
+
+
+
+台灣中央政府星期一（2021年5月24日）宣布，金門縣政府一天前頒布的一項新冠防疫措施違法。一名反對黨立法委員說，金門的醫療資源有限，需要有特殊的防疫措施。
+金門縣政府星期天頒布的公告說，從星期一開始，乘飛機抵達金門的旅客必須提供三日內新冠肺炎檢測陰性報告，否則需在機場內接受檢查，檢查結果呈陽性者立即由救護車送往金門醫院就醫。縣政府表示，頒布此規定的依據是傳染病防治法第37條第1項第6款。
+不過，在金門縣政府發表這份公告的幾個小時後，台灣中央流行疫情指揮中心發出新聞稿，稱金門縣政府未遵照法律程序正式申報有關防疫措施，因此依法撤銷這項措施。指揮中心的聲明說，對跨縣市人員移動採取管制行動，或強制性對民眾作出檢疫規定，屬於全台灣一致性的重要政策，應該以中心指揮官的指示辦理。
+中央流行疫情指揮中心補充說，為避免各自為政、造成混亂和影響整體防疫工作，為了維護法制，中心不得不撤銷金門縣政府的違法公告。
+不過，截止當地時間星期一下午，這份公告依然刊登在金門縣政府機關報《金門日報》上。
+金門與中國大陸只有幾公里之遙，長期以來一直由目前為台灣第一大反對黨的國民黨掌握政權。來自金門的國民黨籍立法委員陳玉珍說，中央政府沒有理由不支持金門縣政府公佈的防疫新措施。
+台灣目前累計有4300多個新冠肺炎案例，其中大部分是在5月15日以來發生的。目前全台灣只有台東縣和金門等三個離島縣沒有出現本地傳播的新冠肺炎病例。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國甘肅山地馬拉松遇極端天氣至少21人喪生 主辦方缺乏應急預案引發公眾憤怒]]></title>
+        <id>https://www.voacantonese.com/a/cold-weather-in-china-kills-21-in-ultramarathon-sparks-outrage-20210523/5901989.html</id>
+        <link href="https://www.voacantonese.com/a/cold-weather-in-china-kills-21-in-ultramarathon-sparks-outrage-20210523/5901989.html"/>
+        <updated>2021-05-24T11:05:10.000Z</updated>
+        <summary type="html"><![CDATA[救援人員正在搜救甘肅山地馬拉松賽失踪者。 （路透社 2021年5月22日）
+
+
+
+在中國甘肅省舉辦的山地馬拉松（簡稱山馬）比賽過程中突遇極端天氣，造成至少21人喪生。賽事組委應急預案缺失引發公眾憤怒。
+這場山馬星期六（5月22日）在甘肅白銀市景泰縣的黃河石林景區內舉行。參賽人員上午9點開跑，共有近萬人參加比賽和健康跑，其中172名參賽人員參加了百公里越野賽。
+據黃河石林地區社交媒體賬號發布的照片，當時是多雲天氣，跑者身穿T恤和短褲。
+白銀市官員在星期天（5月23日）的發布會上表示，星期六中午1點左右在高海拔賽段天氣突變，出現冰雹、凍雨、大風等災害性天氣，氣溫驟降，參賽人員出現身體不適、失溫等情況，部分參賽人員失聯。
+除寒風外，景泰縣週六的最低氣溫為6攝氏度(43華氏度)。
+據路透社報道，參賽者 Mao Shuzhi 說，當他從起點跑出大約24公里時，雨下得越來越大，氣溫很低。由於以前他遭遇過氣溫驟降給身體帶來的不適，他當即決定退賽。他說，他很幸運做出了這個決定。
+據中國官方媒體報道，在熱成像無人機、雷達探測器和拆除設備的協助下，官方啟動了大規模救援行動，並派出了1200多名救援人員。
+截至星期天，參加百公里越野賽的172人中151人被確認安全，21人遇難。
+中國氣象局週五晚間發出預報，週五晚間至週六，包括景泰在內的白銀市預計將有中到大風。
+甘肅省氣象局網站星期四預報，截至週日，包括白銀市在內的甘肅大部分地區的氣溫將“顯著”下降。
+Mao Shuzhi 告訴路透，比賽前一天天氣非常熱，雖然天氣預報說白銀市週六會有風和中雨，但每個人都認為會是溫和的。
+發生在白銀市的山地馬拉松悲劇引發了公眾對主辦方缺乏應急計劃的質疑和不滿。
+他們質問主辦方“為什麼不看天氣預報，做風險評估” ？有網友認為，“這完全是一場人禍”。這位網友問，即使天氣變化無常，應急預案在哪裡？
+中國官媒報道，在星期天的新聞發布會上，白銀市官員鞠躬道歉，稱他們對參賽者的悲慘死亡感到悲痛，他們應該受到指責。
+據百公里山地越野賽的參與者在Mao Shuzhi的微信聊天群裡說，風太大，他們的保暖毯都被撕成碎片。氣溫驟降讓許多跑者患上體溫過低，在大風和暴雨中迷路。還有幾個人昏迷，口吐白沫。
+中國黨媒“人民日報”報道，甘肅省政府已成立調查組，進一步調查遇難者死因。
+中國近些年挑戰極限賽升溫，但不時暴露出問題。比如，部分賽事在線路和難度的設置上，缺乏科學評估，造成安全隱患。
+台灣中央社根據參賽者描述報導，出現極端天氣的路程也是最艱難的路段，很多路段都非常陡，選手需要手腳並用往上爬，連摩托車和越野車都上不去。
+（本文包含了路透社的報導）]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中核钛白：拟定增募资不超过70.91亿元，用于循环化钛白粉深加工项目、水溶性磷酸一铵（水溶肥）资源循环项目、年产50万吨磷酸铁项目和补充流动资金。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979028</id>
+        <link href="https://wallstreetcn.com/livenews/1979028"/>
+        <updated>2021-05-24T11:03:50.000Z</updated>
+        <summary type="html"><![CDATA[中核钛白：拟定增募资不超过70.91亿元，用于循环化钛白粉深加工项目、水溶性磷酸一铵（水溶肥）资源循环项目、年产50万吨磷酸铁项目和补充流动资金。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝壳宣布，公司联合创始人、首席执行官及执行董事彭永东接替左晖担任贝壳董事长一职，并任命贝壳首席运营官徐万刚为贝壳执行董事。同时，贝壳宣布左晖为公司“永...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979024</id>
+        <link href="https://wallstreetcn.com/livenews/1979024"/>
+        <updated>2021-05-24T11:01:22.000Z</updated>
+        <summary type="html"><![CDATA[贝壳宣布，公司联合创始人、首席执行官及执行董事彭永东接替左晖担任贝壳董事长一职，并任命贝壳首席运营官徐万刚为贝壳执行董事。同时，贝壳宣布左晖为公司“永远的荣誉董事长”，以此纪念其作出的巨大贡献和留下的宝贵精神遗产。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塔利班發動襲擊威脅阿富汗省會]]></title>
+        <id>https://www.voacantonese.com/a/taliban-attack-threatens-afghan-provincial-capital/5901987.html</id>
+        <link href="https://www.voacantonese.com/a/taliban-attack-threatens-afghan-provincial-capital/5901987.html"/>
+        <updated>2021-05-24T11:00:49.000Z</updated>
+        <summary type="html"><![CDATA[資料照片：阿富汗安全部隊抵達一處汽車炸彈的爆炸現場。
+
+
+
+阿富汗當局星期天說，隨著以美國為首的外國軍隊繼續從阿富汗撤出，國家安全部隊與塔利班叛亂分子展開激戰，以防止他們佔領阿富汗東部一個省會中心。
+塔利班當天早些時候佔領了拉格曼省周圍的重要安全前哨基地，隨後逼近陷入困境的拉格曼省首府邁赫塔勒姆。叛亂分子最近在該省攻佔了重要的戰略要地，星期五奪取了達瓦特沙阿地區的控制權，這為襲擊邁赫塔勒姆鋪平了道路。
+美國國防部週日晚間證實，阿富汗陸軍總司令穆罕默德·亞辛·齊亞（Mohammad Yasin Zia）與其他高級安全官員一起抵達拉格曼，並領導反塔利班行動。
+據當地居民和安全機關的消息來源報告說，在主要省監獄附近和邁赫塔勒姆部分地區發生了激烈的戰鬥。據報道，雙方都有人員傷亡，但目前還沒有任何細節。
+阿富汗媒體報導說，巴格蘭省北部多個地區及其省會普勒庫姆裡周圍也發生激烈戰鬥。
+5月1日，美國和北約盟國開始從阿富汗撤出最後一批剩餘部隊後，阿富汗多個省份的暴力活動升級。
+此後，塔利班在戰場上取得進展，威脅了幾個省會，並佔領了四個地區，其中兩個地區位於距離阿富汗首都喀布爾70公里的一個省。
+據報道，自本月初以來，雙方數百名戰鬥人員和阿富汗平民被打死。
+阿富汗政府和塔利班在本月早些時候舉行的為期三天的穆斯林開齋節期間遵守了臨時停火協議，隨後恢復了戰場攻擊。
+美國官員駁斥了一些人的擔憂，即一旦所有國際部隊撤離阿富汗，阿富汗軍隊將無法長期抵抗塔利班，叛亂分子將在喀布爾重新奪回政權。
+阿富汗陸軍和空軍在打擊塔利班的戰鬥中，在裝備維修、訓練和戰場空中支援方面嚴重依賴美國。
+華盛頓加強了外交努力，試圖說服阿富汗交戰雙方緊急談判一項和平安排，以結束阿富汗的長期戰爭。
+但去年9月在卡塔爾開始的所謂阿富汗內部談判進展緩慢，未能取得任何突破。雙方都指責對方使用拖延戰術阻撓和平進程。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3个月期美元LIBOR下降0.6个基点，至纪录新低0.14088%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979021</id>
+        <link href="https://wallstreetcn.com/livenews/1979021"/>
+        <updated>2021-05-24T10:58:13.000Z</updated>
+        <summary type="html"><![CDATA[3个月期美元LIBOR下降0.6个基点，至纪录新低0.14088%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列-哈馬斯停火持續第三天 布林肯將前往巴以地區]]></title>
+        <id>https://www.voacantonese.com/a/israel-hamas-cease-fire-holds-for-third-day/5901985.html</id>
+        <link href="https://www.voacantonese.com/a/israel-hamas-cease-fire-holds-for-third-day/5901985.html"/>
+        <updated>2021-05-24T10:57:09.000Z</updated>
+        <summary type="html"><![CDATA[一對巴勒斯坦兒童在被摧毀的住房前。
+
+
+
+儘管加沙當局和國際衛生機構緊急救治1900名在以色列空襲中受傷的人，但以色列-哈馬斯停火協議週日仍持續到了第三天。
+在耶路撒冷，以色列警方允許猶太遊客進入阿克薩清真寺大院內一個有爭議的聖地，該聖地受到猶太人和穆斯林的敬拜。阿克薩的衝突是引發以色列和哈馬斯激進分子在加沙11天越境襲擊的事件之一。
+該地區自2014年以來最嚴重的戰鬥導致加沙248人死亡，以色列13人死亡，以色列的鐵穹防空系統擊落了許多從加沙發射的火箭彈。
+隨著衝突的立即停止，美國國務卿布林肯星期天說，美國認為是時候達成一項解決方案，給予“以色列人和巴勒斯坦人平等的權利措施”
+他對美國廣播公司的“本週”節目說，巴勒斯坦人需要“感受到在巴勒斯坦國安全和尊嚴地生活的希望”。他說，美國總統拜登“仍然致力於兩個國家的解決方案”，建立一個獨立的巴勒斯坦國，但他承認這“不一定今天就能實現。”
+布林肯本週前往該地區，他指責哈馬斯武裝分子對最近的戰鬥負責，他說，“哈馬斯給巴勒斯坦人民帶來的只是毀滅。”
+以色列的轟炸摧毀了加沙的許多民用建築，使治療傷者和處理日增的新冠病毒病例變得更加困難。巴勒斯坦人擠進社區中心和地下防空洞以避免暴力導致出現新冠病例。
+紅十字會國際委員會說，他們正在向加沙運送醫療設備和物資，以治療傷者和應對倒塌的基礎設施。加沙的供水量減少了40%，70萬人受到停電的影響。
+巴勒斯坦官員說，重建將耗資數千萬美元。
+聯合國巴勒斯坦領土人道協調員林恩·黑斯廷斯告訴記者，由世界衛生組織和其他機構負責的國際新冠病毒疫苗項目計劃在幾天內將新冠病毒疫苗運送到加沙。目前，只有不到4萬加沙人接種了疫苗，不到人口的2%。
+以色列方面說，他們盡最大努力避免衝突中平民傷亡，並指責哈馬斯發射針對以色列人的火箭彈。
+以色列總理內塔尼亞胡的顧問馬克·雷格夫星期天對福克斯新聞說，以色列的空襲給哈馬斯造成了“沉重打擊”，並表示希望空襲能起到威懾作用。
+一些進步的美國民主黨議員呼籲停止美國向以色列出售武器，包括一批價值7.35億美元的待運武器，他們認為此類武器交易會在該地區引發更多衝突。
+在停火協議達成之前，來自佛蒙特州的聯邦參議員伯尼·桑德斯說：“在美國製造的炸彈摧毀加沙、殺害婦女和兒童的時刻，我們不能不經國會辯論就讓另一次大規模的軍火銷售順利進行。”
+桑德斯說：“我相信，美國必須幫助以色列和巴勒斯坦走向和平與繁榮的未來。” “我們需要認真研究出售這些武器是否真的有助於實現這一目標，還是只是助長了衝突。”
+布林肯說，美國認為應該給予“以色列自衛的手段”，使其免受巴勒斯坦火箭襲擊，但他說，任何軍售都將在“與國會充分磋商”的情況下進行。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港交易所小型美元兑人民币（香港）期货合约自4月推出以来成交量节节上升，今天单日成交量创新高，达11763张。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979020</id>
+        <link href="https://wallstreetcn.com/livenews/1979020"/>
+        <updated>2021-05-24T10:56:51.000Z</updated>
+        <summary type="html"><![CDATA[香港交易所小型美元兑人民币（香港）期货合约自4月推出以来成交量节节上升，今天单日成交量创新高，达11763张。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件显示，碧桂园服务正寻求通过配售股票筹集不超过10亿美元，并寻求发行零息可转换债券筹集38.75亿港元（4.99亿美元）。碧桂园服务正寻求以每股74.25港元至75.5...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979017</id>
+        <link href="https://wallstreetcn.com/livenews/1979017"/>
+        <updated>2021-05-24T10:50:05.000Z</updated>
+        <summary type="html"><![CDATA[文件显示，碧桂园服务正寻求通过配售股票筹集不超过10亿美元，并寻求发行零息可转换债券筹集38.75亿港元（4.99亿美元）。碧桂园服务正寻求以每股74.25港元至75.50港元的价格配售1.045亿股股票。（彭博）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iQOO Neo5 活力版体验：将骁龙 870 卖到 2199 元，一款来自 iQOO 的「水桶机」]]></title>
+        <id>https://www.geekpark.net/news/278685</id>
+        <link href="https://www.geekpark.net/news/278685"/>
+        <updated>2021-05-24T10:48:29.000Z</updated>
+        <summary type="html"><![CDATA[在众多手机品牌中，iQOO 算是「劳模」级别的存在。从 2019 年品牌成立到现在，只用了两年多一点的时间，他们已经拥有了包括数字系列、Z 系列、U 系列以及 Neo 系列等在内的多个产品系列，以致于很多人都忘记了 iQOO 其实只是一个「二年级新生」。
+
+进入到 2021 年，虽然行业面临着芯片短缺的普遍性问题，但 iQOO 的产品更新节奏并没有因此而受到影响。关注极客之选的朋友应该还有印象，两个月前我们曾给大家介绍过搭载了骁龙 870 平台的 iQOO Neo5，这篇的主角是 iQOO Neo5 活力版。
+
+        
+就产品命名而言，iQOO Neo5 活力版属于 iQOO Neo5 的中期衍生机型，不过实际对比下来，二者除了名字相似，其它诸如整体外观设计以及硬件配置参数都有着明显区别。换句话说，iQOO 并没有选择在 Neo5 的基础上去做加减法，而是重新做了一款产品出来。
+
+
+6.57 英寸 144Hz 高刷屏
+最直观的不同之处是正面观感。iQOO Neo5 第一眼看上去其实和早些时候发布的 iQOO 7 比较类似，均采用了居中开孔设计，同时 R 角也相对较小，显得方方正正一些。到了 iQOO Neo5 活力版这里，则改成了右上角开孔，很容易进行区分。
+
+随开孔位置变化一起到来的还有屏幕材质。iQOO Neo5 活力版用的是一块 LCD 屏，上、左、右三个边框宽度都控制的比较理想，下边框宽度属于同价位段产品主流水平，相对 iQOO Neo5 要显得宽那么一丢丢，这也是 LCD 屏不得不接受的地方。
+
+规格参数上，它的屏幕尺寸为 6.57 英寸，分辨率为 2408×1080 像素，覆盖 98% sRGB 色域，支持 DCI-P3 广色域以及 HDR10 显示。另外，iQOO Neo5 活力版的屏幕刷新率来到了 144Hz，提供 60Hz、90Hz、120Hz、…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Myanmar: Aung San Suu Kyi appears in court for first time since military coup]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-57227241</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-57227241"/>
+        <updated>2021-05-24T10:42:33.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightGetty Images
+image captionAung San Suu Kyi's lawyers Min Min Soe (right) and Khin Maung Zaw (left) briefed the media on Monday
+
+Myanmar's former leader Aung San Suu Kyi has appeared in court in person for the first time since her government was overthrown by the military in February. 
+
+
+The hearing, in the capital Naypyidaw, was immediately adjourned. The former leader faces several charges including violating a state secrets law. 
+
+
+Before the hearing, Ms Suu Kyi was allowed to meet her lawyers in person for the first time.
+
+
+She has been held under house arrest for the 16 weeks since she was deposed.
+
+
+image copyrightGetty Images
+
+
+Myanmar's military has accused Ms Suu Kyi's party, the National League for Democracy, of fraud in the general election it won last November.
+
+
+…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陆金所控股宣布，将在未来6个月内回购其不超过3亿美元的美国存托股票。同时，其高级管理人员也将动用个人资金，在期间内购入总计不超过500万美元股票，管理层购...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979015</id>
+        <link href="https://wallstreetcn.com/livenews/1979015"/>
+        <updated>2021-05-24T10:40:37.000Z</updated>
+        <summary type="html"><![CDATA[陆金所控股宣布，将在未来6个月内回购其不超过3亿美元的美国存托股票。同时，其高级管理人员也将动用个人资金，在期间内购入总计不超过500万美元股票，管理层购买的股票将锁定至少6个月。陆金所控股表示，此次股票回购计划体现公司管理层对公司基本面和长期增长的信心；在回购完成后，公司管理团队与股东利益也将更加紧密关联，保持一致。陆金所财报显示，今年一季度其总收入与净利润两项核心指标均实现两位数增长，公司营业总收入达人民币152.51亿元，同比增长16.9%；公司净利润人民币49.69亿元，同比增长18.7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《仁怀市国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要》日前公布。二〇三五年远景目标包括：大力支持茅台集团实施多元化、国际化战略，倾力支持...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979012</id>
+        <link href="https://wallstreetcn.com/livenews/1979012"/>
+        <updated>2021-05-24T10:34:33.000Z</updated>
+        <summary type="html"><![CDATA[《仁怀市国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要》日前公布。二〇三五年远景目标包括：大力支持茅台集团实施多元化、国际化战略，倾力支持茅台集团及其子公司技改扩能，推动“两个10万吨”目标早日实现，助力其成为全省首家“世界500强”企业。全力支持茅台集团继续做大做强，按照“三翻番、双巩固、双打造”计划，到2025年，茅台集团营业收入达到2000亿元。（证券时报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白俄羅斯劫持一架國際航班以逮捕機上異見人士 布林肯：此舉令人震驚]]></title>
+        <id>https://www.voacantonese.com/a/blinken-balarus-flight-diversion-20210524/5901968.html</id>
+        <link href="https://www.voacantonese.com/a/blinken-balarus-flight-diversion-20210524/5901968.html"/>
+        <updated>2021-05-24T10:32:17.000Z</updated>
+        <summary type="html"><![CDATA[愛爾蘭瑞安航空公司一架班機2021年5月23日迫降白俄羅斯明斯克機場（路透社）
+
+
+
+美國國務卿布林肯稱白俄羅斯當局強迫一架民航機改道以逮捕機上一名記者的行為令人震驚，並表示美國正在與歐盟等方面密切協調應對措施。
+愛爾蘭瑞安航空公司一架從希臘首都雅典飛往立陶宛首都維爾紐斯的班機星期天（2021年5月23日）按照正常航線通過白俄羅斯上空時被明斯克當局命令改道飛往明斯克市機場，期間白俄羅斯使用了軍用飛機確保這架客機遵從指令。
+飛機降落後，白俄羅斯當局立即逮捕了機上的一名乘客、反對派活動人士和記者拉曼·普拉塔塞維奇。
+瑞安航空在電郵給自由歐洲電台/自由電台的一份聲明中說，其機組人員在空中曾接到白俄羅斯關於機上存在潛在安全威脅的通知，並“奉命轉往最近的明斯克機場。”
+瑞安航空的聲明說，“飛機在明斯克地面停留大約5小時後，沒有發現任何異常情況，當局批准飛機與乘客和機組人員一起起飛。”
+布林肯在星期天的聲明中說，盧卡申科當局採取的這項令人震驚的舉動威脅到包括美國公民在內的機上120多名乘客的生命安全，並要求國際社會對有關白俄羅斯期間使用軍機的報道導展開全面調查。
+此前，歐洲多個國家對白俄羅斯當局強迫民航班機改飛以逮捕一名異見人士的做法予以譴責。
+歐洲理事會主席米歇爾說，國際民航組織（ICAO）對這一事件展開調查“將是至關重要的。”
+預計，美國和歐盟可能很快會協調一致，對白俄羅斯實施新的制裁。
+中國國家媒體新華社在報道這一事件時只引述白俄羅斯官方媒體的報道，稱這架客機在飛越白俄羅斯領空時發出緊急降落的請求，又說總統盧卡申科下令允許飛機降落，對白俄羅斯強迫該航班降落的說法和當局立即逮捕記者普拉塔塞維奇的報道隻字未提。
+白俄羅斯去年8月的總統大選被廣泛指責出現了嚴重舞弊，並引發了國內民眾的大規模抗議。美國和其他西方國家對繼續掌權的盧卡申科當局實施了制裁，中國則是最早向盧卡申科表達祝賀的國家之一。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为这件「小」事，苹果谷歌亚马逊罕见联手了]]></title>
+        <id>https://www.geekpark.net/news/278718</id>
+        <link href="https://www.geekpark.net/news/278718"/>
+        <updated>2021-05-24T10:30:16.000Z</updated>
+        <summary type="html"><![CDATA[智能家居的「联合国」成立了。
+
+5 月 11 日，有谷歌、苹果、亚马逊三方参与的「连接标准联盟」（CSA），发布了一套全新的智能家居互联标准，Matter。
+Matter 脱胎于 CHIP（基于 IP 的智能互联家居）项目。这一项目的愿景不是要在技术上颠覆智能家居，而是希望解决智能家居通讯协议割裂、平台不互通、体验复杂的问题。2019 年末，项目启动之初，苹果、谷歌、亚马逊就共同宣布加入，并承诺各家平台都会支持 CHIP。
+三家巨头的支持，为 CHIP 竖起了一根足够高的旗帜。所以第一版标准发布时，他们选择将它重新命名为 Matter。这不只是一套协议标准，更是一种「产品认证」。一款智能家居产品支持 Matter，意味着它能接入市面上最主流的三家平台，与绝大多数手机、智能音箱进行互联。
+灯塔被点亮了，智能家居领域似乎正在进入一个新的时代。
+
+
+Matter 是什么？
+Matter 是一套协议，也是一套标准。
+它的前身 CHIP，是「基于 IP 的智能互联家居」的缩写。CHIP 让不同的智能家居设备间，使用 IP 地址作为「身份证」，互相通讯。最终目的是让那些功能各不相同的智能家居，有一套统一的「语言」。
+之所以要有统一的语言，是因为智能家居正在由单独的设备，向「全屋智能」的方向发展。不同设备需要协同工作，并实现一定程度的自动化，需要统一的管理方式。
+这次发布的第一代 Matter 标准，完全基于现有的网络技术开发，包括以太网、Wi-Fi、Thread 以及低功耗蓝牙。通过推行这套标准，Matter 希望提供一套标准化的智能家居体验。从选购、接入，到控制、管理，让智能家居更灵活易用，具有更好的兼容性，使用门槛更低。
+
+          
+Matter 由「连接标准联盟」（CSA）制定推出，它是 Zigbee 联盟与苹果、谷歌、亚马逊三家联合的结果｜CSA
+
+这些特性，技术上…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟要求白俄羅斯解釋飛機改道、拘留記者的問題]]></title>
+        <id>https://www.voacantonese.com/a/eu-demands-belarus-explain-diversion-of-plane-and-detention-of-journalist/5901967.html</id>
+        <link href="https://www.voacantonese.com/a/eu-demands-belarus-explain-diversion-of-plane-and-detention-of-journalist/5901967.html"/>
+        <updated>2021-05-24T10:28:41.000Z</updated>
+        <summary type="html"><![CDATA[資料照片：白俄羅斯警察在明斯克逮捕記者拉曼·普拉塔塞維奇（2017年三月26號）。
+
+
+
+歐盟各國政府要求白俄羅斯立即就一架飛往立陶宛的航班改道明斯克一事作出解釋。白俄羅斯當局在明斯克逮捕了該航班的一名乘客、反對派活動人士和記者拉曼·普拉塔塞維奇。
+立陶宛總統吉塔納斯·瑙塞達說，這架商業航班是“以武力”指揮降落的。波蘭總理莫拉維耶基則稱這一事件是“應受譴責的國家恐怖主義行為”。
+瑙塞達總統猛烈抨擊了普拉塔塞維奇的被捕，並表示國際社會“必須立即採取措施，不再讓類似事件發生”。他最初在推特上對此事做出了反應，隨後路透社援引了他的一份電子郵件聲明。
+波蘭總理莫拉維耶基在推特上說，他已要求歐洲理事會主席在定於5月24日舉行的會議上討論立即制裁白俄羅斯的問題。
+德國外交部一名高級官員米格爾·伯傑（Miguel Berger）也在推特上對普拉塔塞維奇被捕一事作出回應，要求“白俄羅斯政府立即就瑞安航空（Ryan Air）一架航班在歐盟領空內改道明斯克以及一名記者據稱被拘留一事作出解釋”。
+歐洲理事會主席查爾斯·米歇爾對此表示關切，並呼籲白俄羅斯當局釋放該航班及其所有乘客，並補充說，國際民航組織（ICAO）的調查“將是至關重要的。”
+法國外長勒德里安（Jean-Yves Le Drian）說，這一事件需要歐盟做出“強有力和團結一致的”反應。
+普拉塔塞維奇是在這架從雅典飛往維爾紐斯的瑞安航空班機降落在白俄羅斯首都後不久被警方帶走的，此前這架飛機遭到一次看起來是虛假的炸彈威脅。
+據白俄羅斯媒體報道，機上沒有發現炸彈。目前尚不清楚是誰報告了這個炸彈威脅。
+瑞安航空在電郵給自由歐洲電台/自由電台的一份聲明中說，其機組人員接到白俄羅斯關於機上存在潛在安全威脅的通知，並“奉命轉往最近的明斯克機場。”
+聲明說：“飛機安全降落，乘客在地方當局進行安全檢查時下機。” “飛機在明斯克地面停留大約5小時後，沒有發現任何異常情況，當局批准飛機與乘客和機組人員一起起飛。”
+瑞安航空表示，這架飛機預計將於明斯克當地時間下午7時起飛，並已通知相關國家安全和歐洲安全機構。
+據國家通訊社貝爾塔報導，獨裁領導人亞歷山大·盧卡申科親自下令一架戰鬥機為這架載有100多名乘客的瑞安航空客機護航。
+白俄羅斯反對派領導人斯維特拉娜·齊卡努斯卡婭的總部說，當飛行員收到飛機上有炸彈的信息時，該航班靠近立陶宛邊境。它離維爾紐斯機場更近，但卻前往明斯克。
+普拉塔塞維奇是新聞頻道NEXTA Live的主要管理人，該頻道一直在報道白俄羅斯去年8月有爭議的總統選舉後爆發的抗議活動。
+去年11月，白俄羅斯當局宣布，普拉塔塞維奇和同樣是NEXTA Live管理人員的斯西亞潘·普西拉（Stsyapan Putsila）因涉嫌組織大規模騷亂、擾亂社會秩序和煽動社會仇恨而接受調查。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隔夜逆回购激增后，摩根大通称美联储可能调整政策工具]]></title>
+        <id>3631104</id>
+        <link href="https://wallstreetcn.com/articles/3631104"/>
+        <updated>2021-05-24T10:27:19.000Z</updated>
+        <summary type="html"><![CDATA[“下一步，美联储可能提高向银行支付的存款准备金利息或者提高逆回购计划的利率。”]]></summary>
+        <author>
+            <name>巩舒心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钢材涨价有多疯？一天涨价五六次！八大品种全线突破历史高点]]></title>
+        <id>3631106</id>
+        <link href="https://wallstreetcn.com/articles/3631106"/>
+        <updated>2021-05-24T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[五一”节后价格上涨迅猛，钢厂也好，市场也好，经常性一天会出两三次涨价，最高的一天有些地区能涨500块以上。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据Mysteel监测，截至5月24日，全国主要城市20mm三级螺纹钢均价5168元/吨，较4月30日跌87元/吨；4.75mm热卷均价5495元/吨，较4月30日跌253元/吨；20mm中板均价561...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979010</id>
+        <link href="https://wallstreetcn.com/livenews/1979010"/>
+        <updated>2021-05-24T10:25:01.000Z</updated>
+        <summary type="html"><![CDATA[据Mysteel监测，截至5月24日，全国主要城市20mm三级螺纹钢均价5168元/吨，较4月30日跌87元/吨；4.75mm热卷均价5495元/吨，较4月30日跌253元/吨；20mm中板均价5618元/吨，较4月30日跌88元/吨。经过这一轮调整，钢材价格已经基本回吐“五一”以来的涨幅。分析表示，目前低价资源成交有所好转，但市场心态仍偏弱，短期钢价或跌势放缓。（我的钢铁网）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月23日，上海复旦临床病理诊断中心——海南省远程疑难病理会诊平台在海南省肿瘤医院揭牌成立。该会诊平台系全省首个，将为海南患者搭建一个“家门口”的高水准...]]></title>
+        <id>https://wallstreetcn.com/livenews/1979001</id>
+        <link href="https://wallstreetcn.com/livenews/1979001"/>
+        <updated>2021-05-24T10:19:02.000Z</updated>
+        <summary type="html"><![CDATA[5月23日，上海复旦临床病理诊断中心——海南省远程疑难病理会诊平台在海南省肿瘤医院揭牌成立。该会诊平台系全省首个，将为海南患者搭建一个“家门口”的高水准诊断平台，同时将极大提升疑难病理的诊断精准度。未来，依托上海复旦临床病理诊断中心强大的亚专业病理资源，海南远程疑难病理会诊平台可实现病理切片的人工智能实时分析、远程会诊、图像采集等多种功能，也可用于远程会诊及直播教学。（南海网）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗与国际原子能机构的核监控协议将延长。]]></title>
+        <id>https://wallstreetcn.com/livenews/1979000</id>
+        <link href="https://wallstreetcn.com/livenews/1979000"/>
+        <updated>2021-05-24T10:16:38.000Z</updated>
+        <summary type="html"><![CDATA[伊朗与国际原子能机构的核监控协议将延长。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路透调查显示，预计今年美国房价将上涨10.6%，2022年将上涨5.6%(2月份的调查分别为5.7%和4.6%)。35位分析师中，有27位认为，美国房地产市场的前景更倾向于上行。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978998</id>
+        <link href="https://wallstreetcn.com/livenews/1978998"/>
+        <updated>2021-05-24T10:14:41.000Z</updated>
+        <summary type="html"><![CDATA[路透调查显示，预计今年美国房价将上涨10.6%，2022年将上涨5.6%(2月份的调查分别为5.7%和4.6%)。35位分析师中，有27位认为，美国房地产市场的前景更倾向于上行。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[葛红林指出，近期大宗商品价格的大幅上涨严重偏离了产业运营过程中的价格链，有色金属供需面并未发生改变，成本也不支撑该行业出现如此大幅度的价格上涨，资本的...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978997</id>
+        <link href="https://wallstreetcn.com/livenews/1978997"/>
+        <updated>2021-05-24T10:13:42.000Z</updated>
+        <summary type="html"><![CDATA[葛红林指出，近期大宗商品价格的大幅上涨严重偏离了产业运营过程中的价格链，有色金属供需面并未发生改变，成本也不支撑该行业出现如此大幅度的价格上涨，资本的力量和资金的推动，才是此轮上涨的关键。葛红林表示，近期政策层面对大宗商品加强了调控，但有些机构仍希望推高获利，这低估了政策的调控决心和能力。希望行业各企业加强自律，提高站位，树立大局意识，积极履行社会责任，促进上下游行业协调发展，维护行业良好生态；要强化法律意识，依法合规有序经营，带头维护大宗商品市场价格秩序，不得相互串通操纵市场价格、捏造散播涨价信息，不囤积居奇、哄抬价格，共同维护好行业正常市场秩序。（中国有色金属报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[见智铂金日报：燕麦奶第一股挂牌上市，英唐智控整合半导体业务]]></title>
+        <id>3631085</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631085?layout=wscn-layout"/>
+        <updated>2021-05-24T10:11:39.000Z</updated>
+        <summary type="html"><![CDATA[本文为华尔街见闻旗下见智铂金团队近期正在筹备的《见智铂金日报》内容，我们会持续完善。]]></summary>
+        <author>
+            <name>见智君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[此轮数字货币暴跌前夕，有一家大机构精准预判了市场······]]></title>
+        <id>3631100</id>
+        <link href="https://wallstreetcn.com/articles/3631100"/>
+        <updated>2021-05-24T10:04:22.000Z</updated>
+        <summary type="html"><![CDATA[对冲基金One River认为，锁仓的集中释放、高杠杆导致的流动性枯竭，以及交易所大量数字货币的出现，都意味着比特币即将崩盘并进入低迷期。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五月份以来，钢铁价格快速上涨引发多方关注，经常性会出现一天两三次涨价，甚至一天内有五六次涨价，最高的一天有些地区的价格能涨500元以上。上一次价格高点出...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978988</id>
+        <link href="https://wallstreetcn.com/livenews/1978988"/>
+        <updated>2021-05-24T10:03:49.000Z</updated>
+        <summary type="html"><![CDATA[五月份以来，钢铁价格快速上涨引发多方关注，经常性会出现一天两三次涨价，甚至一天内有五六次涨价，最高的一天有些地区的价格能涨500元以上。上一次价格高点出现在2008年，今年已经突破了上次历史的最高点。截至五月中旬，全国钢材市场八大品种的吨钢均价突破了6600元，比2008年最高点6200元高出近400元，比去年同期每吨上涨了2800元，同比增幅75%。与国内钢价同步上涨的还有国际钢价，而且涨幅远高于国内钢价。（央视财经）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Samoa's first female PM locked out of parliament by losing opponent]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-57227240</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-57227240"/>
+        <updated>2021-05-24T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightGetty Images
+image captionFiame Naomi Mata'afa (pictured centre, in white) is sworn in at the makeshift ceremony
+
+Samoa's first female prime minister has been sworn into office in a tent after she was locked out of parliament by her opponent, who has refused to step down.
+
+
+Fiame Naomi Mata'afa took the oath of office in a marquee in the parliament's gardens, leaving uncertainty over who controls the Pacific island nation.
+
+
+Tuilaepa Sailele Malielegaoi, who has been prime minister for 22 years, has ignored a court order to step down.
+
+
+Ms Mata'afa, 64, arrived at parliament on Monday expecting to be sworn in.
+
+
+But the former deputy prime minister, who arrived alongside the country's chief justice, found herself barred from the building, which had been locked by allies of M…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021/05/24 信用债涨幅榜（前十名）]]></title>
+        <id>https://wallstreetcn.com/livenews/1978983</id>
+        <link href="https://wallstreetcn.com/livenews/1978983"/>
+        <updated>2021-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021/05/24 信用债涨幅榜（前十名）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月18日，经济运行调节局组织有关部门、行业协会和重点企业召开座谈会，分析研判4月份行业经济运行情况及上半年走势。相关协会和企业均认为当前经济运行延续着稳...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978979</id>
+        <link href="https://wallstreetcn.com/livenews/1978979"/>
+        <updated>2021-05-24T09:59:43.000Z</updated>
+        <summary type="html"><![CDATA[5月18日，经济运行调节局组织有关部门、行业协会和重点企业召开座谈会，分析研判4月份行业经济运行情况及上半年走势。相关协会和企业均认为当前经济运行延续着稳定恢复势头，工业生产、投资、出口等指标继续较快增长，前期下行压力较大的部分行业开始向好，市场活力和发展动力明显增强。针对当前原材料价格上涨等突出问题，还需采取有效措施应对好各类风险挑战，确保经济平稳健康发展。（证券时报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“猪茅”牧原股份股价今日出现大跌，盘中一度封住跌停。牧原股份相关负责人称公司股价走势是市场行为，目前公司生产经营并未发生特殊变化，近期不断下跌的猪价令...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978978</id>
+        <link href="https://wallstreetcn.com/livenews/1978978"/>
+        <updated>2021-05-24T09:57:55.000Z</updated>
+        <summary type="html"><![CDATA[“猪茅”牧原股份股价今日出现大跌，盘中一度封住跌停。牧原股份相关负责人称公司股价走势是市场行为，目前公司生产经营并未发生特殊变化，近期不断下跌的猪价令行业整体承压。（上证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中金所召开金融期货市场发展座谈会。与会机构表示，目前部分中长期资金已逐步有序参与金融期货市场，风险管理效果初步显现；但与境外成熟市场相比，我国金融期货...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978977</id>
+        <link href="https://wallstreetcn.com/livenews/1978977"/>
+        <updated>2021-05-24T09:57:40.000Z</updated>
+        <summary type="html"><![CDATA[中金所召开金融期货市场发展座谈会。与会机构表示，目前部分中长期资金已逐步有序参与金融期货市场，风险管理效果初步显现；但与境外成熟市场相比，我国金融期货市场中长期资金的参与结构仍需进一步完善。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印尼新增确诊5907例新冠肺炎病例，为5月8日以来单日新增最多。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978976</id>
+        <link href="https://wallstreetcn.com/livenews/1978976"/>
+        <updated>2021-05-24T09:57:19.000Z</updated>
+        <summary type="html"><![CDATA[印尼新增确诊5907例新冠肺炎病例，为5月8日以来单日新增最多。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通：下半年经济增速继续高于趋势水平，且央行可能依旧偏向谨慎，料在年底前驱动股市的下一轮涨势。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978974</id>
+        <link href="https://wallstreetcn.com/livenews/1978974"/>
+        <updated>2021-05-24T09:51:20.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通：下半年经济增速继续高于趋势水平，且央行可能依旧偏向谨慎，料在年底前驱动股市的下一轮涨势。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微盟集团寻求通过股份配售筹资至多2.55亿美元，配售价格为14.86-15.26港元，比今日收盘最大折价超7%。（彭博）]]></title>
+        <id>https://wallstreetcn.com/livenews/1978973</id>
+        <link href="https://wallstreetcn.com/livenews/1978973"/>
+        <updated>2021-05-24T09:48:53.000Z</updated>
+        <summary type="html"><![CDATA[微盟集团寻求通过股份配售筹资至多2.55亿美元，配售价格为14.86-15.26港元，比今日收盘最大折价超7%。（彭博）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳门特区政府统计暨普查局公布的资料显示，今年4月入境澳门旅客有794819人次，按月增加5.3%，按年升幅达71倍。按客源分析，来自中国内地旅客按年增加68.6倍至730...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978972</id>
+        <link href="https://wallstreetcn.com/livenews/1978972"/>
+        <updated>2021-05-24T09:48:05.000Z</updated>
+        <summary type="html"><![CDATA[澳门特区政府统计暨普查局公布的资料显示，今年4月入境澳门旅客有794819人次，按月增加5.3%，按年升幅达71倍。按客源分析，来自中国内地旅客按年增加68.6倍至730934人次，当中“个人游”旅客有300467人次。而来自香港及台湾地区旅客分别有56760人次及7091人次。统计暨普查局指出，4月入境澳门旅客按年升幅激增，主要是由于澳门在去年3月下旬进一步收紧入境防疫措施，令去年4月入境旅客锐减所致。（中新社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安徽农业大学农学院大豆遗传育种团队联合中国农科院作物科学研究所，利用第三代测序技术和代谢组学技术，成功克隆了大豆ms1育性基因。这项研究使我国大豆遗传育...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978970</id>
+        <link href="https://wallstreetcn.com/livenews/1978970"/>
+        <updated>2021-05-24T09:43:51.000Z</updated>
+        <summary type="html"><![CDATA[安徽农业大学农学院大豆遗传育种团队联合中国农科院作物科学研究所，利用第三代测序技术和代谢组学技术，成功克隆了大豆ms1育性基因。这项研究使我国大豆遗传育种领域关于大豆ms1雄性不育遗传机理的探索研究向前迈进了一大步。相关研究成果日前发表于《植物学报（英文版）》。（中国科学报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*ST众泰：持股7.03%的股东长城（德阳）长富投资基金合伙企业拟减持不超过2.03%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978964</id>
+        <link href="https://wallstreetcn.com/livenews/1978964"/>
+        <updated>2021-05-24T09:39:33.000Z</updated>
+        <summary type="html"><![CDATA[*ST众泰：持股7.03%的股东长城（德阳）长富投资基金合伙企业拟减持不超过2.03%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一汽大众2021年二季度生产计划显示，在4月份因ESP芯片短缺减产2万辆的基础上，一汽大众目前额外因10种芯片类资源影响29款车型的生产。今年二季度一汽大众原计划...]]></title>
+        <id>https://wallstreetcn.com/livenews/1978962</id>
+        <link href="https://wallstreetcn.com/livenews/1978962"/>
+        <updated>2021-05-24T09:38:08.000Z</updated>
+        <summary type="html"><![CDATA[一汽大众2021年二季度生产计划显示，在4月份因ESP芯片短缺减产2万辆的基础上，一汽大众目前额外因10种芯片类资源影响29款车型的生产。今年二季度一汽大众原计划生产约61万辆汽车，因芯片短缺，预计二季度只能生产40万辆汽车，减产比例达到30%。（一财）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/66827</id>
+        <link href="https://sspai.com/post/66827"/>
+        <updated>2021-05-24T09:36:05.000Z</updated>
+        <summary type="html"><![CDATA[大家好，本期《派评》的主要内容有：
+
+Notion 开放 API 功能公测。
+谜底时钟推出霓虹灯时钟效果。
+Henry：你的习惯养成陪伴宠物。
+Doodle：在任意手机上使用 Pixel 专属壁纸。
+……
+
+你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。
+值得关注的 App
+我们每天都会接触不少实用、有趣的新 App，也会关注到不少应用的更新动态。「派评」为你筛选这些 App 之后，将最值得关注的应用动态呈现给你。
+Notion：支持 API 和自动化集成
+
+平台：iOS / Android / macOS / Windows / Web
+关键词：API、自动化
+
+@huhuhang：Notion 一直是在线协作类应用中的佼佼者，而 Notion 的用户们也充分发挥自己的创造力，将 Notion 变成了数据库、个人博客等丰富多彩的次生产品。近期，多次跳票的官方 API 终于上线，又一次让 Notion 的 Geek 用户们兴奋起来。
+
+官方提供开放平台是 Notion 生产力的又一次飞跃。在这之前，用户只能通过网页端或者客户端手动创建文档、表格等。而现在，有编程能力的 Notion 用户则可以基于接口来稳定地读取和写入数据。
+当然，一部分用户可能会因为自己不会编程语言，而认为 API 毫无用处。其实并不是这样的，首先不要忘记 iOS 上的快捷指令，作为一款低门槛的类编程应用，简单学习即可掌握通过标准的 HTTP 请求来实现一个从 Notion 中读取数据的小工具。
+
+以使用 Notion 记账为例，我们可以实现一个快捷指令将消费数据记录到 Notion 的表格中。反之，你也可以基于 JSBox、Scriptable 等可编程应用写一个能实时读取 Notion 中的最新数据的 iOS 小组件，将自己的…]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股五张图：累了，题材多到头皮发麻……]]></title>
+        <id>3631101</id>
+        <link href="https://wallstreetcn.com/articles/3631101"/>
+        <updated>2021-05-24T09:35:09.000Z</updated>
+        <summary type="html"><![CDATA[每天都要学一堆新概念。]]></summary>
+        <author>
+            <name>袁佳颖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMC院线盘前涨近2%，万达集团称已全部退出AMC董事会。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978956</id>
+        <link href="https://wallstreetcn.com/livenews/1978956"/>
+        <updated>2021-05-24T09:30:44.000Z</updated>
+        <summary type="html"><![CDATA[AMC院线盘前涨近2%，万达集团称已全部退出AMC董事会。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北上资金今日净买入药明康德4.90亿元、贵州茅台3.69亿元，净卖出中远海控5.12亿元、东方财富2.86亿元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978954</id>
+        <link href="https://wallstreetcn.com/livenews/1978954"/>
+        <updated>2021-05-24T09:30:14.000Z</updated>
+        <summary type="html"><![CDATA[北上资金今日净买入药明康德4.90亿元、贵州茅台3.69亿元，净卖出中远海控5.12亿元、东方财富2.86亿元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汇丰CEO：汇丰没有提供加密货币作为投资工具的计划。]]></title>
+        <id>https://wallstreetcn.com/livenews/1978953</id>
+        <link href="https://wallstreetcn.com/livenews/1978953"/>
+        <updated>2021-05-24T09:29:36.000Z</updated>
+        <summary type="html"><![CDATA[汇丰CEO：汇丰没有提供加密货币作为投资工具的计划。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意见提出，国家知识产权局和公安部建立知识产权保护协调会商机制，邀请有关行政部门、司法机关分析研判全国侵犯知识产权违法犯罪形势，研究制定工作方案，拟定年...]]></title>
         <id>https://wallstreetcn.com/livenews/1978950</id>
