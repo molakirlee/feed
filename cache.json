@@ -175,6 +175,15 @@
       "siteUrl": "http://www.sciencemag.org/rss/news_current.xml",
       "articles": [
         {
+          "id": "https://www.sciencemag.org/news/2021/05/blind-man-regains-some-vision-help-light-sensing-algal-protein?rss=1",
+          "author": null,
+          "description": "Cutting-edge neurological technique known as optogenetics logs first success treating human disease",
+          "link": "https://www.sciencemag.org/news/2021/05/blind-man-regains-some-vision-help-light-sensing-algal-protein",
+          "publishedOn": "2021-05-24T16:20:00.000Z",
+          "wordCount": 1254,
+          "title": "Blind man regains some vision, with help from light-sensing algal protein"
+        },
+        {
           "id": "https://www.sciencemag.org/news/2021/05/amid-violence-and-protests-colombian-universities-seek-promote-national-dialogue?rss=1",
           "author": null,
           "description": "Students lead nationwide demonstrations while academic leaders propose policy changes to help overcome the crisis",
@@ -1578,6 +1587,141 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631133",
+          "author": "陈嘉懿",
+          "description": "非货基金月均规模排名",
+          "link": "https://wallstreetcn.com/articles/3631133",
+          "publishedOn": "2021-05-24T14:37:02.000Z",
+          "wordCount": 131,
+          "title": "公募基金非货最新规模排名出炉：易方达夺得“断层第一”，汇添富、广发、华夏、富国基金紧随其后"
+        },
+        {
+          "id": "3631120",
+          "author": "张娱",
+          "description": "短期猪价回升仍较困难",
+          "link": "https://wallstreetcn.com/premium/articles/3631120?layout=wscn-layout",
+          "publishedOn": "2021-05-24T14:30:58.000Z",
+          "wordCount": 106,
+          "title": "猪茅暴跌！从盈利、产能、时间看猪价下跌空间"
+        },
+        {
+          "id": "3631119",
+          "author": "张超",
+          "description": "全天候科技从部分商家处了解到，在美团外卖重点覆盖的一二线城市，配送抽佣已经在逐步调整，部分三四线城市商户也知悉了变动信息，即将调整。",
+          "link": "https://awtmt.com/articles/3631119?from=wscn",
+          "publishedOn": "2021-05-24T14:18:03.000Z",
+          "wordCount": 123,
+          "title": "美团抽佣变局：商家、骑手赚了吗？"
+        },
+        {
+          "id": "3630944",
+          "author": "徐红",
+          "description": "随着产品的获批上市，推想科技、科亚医疗等多个医疗AI企业开始冲击IPO。然而，获证只是产品商业化落地的第一步。从今年3月科亚医疗向港交所提交的招股书来看，公司获证当年只取得了70余万的收入，显示AI医疗器械商业化之难。医疗AI产品获批上市后如何尽快在医院加快应用？上海对此率先进行了探索。",
+          "link": "https://wallstreetcn.com/articles/3630944",
+          "publishedOn": "2021-05-24T14:16:34.000Z",
+          "wordCount": 133,
+          "title": "获证远非终点，医疗AI仍陷盈利困境，如何加速医院应用成焦点"
+        },
+        {
+          "id": "3631129",
+          "author": "高星",
+          "description": "对全球债务危机的担忧，已使得全球顶级对冲基金经理达利欧对于比特币的态度发生倒戈——从怀疑到涉足。达利欧在CoinDesk的一次活动中接受访问时称，在更多通货膨胀的未来，现金就是垃圾，而比特币作为财富的储存手段受到欢迎。此外达利欧还主动表示，自己持有“一些”比特币。",
+          "link": "https://wallstreetcn.com/articles/3631129",
+          "publishedOn": "2021-05-24T13:59:59.000Z",
+          "wordCount": 118,
+          "title": "达利欧：现在“现金是垃圾”，你会经历更多的通货膨胀"
+        },
+        {
+          "id": "3631128",
+          "author": "于旭东",
+          "description": "中方支持伊方在伊核问题全面协议问题上的合理诉求，愿同伊方加强协调，维护好双方共同利益。",
+          "link": "https://wallstreetcn.com/articles/3631128",
+          "publishedOn": "2021-05-24T13:59:05.000Z",
+          "wordCount": 101,
+          "title": "习近平同伊朗总统鲁哈尼通电话"
+        },
+        {
+          "id": "3631127",
+          "author": "许超",
+          "description": "美联储理事布雷纳德表示，如果确实看到通胀持续高于2%的目标，美联储也有工具引导通胀回落。",
+          "link": "https://wallstreetcn.com/articles/3631127",
+          "publishedOn": "2021-05-24T13:56:32.000Z",
+          "wordCount": 111,
+          "title": "美联储理事布雷纳德：近期将出现更高的通胀数据"
+        },
+        {
+          "id": "3631125",
+          "author": "巩舒心",
+          "description": "美图曾一度靠炒币获得1.7亿元的浮盈，如今，币圈无情，美团在加密货币上的投资已由盈转亏，目前浮亏约1300万元。",
+          "link": "https://wallstreetcn.com/articles/3631125",
+          "publishedOn": "2021-05-24T13:46:43.000Z",
+          "wordCount": 124,
+          "title": "从净赚1个亿到亏损1300万！疯狂炒币的不只是特斯拉，还有美图"
+        },
+        {
+          "id": "3631118",
+          "author": "阿贝师傅",
+          "description": "它被称为称为史上最严排放标准。",
+          "link": "https://wallstreetcn.com/articles/3631118",
+          "publishedOn": "2021-05-24T13:35:52.000Z",
+          "wordCount": 110,
+          "title": "国六排放标准即将落地，机构测算行业存千亿市场"
+        },
+        {
+          "id": "3631121",
+          "author": "于旭东",
+          "description": "席勒表示，现在的房价就像2003年；对通胀预期的担忧将打压股市；虽然数字货币飘忽不定，但我曾被其深深诱惑。",
+          "link": "https://wallstreetcn.com/articles/3631121",
+          "publishedOn": "2021-05-24T13:26:43.000Z",
+          "wordCount": 136,
+          "title": "诺奖得主席勒：美国股市、楼市、比特币简直是“狂野西部，货币放水无法解释这一切”"
+        },
+        {
+          "id": "3631108",
+          "author": "徐红",
+          "description": "因为一则集采的传言，即便公司紧急召开电话会议安抚投资者，亦难止股价狂泻。背后，或仅仅只是因为，传言将不再是传言。",
+          "link": "https://wallstreetcn.com/articles/3631108",
+          "publishedOn": "2021-05-24T13:19:19.000Z",
+          "wordCount": 132,
+          "title": "集采风起，龙头公司股价狂泻，生长激素60亿大市场会遭重估吗"
+        },
+        {
+          "id": "3631122",
+          "author": "许超",
+          "description": "有网友评论称，科兴中维吃大头，其余生物制药全部是参与吃肉。",
+          "link": "https://wallstreetcn.com/articles/3631122",
+          "publishedOn": "2021-05-24T13:18:13.000Z",
+          "wordCount": 112,
+          "title": "新冠疫苗多赚钱？关联财报揭秘科兴中维一季度利润或达100亿元"
+        },
+        {
+          "id": "3631124",
+          "author": "岳嘉",
+          "description": "工业品涨价正在削弱日本的制造业盈利及出口。",
+          "link": "https://wallstreetcn.com/premium/articles/3631124?layout=wscn-layout",
+          "publishedOn": "2021-05-24T13:14:15.000Z",
+          "wordCount": 111,
+          "title": "PPI-CPI剪刀差十年新高 日本如何应对输入型通胀？"
+        },
+        {
+          "id": "3631116",
+          "author": "许超",
+          "description": "发改委等五个部门此前联合约谈了铁矿石、钢材、铜、铝等行业有市场影响力的重点企业；会议明确对违法行为“零容忍”，坚决依法严厉查处达成实施垄断协议、散播虚假信息、哄抬价格、囤积居奇等违法行为。",
+          "link": "https://wallstreetcn.com/articles/3631116",
+          "publishedOn": "2021-05-24T12:47:06.000Z",
+          "wordCount": 114,
+          "title": "监管层高度关注原材料涨价！发改委及两大协会又说了啥？"
+        },
+        {
+          "id": "3631113",
+          "author": "巩舒心",
+          "description": "高盛建议将重点放在碳中和和基础设施支出上，在其看来，这能应对市场中许多具有价值的领域所出现的相对估值的转变。",
+          "link": "https://wallstreetcn.com/articles/3631113",
+          "publishedOn": "2021-05-24T12:38:38.000Z",
+          "wordCount": 108,
+          "title": "高盛：通胀走高料利好价值股；相对于美国更偏爱欧洲"
+        },
+        {
           "id": "3631103",
           "author": "侯秋芸",
           "description": "基础并不扎实。",
@@ -2494,6 +2638,33 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57225073",
+          "author": null,
+          "description": "image copyrightEPA\nimage captionThe Indian navy says it has recovered 70 bodies\n\nVishal Kedar says he will never forget the night of 16 May when the barge he was deployed on began to sink amid a severe cyclone off the coast of the Indian city of Mumbai. \n\n\nThere were 261 workers on the barge when it sank. Seventy bodies, believed to be mostly from the barge, have been recovered so far, and 186 men have been rescued. \n\n\nMr Kedar was employed as a welding assistant on the barge called Papaa-305 (P-305) which, on the evening of 17 May, finally sank in the Arabian Sea, about 60km (37 miles) miles off the coast of Mumbai. \n\n\nThe stricken vessel, deployed by India's Oil and Natural Gas Corporation (ONGC), was carrying personnel hired for offshore drilling. \n\n\n\nimage captionVishal Kedar (L) and A…",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57225073",
+          "publishedOn": "2021-05-24T15:17:47.000Z",
+          "wordCount": 1472,
+          "title": "[World] Cyclone Tauktae: Survivors recount horrific tragedy on sunken barge"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-australia-57225103",
+          "author": null,
+          "description": "After drought, fires and floods, Australia is now in the grip of a devastating mouse plague.",
+          "link": "https://www.bbc.co.uk/news/world-australia-57225103",
+          "publishedOn": "2021-05-24T15:00:18.000Z",
+          "wordCount": 618,
+          "title": "[World] Mouse plague deals fresh blow to Australian farmers"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57227244",
+          "author": null,
+          "description": "image captionVideo posted on social media showed what appeared to be the packed plane, mid-flight\n\nAn Indian couple reportedly chartered a plane and held a mid-air wedding with more than 160 guests in an effort to escape coronavirus restrictions.\n\n\nVideo footage posted on social media appeared to show the couple and their guests packed into the hired jet.\n\n\nThe state of Tamil Nadu, where the flight was said to have originated, recently imposed tougher restrictions, limiting weddings to 50 guests.\n\n\nIndia's aviation authority has launched an investigation, reports said.\n\n\nAn official from the Directorate General of Civil Aviation (DGCA) told the Times of India that the SpiceJet staff aboard the flight had been taken off duty.\n\n\nA SpiceJet spokesperson told the Indian Express that the Boeing…",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57227244",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 846,
+          "title": "[World] Indian couple holds mid-air wedding 'to escape Covid restrictions'"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-57227241",
           "author": null,
           "description": "image copyrightGetty Images\nimage captionAung San Suu Kyi's lawyers Min Min Soe (right) and Khin Maung Zaw (left) briefed the media on Monday\n\nMyanmar's former leader Aung San Suu Kyi has appeared in court in person for the first time since her government was overthrown by the military in February. \n\n\nThe hearing, in the capital Naypyidaw, was immediately adjourned. The former leader faces several charges including violating a state secrets law. \n\n\nBefore the hearing, Ms Suu Kyi was allowed to meet her lawyers in person for the first time.\n\n\nShe has been held under house arrest for the 16 weeks since she was deposed.\n\n\nimage copyrightGetty Images\n\n\nMyanmar's military has accused Ms Suu Kyi's party, the National League for Democracy, of fraud in the general election it won last November.\n\n\n…",
@@ -2912,6 +3083,24 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/following-week-will-be-critical-period-for-Taiwan-s-pandemic-20210524/5902263.html",
+          "author": null,
+          "description": "台灣陸軍33化學兵群執行台北街頭消毒作業（台灣軍聞社提供）\n\n\n\n台北 — \n台灣新冠疫情大爆發，目前，染疫人數從先前的兩位數猛增到3000多人。公共衛生專家說，這一波疫情最理想的狀況可在6月中結束，但接下來一週十分關鍵，是疫情是否反轉的折點，如果社區干預措施達成率欠佳而引發第二波社區傳染，最壞的打算可能要等到9月才能恢復正常生活。\n全台進入三級警戒\n“請您勤洗手，外出一定要戴口罩”，這是台灣近來最常聽見的里民廣播。由於新冠疫情已經侵入社區，全台進入三級警戒，八大場所停業，學校停止上學，戶外若沒戴口罩一律開罰。原本熱鬧的台北街頭頓時變得冷冷清清，只剩下救護車的鳴笛聲迴盪在大街小巷中。就在美、英等國疫情逐漸消退之際，台灣的抗疫大戰正艱難地進行當中。\n全球新冠疫情自2019年底爆發後，台灣染疫人數極少，本土案例偶而單日新增一、兩例，甚至一度連續超過200天本土零確診，因而被國際譽為“防疫模範生”。但是，這個情況近來發生轉變。根據台灣中央流行疫情指揮中心統計，截至5月24止，一共有3,748例本土病例，29人死亡，其中22日總計增加712案，創下單日新高。\n在出現這一波疫情之前，4月20日，華航印尼籍貨機機師被確診感染新冠病毒，之後，華航機組人員以及華航機場酒店諾富特飯店群聚感染，總共造成35人確診感染，包括13名華航機師、1名空服人員、8起家庭群聚的14人、6名諾富特飯店員工，以及1名飯店外包商。\n其中，染疫機師與空服人員曾同赴台北松山區酒吧並前往餐館用餐，另外一些染疫機師到過台北清真寺參加400人的禮拜活動，並去過生鮮超市與賣場。\n疫情一發不可收拾\n5月初，台灣中央流行疫情指揮中心指揮官陳時中說，台灣離社區感染已經很近，是社區感染邊緣。但真正讓他承認台灣爆發社區感染的是5月11日社會團體“獅子會”的群聚事件。\n據悉，確診的獅子會成員參與過各型百人餐會活動，餐會上共用一支麥克風…",
+          "link": "https://www.voacantonese.com/a/following-week-will-be-critical-period-for-Taiwan-s-pandemic-20210524/5902263.html",
+          "publishedOn": "2021-05-24T15:09:31.000Z",
+          "wordCount": 291,
+          "title": "台灣疫情大爆發 接下來一周最關鍵"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/Wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-/5902235.html",
+          "author": null,
+          "description": "武漢病毒研究所的大門（2020年5月15日攝）\n\n\n\n2019新冠病毒最早從哪裡傳染給人類？華爾街日報披露了美國情報部門一份報告中的一些重要細節，再次把懷疑目標指向了這場蔓延全球的大流疫最早的爆發之地中國武漢的一家病毒研究所。\n華爾街日報週日（5月23日）報導說，在中國發現第一例新冠病毒感染病例之前，中國科學院下屬的武漢病毒研究所有三名研究人員因身體不適到醫院看病。報告沒有說明這三名研究人員具體患了什麼病，但他們患病的時間發生在2019年11月，比中國公佈的第一例新冠病毒患者早了一個月。\n美國國務院在特朗普政府任期的最後階段曾經公佈過一份“事實報告”。該報告說，“美國政府有理由認為武漢病毒研究所的幾名研究人員是在2019年秋季生病，隨後不久就發現了首例新冠病毒病患，他們的病症與新冠病毒和普通的季節性疾病是一致的。”\n但是，華爾街日報這次報道的美國情報部門的報告內容更為具體，不僅提供了實驗室生病的人數和發病的時間，而且還交代了他們去醫院看病的細節。\n華爾街日報說，這些細節將會為有關方面推動針對武漢病毒研究所實驗室洩露展開更為廣泛調查提供新的根據。世衛組織的決策機構世衛大會計劃在週一舉行，相信新的發現有助於加強對是否存在實驗室洩露繼續進行獨立調查的呼聲。\n據中國疫情爆發初期的公開報道，武漢發現的第一批新冠病毒病例是在2019年12月。起初，人們認為武漢華南海鮮市場是病毒的傳染源，但後來的研究否定了這個看法。當時就有許多傳染病學家和病毒學家認為，早在12月之前，武漢一帶就已經出現了這種病毒。中國學者就病毒病毒宿主進行了一些調查，並提出了多項推論，但後來都被否定。而當時的一個不爭的事實是：武漢病毒研究所多年來一直在進行新冠病毒研究，是發生實驗室洩露可能性最大的一個懷疑目標。\n中國媒體在那個時期懷疑武漢病毒研究所的一名碩士實習生曾在一次事故中感染病毒，要求該所提供此人的下落。有報道說，這名研究生已經死亡。這家研究所的領導曾出面表示，這個研究生已經離職，身體很好。可是到目前為止，此人從未在公共場合露過面。\n後來，中共最高層下令，各級領導要嚴密控制和封鎖有關病毒數據和相關研究成果信息。此後任何懷疑和質疑病毒源頭的文章和言論就從中國國內的媒體上徹底消失了。\n這樣，對武漢病毒所是否存在病毒洩露問題的調查還沒有來得及正式開始就完全停止了。與此同時，北京因擔心這場禍及全球的大流疫可能會引起國際社會向中國追責而啟動國家機器展開了一場大規模甩鍋宣傳戰。\n中國官員和科學家堅決否認武毒所發生病毒洩露事件，大力宣傳病毒可能在武漢疫情爆發之前就已經在全球許多地方同時發生，它們通過冷凍食品等方式傳染至武漢。\n中國外交部更是一再把矛頭對準美國，先是說是2019年武漢軍運會期間美國運動員把病毒帶到了武漢，後來又說，病毒可能來自美國馬里蘭州的一個軍事基地的實驗室。\n外交部發言人趙立堅週一（5月24日）在記者會上表示，“武漢病毒研究所3個研究人員患病”完全不符合事實。他還否認武漢病毒研究所在2019年12月30日之前接觸過新型冠狀病毒。趙立堅說，武毒所的職工和研究生“保持新型冠狀病毒零感染”。\n據路透社報道，美國國家安全委員會發言人稱，拜登政府對大流疫最初的情況，包括中國的病毒來源問題“依然存有嚴肅的問題”。她表示，美國政府正在與世衛組織和其它國家共同努力，支持專家們在沒有外界干預或政治化的情況下對病毒來源進行評估。\n世衛組織和中國在今年3月完成了一次有關病毒源頭的聯合調查，調查認為，發生實驗室洩露“極不可能”。\n但是，世衛組織的專家抱怨說，中國方面沒有向世衛專家組提供早期的原始病毒資料。美國和西方其它國家紛紛要求中國向獨立專家完全開放原始數據。",
+          "link": "https://www.voacantonese.com/a/Wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-/5902235.html",
+          "publishedOn": "2021-05-24T15:01:19.000Z",
+          "wordCount": 265,
+          "title": "華爾街日報披露美情報機構報告更多細節 武毒所再次成為病毒洩露懷疑目標"
+        },
         {
           "id": "https://www.voacantonese.com/a/Myanmar-Suu-kyi-appears-in-court-in-person-for-first-time-since-Coup-20210524/5902156.html",
           "author": null,
@@ -3376,6 +3565,411 @@
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
         {
+          "id": "https://wallstreetcn.com/livenews/1979172",
+          "author": null,
+          "description": "加拿大央行行长Macklem：对（加拿大）经济而言，减码QE是正确的行动。（华尔街日报）",
+          "link": "https://wallstreetcn.com/livenews/1979172",
+          "publishedOn": "2021-05-24T15:47:10.000Z",
+          "wordCount": 141,
+          "title": "加拿大央行行长Macklem：对（加拿大）经济而言，减码QE是正确的行动。（华尔街日报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979171",
+          "author": null,
+          "description": "英国央行首席经济学家霍尔丹：许多公司担忧成本压力。",
+          "link": "https://wallstreetcn.com/livenews/1979171",
+          "publishedOn": "2021-05-24T15:44:30.000Z",
+          "wordCount": 141,
+          "title": "英国央行首席经济学家霍尔丹：许多公司担忧成本压力。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979170",
+          "author": null,
+          "description": "英国央行行长贝利：通胀料将升穿目标，然后回落。\n通胀“潜在的危险地区”包括大宗商品和电脑芯片。\n央行希望，这些（通胀）因素会出现修正。",
+          "link": "https://wallstreetcn.com/livenews/1979170",
+          "publishedOn": "2021-05-24T15:41:09.000Z",
+          "wordCount": 149,
+          "title": "英国央行行长贝利：通胀料将升穿目标，然后回落。\n通胀“潜在的危险地区”包括大宗商品和电脑芯片。\n央行希望，这些（通胀）因素会出现修正。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979168",
+          "author": null,
+          "description": "在岸人民币兑美元（CNY）北京时间23:30收报6.4200元，较上一交易日夜盘收盘涨145点。成交量427.14亿美元，较上一交易日增加28.04亿美元。",
+          "link": "https://wallstreetcn.com/livenews/1979168",
+          "publishedOn": "2021-05-24T15:34:20.000Z",
+          "wordCount": 141,
+          "title": "在岸人民币兑美元（CNY）北京时间23:30收报6.4200元，较上一交易日夜盘收盘涨145点。成交量427.14亿美元，较上一交易日增加28.04亿美元。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979167",
+          "author": null,
+          "description": "美国财政部拍卖三个月期国债，得标利率0.015%（上次为0.015%），投标倍数2.88（上次为2.94）。\n拍卖六个月期国债，得标利率0.030%（上次为0.030%），投标倍数2.78（上次为3.28）。",
+          "link": "https://wallstreetcn.com/livenews/1979167",
+          "publishedOn": "2021-05-24T15:32:47.000Z",
+          "wordCount": 143,
+          "title": "美国财政部拍卖三个月期国债，得标利率0.015%（上次为0.015%），投标倍数2.88（上次为2.94）。\n拍卖六个月期国债，得标利率0.030%（上次为0.030%），投标倍数2.7..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979166",
+          "author": null,
+          "description": "据Splash247报道，尽管许多船东对未来的推进方式表示担忧，但今年迄今为止的船舶订单量达到了2014年以来的最高水平。",
+          "link": "https://wallstreetcn.com/livenews/1979166",
+          "publishedOn": "2021-05-24T15:32:34.000Z",
+          "wordCount": 141,
+          "title": "据Splash247报道，尽管许多船东对未来的推进方式表示担忧，但今年迄今为止的船舶订单量达到了2014年以来的最高水平。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979165",
+          "author": null,
+          "description": "德国DAX 30指数初步收涨0.44%，报15437.51点。\n法国股指初步收涨0.24%，英国股指初步收涨0.36%，意大利股指初步收跌0.40%。",
+          "link": "https://wallstreetcn.com/livenews/1979165",
+          "publishedOn": "2021-05-24T15:30:55.000Z",
+          "wordCount": 145,
+          "title": "德国DAX 30指数初步收涨0.44%，报15437.51点。\n法国股指初步收涨0.24%，英国股指初步收涨0.36%，意大利股指初步收跌0.40%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979164",
+          "author": null,
+          "description": "富时泛欧绩优300指数初步收涨0.04%，报1714.54点。\n欧洲STOXX 600指数初步收涨0.09%，报444.82点。\n欧元区STOXX 50指数初步收涨0.19%，报4033.53点。",
+          "link": "https://wallstreetcn.com/livenews/1979164",
+          "publishedOn": "2021-05-24T15:30:52.000Z",
+          "wordCount": 149,
+          "title": "富时泛欧绩优300指数初步收涨0.04%，报1714.54点。\n欧洲STOXX 600指数初步收涨0.09%，报444.82点。\n欧元区STOXX 50指数初步收涨0.19%，报4033.53点。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979163",
+          "author": null,
+          "description": "以太币涨至2500美元上方，日内涨近20%。",
+          "link": "https://wallstreetcn.com/livenews/1979163",
+          "publishedOn": "2021-05-24T15:27:11.000Z",
+          "wordCount": 141,
+          "title": "以太币涨至2500美元上方，日内涨近20%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979162",
+          "author": null,
+          "description": "英国央行行长贝利：加密数字货币资产是危险的，吸引投资者巨大的热情。",
+          "link": "https://wallstreetcn.com/livenews/1979162",
+          "publishedOn": "2021-05-24T15:25:43.000Z",
+          "wordCount": 141,
+          "title": "英国央行行长贝利：加密数字货币资产是危险的，吸引投资者巨大的热情。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979159",
+          "author": null,
+          "description": "CNBC主持人、美国股市评论员Jim Cramer：对那些错过了比特币热潮（在更低价格水平错失良机）的人来说，同上周崩盘时一样，比特币任何的下一次大跌都将成为买入机会。",
+          "link": "https://wallstreetcn.com/livenews/1979159",
+          "publishedOn": "2021-05-24T15:19:11.000Z",
+          "wordCount": 143,
+          "title": "CNBC主持人、美国股市评论员Jim Cramer：对那些错过了比特币热潮（在更低价格水平错失良机）的人来说，同上周崩盘时一样，比特币任何的下一次大跌都将成为买入机..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979158",
+          "author": null,
+          "description": "维珍银河CEO：最新一次太空飞行测试结果表明，先前所暴露出来的（通信）干扰问题已经得到解决。\nBranson将测试航天旅客体验。\n太空旅行将在长达数年之内受到供应段的限制。",
+          "link": "https://wallstreetcn.com/livenews/1979158",
+          "publishedOn": "2021-05-24T15:18:38.000Z",
+          "wordCount": 145,
+          "title": "维珍银河CEO：最新一次太空飞行测试结果表明，先前所暴露出来的（通信）干扰问题已经得到解决。\nBranson将测试航天旅客体验。\n太空旅行将在长达数年之内受到供应..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979157",
+          "author": null,
+          "description": "标普：上调美国2021年实际GDP预期至增长6.5%，之前料增4.2%。\n上调2022年预期至增长3.1%，之前料增3.0%。",
+          "link": "https://wallstreetcn.com/livenews/1979157",
+          "publishedOn": "2021-05-24T15:15:51.000Z",
+          "wordCount": 143,
+          "title": "标普：上调美国2021年实际GDP预期至增长6.5%，之前料增4.2%。\n上调2022年预期至增长3.1%，之前料增3.0%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979156",
+          "author": null,
+          "description": "英国5月24日新增2439例新冠肺炎病例。",
+          "link": "https://wallstreetcn.com/livenews/1979156",
+          "publishedOn": "2021-05-24T15:14:32.000Z",
+          "wordCount": 141,
+          "title": "英国5月24日新增2439例新冠肺炎病例。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979153",
+          "author": null,
+          "description": "业内人士表示，眼下铜供应大于需求，但是市场铜价却不降反增，目前国内经济基本回到疫情前的水平，但是铜价却远超当时的价格，不排除游资借助通胀预期炒作铜价的嫌疑。（央视财经）",
+          "link": "https://wallstreetcn.com/livenews/1979153",
+          "publishedOn": "2021-05-24T15:10:34.000Z",
+          "wordCount": 141,
+          "title": "业内人士表示，眼下铜供应大于需求，但是市场铜价却不降反增，目前国内经济基本回到疫情前的水平，但是铜价却远超当时的价格，不排除游资借助通胀预期炒作铜价的..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979152",
+          "author": null,
+          "description": "焦煤涨超3%，焦炭涨1.85%，动力煤涨1.47%；螺纹、铁矿石涨0.3%，不锈钢涨0.4%，热卷跌0.19%。\n玻璃涨约4%，燃油涨1.8%，郑醇涨近1%，PTA、短纤、纯碱、EB、PVC小幅上涨。纸浆跌超2.5%，塑料、PP小幅下跌。\n豆一涨超1%，豆粕、菜粕、豆油、棕榈、玉米、淀粉小幅上涨，棉花跌1.39%。",
+          "link": "https://wallstreetcn.com/livenews/1979152",
+          "publishedOn": "2021-05-24T15:07:53.000Z",
+          "wordCount": 146,
+          "title": "焦煤涨超3%，焦炭涨1.85%，动力煤涨1.47%；螺纹、铁矿石涨0.3%，不锈钢涨0.4%，热卷跌0.19%。\n玻璃涨约4%，燃油涨1.8%，郑醇涨近1%，PTA、短纤、纯碱、EB、PVC小..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979151",
+          "author": null,
+          "description": "在义乌国际商贸城的一家卫浴店内，采购商阿拉善表示，今年持续不断的价格上涨让他叫苦不迭。在西部矿业现场看到，作业的车辆不停进出，每天都是三班倒，开工率达到历史最高水平。西部矿业拥有我国最大的单体铜矿玉龙铜矿，保有储量达607万吨，提前投产，市场供应不断提升。今年春节后，全球铜库存同比增加20万吨，往年同期惯例库存是下降20-30万吨，铜价快速上涨抑制了下游加工需求。业内人士表示，眼下铜供应大于需求，但是市场铜价却不降反增，目前国内经济基本回到疫情前的水平，但是铜价却远超当时的价格，不排除游资借助通胀预期炒作铜价的嫌疑。（央视）",
+          "link": "https://wallstreetcn.com/livenews/1979151",
+          "publishedOn": "2021-05-24T15:07:11.000Z",
+          "wordCount": 142,
+          "title": "在义乌国际商贸城的一家卫浴店内，采购商阿拉善表示，今年持续不断的价格上涨让他叫苦不迭。在西部矿业现场看到，作业的车辆不停进出，每天都是三班倒，开工率达..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979150",
+          "author": null,
+          "description": "美国与英国金融监管工作组已于上周四（5月20日）讨论监管日程。",
+          "link": "https://wallstreetcn.com/livenews/1979150",
+          "publishedOn": "2021-05-24T15:06:52.000Z",
+          "wordCount": 141,
+          "title": "美国与英国金融监管工作组已于上周四（5月20日）讨论监管日程。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979147",
+          "author": null,
+          "description": "意大利5月24日新增2490例新冠肺炎病例（上日增加3995例），新增110例死亡病例（上日增加72例）。",
+          "link": "https://wallstreetcn.com/livenews/1979147",
+          "publishedOn": "2021-05-24T14:59:49.000Z",
+          "wordCount": 141,
+          "title": "意大利5月24日新增2490例新冠肺炎病例（上日增加3995例），新增110例死亡病例（上日增加72例）。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979146",
+          "author": null,
+          "description": "英国央行Cunliffe为前首相卡梅伦和财务大臣Sunak辩解：不曾感受到财政部曾针对Greensill Capital向央行施压。",
+          "link": "https://wallstreetcn.com/livenews/1979146",
+          "publishedOn": "2021-05-24T14:54:05.000Z",
+          "wordCount": 144,
+          "title": "英国央行Cunliffe为前首相卡梅伦和财务大臣Sunak辩解：不曾感受到财政部曾针对Greensill Capital向央行施压。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979145",
+          "author": null,
+          "description": "从去年3月到今年5月，国内铜价从每吨35000元左右，一路飙升到每吨75000元。在江苏扬州一家电缆企业了解到，由于铜价达到近15年来的高点，企业每天采购原料的成本都在增加，由于价格过高企业不敢采购原料，整个车间除了成品电缆几乎看不到原料铜，目前企业已经压缩产能减少高价铜带来的风险。走访多家企业发现，自今年5月份以来，铜加工企业出现减产，与往年同期如火如荼的生产场面形成鲜明对比，生产被迫放缓，出货量明显下滑，致使成品库存处于高位。 （央视财经）",
+          "link": "https://wallstreetcn.com/livenews/1979145",
+          "publishedOn": "2021-05-24T14:53:33.000Z",
+          "wordCount": 144,
+          "title": "从去年3月到今年5月，国内铜价从每吨35000元左右，一路飙升到每吨75000元。在江苏扬州一家电缆企业了解到，由于铜价达到近15年来的高点，企业每天采购原料的成本..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979143",
+          "author": null,
+          "description": "美光科技涨超2%，英特尔涨超1%；此前《电子时报》预测内存价格将在二季度出现两位数百分百增长。",
+          "link": "https://wallstreetcn.com/livenews/1979143",
+          "publishedOn": "2021-05-24T14:51:33.000Z",
+          "wordCount": 141,
+          "title": "美光科技涨超2%，英特尔涨超1%；此前《电子时报》预测内存价格将在二季度出现两位数百分百增长。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979142",
+          "author": null,
+          "description": "美国10年期国债收益率跌穿1.6%，为5月11日以来首次，日内当前跌超2.2个基点。",
+          "link": "https://wallstreetcn.com/livenews/1979142",
+          "publishedOn": "2021-05-24T14:50:35.000Z",
+          "wordCount": 141,
+          "title": "美国10年期国债收益率跌穿1.6%，为5月11日以来首次，日内当前跌超2.2个基点。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979141",
+          "author": null,
+          "description": "特斯拉涨2.8%，蔚来汽车涨超1%；Wedbush分析师称，电动汽车股最近的下跌只是最终将成为一波持续多年涨势中的一次短期回调。预计未来10年电动汽车市场总规模将达到5万亿美元。",
+          "link": "https://wallstreetcn.com/livenews/1979141",
+          "publishedOn": "2021-05-24T14:47:46.000Z",
+          "wordCount": 141,
+          "title": "特斯拉涨2.8%，蔚来汽车涨超1%；Wedbush分析师称，电动汽车股最近的下跌只是最终将成为一波持续多年涨势中的一次短期回调。预计未来10年电动汽车市场总规模将达..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979140",
+          "author": null,
+          "description": "ARK Invest将大众汽车视作潜在的电动汽车颠覆者，认为大众正在从传统汽车制造商向软件驱动的电动或自动驾驶汽车厂商的巨大转型中取得进展。",
+          "link": "https://wallstreetcn.com/livenews/1979140",
+          "publishedOn": "2021-05-24T14:43:38.000Z",
+          "wordCount": 143,
+          "title": "ARK Invest将大众汽车视作潜在的电动汽车颠覆者，认为大众正在从传统汽车制造商向软件驱动的电动或自动驾驶汽车厂商的巨大转型中取得进展。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979139",
+          "author": null,
+          "description": "英国：希望七国集团（G7）在应对超级病菌（SuperBugs）方面支持激进的医药计划。\n建议在抗生素方面覆盖订购模式。\n英国将于6月份主持G7财长会议。（彭博）",
+          "link": "https://wallstreetcn.com/livenews/1979139",
+          "publishedOn": "2021-05-24T14:43:17.000Z",
+          "wordCount": 145,
+          "title": "英国：希望七国集团（G7）在应对超级病菌（SuperBugs）方面支持激进的医药计划。\n建议在抗生素方面覆盖订购模式。\n英国将于6月份主持G7财长会议。（彭博）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979137",
+          "author": null,
+          "description": "英国央行货币政策委员会（MPC）成员Saunders：重视GDP水平具有重要意义，而不应当仅仅关注GDP增速。\n我们认为，通胀不会持续地高于目标。\n风险在于，能源价格将推动通胀升穿目标。",
+          "link": "https://wallstreetcn.com/livenews/1979137",
+          "publishedOn": "2021-05-24T14:39:00.000Z",
+          "wordCount": 147,
+          "title": "英国央行货币政策委员会（MPC）成员Saunders：重视GDP水平具有重要意义，而不应当仅仅关注GDP增速。\n我们认为，通胀不会持续地高于目标。\n风险在于，能源价格将..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979136",
+          "author": null,
+          "description": "英国央行行长贝利：货币政策委员会（MPC）当前预计并不会使用负利率。\nMPC将侧重于中期性的通胀前景。\n央行早在3月份就已经向财政部通报Greensill Capital与GFG存在关联。",
+          "link": "https://wallstreetcn.com/livenews/1979136",
+          "publishedOn": "2021-05-24T14:36:08.000Z",
+          "wordCount": 147,
+          "title": "英国央行行长贝利：货币政策委员会（MPC）当前预计并不会使用负利率。\nMPC将侧重于中期性的通胀前景。\n央行早在3月份就已经向财政部通报Greensill Capital与GFG..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979135",
+          "author": null,
+          "description": "舍得酒业收到上交所监管工作函，就公司股价异常波动及信息披露相关事项明确监管要求。",
+          "link": "https://wallstreetcn.com/livenews/1979135",
+          "publishedOn": "2021-05-24T14:34:13.000Z",
+          "wordCount": 143,
+          "title": "舍得酒业收到上交所监管工作函，就公司股价异常波动及信息披露相关事项明确监管要求。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979134",
+          "author": null,
+          "description": "中概教育股跌幅扩大，美联国际教育跌30%，51Talk跌超15%，好未来、新东方、高途跌超12%。",
+          "link": "https://wallstreetcn.com/livenews/1979134",
+          "publishedOn": "2021-05-24T14:33:36.000Z",
+          "wordCount": 141,
+          "title": "中概教育股跌幅扩大，美联国际教育跌30%，51Talk跌超15%，好未来、新东方、高途跌超12%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979132",
+          "author": null,
+          "description": "CBOT软木期货下跌63美元，跌幅4.34%，触及美国芝加哥商业交易所（CME）跌停限制，刷新日低至1390美元/1000板英尺。",
+          "link": "https://wallstreetcn.com/livenews/1979132",
+          "publishedOn": "2021-05-24T14:31:53.000Z",
+          "wordCount": 141,
+          "title": "CBOT软木期货下跌63美元，跌幅4.34%，触及美国芝加哥商业交易所（CME）跌停限制，刷新日低至1390美元/1000板英尺。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979131",
+          "author": null,
+          "description": "泰国卫生部次长吉迪普24日表示，将推迟在全国范围内开始接种阿斯利康疫苗的时间，由5月推迟到6月，同时对于少数已经在3月底至4月初接种了第一针阿斯利康疫苗的人，接种第二针的间隔期由之前约定的10周延长至16周，因为研究结果显示，间隔16周接种第二针的效果更好。",
+          "link": "https://wallstreetcn.com/livenews/1979131",
+          "publishedOn": "2021-05-24T14:30:15.000Z",
+          "wordCount": 142,
+          "title": "泰国卫生部次长吉迪普24日表示，将推迟在全国范围内开始接种阿斯利康疫苗的时间，由5月推迟到6月，同时对于少数已经在3月底至4月初接种了第一针阿斯利康疫苗的人..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979126",
+          "author": null,
+          "description": "美股芯片股、集成电路股集体上涨，半导体板块ETF涨2.3%，奇景光电、拉姆研究涨超6%，联电涨超4%；英伟达涨超3%，美光科技涨超2%，英特尔、台积电、高通涨超1%。",
+          "link": "https://wallstreetcn.com/livenews/1979126",
+          "publishedOn": "2021-05-24T14:25:07.000Z",
+          "wordCount": 141,
+          "title": "美股芯片股、集成电路股集体上涨，半导体板块ETF涨2.3%，奇景光电、拉姆研究涨超6%，联电涨超4%；英伟达涨超3%，美光科技涨超2%，英特尔、台积电、高通涨超1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979124",
+          "author": null,
+          "description": "美股涨幅扩大，道指涨超200点，纳指涨1.4%，标普涨超1%。",
+          "link": "https://wallstreetcn.com/livenews/1979124",
+          "publishedOn": "2021-05-24T14:22:15.000Z",
+          "wordCount": 141,
+          "title": "美股涨幅扩大，道指涨超200点，纳指涨1.4%，标普涨超1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979123",
+          "author": null,
+          "description": "据中国三农发布微信公众号，近日，由农业农村部、国家发展改革委、商务部、海关总署、国家统计局联合发布的生猪产品信息数据正式上线。该数据平台不仅提供有关生猪产品的生产、价格、消费、进出口以及成本收益等季度数据分析，同时还汇集了近几年多部门出台公布的生猪产业发展相关重要政策。",
+          "link": "https://wallstreetcn.com/livenews/1979123",
+          "publishedOn": "2021-05-24T14:21:10.000Z",
+          "wordCount": 142,
+          "title": "据中国三农发布微信公众号，近日，由农业农村部、国家发展改革委、商务部、海关总署、国家统计局联合发布的生猪产品信息数据正式上线。该数据平台不仅提供有关生..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979122",
+          "author": null,
+          "description": "瑞达利欧：（比特币市值当前大约略高于1万亿美元，美国债券总值23万亿美元）相比之下，黄金（剔除珠宝和央行持仓）价值大约为5万亿美元。",
+          "link": "https://wallstreetcn.com/livenews/1979122",
+          "publishedOn": "2021-05-24T14:20:58.000Z",
+          "wordCount": 141,
+          "title": "瑞达利欧：（比特币市值当前大约略高于1万亿美元，美国债券总值23万亿美元）相比之下，黄金（剔除珠宝和央行持仓）价值大约为5万亿美元。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979121",
+          "author": null,
+          "description": "5月24日，安徽六安市新增1例确诊病例、1例无症状感染者；另有1例无症状感染者转为确诊病例。（人民日报）",
+          "link": "https://wallstreetcn.com/livenews/1979121",
+          "publishedOn": "2021-05-24T14:17:38.000Z",
+          "wordCount": 141,
+          "title": "5月24日，安徽六安市新增1例确诊病例、1例无症状感染者；另有1例无症状感染者转为确诊病例。（人民日报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979120",
+          "author": null,
+          "description": "ICE美元指数下跌将近0.3%，刷新日低至89.78。",
+          "link": "https://wallstreetcn.com/livenews/1979120",
+          "publishedOn": "2021-05-24T14:15:34.000Z",
+          "wordCount": 141,
+          "title": "ICE美元指数下跌将近0.3%，刷新日低至89.78。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979117",
+          "author": null,
+          "description": "瑞达利欧：我认为比特币最大的风险就是成功。",
+          "link": "https://wallstreetcn.com/livenews/1979117",
+          "publishedOn": "2021-05-24T14:10:32.000Z",
+          "wordCount": 141,
+          "title": "瑞达利欧：我认为比特币最大的风险就是成功。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979115",
+          "author": null,
+          "description": "5月24日，天眼查显示，广州小鹏自动驾驶科技有限公司发生工商变更，注册资本由1.5亿元增至3.5亿元，增幅约133.33%。",
+          "link": "https://wallstreetcn.com/livenews/1979115",
+          "publishedOn": "2021-05-24T14:09:20.000Z",
+          "wordCount": 142,
+          "title": "5月24日，天眼查显示，广州小鹏自动驾驶科技有限公司发生工商变更，注册资本由1.5亿元增至3.5亿元，增幅约133.33%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979113",
+          "author": null,
+          "description": "安联首席经济顾问El-Erian：比特币和其他加密货币价格的高波动性将会继续。",
+          "link": "https://wallstreetcn.com/livenews/1979113",
+          "publishedOn": "2021-05-24T14:07:07.000Z",
+          "wordCount": 141,
+          "title": "安联首席经济顾问El-Erian：比特币和其他加密货币价格的高波动性将会继续。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979111",
+          "author": null,
+          "description": "中国证券投资基金业协会公布的数据显示，一季度，易方达基金以9277.88亿元的非货币基金月均规模位居基金公司非货币基金月均规模第一，汇添富基金和广发基金紧随其后，二者一季度非货币基金月均规模分别为5766.55亿元和5705.52亿元。华夏基金、富国基金、南方基金、嘉实基金、博时基金、招商基金和中欧基金分列第四到第十位。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1979111",
+          "publishedOn": "2021-05-24T14:00:31.000Z",
+          "wordCount": 142,
+          "title": "中国证券投资基金业协会公布的数据显示，一季度，易方达基金以9277.88亿元的非货币基金月均规模位居基金公司非货币基金月均规模第一，汇添富基金和广发基金紧随..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979110",
+          "author": null,
+          "description": "桥水基金创始人达利欧：现在持有美元现金的动机很低。不支付利息，甚至连债券的收益率也不高。最终，人们会选择“几乎任何其他东西”——股票、黄金、比特币、房地产。我有一些比特币，在通货膨胀的情况下，“我个人更愿意购买比特币，而不是债券”。（CoinDesk）",
+          "link": "https://wallstreetcn.com/livenews/1979110",
+          "publishedOn": "2021-05-24T13:59:59.000Z",
+          "wordCount": 144,
+          "title": "桥水基金创始人达利欧：现在持有美元现金的动机很低。不支付利息，甚至连债券的收益率也不高。最终，人们会选择“几乎任何其他东西”——股票、黄金、比特币、房..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979109",
+          "author": null,
+          "description": "元宇宙游戏龙头股Roblox盘初快速拉升，涨超5%，创上市新高，一季度总收入同比增长140%，达3.87亿美元，平均日均活跃用户数量(DAU)为4210万，同比增长79%。",
+          "link": "https://wallstreetcn.com/livenews/1979109",
+          "publishedOn": "2021-05-24T13:57:08.000Z",
+          "wordCount": 141,
+          "title": "元宇宙游戏龙头股Roblox盘初快速拉升，涨超5%，创上市新高，一季度总收入同比增长140%，达3.87亿美元，平均日均活跃用户数量(DAU)为4210万，同比增长79%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979106",
+          "author": null,
+          "description": "桥水基金创始人达利欧：我有一些比特币，在通货膨胀的情况下，“我个人更愿意购买比特币，而不是债券”。（CoinDesk）",
+          "link": "https://wallstreetcn.com/livenews/1979106",
+          "publishedOn": "2021-05-24T13:52:35.000Z",
+          "wordCount": 141,
+          "title": "桥水基金创始人达利欧：我有一些比特币，在通货膨胀的情况下，“我个人更愿意购买比特币，而不是债券”。（CoinDesk）"
+        },
+        {
           "id": "https://wallstreetcn.com/livenews/1979105",
           "author": null,
           "description": "Beyond Meat涨8%，现报115.2美元，最新市值约73亿美元。投行Bernstein发布研究报告，上调Beyond Meat评级至“跑赢大市”，目标价为130美元。",
@@ -3455,6 +4049,15 @@
           "publishedOn": "2021-05-24T13:30:51.000Z",
           "wordCount": 152,
           "title": "道指高开120点，纳指涨0.64%，标普500指数涨0.55%。区块链板块走高，中概教育股走低。高途跌近8%，新东方跌超5%，激光雷达公司Luminar涨超8%，特斯拉与其签订了..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979090",
+          "author": null,
+          "description": "标普500指数高开22.06点，涨幅0.53%，报4177.92点；\n道琼斯工业平均指数高开119.59点，涨幅0.35%，报34327.43点；\n纳斯达克综合指数高开89.52点，涨幅0.66%，报13560.51点。",
+          "link": "https://wallstreetcn.com/livenews/1979090",
+          "publishedOn": "2021-05-24T13:30:28.000Z",
+          "wordCount": 143,
+          "title": "标普500指数高开22.06点，涨幅0.53%，报4177.92点；\n道琼斯工业平均指数高开119.59点，涨幅0.35%，报34327.43点；\n纳斯达克综合指数高开89.52点，涨幅0.66%，报1..."
         },
         {
           "id": "https://wallstreetcn.com/livenews/1979089",
