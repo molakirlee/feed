@@ -6,6 +6,15 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/66759",
+          "author": "玉树芝兰",
+          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n自从去年以来，因为线上教学和当 UP 主，我录制视频的机会显著增多了。只不过，视频背景的处理一直是个痛点，这是我最近录的一段视频开头部分。\n\n你如果一直在看我的视频节目，对这个背景兴许并不陌生。我真的喜欢后面墙上不规则的黑板白班、脱落的墙皮和不知道什么颜料的笔画上去的线条吗？\n当然不是。但是我没有选择。家里地方小，东西堆得满。能利用的地方，只有这么大而已。之前在视频教程里面，我给你介绍过人工智能应用 runwayml 把任何的视频背景都变成绿幕。\n\n这样你就可以把背景换成你想要的样子。书房、图书馆、咖啡馆……甚至是太空。\n但是这个方法有些问题。一来需要你手工进行微调（主要对于边缘未能正确识别的区域），二来价格比较高。原先我试用的时候是 15 美金/月。刚刚打开网站又看了一眼——又涨价了。现在需要 28 美金/月，还是按年支付的优惠价格。\n\n面对高价，我是不是得转回头，每次都把绿幕弄上呢？\n\n不。明明有了新的技术，咱可不能这么容易服输。好在，我发现了另一款同样基于人工智能的应用。它可以变任意背景为绿幕效果，不需要你手动进行边缘色块调整，而且还免费。\n在官网主页上面，有一些实际效果的演示，例如这一个：\n\n实话实说，我被震惊了。别说是人像边缘了，就连快速抖动散乱头发的抠图，都做得堪称完美。应用的作者是一群来自华盛顿大学的研究者。\n\n你要是对这个应用背后的技术细节感兴趣，他们的论文 也可以全文阅读。\n\n下面我们来说说这个抠图应用怎么用。尽管作者在官网主页上提供了源代码和脚本样例，但是我觉得最好的使用方式，还是使用 Google Colab…",
+          "link": "https://sspai.com/post/66759",
+          "publishedOn": "2021-05-25T03:30:19.000Z",
+          "wordCount": 181,
+          "title": "免费还有 AI 加持，我这样给视频换背景"
+        },
+        {
           "id": "https://sspai.com/post/66837",
           "author": "少数派编辑部",
           "description": "Apple WWDC21 将于 6 月 8 日正式举行\n5 月 24 日，Apple 在官网发布公告，公布了年度全球开发者大会的活动安排，包括主题演讲和 Platforms State of the Union 的时间，并分享了有关开发者将如何了解 iOS、iPadOS、macOS、watchOS 和 tvOS 未来发展的更多信息。本次 WWDC 将采用完全线上的方式，免费向全世界 227 个地区的超过 3000 万名 Apple 开发者开放。来源\n\niOS 14.6 和 iPadOS 14.6 开始推送\nApple 于 5 月 24 日正式发布 iOS 14.6 和 iPadOS 14.6，新版本带来了 Apple Card Family 的支持。此外，用户可以订阅播客付费频道与节目，为 AirTag 和 Find My 网络添加电子邮件地址的丢失模式提醒选项；语音控制用户可以在重启后只用语音解锁 iPhone。此次更新还修复了在 Apple Watch 上锁定 iPhone 后，用 Apple Watch 解锁可能不起作用、提醒事项可能显示为空行、iPhone 在启动时可能性能下降等诸多问题。此前已经公布的 Apple Music 无损版则不在本次更新中上线，依发布计划，这项特性可能六月才会正式上线。来源\nSamsung 正式推出 Galaxy Tab S7 FE 平板电脑\nSamsung 于 5 月 24 日正式推出 Galaxy Tab S7 FE 平板电脑，新机配备了 12.4 英寸 LCD 显示屏，分辨率为 2560 x 1600（WQXGA），支持 S Pen；处理器采用了高通骁龙 750G，运存为 6GB 并配备 128GB 的存储，电池容量为 10090 mAh，续航时间可达 12 小时。来源\nSamsung 宣布更新 Smart Monitor 系列产品\n5 月 24 日，Samsung 在官网发布公告，称 Smart Monitor 系列即将迎来更新，增加 32 英寸以及 43 英寸的版本。其中，Smart Monitor M7 43 英寸版本采用无边框设计，并配备 4K UHD 显示屏。来源\n\n高通发布第二代骁龙 7c 计算平台\n高通于 5 月 24 日发布了其第二代骁龙 7c 计算平台，和上一代类似，计算平台面向入门级 PC 和 ChromeBook，但在性能上有大幅度的提升，首先处理器的主频提升至 2.55 GHz，电池续航时间则可以达到其他入门机笔记本的两倍，一次充电可以运行 19 小时，支持 Wi-Fi 以及 4G（不支持 Wi-Fi 6 以及 5G）并内置 GPS，同时还加入了对虚拟空间音频的支持，支持回声消除和噪音抑制（ECNS）特性，并且可以支持 4K HDR 内容的拍摄、播放以及流媒体传输，最高支持 3200 万像素的摄像头，该计算平台预计将在今年夏季开始出货。来源\n\n柔宇科技发布 micro-LED 弹力柔性屏技术\n在上周举办的 2021 Display Week 中，柔宇科技正式发布其自研 micro-LED 弹力柔性屏技术（micro-LED based stretchable display technology）。该技术可以让柔性屏具有一定的弹性和形变能力，支持凹凸、扭曲、旋转等大尺度不规则变形。来源\n\n你可能错过的好文章\n\n💿️ 十几年前的电子潮品再入手：你还需要 MP4 播放器吗？\n🎉 豆瓣不只可以查评分、找电影，你还可以在上面关注这 10+ 个有趣的小组\n📎️ 福利派｜带你解决信息过载的痛，加量不加价的 Cubox 工具升值包上线\n👀️ 幕后 | 认真做好产品，就是对产品最好的推广\n⭐️️ 派评 | 近期值得关注的 App\n\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀\n© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。",
@@ -1614,6 +1623,195 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631180",
+          "author": "方凌",
+          "description": "券商这一行当，总逃不过强周期的宿命。于是在吃港美股交易这碗饭的互联网券商身上，我们正看到这样的光景：IPO打新过去旱涝保收，如今赚钱效应没有了；新冠疫情带来的互联网用户增量和时长消退……",
+          "link": "https://wallstreetcn.com/articles/3631180",
+          "publishedOn": "2021-05-25T03:50:18.000Z",
+          "wordCount": 159,
+          "title": "富途证券：38倍市销率危如累卵？"
+        },
+        {
+          "id": "3631164",
+          "author": "夏雨辰",
+          "description": "大金融板块持续拉升，券商、保险、银行等板块领涨两市。白酒股大涨，泸州老窖涨近7%，贵州茅台、五粮液双双涨超4%。",
+          "link": "https://wallstreetcn.com/articles/3631164",
+          "publishedOn": "2021-05-25T03:47:36.000Z",
+          "wordCount": 115,
+          "title": "大金融板块集体爆发！“吃药喝酒”行情再现 沪指大涨1.6%"
+        },
+        {
+          "id": "3631173",
+          "author": "夏雨辰",
+          "description": "近期，共享单车平台“哈啰出行”、播客“喜马拉雅”和云计算公司“七牛云”均推迟了赴美上市的计划。",
+          "link": "https://wallstreetcn.com/articles/3631173",
+          "publishedOn": "2021-05-25T03:15:33.000Z",
+          "wordCount": 118,
+          "title": "科技股大跌，中概股美国上市潮摁下暂停键"
+        },
+        {
+          "id": "3631174",
+          "author": "曾心怡",
+          "description": "什么是REITs？公募化与之前的私募类有何差别？收益来源是哪些？又有什么风险？",
+          "link": "https://wallstreetcn.com/articles/3631174",
+          "publishedOn": "2021-05-25T03:14:03.000Z",
+          "wordCount": 244,
+          "title": "REITs投资需要知道的那些事"
+        },
+        {
+          "id": "3630908",
+          "author": "李迅雷",
+          "description": "未来阶段中国资本市场的趋势是集中度还会进一步提高，大家可能会集中在一些行业中，像高科技行业、新能源行业、生物医药行业等等。",
+          "link": "https://wallstreetcn.com/premium/articles/3630908?layout=wscn-layout",
+          "publishedOn": "2021-05-25T03:05:16.000Z",
+          "wordCount": 131,
+          "title": "李迅雷 X 大师对话录（三）未来阶段的中国资本市场的趋势判断"
+        },
+        {
+          "id": "3631175",
+          "author": "熊君",
+          "description": "25日早盘，在大金融带领下两市再度低开高走，各指数全面大涨，沪指一度创下近三个月新高。\n板块方面，券...",
+          "link": "https://wallstreetcn.com/articles/3631175",
+          "publishedOn": "2021-05-25T02:58:32.000Z",
+          "wordCount": 123,
+          "title": "大金融爆发，沪指创近三个月新高，涨停数最多的却是它"
+        },
+        {
+          "id": "3631126",
+          "author": "陈圣洁",
+          "description": "效果如何有待关注",
+          "link": "https://wallstreetcn.com/articles/3631126",
+          "publishedOn": "2021-05-25T02:46:22.000Z",
+          "wordCount": 131,
+          "title": "首批民营银行“标本”：金城银行迎来新行长，空缺3年后大股东出手“补位”"
+        },
+        {
+          "id": "3631169",
+          "author": "曾心怡",
+          "description": "主打性价比的钠离子电池成本较低、高低温性能更优异，但是想要替代锂电池成为动力领域主流技术，可能性或许并不大。",
+          "link": "https://wallstreetcn.com/articles/3631169",
+          "publishedOn": "2021-05-25T02:41:27.000Z",
+          "wordCount": 152,
+          "title": "颠覆锂电池，钠电池做得到吗？"
+        },
+        {
+          "id": "3631168",
+          "author": "方凌",
+          "description": "4月浙江专门出台监管措施遏制价格战，价格战最激烈的义乌又以“低价倾销”要求百世、极兔整改。分析认为，短期来看，这将遏制快递业的无序竞争，价格竞争有所缓和；长期来看，或对行业盈利改善具有促进作用。",
+          "link": "https://wallstreetcn.com/articles/3631168",
+          "publishedOn": "2021-05-25T02:11:21.000Z",
+          "wordCount": 164,
+          "title": "浙江“产粮区”价格强监管 快递“价格战”打完了？"
+        },
+        {
+          "id": "3631170",
+          "author": "周智宇",
+          "description": "“去家族化”进行时。",
+          "link": "https://wallstreetcn.com/articles/3631170",
+          "publishedOn": "2021-05-25T02:05:05.000Z",
+          "wordCount": 144,
+          "title": "“地王”制造者龙光和它的金主们"
+        },
+        {
+          "id": "3631167",
+          "author": "俞涛",
+          "description": "上海发布关于加快推进上海全球资产管理中心建设的若干意见",
+          "link": "https://wallstreetcn.com/articles/3631167",
+          "publishedOn": "2021-05-25T01:51:28.000Z",
+          "wordCount": 154,
+          "title": "上海：力争到2025年，迈入全球资产管理中心城市前列"
+        },
+        {
+          "id": "3631165",
+          "author": "韩旭阳",
+          "description": "剖析历史中价格长波的结构，看清中国大宗商品的未来。",
+          "link": "https://wallstreetcn.com/articles/3631165",
+          "publishedOn": "2021-05-25T01:29:45.000Z",
+          "wordCount": 114,
+          "title": "大宗商品的长波：来自三个世纪的证据"
+        },
+        {
+          "id": "3631158",
+          "author": "林嘉浩",
+          "description": "汽车也仅仅只是顺丰对未来规划的部分而已。",
+          "link": "https://wallstreetcn.com/articles/3631158",
+          "publishedOn": "2021-05-25T01:19:04.000Z",
+          "wordCount": 161,
+          "title": "新公司涵盖新能源车业务，顺丰也要卖车？"
+        },
+        {
+          "id": "3631150",
+          "author": "俞涛",
+          "description": "亚马逊正在为其Prime Video服务扩展更多影视内容，以便与Netflix、迪士尼等其他流媒体平台竞争。",
+          "link": "https://wallstreetcn.com/articles/3631150",
+          "publishedOn": "2021-05-25T01:03:05.000Z",
+          "wordCount": 132,
+          "title": "90亿美元！亚马逊接近完成收购米高梅 将《007》《猫和老鼠》等收入囊中"
+        },
+        {
+          "id": "3631155",
+          "author": "方凌",
+          "description": "流动性过剩的表现是美联储逆回购激增，这也是当前市场关心的焦点。有分析认为，如果这一情况继续，美联储可能要么不得不提高IOER，要么利率将很快降至负值。",
+          "link": "https://wallstreetcn.com/articles/3631155",
+          "publishedOn": "2021-05-25T00:59:37.000Z",
+          "wordCount": 117,
+          "title": "金融体系钱太多 或迫使美联储调整货币政策"
+        },
+        {
+          "id": "3631160",
+          "author": "见智研究员",
+          "description": "全球最低企业税率箭在弦上？",
+          "link": "https://wallstreetcn.com/premium/articles/3631160?layout=wscn-layout",
+          "publishedOn": "2021-05-25T00:57:41.000Z",
+          "wordCount": 109,
+          "title": "5月25日会员早报：美联储确认未来还有1万亿美元大水！ 桥水达里奥接力当币圈新教主？"
+        },
+        {
+          "id": "3631159",
+          "author": "叶桢",
+          "description": "多次公开diss激光雷达的马斯克改主意了？有分析认为，特斯拉可能在测试使用激光雷达，也可能只是使用Luminar激光雷达来验证他们的视觉派全自动驾驶FSD系统。",
+          "link": "https://wallstreetcn.com/articles/3631159",
+          "publishedOn": "2021-05-25T00:55:16.000Z",
+          "wordCount": 166,
+          "title": "特斯拉测试激光雷达 马斯克“自我打脸”？曾嘲笑“傻子才用”"
+        },
+        {
+          "id": "3631152",
+          "author": "曾心怡",
+          "description": "“樱花”重达15.81克拉，是拍卖史上最大的艳彩紫粉红钻，最终被亚洲私人买家以2930万美元天价买下，刷新了此前由另一枚艳彩紫粉红钻“玫瑰花韵”创下的拍卖纪录。",
+          "link": "https://wallstreetcn.com/articles/3631152",
+          "publishedOn": "2021-05-25T00:34:28.000Z",
+          "wordCount": 126,
+          "title": "2930万美元！15.8克拉！史上最大“樱花粉”巨钻拍出天价创纪录"
+        },
+        {
+          "id": "3631151",
+          "author": "韩旭阳",
+          "description": "沙特希望通过资产出售和公私合营的方式为政府筹措资金，也为国家经济注入新的活力。",
+          "link": "https://wallstreetcn.com/articles/3631151",
+          "publishedOn": "2021-05-25T00:29:24.000Z",
+          "wordCount": 118,
+          "title": "预算吃紧，沙特计划通过私有化筹措550亿美元"
+        },
+        {
+          "id": "3631059",
+          "author": "俞涛",
+          "description": "最近的几个月，量化中性产品出现了逆转，已经出现大面积不赚钱甚至亏钱现象凸显。",
+          "link": "https://wallstreetcn.com/articles/3631059",
+          "publishedOn": "2021-05-25T00:20:02.000Z",
+          "wordCount": 141,
+          "title": "被嫌弃中的量化对冲产品"
+        },
+        {
+          "id": "3631156",
+          "author": "陈真",
+          "description": "①中国生物制药公布季报，反推科兴21Q1净利润约100亿元，灭活疫苗单支净利润在50元，净利率约40-50%，超出市场预期，新冠疫苗进入业绩兑现期。\n②欧盟将在7月1日开通“新冠通行证”，预计其他国家也将在随后逐步实行类似的“新冠通行证”逐步开放部分地区直至全球的自由流动，新冠疫苗销售具备持续性。\n③全球疫情仍在反复当中，新冠病毒类流感化概率高，新冠疫苗很大可能成为需要定期接种的大品种。",
+          "link": "https://wallstreetcn.com/articles/3631156",
+          "publishedOn": "2021-05-25T00:13:16.000Z",
+          "wordCount": 126,
+          "title": "龙头一季度赚100亿，新冠疫苗进入业绩兑现期，后续还有大催化"
+        },
+        {
           "id": "3631145",
           "author": "林菁扬",
           "description": "根据2021年一季报数据，蔡嵩松的诺安成长只买了三个半导体相关行业，而银河的郑巍山只买了两个行业。由于同期入行，风格又高度雷同。所以，这俩基金的收益情况也高度一致。",
@@ -1621,6 +1819,15 @@
           "publishedOn": "2021-05-24T23:54:01.000Z",
           "wordCount": 178,
           "title": "这是一个跟诺安蔡经理并称“卧龙凤雏”的男人"
+        },
+        {
+          "id": "3631144",
+          "author": "叶桢",
+          "description": "中国是全球最大的休闲食品市场之一，2020年市场空间达到7749亿元，预计后续CAGR为7.3%，2025年有望破万亿。行业整体毛利率30%-40%、细分赛道龙头净利率可达15%以上。",
+          "link": "https://wallstreetcn.com/articles/3631144",
+          "publishedOn": "2021-05-24T23:43:44.000Z",
+          "wordCount": 133,
+          "title": "万亿级别！卫龙之后，休闲零食赛道还有哪些掘金机会？"
         },
         {
           "id": "3631137",
@@ -2737,6 +2944,15 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/business-57236708",
+          "author": null,
+          "description": "image copyrightGetty Images\n\n\nTata Steel has said it will compensate the families of its workers in India that die of Covid-19.\n\n\nThe firm said it will pay deceased employees' salaries, housing and medical benefits until what would have been their retirement at the age of 60.\n\n\nIt also pledged to cover the education costs of the children of dead frontline workers until they graduate.\n\n\nThis week India officially counted 300,000 dead from the virus, though experts warn the number is higher.\n\n\n\nIndia marks 300,000 Covid deaths as pandemic rages\nIndia orders social media to remove 'India variant'\nWhere is the Indian variant and how is it spreading?\n\n\n\n\"Tata Steel stands together with a deep sense of loss at the sad demise of its beloved employees during this dreadful pandemic,\" the company sa…",
+          "link": "https://www.bbc.co.uk/news/business-57236708",
+          "publishedOn": "2021-05-25T02:22:51.000Z",
+          "wordCount": 972,
+          "title": "[Business] Tata Steel to continue salaries for Covid victims' families in India"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-india-57189135",
           "author": null,
           "description": "image copyrightGetty Images\nimage captionRajpath has been a huge draw for Delhi residents and tourists over the decades\n\nRajpath (King's Avenue), in the centre of the Indian capital, is to Delhi'ites what Central Park is to New Yorkers, or the Champs-Elysees to Parisians.\n\n\nThe manicured lawns on either side of the wide ceremonial boulevard are a place for thousands to gather to soak up the winter sun or have an ice-cream on summer evenings.\n\n\nBut the 3km (1.8 mile)-long road, stretching from Rashtrapati Bhavan, the presidential palace, at one end to the India Gate war memorial at the other, now resembles a massive dust bowl. \n\n\nThe area is dotted with craters and mounds of earth - barricades stop people from getting close to men in reflective vests and yellow hard hats who are laying sewa…",
@@ -3209,6 +3425,33 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/Belarus-forces-airliner-to-land-and-arrests-opponent-20210524/5903237.html",
+          "author": null,
+          "description": "白俄羅斯反對派活動人士和記者拉曼·普拉塔塞維奇星期天被政府從航班上攔截拘捕。圖為普拉塔塞維奇資料照（路透社2017年4月10日）\n\n\n\n\n白俄羅斯星期天迫降飛越領空的國際航班並登機抓人的行動引起強烈的國際反應。\n5月23日星期天，一架愛爾蘭瑞安航空公司( Rayanair )的航班，在從希臘飛往立陶宛的途中被白俄羅斯當局攔截到該國首都明斯克停留數小時。期間，白俄羅斯從飛機上抓走了白俄羅斯反對派記者拉曼·普拉塔塞維奇( Roman Protasevich )，他曾經擔任過白俄羅斯反對派媒體Nexta的編輯，一直抨擊總統盧卡申科。\n白俄羅斯媒體說，因為收到炸彈警報，擔心有爆炸威脅，一架前蘇聯時代的米格-29戰鬥機將這架客機“護送”至白俄羅斯首都明斯克(Minsk)，但在飛機上沒有發現爆炸物。\n立陶宛機場稱，他們沒有收到關於機上有炸彈威脅的報告。\n俄羅斯《新報》(Novaya Gazeta)引述瑞安航空公司代表的話說，通知機組人員有炸彈威脅、並要求改變航道的，是白俄羅斯航空指揮中心。\n白俄羅斯的行為引發西方社會的巨大反響。\n英國廣播公司外事記者詹姆斯·蘭戴爾(James Landale)稱：“我們還不清楚這個故事的全部細節，但它可能會產生巨大影響。”\n北約秘書長延斯·斯托爾滕貝格在一條推文中，敦促對這起“嚴重而危險”的事件“進行國際調查”。\n瑞安航空公司所在國愛爾蘭的外交大臣西蒙·科韋尼（Simon Coveney）在推特上說：“歐盟如果不採取措施，會被白俄羅斯看成是無能和優柔寡斷的表現。”\n立陶宛外交大臣加布里埃留斯·蘭德斯貝吉斯（Gabrielius Landsbergis）說，他與美國助理國務卿菲利普·里克（Philip Reeker）討論了瑞安航空的飛機改道問題，並敦促西方做出強烈反應。\n美國國務卿布林肯指出，白俄羅斯政府為逮捕記者，強迫一架民航機改道，這種行為令人震驚；他並要求立即釋放普羅塔塞維奇。布林肯在星期天的推特中說：“我們要求進行國際調查，並正在與我們的合作夥伴協調下一步行動……美國與白俄羅斯人民站在一起。”\n美國參議院外交委員會主席梅嫩德斯(Bob Menendez)與其他幾位歐洲國家議會外事負責人發表聲明，譴責這一“海盜行為”，並呼籲推出禁令，禁止航班飛越白俄羅斯上空。\n英國外交大臣拉布警告，這一“異常舉動”將產生“嚴重影響”。\n白俄羅斯反對派領袖季哈諾夫斯卡婭(Svetlana Tikhanovskaya)等人，要求立即釋放普羅塔塞維奇。季哈諾夫斯卡婭在去年白俄羅斯大選中敗給總統盧卡申科，而那屆選舉普遍被認為存在舞弊現象。\n歐盟委員會主席烏爾蘇拉· 馮德萊恩(Ursula von der Leyen)表示，這一非法舉動“將會面臨後果”。\n歐洲各國並威脅將對白俄羅斯實施新一輪制裁。\n白俄羅斯在去年八月份的選舉之後，被反對派指控選舉作弊。隨後，美國以及歐盟、英國和加拿大，已經對包括盧卡申科在內的近90名白俄羅斯官員，實行資產凍結和旅行禁令。\n維基百科稱，2020年8月，白俄羅斯總統選舉期間，政府試圖切斷互聯網之後，普拉塔塞維奇擔任編輯的Nexta電報頻道，成為外界獲取人們抗議選舉舞弊消息的主要來源之一。它曾在一個星期之內獲得80萬新訂戶。\n2020年11月5日，普拉塔塞維奇被白俄羅斯政府指控組織群眾暴動。\n26歲的普拉塔塞維奇青少年時代就是一名異議活動人士。他2010年代早期開始參加各種抗議活動，積極致力於反對總統盧卡申科。他在白俄羅斯國立大學學習過新聞專業，曾經從業於美國聯邦政府旗下的“自由歐洲電台”。\n《紐約時報》稱，普拉塔塞維奇的名字被白俄羅斯安全機構KGB列在一份恐怖分子名單上，“如果他被控和被判恐怖主義罪行成立，將可能面臨死刑；而煽動破壞公眾秩序和社會仇恨，則面臨超過12年監禁。”\n今年66歲的盧卡申科自1994年以來，一直掌控白俄羅斯政權，至今已經長達27年。去年8月大選後，他持續打壓異議聲音。許多反對派人物已經被捕入獄，有一些人像普羅塔塞維奇一樣逃亡海外。",
+          "link": "https://www.voacantonese.com/a/Belarus-forces-airliner-to-land-and-arrests-opponent-20210524/5903237.html",
+          "publishedOn": "2021-05-25T01:03:01.000Z",
+          "wordCount": 316,
+          "title": "白俄羅斯攔截愛爾蘭航班拘捕反對派  引發國際眾怒"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/China-bill-ron-wyden-fishing-forced-labor-20210524/5903229.html",
+          "author": null,
+          "description": "來自俄勒岡州的民主黨籍聯邦參議員懷登在參議院的一個聽證會上。\n\n\n\n\n美國政治新聞(Politico)網站報導，美國參議院金融委員會主席、來自俄勒岡州的民主黨人懷登(Ron Wyden)計劃提出一項海鮮條款，作為擬議中的《美國創新與競爭法》的修正案。\n這項修正案建立在商務部和國務院去年發表的一份聯合報告的基礎上。該報告將中國確定為“在其漁業部門使用強迫勞動的嚴重違法者，在世界各地有許多有關懸掛中國國旗和中國擁有船隻的報告。”該報告還列出了其他28個被控使用強迫勞動打撈海鮮的國家。\n懷登參議員將要推出的海鮮條款要求美國海關和邊境保護局在一年內發布新規定，以防止進口由強迫勞動生產的海鮮產品。\n2018年，美國從中國進口的海鮮產品總額接近30億美元，但去年降至僅16億美元，這主要是因為特朗普總統徵收的關稅導致的。\n《美國創新與競爭法》原名《無盡邊疆法》，旨在幫助美國與中國競爭。該法案擬總計投資近2000億美元，其中包括520億美元用於支持國內半導體製造業。這部法案經過多次艱難修改後，本月在參議院商務委員會獲得通過。5月17日，參議院全院兩黨議員以壓倒多數的表決結果，決定終無休止辯論，使法案向前推進。\n參議院多數黨領袖舒默（Chuck Schumer）希望參議院本週通過這項法案，但共和黨人提出了大量修正和增加內容的要求，這有可能導致辯論的拖延。",
+          "link": "https://www.voacantonese.com/a/China-bill-ron-wyden-fishing-forced-labor-20210524/5903229.html",
+          "publishedOn": "2021-05-25T00:50:24.000Z",
+          "wordCount": 287,
+          "title": "美國參議員計劃對與中國競爭法案提修正案  禁止進口涉強迫勞動海鮮"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/eu-sanctions-belarus-over-plane-diversion-arrest-of-journalist-20210524/5903227.html",
+          "author": null,
+          "description": "生活在波蘭的白俄羅斯人和波蘭人在歐盟委員會駐華沙辦事處外舉牌抗議，要求爭取釋放白俄羅斯反對派活動人士普拉塔維奇。(2021年5月24日)\n\n\n\n\n歐洲聯盟敦促成員國對白俄羅斯的航空公司關閉領空和機場。在此之前，白俄羅斯星期日強迫一架民航客機在明斯克緊急降落並逮捕了一名批評威權總統盧卡申科的反對派博主。\n漢莎航空(Lufthansa)等一些航空公司同天早些時候發表聲明說，他們不會飛越白​俄羅斯領空。\n歐盟還呼籲調查這事件併計劃對迫使飛機改道的白俄羅斯官員實施制裁。\n\n在白俄羅斯在去年8月有爭議的總統選舉後實行鎮壓之後，白俄羅斯政府的很多成員已經受到了歐盟的製裁。\n歐盟和美國都呼籲盧卡申科政府立即釋放拉曼·普拉塔塞維奇。這位26歲的博主一直在波蘭過著流亡生活。\n\n普拉塔塞維奇曾是有影響力的Telegram頻道Nexta和Nexta Live的編輯。白俄羅斯當局搜查了那架飛機，他被警方拘捕。明斯克當局說，盧卡申科下令軍隊緊急派出一架米格-29戰鬥機，監送這架客機飛至明斯克機場。\n白俄羅斯國家電視台星期一播放的錄像顯示普拉塔塞維奇“承認”對煽動騷亂負有責任的指控。\n“我可以說我沒有健康問題……我繼續與調查人員合作，並承認在明斯克市組織了大規模動亂。”\n但是，就在他和他的女朋友被警方帶下這架被迫改道的飛機之前，據報導，普拉塔塞維奇渾身顫抖地對同機一名乘客說：“我在這要被判死刑了。”\n瑞安航空公司(Ryanair)的FR4978航班從雅典起飛，在白俄羅斯領空距離原定目的地---立陶宛維爾紐斯大約10公里處被要求改變航向，據稱是有炸彈威脅。\n星期一，瑞安航空公司稱這起事件是“航空海盜行為”並說，該公司正在配合歐盟安全機構和北約所展開的調查。\n在華盛頓，白宮新聞秘書莎琪形容白俄羅斯政府在這起事件中所扮演的角色“令人震驚”，並說，美國要求對此展開國際調查。白俄羅斯是前蘇聯共和國，與俄羅斯政府關係密切。\n莎琪說：“這是該政權對國際和平與安全的公然蔑視。”\n聯合國發言人說，古特雷斯秘書長支持“對這一令人不安的事件進行全面、透明和獨立的調查”。\n這架飛機從雅典起飛時總共有126名乘客，但只有121名乘客在維爾紐斯著陸。飛機上還有六名機組人員。瑞安公司首席執行官麥克爾·歐萊瑞說，他相信，這架飛機上有白俄羅斯特工人員，他們也在明斯克下了飛機。這似乎顯示，這一行動與在希臘地面的特工人員進行了協調。\n去年，在圍繞選舉舞弊的反盧卡申科抗議期間，Nexta頻道成為抗議組織者的主要渠道之一，明斯克當局隨後指控普拉塔塞維奇犯有恐怖主義和挑動騷亂的罪名。\n盧卡申科在8月的選舉中贏得第六屆任期，號稱獲得了80%的選票。不過，國內很多人指責他舞弊。\n在隨後數月的抗議期間，白俄羅斯有3萬4千多人被捕，數以千計的人遭到毒打。\n美國國務卿布林肯星期日說，美國“強烈譴責兩個歐盟成員國之間的一次航班被強行改道並隨後在明斯克帶走並逮捕記者拉曼·普拉塔塞維奇。我們要求立即將其釋放” 。\n布林肯在聲明中說：“盧卡申科政權從事的這一令人震驚的行為威脅了包括美國公民在內的120多名乘客的生命。”\n總部在美國的保護記者委員會(CPJ)星期日對這一事件表示“震驚”，並說盧卡申科政府“過去一年來越來越嚴重地窒息白俄羅斯新聞界，對新聞業者實行拘捕、罰款和驅逐，並將他們判處越來越長的監禁”。保護記者委員會呼籲立即釋放普拉塔塞維奇。\n普拉塔塞維奇被捕前在雅典報導斯維特蘭娜·季哈諾夫斯卡婭的訪問。季哈諾夫斯卡婭宣稱，由於去年選舉存在大規模舞弊，她是白俄羅斯的流亡領導人。她呼籲國際民航組織(ICAO)調查星期日的事件和瑞安公司噴氣式客機改道問題。\n她發推說，盧卡申科“政權威脅了機上乘客的生命。從現在開始---任何在白俄羅斯上空飛行的人---都無法保證安全。必須要有國際反應！”",
+          "link": "https://www.voacantonese.com/a/eu-sanctions-belarus-over-plane-diversion-arrest-of-journalist-20210524/5903227.html",
+          "publishedOn": "2021-05-25T00:37:58.000Z",
+          "wordCount": 300,
+          "title": "歐盟因強迫客機改道並逮捕記者而對白俄羅斯實施制裁"
+        },
         {
           "id": "https://www.voacantonese.com/a/us-doubles-funding-to-prepare-for-hurricane-damage-20210524/5902832.html",
           "author": null,
