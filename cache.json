@@ -6,6 +6,15 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/66837",
+          "author": "少数派编辑部",
+          "description": "Apple WWDC21 将于 6 月 8 日正式举行\n5 月 24 日，Apple 在官网发布公告，公布了年度全球开发者大会的活动安排，包括主题演讲和 Platforms State of the Union 的时间，并分享了有关开发者将如何了解 iOS、iPadOS、macOS、watchOS 和 tvOS 未来发展的更多信息。本次 WWDC 将采用完全线上的方式，免费向全世界 227 个地区的超过 3000 万名 Apple 开发者开放。来源\n\niOS 14.6 和 iPadOS 14.6 开始推送\nApple 于 5 月 24 日正式发布 iOS 14.6 和 iPadOS 14.6，新版本带来了 Apple Card Family 的支持。此外，用户可以订阅播客付费频道与节目，为 AirTag 和 Find My 网络添加电子邮件地址的丢失模式提醒选项；语音控制用户可以在重启后只用语音解锁 iPhone。此次更新还修复了在 Apple Watch 上锁定 iPhone 后，用 Apple Watch 解锁可能不起作用、提醒事项可能显示为空行、iPhone 在启动时可能性能下降等诸多问题。此前已经公布的 Apple Music 无损版则不在本次更新中上线，依发布计划，这项特性可能六月才会正式上线。来源\nSamsung 正式推出 Galaxy Tab S7 FE 平板电脑\nSamsung 于 5 月 24 日正式推出 Galaxy Tab S7 FE 平板电脑，新机配备了 12.4 英寸 LCD 显示屏，分辨率为 2560 x 1600（WQXGA），支持 S Pen；处理器采用了高通骁龙 750G，运存为 6GB 并配备 128GB 的存储，电池容量为 10090 mAh，续航时间可达 12 小时。来源\nSamsung 宣布更新 Smart Monitor 系列产品\n5 月 24 日，Samsung 在官网发布公告，称 Smart Monitor 系列即将迎来更新，增加 32 英寸以及 43 英寸的版本。其中，Smart Monitor M7 43 英寸版本采用无边框设计，并配备 4K UHD 显示屏。来源\n\n高通发布第二代骁龙 7c 计算平台\n高通于 5 月 24 日发布了其第二代骁龙 7c 计算平台，和上一代类似，计算平台面向入门级 PC 和 ChromeBook，但在性能上有大幅度的提升，首先处理器的主频提升至 2.55 GHz，电池续航时间则可以达到其他入门机笔记本的两倍，一次充电可以运行 19 小时，支持 Wi-Fi 以及 4G（不支持 Wi-Fi 6 以及 5G）并内置 GPS，同时还加入了对虚拟空间音频的支持，支持回声消除和噪音抑制（ECNS）特性，并且可以支持 4K HDR 内容的拍摄、播放以及流媒体传输，最高支持 3200 万像素的摄像头，该计算平台预计将在今年夏季开始出货。来源\n\n柔宇科技发布 micro-LED 弹力柔性屏技术\n在上周举办的 2021 Display Week 中，柔宇科技正式发布其自研 micro-LED 弹力柔性屏技术（micro-LED based stretchable display technology）。该技术可以让柔性屏具有一定的弹性和形变能力，支持凹凸、扭曲、旋转等大尺度不规则变形。来源\n\n你可能错过的好文章\n\n💿️ 十几年前的电子潮品再入手：你还需要 MP4 播放器吗？\n🎉 豆瓣不只可以查评分、找电影，你还可以在上面关注这 10+ 个有趣的小组\n📎️ 福利派｜带你解决信息过载的痛，加量不加价的 Cubox 工具升值包上线\n👀️ 幕后 | 认真做好产品，就是对产品最好的推广\n⭐️️ 派评 | 近期值得关注的 App\n\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀\n© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。",
+          "link": "https://sspai.com/post/66837",
+          "publishedOn": "2021-05-25T00:57:05.000Z",
+          "wordCount": 298,
+          "title": "派早报：Apple WWDC21 将于 6 月 8 日正式举行、iOS 14.6 和 iPadOS 14.6 开始推送等"
+        },
+        {
           "id": "https://sspai.com/post/66827",
           "author": "少数派编辑部",
           "description": "大家好，本期《派评》的主要内容有：\n\nNotion 开放 API 功能公测。\n谜底时钟推出霓虹灯时钟效果。\nHenry：你的习惯养成陪伴宠物。\nDoodle：在任意手机上使用 Pixel 专属壁纸。\n……\n\n你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。\n值得关注的 App\n我们每天都会接触不少实用、有趣的新 App，也会关注到不少应用的更新动态。「派评」为你筛选这些 App 之后，将最值得关注的应用动态呈现给你。\nNotion：支持 API 和自动化集成\n\n平台：iOS / Android / macOS / Windows / Web\n关键词：API、自动化\n\n@huhuhang：Notion 一直是在线协作类应用中的佼佼者，而 Notion 的用户们也充分发挥自己的创造力，将 Notion 变成了数据库、个人博客等丰富多彩的次生产品。近期，多次跳票的官方 API 终于上线，又一次让 Notion 的 Geek 用户们兴奋起来。\n\n官方提供开放平台是 Notion 生产力的又一次飞跃。在这之前，用户只能通过网页端或者客户端手动创建文档、表格等。而现在，有编程能力的 Notion 用户则可以基于接口来稳定地读取和写入数据。\n当然，一部分用户可能会因为自己不会编程语言，而认为 API 毫无用处。其实并不是这样的，首先不要忘记 iOS 上的快捷指令，作为一款低门槛的类编程应用，简单学习即可掌握通过标准的 HTTP 请求来实现一个从 Notion 中读取数据的小工具。\n\n以使用 Notion 记账为例，我们可以实现一个快捷指令将消费数据记录到 Notion 的表格中。反之，你也可以基于 JSBox、Scriptable 等可编程应用写一个能实时读取 Notion 中的最新数据的 iOS 小组件，将自己的…",
@@ -1436,6 +1445,15 @@
       "siteUrl": "https://www.geekpark.net",
       "articles": [
         {
+          "id": "https://www.geekpark.net/news/278757",
+          "author": null,
+          "description": "外卖费率透明化座谈会在京召开，美团听取商户吐槽\n5 月 24 日消息，近日，由北京烹饪协会主办的「中小餐饮企业外卖费率透明化座谈会」在京召开。\n参加讨论的十余家商户，包括潇湘阁、晓寿司、美意天、四友青年这类中型连锁，也有老边饺子、蜀大叔、无名缘、食悦轻食这样的小商户店主。作为外卖平台代表，美团高级副总裁、到家事业群总裁王莆中等人参加座谈，听取商户吐槽并现场交流。\n\n          \n        \n据美团外卖业务总经理薛冰介绍，「费率透明化」改革将原有固定比例的费率拆分为技术服务费（佣金）和履约服务费，其中履约服务费只在商家选择平台配送时才会产生，且随时段、距离和单价三个因素变化。新的计费方式比过去更加清晰、透明，商家在配送方式上也有了更充分的自主选择权，目前试点工作已经在全国多个城市展开。（来源：Pingwest）\n\n          \n        \n华为再度重申不造车：不会投资任何车企，更不会控股、参股\n5 月 24 日，华为再度发布声明重申不造车。近段时间以来，屡有华为参股长安汽车、小康股份等传言出现。华为在声明中表示：「至今为止并未投资任何车企。未来也不会投资任何车企，更不会控股、参股。以后，凡是议论上说华为造车、或者参股汽车制造行业，均为谣言，勿轻信。」\n声明中强调，北汽、长安和广汽三家车企是华为的战略合作伙伴，华为支持其打造各自子品牌。用了华为自动驾驶解决方案的车，经华为授权才可以使用 HI 标识，代表 Huawei Inside。华为是部件供应商，这并不代表华为亲自造车。\n华为曾多次否认造车一事。去年 10 月，任正非签发的一份华为内部文件中写道：「以后谁再建言造车，干扰公司，可调离岗位，另外寻找岗位。」（来源：36Kr）\n\n\n快手第一季度营收 170 亿元：线上营销收入占比超 50%，净亏损率同比下降\n北京时间 5 月 24 日，快手发布 202…",
+          "link": "https://www.geekpark.net/news/278757",
+          "publishedOn": "2021-05-25T00:34:48.000Z",
+          "wordCount": 302,
+          "title": "亚马逊 90 亿美元收购米高梅；孙正义：东京奥运办了损失更大；上海迪士尼开启人脸识别入园"
+        },
+        {
           "id": "https://www.geekpark.net/news/278685",
           "author": null,
           "description": "在众多手机品牌中，iQOO 算是「劳模」级别的存在。从 2019 年品牌成立到现在，只用了两年多一点的时间，他们已经拥有了包括数字系列、Z 系列、U 系列以及 Neo 系列等在内的多个产品系列，以致于很多人都忘记了 iQOO 其实只是一个「二年级新生」。\n\n进入到 2021 年，虽然行业面临着芯片短缺的普遍性问题，但 iQOO 的产品更新节奏并没有因此而受到影响。关注极客之选的朋友应该还有印象，两个月前我们曾给大家介绍过搭载了骁龙 870 平台的 iQOO Neo5，这篇的主角是 iQOO Neo5 活力版。\n\n        \n就产品命名而言，iQOO Neo5 活力版属于 iQOO Neo5 的中期衍生机型，不过实际对比下来，二者除了名字相似，其它诸如整体外观设计以及硬件配置参数都有着明显区别。换句话说，iQOO 并没有选择在 Neo5 的基础上去做加减法，而是重新做了一款产品出来。\n\n\n6.57 英寸 144Hz 高刷屏\n最直观的不同之处是正面观感。iQOO Neo5 第一眼看上去其实和早些时候发布的 iQOO 7 比较类似，均采用了居中开孔设计，同时 R 角也相对较小，显得方方正正一些。到了 iQOO Neo5 活力版这里，则改成了右上角开孔，很容易进行区分。\n\n随开孔位置变化一起到来的还有屏幕材质。iQOO Neo5 活力版用的是一块 LCD 屏，上、左、右三个边框宽度都控制的比较理想，下边框宽度属于同价位段产品主流水平，相对 iQOO Neo5 要显得宽那么一丢丢，这也是 LCD 屏不得不接受的地方。\n\n规格参数上，它的屏幕尺寸为 6.57 英寸，分辨率为 2408×1080 像素，覆盖 98% sRGB 色域，支持 DCI-P3 广色域以及 HDR10 显示。另外，iQOO Neo5 活力版的屏幕刷新率来到了 144Hz，提供 60Hz、90Hz、120Hz、…",
@@ -1596,6 +1614,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631145",
+          "author": "林菁扬",
+          "description": "根据2021年一季报数据，蔡嵩松的诺安成长只买了三个半导体相关行业，而银河的郑巍山只买了两个行业。由于同期入行，风格又高度雷同。所以，这俩基金的收益情况也高度一致。",
+          "link": "https://wallstreetcn.com/articles/3631145",
+          "publishedOn": "2021-05-24T23:54:01.000Z",
+          "wordCount": 178,
+          "title": "这是一个跟诺安蔡经理并称“卧龙凤雏”的男人"
+        },
+        {
+          "id": "3631137",
+          "author": "朱希",
+          "description": "五分钟看懂全球市场，尽在财经早餐。",
+          "link": "https://wallstreetcn.com/articles/3631137",
+          "publishedOn": "2021-05-24T23:07:22.000Z",
+          "wordCount": 227,
+          "title": "华尔街见闻早餐FM-Radio｜2021年5月25日"
+        },
+        {
           "id": "3631140",
           "author": "李丹",
           "description": "三大美股指创至少两周新高，纳指涨超1%领跑，特斯拉涨超4%领跑龙头科技股。欧洲斯托克600股指创史上次高。美元指数逼近近三个月低谷，多只加密货币至少涨近20%，比特币一度逼近4万美元。10年期美债收益率两周来首次盘中跌破1.60%。日间曾跌超9%的内盘铁矿夜盘小幅收涨，原油逾五周来首次收涨逾3%。伦铜走出月内低谷但未能重上1万美元。黄金最近六日五创逾四月新高。",
@@ -1603,6 +1639,15 @@
           "publishedOn": "2021-05-24T22:50:47.000Z",
           "wordCount": 151,
           "title": "加密货币两位数大反弹 科技股力挺欧美股市走高 黑色系夜盘反弹"
+        },
+        {
+          "id": "3631141",
+          "author": "李丹",
+          "description": "马斯克和北美八大比特币挖矿机构会谈，这些机构决定成立一个挖矿委员会，让能源耗用的披露标准化。马斯克称“可能有前途”。最近两周马斯克至少有四条推文震动币价。",
+          "link": "https://wallstreetcn.com/articles/3631141",
+          "publishedOn": "2021-05-24T22:15:54.000Z",
+          "wordCount": 169,
+          "title": "一句话送比特币冲向4万美元！币圈“教主”马斯克酝酿规范挖矿能源披露"
         },
         {
           "id": "3631139",
@@ -2692,6 +2737,24 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57189135",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionRajpath has been a huge draw for Delhi residents and tourists over the decades\n\nRajpath (King's Avenue), in the centre of the Indian capital, is to Delhi'ites what Central Park is to New Yorkers, or the Champs-Elysees to Parisians.\n\n\nThe manicured lawns on either side of the wide ceremonial boulevard are a place for thousands to gather to soak up the winter sun or have an ice-cream on summer evenings.\n\n\nBut the 3km (1.8 mile)-long road, stretching from Rashtrapati Bhavan, the presidential palace, at one end to the India Gate war memorial at the other, now resembles a massive dust bowl. \n\n\nThe area is dotted with craters and mounds of earth - barricades stop people from getting close to men in reflective vests and yellow hard hats who are laying sewa…",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57189135",
+          "publishedOn": "2021-05-24T23:04:58.000Z",
+          "wordCount": 2048,
+          "title": "[World] Central Vista: Does Indian PM Narendra Modi really need a new house?"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-china-57154574",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionAround 12m babies were born in China last year, the lowest number of births recorded since the 1960s\n\nA once-in-a-decade population census has shown that births in China have fallen to their lowest level since the 1960s - leading to calls for an end to birth control policies. But some in China say these policies aren't the only thing that's stopping them. \n\n\nDespite being hassled by her mum about it, Beijing resident Lili* is not planning to have children any time soon. \n\n\nThe 31-year-old, who has been married for two years, wants to \"live my life\" without the \"constant worries\" of raising a child. \n\n\n\"I have very few peers who have children, and if they do, they're obsessed about getting the best nanny or enrolling the kids in the best schools. It …",
+          "link": "https://www.bbc.co.uk/news/world-asia-china-57154574",
+          "publishedOn": "2021-05-24T23:01:25.000Z",
+          "wordCount": 1843,
+          "title": "[World] China: The men who are single and the women who don't want kids"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-57223715",
           "author": null,
           "description": "image copyrightEPA\nimage captionThe crash happened near the busy KLCC station, in front of the Petronas Towers\n\nMore than 200 people have been injured in a train crash in the Malaysian capital Kuala Lumpur.\n\n\nA metro train carrying 213 passengers collided with an empty one in a tunnel near the Petronas Towers, at about 20:45 (12:45 GMT), police said.\n\n\nThe empty train had just been repaired, and was going in the opposite direction on the same track as the full one.\n\n\nDistrict police chief Mohamad Zainal Abdullah told reporters there was no sign of foul play.\n\n\n\nCountry profile\n\n\n\n\"We are still investigating the incident... but we suspect that perhaps there was a miscommunication from the trains' operation control centre,\" he said.\n\n\nOf the 213 injured, 47 people are in a serious condition while the other 166 have sustained minor injuries, he added.\n\n\nImages and footage posted on social media in the hours after the incident showed bleeding passengers lying on the floor of the train carriage, which was covered in broken glass.\n\n\nimage copyrightEPA\nimage captionPrime Minister Muhyiddin Yassin has ordered an investigation into the incident\n\nIn a statement posted on Facebook, Malaysian Prime Minister Muhyiddin Yassin said the crash, which happened near the city's busy KLCC station, was \"serious\".\n\n\nHe added that he had asked the train operator Prasarana Malaysia Berhad and the country's transport minister \"to conduct an in-depth probe to find out the cause of the accident\".\n\n\nTransport Minister Wee Ka Siong said in a separate statement that the crash was the metro system's first major accident in the 23 years it had been operating.\n\n\nHe also pledged to conduct a full investigation.",
@@ -3146,6 +3209,33 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/us-doubles-funding-to-prepare-for-hurricane-damage-20210524/5902832.html",
+          "author": null,
+          "description": "拜登總統在華盛頓的聯邦緊急事務管理署總部參加有關即將到來的大西洋颶風季節的簡報會。(2021年5月24日)\n\n\n\n華盛頓 — \n\n根據預報，大西洋盆地的颶風季節將超出尋常，美國政府將加倍投入經費，讓各社區為這類風暴和其它極端天氣做好準備。\n美國總統喬·拜登(Joe Biden)星期一(5月24日)下午參觀聯邦緊急事務管理署(FEMA)總部時說：“當災難襲來時，我們必須做好準備。”\n拜登總統在聯邦緊急事務管理署就今年颶風季節聽取簡報之前說：“今天的簡報是一個關鍵的提醒，告訴我們要為2021年做準備，不能有片刻鬆懈。”\n拜登還提到加利福尼亞和其他西部州的野火等風險。\n拜登總統說：“我今天來這裡是明確表示，我希望為所有這些挑戰做好充分準備。”\n國家海洋和大氣管理局(NOAA)預測說，大西洋風暴季節有60%的可能超出正常，可能有六到10場颶風。\n美國去年颶風季節創下紀錄，有30個被命名的風暴，僅在路易斯安那州就有五次這樣的風暴登陸。\n即使沒有重大風暴，路易斯安那和佛羅里達的海岸也特別容易受到海平面升高的影響。\n威爾遜中心基地研究所與環境變化與安全項目的高級研究員雪莉·古德曼(Sherri Goodman)說：“當然，如果沒有進一步行動，南佛羅里達大部分地區和路易斯安那大部分地區、新奧爾良周圍地區，有可能沒入水下，甚至更經常地發大水。這將讓很多基礎設施和生命面臨風險。”\n據政府官員說，22起不同的與天氣和氣候變化有關的災難總共造成了近1千億美元的破壞。\n白宮在宣布加倍撥款的聲明中說：“FEMA將在2021年為'建設有韌性的基礎設施和社區'(BRIC)項目提供10億美元，其中的一部分將專用於弱勢社區。”\n同天早些時候，白宮還宣布美國國家航空航天局(NASA)將收集更先進複雜的氣候數據，這是地球系統觀測台的一項新使命概念的一部分。\n白宮的聲明說：“NASA的地球系統觀測台將是先進的在太空飛行的地球觀測系統的新架構，向世界提供了解地球大氣、陸地、海洋與冰的變化過程之間關鍵互動的信息。這些過程決定著不斷變化的氣候將如何以近期和長期規模在地區和地方層級發揮影響。”\n拜登上星期下令各聯邦機構查明並披露來自氣候變化的風險。這項行政命令還要求聯邦政府的供應商披露他們與氣候變化有關的風險。\n“我們真的需要能夠更好地把氣候作為一個威脅倍增器來管控，”同時也是氣候與安全中心高級戰略師的古德曼補充說。她說，拜登政府到目前為止所採取的行動是“一套非常全面和前瞻性的努力”。",
+          "link": "https://www.voacantonese.com/a/us-doubles-funding-to-prepare-for-hurricane-damage-20210524/5902832.html",
+          "publishedOn": "2021-05-24T23:39:54.000Z",
+          "wordCount": 293,
+          "title": "美國加倍撥款為颶風季節早做籌謀"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/us-covid-19-origins-wuhan-institute-of-virology-20210524/5902761.html",
+          "author": null,
+          "description": "世界衛生組織2019冠狀病毒病病原調查小組訪問中國湖北省武漢市期間，保安人員在武漢病毒研究所外進行警戒。(2021年2月3日)\n\n\n\n華盛頓 — \n\n白宮新聞秘書莎琪週一（5月24日）表示，美國目前沒有足夠的訊​息就新冠病毒的起源做出結論。她說，美國一直在呼籲對病毒起源進行獨立的國際調查。《華爾街日報》星期日根據一份先前未披露的美國情報報告說，中國武漢病毒研究所的三名研究人員在中國報告了首例新冠病例一個月前出現嚴重病情並去醫院尋求醫治。報導認為，這份報告可能助長越來越多要求更全面調查新冠病毒是否從實驗室洩漏的呼聲。\n莎琪：無法證實或否認有關報導，沒有足夠的信息得出結論\n白宮新聞秘書莎琪星期一在例行記者會上被問到《華爾街日報》的“美國一份武漢病毒所研究人員患病情報加劇病毒溯源討論”的報導時做出了這樣的回應：“關於這份具體涉及一些個人住院的報導，我們沒有辦法證實或否認這一點。”\n《華爾街日報》星期日援引美國的一份情報報告稱，2019年11月，中國武漢病毒學研究所的三名研究人員尋求醫院治療，這比中國報告首例新冠肺炎病例早了一個月。\n莎琪說：“這不意味著我們可以得出結論。”\n“我們沒有足夠的訊​息來針對起源得出結論。需要研究一系列的選項，我們需要數據，我們需要獨立的調查。這正是我們一直在呼籲的，”她說。\n這位發言人說，拜登政府幾個月來一直在要求世界衛生組織領導一次針對冠狀病毒大流行起源的問題進行更透明的國際調查。\n“我們需要這些數據，我們需要從中國政府那裡得到這些訊​息。我們不能做的，也是我要提醒所有人要做的，就是跳躍到一個真正的國際程序的前面。在目前這個時刻，我們沒有足夠的數據和訊​息來得出結論，”她說。\n國安會：所有理論都應由世衛組織和國際專家調查\n美國國家安全委員會拒絕就這一情報發表評論，但表示，所有技術上可信的關於大流行病起源的理論都應由世界衛生組織和國際專家進行調查。\n“我們仍對2019冠狀病毒病的最初階段存在嚴重疑問，包括它在中華人民共和國境內的起源，” 國家安全委員會的一名女發言人說。\n“我們不會發表任何聲明，以預先判斷世衛組織正在進行的對新冠病毒來源的研究，” 這位發言人說。“從政策上講，就情報問題我們從來不以置評。”\n中方回應報導\n中國外交部發言人趙立堅星期一對武漢病毒研究所3名研究人員2019年11月身體不適並接受了醫學治療的報導做出回應時說，中國—世衛組織聯合專家組在中國進行實地走訪和了解後一致認為，關於中國實驗室事件引發病毒這種假說是極為不可能的。\n他接著把矛頭指向美國。\n他說：“疫情和病毒早在2019年下半年多點多地出現的報導越來越多，有關德特里克堡生物基地的種種疑點以及美國在全球開設200多個生物實驗室的真實目的也已引發國際社會高度關注。美國不斷炒作'實驗室洩漏'論，究竟是關心溯源，還是想轉移視線？希望美國有關部門盡快澄清，給世界各國一個滿意的交代，”這位發言人說。\n中國政府之前就試圖示意新冠病毒源自美國或者歐洲，趙立堅等外交官曾在沒有證據地情況下引用了網絡陰謀論的說法，稱新冠病毒可能源自美國陸軍的德特里克堡。\n在披露了有關武漢病毒研究所的研究人員患病並尋求治療的情報報告後，《華爾街日報》星期一報導說，在武漢實驗室洩漏的問題上，一座被廢棄的礦井成為焦點。\n《華爾街日報》報導說，這個位於雲南的礦井是“地球上已知的最接近導致新冠病毒的地下家園(subterranean home)”，也引發了越來越多的對病毒是否源自實驗室進行更全面調查的呼聲。\n2012年4月，這個礦井的六名礦工在進入礦井清理蝙蝠糞便後患上了一種神秘的疾病，其中三人死亡。\n對此進行調查的武漢病毒研究所的中國科學家在從礦井裡的蝙蝠身上提取樣本後，確定了幾種新型冠狀病毒。\n報導說，現在，對這些礦工的疾病、在礦井裡發現的病毒以及對它們進行的研究存在的懸而未決的問題，使得新冠病毒可能源自武漢一個實驗室洩漏這個一度被視為陰謀論的想法進入了主流科學圈。\n呼籲對來自動物和實驗室洩漏的假說都進行調查\n在世界衛生組織3月底發表了有關病毒溯源報告後，一些國際科學家公開主張對病毒起源進行更全面和深入的調查，對病毒在自然界由動物傳給人以及病毒從實驗室洩露的這兩種假說都予以充分研究，並呼籲中國政府允許國際獨立調查並提供更多數據。\n世界衛生組織的決策機構世界衛生大會星期一召開會議。預計該機構將在這次會議上討論新冠病毒溯源調查的下一階段安排。",
+          "link": "https://www.voacantonese.com/a/us-covid-19-origins-wuhan-institute-of-virology-20210524/5902761.html",
+          "publishedOn": "2021-05-24T22:00:46.000Z",
+          "wordCount": 306,
+          "title": "白宮：目前無足夠訊息就病毒起源做結論需進行獨立國際調查"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/national-guard-ends-us-capitol-protection-20210524/5902753.html",
+          "author": null,
+          "description": "守衛國會山的國民警衛隊員。(2021年1月13日)\n\n\n\n\n在1月6日發生了造成人員死亡的攻擊事件後一直在保護美國國會大廈的國民警衛隊星期一(5月24日)開始離開華盛頓。\n國防部長勞埃德·奧斯汀(Lloyd Austin)對發生暴力事件後幫助國會警察和地方當局維持安全的陸軍和空軍國民警衛隊員表示了感謝。\n“這些空軍和陸軍士兵不僅保護了場地，而且也保護了在這些場地工作的議員，確保人民的業務能夠一如既往地繼續展開。他們以非常顯而易見的方式落實了他們支持和捍衛憲法的誓言，”奧斯汀星期一說。\n國防部新聞秘書約翰·科比(John Kirby)在五角大樓對記者們說，大約1千名官兵將在今後幾天內離開。\n退役中將拉塞爾·奧諾內(Russel Honore)在《面對國家》(Face the Nation)節目上對哥倫比亞廣播公司(CBS)的約翰·迪克森(John Dickerson)說，星期日是這項保護使命的最後一天。奧諾內在1月6日的騷亂事件後展開了一項安全審議。\n奧諾內曾建議維持一支快速反應部隊，以便在未來可能發生的襲擊事件中提供協助，但是科比星期一說，五角大樓沒有維持這類部隊的計劃。",
+          "link": "https://www.voacantonese.com/a/national-guard-ends-us-capitol-protection-20210524/5902753.html",
+          "publishedOn": "2021-05-24T21:54:50.000Z",
+          "wordCount": 288,
+          "title": "國民警衛隊結束保護美國國會任務"
+        },
         {
           "id": "https://www.voacantonese.com/a/covid-origin-wuhan-lab-20210524/5902727.html",
           "author": null,
@@ -3708,6 +3798,384 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1979327",
+          "author": null,
+          "description": "截至5月24日，上交所融资余额报8136.75亿元，较前一交易日增加30.04亿元；深交所融资余额报7312.28亿元，较前一交易日增加27.49亿元；两市合计15449.03亿元，较前一交易日增加57.53亿元。",
+          "link": "https://wallstreetcn.com/livenews/1979327",
+          "publishedOn": "2021-05-25T00:38:58.000Z",
+          "wordCount": 142,
+          "title": "截至5月24日，上交所融资余额报8136.75亿元，较前一交易日增加30.04亿元；深交所融资余额报7312.28亿元，较前一交易日增加27.49亿元；两市合计15449.03亿元，较..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979325",
+          "author": null,
+          "description": "中信证券研报指出，供需两端共同推动下，年初以来我国纯碱行业盈利维持高位。展望后市，供应端仍将维持偏紧格局，需求端光伏玻璃将继续拉动纯碱需求，当前时点纯碱行业新一轮调价窗口期临近，我们预计行业景气度有望进一步上行。继续推荐纯碱行业龙头三友化工，推荐高弹性标的山东海化，建议关注远兴能源、中盐化工、和邦生物等。",
+          "link": "https://wallstreetcn.com/livenews/1979325",
+          "publishedOn": "2021-05-25T00:38:08.000Z",
+          "wordCount": 143,
+          "title": "中信证券研报指出，供需两端共同推动下，年初以来我国纯碱行业盈利维持高位。展望后市，供应端仍将维持偏紧格局，需求端光伏玻璃将继续拉动纯碱需求，当前时点纯..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979322",
+          "author": null,
+          "description": "韩国新增516例新冠肺炎确诊病例。",
+          "link": "https://wallstreetcn.com/livenews/1979322",
+          "publishedOn": "2021-05-25T00:32:59.000Z",
+          "wordCount": 141,
+          "title": "韩国新增516例新冠肺炎确诊病例。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979317",
+          "author": null,
+          "description": "中信证券：预计未来5年，有机硅下游市场将迎来多领域大爆发，至2025年相关市场将从目前的500亿上升至945亿。",
+          "link": "https://wallstreetcn.com/livenews/1979317",
+          "publishedOn": "2021-05-25T00:28:06.000Z",
+          "wordCount": 141,
+          "title": "中信证券：预计未来5年，有机硅下游市场将迎来多领域大爆发，至2025年相关市场将从目前的500亿上升至945亿。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979315",
+          "author": null,
+          "description": "华为方面宣布，华为EMUI微博正式更名为HarmonyOS。",
+          "link": "https://wallstreetcn.com/livenews/1979315",
+          "publishedOn": "2021-05-25T00:23:38.000Z",
+          "wordCount": 141,
+          "title": "华为方面宣布，华为EMUI微博正式更名为HarmonyOS。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979313",
+          "author": null,
+          "description": "国家卫健委：昨日报告新增确诊病例15例，其中境外输入病例13例（上海3例，天津2例，山西2例，福建2例，江苏1例，湖南1例，四川1例，陕西1例），本土病例2例（均在安徽）；无新增死亡病例；无新增疑似病例。",
+          "link": "https://wallstreetcn.com/livenews/1979313",
+          "publishedOn": "2021-05-25T00:13:44.000Z",
+          "wordCount": 141,
+          "title": "国家卫健委：昨日报告新增确诊病例15例，其中境外输入病例13例（上海3例，天津2例，山西2例，福建2例，江苏1例，湖南1例，四川1例，陕西1例），本土病例2例（均..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979311",
+          "author": null,
+          "description": "华为将在6月2日晚8时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继2019年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。目前业界对鸿蒙操作系统寄予厚望。华为公司预计，到2021年底，搭载鸿蒙操作系统的设备数量将达3亿台，其中华为设备超过2亿台，面向第三方合作伙伴的各类终端设备数量超过1亿台。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1979311",
+          "publishedOn": "2021-05-25T00:08:14.000Z",
+          "wordCount": 174,
+          "title": "华为将在6月2日晚8时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继2019年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。目前..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979309",
+          "author": null,
+          "description": "招商固收尹睿哲、李玲在研报中称，在短期资金面仍能维持宽松以及对二季度企业盈利增长乐观的判断下，预计接下来一个月转债仍能保持继续获得超额收益。一方面未来一个月财政支配下的资金宽松仍可维持，这也意味着转债的估值在未来一个月内至少可以维持现状、甚至出现进一步抬升；另一方面由于海外疫情的反复导致经济生产活动远远滞后于国内，也因此出口数据持续亮眼，在出口的支撑下国内经济增长数据也仍然亮眼，二季度企业仍将能保持一定的盈利增速，支撑市场行情。",
+          "link": "https://wallstreetcn.com/livenews/1979309",
+          "publishedOn": "2021-05-25T00:06:05.000Z",
+          "wordCount": 142,
+          "title": "招商固收尹睿哲、李玲在研报中称，在短期资金面仍能维持宽松以及对二季度企业盈利增长乐观的判断下，预计接下来一个月转债仍能保持继续获得超额收益。一方面未来..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979308",
+          "author": null,
+          "description": "中金公司研报称，尽管疫情可能“长尾退出”，但伴随国内经济逐渐重回正轨，我们认为复苏和通胀预期下的周期板块行情在渐入尾声，市场焦点逐渐回归经济常态增长，成长风格可能重新成为市场主线。建议未来3-6个月关注三条主线：成长风格重回市场主线。制造业“上下两难”，再次强调根据议价能力筛选。周期板块“赶顶”，寻找独立性较强的板块。",
+          "link": "https://wallstreetcn.com/livenews/1979308",
+          "publishedOn": "2021-05-25T00:05:35.000Z",
+          "wordCount": 143,
+          "title": "中金公司研报称，尽管疫情可能“长尾退出”，但伴随国内经济逐渐重回正轨，我们认为复苏和通胀预期下的周期板块行情在渐入尾声，市场焦点逐渐回归经济常态增长，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979307",
+          "author": null,
+          "description": "新加坡将2021年GDP增长预测维持在4％-6％不变。",
+          "link": "https://wallstreetcn.com/livenews/1979307",
+          "publishedOn": "2021-05-25T00:05:13.000Z",
+          "wordCount": 141,
+          "title": "新加坡将2021年GDP增长预测维持在4％-6％不变。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979305",
+          "author": null,
+          "description": "日经225指数开盘上涨0.5%，报28516.99点。日本东证指数开盘上涨0.4%。",
+          "link": "https://wallstreetcn.com/livenews/1979305",
+          "publishedOn": "2021-05-25T00:02:33.000Z",
+          "wordCount": 141,
+          "title": "日经225指数开盘上涨0.5%，报28516.99点。日本东证指数开盘上涨0.4%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979304",
+          "author": null,
+          "description": "三角转债， 申购代码370775。",
+          "link": "https://wallstreetcn.com/livenews/1979304",
+          "publishedOn": "2021-05-25T00:01:31.000Z",
+          "wordCount": 144,
+          "title": "三角转债， 申购代码370775。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979301",
+          "author": null,
+          "description": "中国即将发行或正在发行的国债和政策性金融债",
+          "link": "https://wallstreetcn.com/livenews/1979301",
+          "publishedOn": "2021-05-25T00:00:00.000Z",
+          "wordCount": 198,
+          "title": "中国即将发行或正在发行的国债和政策性金融债"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979300",
+          "author": null,
+          "description": "中国即将发行或正在发行的地方政府债",
+          "link": "https://wallstreetcn.com/livenews/1979300",
+          "publishedOn": "2021-05-25T00:00:00.000Z",
+          "wordCount": 246,
+          "title": "中国即将发行或正在发行的地方政府债"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979298",
+          "author": null,
+          "description": "央行杭州中心支行近日联合浙江银保监局、省发展改革委、省生态环境厅、省财政厅发布《关于金融支持碳达峰碳中和的指导意见》，在全国率先出台金融支持碳达峰碳中和10个方面25项举措。《指导意见》提出，力争2021年全省绿色贷款新增4000亿元以上，绿色债务融资工具和绿色金融债发行规模同比增长50%以上；2021年至2025年，全省绿色贷款占全部贷款余额的比重每年提升1个百分点，2025年绿色债务融资工具和绿色金融债发行规模较2020年翻两番。",
+          "link": "https://wallstreetcn.com/livenews/1979298",
+          "publishedOn": "2021-05-24T23:58:15.000Z",
+          "wordCount": 143,
+          "title": "央行杭州中心支行近日联合浙江银保监局、省发展改革委、省生态环境厅、省财政厅发布《关于金融支持碳达峰碳中和的指导意见》，在全国率先出台金融支持碳达峰碳中..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979295",
+          "author": null,
+          "description": "中金研报指出，对年内债市走向的判断，关键取决于大宗品走势、政府债发行节奏以及经济增长动能等因素。今年新增政府债发行量大幅低于年初预算的可能性较低，3季度或迎来发行高峰期。我们预计近期长端国债利率有跌破3的可能的，但或在下半年升至略高于3%水平。",
+          "link": "https://wallstreetcn.com/livenews/1979295",
+          "publishedOn": "2021-05-24T23:55:57.000Z",
+          "wordCount": null,
+          "title": "中金研报指出，对年内债市走向的判断，关键取决于大宗品走势、政府债发行节奏以及经济增长动能等因素。今年新增政府债发行量大幅低于年初预算的可能性较低，3季..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979293",
+          "author": null,
+          "description": "加密货币两位数大反弹，科技股力挺欧美股市走高，黑色系夜盘反弹。\n监管层高度关注原材料涨价，国家发改委等五部门联合约谈提醒大宗商品重点企业。\n多位美联储官员淡化通胀将持续高企的说法，重申物价压力只是暂时现象。\n一个世纪以来国际企业税最大调整：G7接近就跨国企业征税规则达成协议。\n马斯克和比特币挖矿机构会谈，让能源消耗披露标准化，比特币大反弹。\n李克强：浙江不仅要做小商品集散地，还要做大宗商品战略中转基地。\n周小川：DC/EP和e-CNY取代第三方支付是一种妄议。\n快手季度营收突破170亿元，电商交易总额达到1186亿元。\n连跌5个月！猪肉价格同比已经跌超30%，逼近自繁自养成本线。\n关联财报揭秘科兴中维一季度利润或达100亿元。\n市场传闻广东开展省级联盟采购，或涉及重组生长激素，长春高新闪崩。\n达利欧：持有一些比特币，会经历更多通胀，中国资产有吸引力。",
+          "link": "https://wallstreetcn.com/livenews/1979293",
+          "publishedOn": "2021-05-24T23:30:13.000Z",
+          "wordCount": 166,
+          "title": "加密货币两位数大反弹，科技股力挺欧美股市走高，黑色系夜盘反弹。\n监管层高度关注原材料涨价，国家发改委等五部门联合约谈提醒大宗商品重点企业。\n多位美联储官..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979290",
+          "author": null,
+          "description": "碧桂园服务公告称，同意以每股75.25港元的配售价格出售1.394亿股新股，并发行50.4亿港元2022年到期的可换股债券。",
+          "link": "https://wallstreetcn.com/livenews/1979290",
+          "publishedOn": "2021-05-24T23:17:23.000Z",
+          "wordCount": 142,
+          "title": "碧桂园服务公告称，同意以每股75.25港元的配售价格出售1.394亿股新股，并发行50.4亿港元2022年到期的可换股债券。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979288",
+          "author": null,
+          "description": "人民银行杭州中心支行近日联合浙江银保监局、省发展改革委、省生态环境厅、省财政厅发布《关于金融支持碳达峰碳中和的指导意见》，在全国率先出台金融支持碳达峰碳中和10个方面25项举措。《指导意见》提出，力争2021年全省绿色贷款新增4000亿元以上，绿色债务融资工具和绿色金融债发行规模同比增长50%以上。《指导意见》还明确将建立信贷支持绿色低碳发展的正面清单，支持省级“零碳”试点单位和低碳工业园区的低碳项目，支持高碳企业低碳化转型。（浙江日报）",
+          "link": "https://wallstreetcn.com/livenews/1979288",
+          "publishedOn": "2021-05-24T23:14:36.000Z",
+          "wordCount": 145,
+          "title": "人民银行杭州中心支行近日联合浙江银保监局、省发展改革委、省生态环境厅、省财政厅发布《关于金融支持碳达峰碳中和的指导意见》，在全国率先出台金融支持碳达峰..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979282",
+          "author": null,
+          "description": "世卫组织总干事谭德塞在第74届世界卫生大会上表示，“新冠肺炎疫苗实施计划”已为125个国家和经济体送去了7200万剂疫苗，但这些剂量仅能覆盖这些国家和经济体总人口的1%，“新冠肺炎疫苗实施计划”获得的疫苗剂量仍远远不够。谭德塞呼吁成员国大力推动新冠疫苗接种，各国应在9月前为至少10%的人口接种新冠疫苗，年底前为至少30%的人口接种疫苗。这也意味着，未来四个月要为中低收入国家的2.5亿人接种疫苗。",
+          "link": "https://wallstreetcn.com/livenews/1979282",
+          "publishedOn": "2021-05-24T22:40:48.000Z",
+          "wordCount": 142,
+          "title": "世卫组织总干事谭德塞在第74届世界卫生大会上表示，“新冠肺炎疫苗实施计划”已为125个国家和经济体送去了7200万剂疫苗，但这些剂量仅能覆盖这些国家和经济体总..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979280",
+          "author": null,
+          "description": "智利国家铜业公司（Codelco）与智利总部工作人员达成薪资协议。",
+          "link": "https://wallstreetcn.com/livenews/1979280",
+          "publishedOn": "2021-05-24T22:36:56.000Z",
+          "wordCount": 141,
+          "title": "智利国家铜业公司（Codelco）与智利总部工作人员达成薪资协议。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979279",
+          "author": null,
+          "description": "① 14:00 德国一季度GDP终值；\n微信小程序搜索“见闻历”，了解更多。",
+          "link": "https://wallstreetcn.com/livenews/1979279",
+          "publishedOn": "2021-05-24T22:30:10.000Z",
+          "wordCount": 184,
+          "title": "① 14:00 德国一季度GDP终值；\n② 16:00 德国5月IFO商业景气指数；\n③ 20:00 美国里士满联储主席巴尔金就经济前景讲话；\n④ 21:00 美国3月S&P/CS20座大城市房价..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979278",
+          "author": null,
+          "description": "当地时间5月24日，根据美国约翰斯·霍普金斯大学（JHU）数据，截至美东时间当天17时21分（北京时间5月25日凌晨5时21分），美国累计新冠肺炎确诊病例达33137285例，累计死亡病例达590167例。两项数据与24小时前相比，新增确诊21876例，新增死亡288例。",
+          "link": "https://wallstreetcn.com/livenews/1979278",
+          "publishedOn": "2021-05-24T22:25:35.000Z",
+          "wordCount": 142,
+          "title": "当地时间5月24日，根据美国约翰斯·霍普金斯大学（JHU）数据，截至美东时间当天17时21分（北京时间5月25日凌晨5时21分），美国累计新冠肺炎确诊病例达33137285例..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979277",
+          "author": null,
+          "description": "在监管部门对“伪市值管理”问题零容忍的背景下，为加强内部合规风控，不少基金公司、资管机构近日开启自查，严格内部投资流程，程度不同地提高了个股的“入池”标准。在市场人士看来，短期小市值股票的波动性可能会因此加大，但也不能“一刀切”地完全放弃对于优质小股票投资机会的挖掘。（上证报）",
+          "link": "https://wallstreetcn.com/livenews/1979277",
+          "publishedOn": "2021-05-24T22:23:21.000Z",
+          "wordCount": 142,
+          "title": "在监管部门对“伪市值管理”问题零容忍的背景下，为加强内部合规风控，不少基金公司、资管机构近日开启自查，严格内部投资流程，程度不同地提高了个股的“入池”..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979274",
+          "author": null,
+          "description": "据媒体报道：日本将延长零利率贷款计划的设施时间。",
+          "link": "https://wallstreetcn.com/livenews/1979274",
+          "publishedOn": "2021-05-24T22:17:59.000Z",
+          "wordCount": 141,
+          "title": "据媒体报道：日本将延长零利率贷款计划的设施时间。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979273",
+          "author": null,
+          "description": "美国国会山成员Wicker：共和党可能会支持1万亿美元规模的基建计划。",
+          "link": "https://wallstreetcn.com/livenews/1979273",
+          "publishedOn": "2021-05-24T22:16:21.000Z",
+          "wordCount": 141,
+          "title": "美国国会山成员Wicker：共和党可能会支持1万亿美元规模的基建计划。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979271",
+          "author": null,
+          "description": "已披露业绩预告的450家上市公司中，略增47家、扭亏62家、续盈2家、预增144家，业绩分化明显。广告传媒类、房地产开发及商业服务类、汽车制造类上市公司上半年业绩增长表现尤其突出。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1979271",
+          "publishedOn": "2021-05-24T22:11:47.000Z",
+          "wordCount": 141,
+          "title": "已披露业绩预告的450家上市公司中，略增47家、扭亏62家、续盈2家、预增144家，业绩分化明显。广告传媒类、房地产开发及商业服务类、汽车制造类上市公司上半年业..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979270",
+          "author": null,
+          "description": "数据显示，最近（5月18日至5月24日）获券商买入评级的股票有138只，总计由39家券商的136名研究员出具研报。这些股票所涉行业以医药生物、计算机、化工、电子等居多。机构认为，当前市场风格正在发生转换，在调控背景下，前期走强的周期股波动性较大，后市应淡化周期驱动的配置思路，聚焦成长、制造板块。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1979270",
+          "publishedOn": "2021-05-24T22:11:10.000Z",
+          "wordCount": 142,
+          "title": "数据显示，最近（5月18日至5月24日）获券商买入评级的股票有138只，总计由39家券商的136名研究员出具研报。这些股票所涉行业以医药生物、计算机、化工、电子等居..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979269",
+          "author": null,
+          "description": "美国国会参议院共和党成员Toomey：关于基建计划的磋商让人失望。",
+          "link": "https://wallstreetcn.com/livenews/1979269",
+          "publishedOn": "2021-05-24T22:10:35.000Z",
+          "wordCount": 141,
+          "title": "美国国会参议院共和党成员Toomey：关于基建计划的磋商让人失望。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979268",
+          "author": null,
+          "description": "Wind数据显示，截至5月21日收盘，两市两融余额报16909.03亿元，两市融资余额报15075.23亿元。上周融资余额增长164.81亿元，5月10日-5月14日，两市融资余额增长129.97亿元。这意味着，最近两周以来两市融资余额累计增长294.78亿元。从融资客加仓方向来看，Wind数据显示，5月10日-5月21日，有22个申万行业板块获得融资客加仓，医药生物、非银金融、汽车板块融资净买入额居前。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1979268",
+          "publishedOn": "2021-05-24T22:10:23.000Z",
+          "wordCount": 142,
+          "title": "Wind数据显示，截至5月21日收盘，两市两融余额报16909.03亿元，两市融资余额报15075.23亿元。上周融资余额增长164.81亿元，5月10日-5月14日，两市融资余额增长12..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979267",
+          "author": null,
+          "description": "美国堪萨斯城联储主席乔治：当讨论减码QE的时机来临时，抵押贷款支持证券（MBS）将是讨论的内容之一。",
+          "link": "https://wallstreetcn.com/livenews/1979267",
+          "publishedOn": "2021-05-24T22:08:43.000Z",
+          "wordCount": 141,
+          "title": "美国堪萨斯城联储主席乔治：当讨论减码QE的时机来临时，抵押贷款支持证券（MBS）将是讨论的内容之一。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979266",
+          "author": null,
+          "description": "备受市场关注的首批跟踪恒生科技指数的ETF打起闪电战。据悉，在上周这类基金陆续成立之后，近期发布了上市交易公告，恒生科技ETF最快5月25日上市。对于香港科技股，不少基金经理也看好这一领域，认为随着中概股回归和新经济产业巨头在港股的上市，公募、险资、年金等长线资金持续南下流入增配港股，这类新经济科技公司正在成为中国经济重要支柱，也将成为港股长期投资的重要主题。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1979266",
+          "publishedOn": "2021-05-24T22:07:13.000Z",
+          "wordCount": 142,
+          "title": "备受市场关注的首批跟踪恒生科技指数的ETF打起闪电战。据悉，在上周这类基金陆续成立之后，近期发布了上市交易公告，恒生科技ETF最快5月25日上市。对于香港科技..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979265",
+          "author": null,
+          "description": "来自内地某第三方机构的一份最新问卷调查显示，当前超六成的私募机构认为，未来一段时间A股市场仍将保持箱体震荡。在结构性机会方面，目前私募业内仍普遍将多个“人气赛道”领域，作为当前挖掘阿尔法收益的主要方向。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1979265",
+          "publishedOn": "2021-05-24T22:05:05.000Z",
+          "wordCount": 142,
+          "title": "来自内地某第三方机构的一份最新问卷调查显示，当前超六成的私募机构认为，未来一段时间A股市场仍将保持箱体震荡。在结构性机会方面，目前私募业内仍普遍将多个..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979264",
+          "author": null,
+          "description": "5月24日起，备受投资者关注的首批公募REITs产品正式启动询价。从基金机构了解到，询价首日，专业机构对于REITs的关注度较高，很多机构也看好这一创新产品的巨大空间。但是对于这一专业产品，投资者还在慢慢摸索和掌握其中的规则和方式方法。预计随着公募REITs产品加速落地生根，其“群众基础”将进一步扩大，持续享受市场的高光时刻。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1979264",
+          "publishedOn": "2021-05-24T22:04:19.000Z",
+          "wordCount": 142,
+          "title": "5月24日起，备受投资者关注的首批公募REITs产品正式启动询价。从基金机构了解到，询价首日，专业机构对于REITs的关注度较高，很多机构也看好这一创新产品的巨大..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979263",
+          "author": null,
+          "description": "美国国会参议院共和党成员Capito：共和党并没有退出基建磋商。",
+          "link": "https://wallstreetcn.com/livenews/1979263",
+          "publishedOn": "2021-05-24T21:59:04.000Z",
+          "wordCount": 141,
+          "title": "美国国会参议院共和党成员Capito：共和党并没有退出基建磋商。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979261",
+          "author": null,
+          "description": "法新社23日援引伊朗当地媒体的报道称，伊朗多地已开始采取轮流断电的措施，此前还发生过无预警断电，引发民怨。据称伊朗官方表示，电量短缺的主要原因是天气炎热、干旱使得水力发电量减少以及加密货币挖矿耗电太多。",
+          "link": "https://wallstreetcn.com/livenews/1979261",
+          "publishedOn": "2021-05-24T21:55:34.000Z",
+          "wordCount": 142,
+          "title": "法新社23日援引伊朗当地媒体的报道称，伊朗多地已开始采取轮流断电的措施，此前还发生过无预警断电，引发民怨。据称伊朗官方表示，电量短缺的主要原因是天气炎热..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979260",
+          "author": null,
+          "description": "Wind数据显示，截至5月21日，包括华夏科技创新混合A、大成科创主题3年封闭运作灵活配置混合、嘉实科技创新混合在内的12只基金（不同份额分开计算）成立以来收益率已经翻倍。截至5月22日，市场上总共有科创主题基金81只，总规模达1186.51亿元。其中，2019年8月前成立的科创主题基金合计18只。Wind数据显示，截至5月21日，华夏科技创新A成立以来收益率最高，达到136.05%。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1979260",
+          "publishedOn": "2021-05-24T21:51:47.000Z",
+          "wordCount": 142,
+          "title": "Wind数据显示，截至5月21日，包括华夏科技创新混合A、大成科创主题3年封闭运作灵活配置混合、嘉实科技创新混合在内的12只基金（不同份额分开计算）成立以来收益..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979259",
+          "author": null,
+          "description": "5月24日晚间广发证券公告，近日收到证监会批复，同意该公司向专业投资者公开发行面值总额不超过500亿元公司债券的注册申请。实际上，广发证券500亿元公司债成为继中信证券800亿元和国泰君安500亿元公司债获批后，又一个大规模再融资申请。据Wind数据统计，今年以来，已有35家上市券商累计披露发债约4800亿元，其中，发债达百亿级的券商多达15家。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1979259",
+          "publishedOn": "2021-05-24T21:49:35.000Z",
+          "wordCount": 142,
+          "title": "5月24日晚间广发证券公告，近日收到证监会批复，同意该公司向专业投资者公开发行面值总额不超过500亿元公司债券的注册申请。实际上，广发证券500亿元公司债成为..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979258",
+          "author": null,
+          "description": "宠物护理初创公司Rover计划6月份IPO，该公司此前宣布了与特殊目的收购公司（SPAC）Nebula Caravelle Acquisition Corp.合并的计划，关于公司估值13.5亿美元的谈判仍在进行。（Business Insider）",
+          "link": "https://wallstreetcn.com/livenews/1979258",
+          "publishedOn": "2021-05-24T21:48:34.000Z",
+          "wordCount": 149,
+          "title": "宠物护理初创公司Rover计划6月份IPO，该公司此前宣布了与特殊目的收购公司（SPAC）Nebula Caravelle Acquisition Corp.合并的计划，关于公司估值13.5亿美元的谈..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979257",
+          "author": null,
+          "description": "2021年初，证监会一则关于申请首发上市企业股东信息披露的文件，将股权穿透核查进一步升级，使得不少企业在IPO进程中被迫搁浅。有多位创投机构人士表示，严查拟上市企业股权结构进一步影响到创投机构的募资和投资。业内人士呼吁，对穿透层次较多、涉及背后基金出资金额较少的，按常理判断不构成利益输送和腐败行为的企业，应给予相应的豁免政策或较为宽松的审核政策。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1979257",
+          "publishedOn": "2021-05-24T21:47:34.000Z",
+          "wordCount": 142,
+          "title": "2021年初，证监会一则关于申请首发上市企业股东信息披露的文件，将股权穿透核查进一步升级，使得不少企业在IPO进程中被迫搁浅。有多位创投机构人士表示，严查拟..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979256",
+          "author": null,
+          "description": "美国总统拜登签署一份立法草案，以期帮助阿拉斯加州的邮轮业。",
+          "link": "https://wallstreetcn.com/livenews/1979256",
+          "publishedOn": "2021-05-24T21:45:29.000Z",
+          "wordCount": 141,
+          "title": "美国总统拜登签署一份立法草案，以期帮助阿拉斯加州的邮轮业。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979255",
+          "author": null,
+          "description": "5月21日，金融委会议明确提出，打击比特币挖矿和交易行为。虽然此前协会曾多次提及虚拟货币交易风险，但比特币挖矿被高层会议明确予以打击，尚属首次。挖矿是“制造”比特币最核心的环节，对于挖矿的打击有利于从源头上打击比特币等虚拟币的交易炒作。挖矿产生的能耗超乎想象。虽然从环保的角度而言，打击挖矿是必要之举，但从过往经验来看，实际效果如何，以何种方式打压，仍应审慎评估和选择。虽然从环保的角度而言，打击挖矿是必要之举，但从过往经验来看，实际效果如何，以何种方式打压，仍应审慎评估和选择。",
+          "link": "https://wallstreetcn.com/livenews/1979255",
+          "publishedOn": "2021-05-24T21:40:04.000Z",
+          "wordCount": 142,
+          "title": "5月21日，金融委会议明确提出，打击比特币挖矿和交易行为。虽然此前协会曾多次提及虚拟货币交易风险，但比特币挖矿被高层会议明确予以打击，尚属首次。挖矿是“..."
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1979254",
           "author": null,
