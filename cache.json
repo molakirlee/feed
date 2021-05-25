@@ -229,6 +229,15 @@
       "siteUrl": "http://www.sciencemag.org/rss/news_current.xml",
       "articles": [
         {
+          "id": "https://www.sciencemag.org/news/2021/05/air-pollution-helps-wildfires-create-their-own-lightning?rss=1",
+          "author": null,
+          "description": "Finding could have wide-ranging ramifications for weather patterns",
+          "link": "https://www.sciencemag.org/news/2021/05/air-pollution-helps-wildfires-create-their-own-lightning",
+          "publishedOn": "2021-05-25T16:30:00.000Z",
+          "wordCount": 961,
+          "title": "Air pollution helps wildfires create their own lightning"
+        },
+        {
           "id": "https://www.sciencemag.org/news/2021/05/blind-man-regains-some-vision-help-light-sensing-algal-protein?rss=1",
           "author": null,
           "description": "Cutting-edge neurological technique known as optogenetics logs first success treating human disease",
@@ -1695,6 +1704,60 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3631242",
+          "author": "高星",
+          "description": "美国商务部数据显示，4月新屋销售季调之后为年化86.3万户，环比3月下跌5.9%，但与去年同期相比上升了48.3%。美国3月新屋销售数据遭遇大幅下修，从之前报告的102.1万户修正为91.7万户，当月的环比增幅也从20.7%大幅下修至7.4%。",
+          "link": "https://wallstreetcn.com/articles/3631242",
+          "publishedOn": "2021-05-25T15:27:23.000Z",
+          "wordCount": 113,
+          "title": "房价太高惹的祸！美国4月新屋销售环比跌5.9% 3月数据大幅下修"
+        },
+        {
+          "id": "3631241",
+          "author": "朱希",
+          "description": "对工业园区、数据中心、自备电厂等主体为虚拟货币“挖矿”企业提供场地、电力支持的，加大节能监察力度，核减能耗预算指标；对存在故意隐瞒不报、清退关停不及时、审批监管不力的，依据有关法律法规和党内法规严肃追责问责。",
+          "link": "https://wallstreetcn.com/articles/3631241",
+          "publishedOn": "2021-05-25T14:45:12.000Z",
+          "wordCount": 114,
+          "title": "关于对《内蒙古自治区发展和改革委员会关于坚决打击惩戒虚拟货币“挖矿”行为八项措施（征求意见稿）》公开征求意见的公告"
+        },
+        {
+          "id": "3631235",
+          "author": "陈圣洁",
+          "description": "上市公司到底该如何“有效”稳定股价",
+          "link": "https://wallstreetcn.com/articles/3631235",
+          "publishedOn": "2021-05-25T13:45:23.000Z",
+          "wordCount": 142,
+          "title": "5000万“护盘”4800亿？邮储银行“小手笔”稳定股价方案引关注，“杯水能救车薪”么"
+        },
+        {
+          "id": "3631234",
+          "author": "孙建楠",
+          "description": "未来一周对投资经理考验巨大",
+          "link": "https://wallstreetcn.com/articles/3631234",
+          "publishedOn": "2021-05-25T13:44:35.000Z",
+          "wordCount": 159,
+          "title": "“券商保险”板块遭突袭，私募巨头集体踏空“新战场”，只有冯柳“提前埋伏”过？"
+        },
+        {
+          "id": "3631232",
+          "author": "巩舒心",
+          "description": "巴尔金表示：通胀预期十分稳定；供应链方面，目前的问题不在于需求方面而是在于供应方面；劳动力市场仍有很大的增长空间。",
+          "link": "https://wallstreetcn.com/articles/3631232",
+          "publishedOn": "2021-05-25T13:42:41.000Z",
+          "wordCount": 111,
+          "title": "“通胀预期十分稳定” 拥有投票权的美联储官员巴尔金发表鸽派言论"
+        },
+        {
+          "id": "3631231",
+          "author": "于旭东",
+          "description": "北向资金今日全天净买入217.23亿元，创互联互通机制开通以来新高；期权市场也见证了历史，50ETF购5月3600看涨期权合约今日狂飙6850%；融资规模在短短14个交易日中暴涨超400亿元。",
+          "link": "https://wallstreetcn.com/articles/3631231",
+          "publishedOn": "2021-05-25T13:40:17.000Z",
+          "wordCount": 133,
+          "title": "A股的爱来得太突然：市值狂增1.83万亿，人均赚1万！背后主力竟然是……"
+        },
+        {
           "id": "3631209",
           "author": "侯秋芸",
           "description": "进军汽车生态的野心不小。",
@@ -1702,6 +1765,15 @@
           "publishedOn": "2021-05-25T12:58:54.000Z",
           "wordCount": 108,
           "title": "华为不造车，恐怕是认真的！"
+        },
+        {
+          "id": "3631228",
+          "author": "胡描",
+          "description": "燕麦奶品牌Oatly成为了继Beyond Meat、Impossible Food之后的又一“植物基”明星公司。在其上市之后，市值已经超过了Beyond Meat，达到了122.75亿美元。而在国内，燕麦奶也成为了一个创业热门赛道，投资人们观望着Oatly的强劲表现，早已提前占好了位。",
+          "link": "https://awtmt.com/articles/3631228?from=wscn",
+          "publishedOn": "2021-05-25T12:58:08.000Z",
+          "wordCount": 123,
+          "title": "成本更低却卖更贵，谁在“造富”燕麦奶？"
         },
         {
           "id": "3631226",
@@ -3268,6 +3340,24 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-57241053",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionThe Fast and Furious 9 actor posted a video message in Chinese\n\nWWE star John Cena has apologised to China for calling Taiwan a country.\n\n\nThe actor and former professional wrestling champion described Taiwan as a country in a promotional video for the latest Fast and Furious film.\n\n\nThe interview prompted a backlash in China, which considers self-ruling Taiwan to be part of its territory.\n\n\nMr Cena has now posted a video message on social media in which he speaks in Chinese and says sorry for his \"mistake\".\n\n\n\nJohn Cena to China after calling Taiwan a country: I love and respect China and Chinese people. I’m very, very sorry about my mistake. I apologise, I apologise, I’m very sorry. \nHe's promoting Fast and Furious 9pic.twitter.com/y1NpAkGFVj\n— Sh…",
+          "link": "https://www.bbc.co.uk/news/world-asia-57241053",
+          "publishedOn": "2021-05-25T13:42:24.000Z",
+          "wordCount": 1071,
+          "title": "[World] John Cena: Fast and Furious star sorry over Taiwan remark backlash"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-57244173",
+          "author": null,
+          "description": "All 23 members of the Singaporean X-Press Pearl's crew were evacuated.",
+          "link": "https://www.bbc.co.uk/news/world-asia-57244173",
+          "publishedOn": "2021-05-25T12:56:07.000Z",
+          "wordCount": 512,
+          "title": "[World] Sri Lanka navy rescue crew following chemical fire on cargo ship"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-china-57227248",
           "author": null,
           "description": "image copyrightGetty Images\nimage captionZhu Keming in the cave dwelling where he sheltered the stricken athletes\n\nA shepherd has been hailed as a hero for saving six runners in an ultramarathon race in which 21 died. \n\n\nZhu Keming said he was grazing his sheep on Saturday in the northern province of Gansu when rain began to fall and temperatures plummeted.\n\n\nNearby, the sudden weather change had caught out runners in a 100km (60-mile) cross-country race.\n\n\nMr Zhu took refuge in a cave where he stored emergency food and clothes, but while inside he saw a stricken runner.\n\n\nThe shepherd told Chinese state media that he escorted the runner into the cave, massaged his hands and feet, and lit a fire to dry his clothes.\n\n\nFour more distressed runners made it into the cave and told the shepherd …",
@@ -3803,6 +3893,60 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/fast-furious-star-apologizes-for-calling-Taiwan-a-country-20210525/5903629.html",
+          "author": null,
+          "description": "美國影星塞納在洛杉磯出席一個電影首映式。（2018年12月9日）\n\n\n\n華盛頓 — \n\n主演美國系列動作片 \"F9狂野時速\" ​的美國職業娛樂摔跤頭牌巨星約翰∙塞納(John Cena) 5月25日為他對台灣的一次“稱呼”而向中國這個全球最大電影市場的影迷道歉，以平息眾多中國影迷在社交媒體上對他的抨擊與圍剿。\n北京一向視已經分離分治70多年、而且已經民主化的台灣為其領土的一部分，並且一再堅持即使動武也要收回台灣的立場。任何明示或暗示台灣是一個獨立國家的言行都會激怒北京當局，也會在受到嚴格管控的微博等中國社交媒體上遭到網民的聲討和攻擊。\n塞納5月初前往台灣推介 \"F9狂野時速\" ​這部影片。他在接受一家電視台訪問時，提到台灣這個“國家”。這件事在中國社交媒體上引發軒然大波，許多網民甚至呼籲抵制這部剛剛在中國首映就獲得亮麗票房收入的影片。\n5月25日，塞納親自出面，在微博上用中文向憤怒的中國影迷道歉：“我為 \"F9狂野時速\" ​接受了很多很多的訪問，我只是在一場訪問中犯了一個錯誤。 ”塞納不僅沒有重複他當時說錯了什麼，而且還強調他熱愛並尊重中國和中國人民：“我為我的錯誤感到非常非常抱歉，我道歉。”\n塞納這段道歉的影片已經在受到嚴格管控的中國社交網站上播放了240萬次，而且中國的媒體也對此作了大量的報導。根據有民族主義傾向的中國環球時報報導， \"F9狂野時速\" ​上週五（5月25日）在中國首映以來票房表現相當不錯，收入高達1億4800萬美元。\n塞納的道歉影片已經引發超過7000條回應或留言，網民們似乎對塞納的道歉並不完全買賬。有人在微博上要求塞納用中文說“台灣是中國一部分”，“否則我們絕不接受”；也有人對美國人連“台灣是中國一部分”都不知道感到“氣憤”。\n法新社在報導這一事件時指出，中國龐大的消費市場在對付北京的批評者方面，近年來已被逐漸“武器化”。\n海恩斯莫里斯服飾公司（H&M）最近因為對一份有關新疆強迫勞動的報告表達關切，它在中國的門店便從蘋果和百度地圖的搜索上消失了，有些小城市的門店則因為房東拒租而被迫關門，它的品牌和產品也在阿里巴巴和淘寶等電商平台上下架。阿迪達斯和耐克公司也因為對新疆問題發表看法而導致它們的產品在中國受到抵制，產品的銷售嚴重下滑。NBA火箭隊總教練戴爾∙莫瑞因在推特上發文支持香港反送中示威者而激怒北京，導致北京一度切斷與NBA的聯絡，並停止電視轉播NBA球賽。\n作為世界上第二大經濟體和第一大電影市場，中國對全球大公司，特別對荷里活​具有強大的吸引力。但是中國又在諸如台灣、香港、人權等問題上設有特別多的紅線與禁忌，外國公司和個人稍有不慎就可能步入雷區，這已經引起越來越廣泛的注意。",
+          "link": "https://www.voacantonese.com/a/fast-furious-star-apologizes-for-calling-Taiwan-a-country-20210525/5903629.html",
+          "publishedOn": "2021-05-25T14:15:25.000Z",
+          "wordCount": 302,
+          "title": "美國動作片 \"F9狂野時速\"主演因稱台灣為國家而被迫道歉"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/China-denounces-people-s-tribunal-on-alleged-Xinjiang-abuses-20210525/5903599.html",
+          "author": null,
+          "description": "新疆維吾爾自治區政府新聞發言人徐貴相在北京舉行的有關新疆問題的記者會上（2021年5月25日）\n\n\n\n華盛頓 — \n中國當局週二（5月25日）對在英國成立的維吾爾獨立法庭表示譴責，指控這個民間團體預設立場，抹黑新疆，給新疆扣上根本不存在的種族滅絕帽子。但是，流亡海外的維族人國際組織世界維吾爾人大會回應說，該法庭將依據法律和證據進行審理，給維族人提供獲得公正審判的一個機會。\n中國新疆自治區政府發言人徐貴相週二在北京舉行的記者會上稱維吾爾獨立法庭是由美國和西方反華勢力成立的非法法庭。徐貴相說，維吾爾獨立法庭對謊言進行聽證，是“嚴重褻瀆真正的種族滅絕受害者”。\n美聯社的報導說，維吾爾獨立法庭根本沒有任何政府背景，主持這個法庭的是英國大律師杰弗裡·尼斯（Geoffrey Nice）爵士，他曾經在海牙國際法庭對前塞爾維亞總統米洛舍維奇戰爭罪的審判中擔任檢察官。\n維吾爾獨立法庭是2020年9月3日正式成立的。\n中國當局對新疆維吾爾穆斯林進行系統性迫害在國際上曝光以後引起了強烈反應。許多國家和組織對中國新疆當局以反恐的名義把數百萬新疆維族人關押起來進行政治洗腦和系統迫害的做法視同於種族滅絕行為。美歐等許多國家對中國迫害維族人的行為紛紛予以譴責，並對相關中國官員和組織採取了製裁措施。\n中國官方起初對此是堅決否認，但後來又承認關押維族人的建築物的存在，但辯稱這些地方不是拘押營而是職業培訓中心，目的是向維族人傳授職業技能，幫助他們找到工作。隨著國際壓力的加大，中國當局進一步承認，設立這些培訓中心是出於反恐需要，是要通過教育剷除維族人腦子中的極端主義。\n在過去的幾個月裡，新疆問題的國際認知度得到了快速提升，新疆棉所引起的強迫勞動問題的影響也越來越大，許多國際大公司紛紛表示拒絕接受與新疆棉相關的中國商品。那些參與設計和生產監視維族人產品的科技公司也受到了國際制裁。\n據台灣中央社報導，迪里夏提在周二接受中央社採訪的時候解釋了維吾爾獨立法庭成立的原因。他說，中國是《防止及懲治種族滅絕罪公約》的締約國，中國針對維族進行嚴重、系統性的侵害，符合公約中對於“種族滅絕”的定義。但是，中國的保留條款使得在國際法院和其它國際法庭起訴中國的可能性微乎其微。\n由於“各國或者國際組織正式組成的法庭接受這些指控的現實可能性幾乎為零，”迪里夏提表示，“維吾爾人法庭將會依據證據和法律進行審理，讓維吾爾人獲得權威、公正審判結果的機會。”\n迪里夏提說，所謂教育培訓中心“是名副其實的集中營”。中國針對維吾爾民族犯下了包括謀殺、奴役、無端監禁、酷刑折磨、強姦和其它性暴力、強制節育、強制失踪、將孩子從父母奪走、強制婚姻和強制摘取器官等罪行。\n迪里夏提說，“它（集中營）和監獄之間的區別在於，監獄是通過一些所謂司法程序後才對維吾爾人進行非人道折磨；集中營則直接省去所有司法程序，把人隨意強制關押、強迫接受政治洗腦，甚至承受非人道的折磨。”",
+          "link": "https://www.voacantonese.com/a/China-denounces-people-s-tribunal-on-alleged-Xinjiang-abuses-20210525/5903599.html",
+          "publishedOn": "2021-05-25T14:01:48.000Z",
+          "wordCount": 294,
+          "title": "中國批維吾爾法庭抹黑新疆   世維會：為維族人提供公正審判"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/China-orders-prompt-probe-into-swaying-Shenzhen-skyscraper-20210525/5903592.html",
+          "author": null,
+          "description": "深圳摩天大樓賽格廣場大廈數次搖晃，人們聚集在大廈外。（2021年5月18日）\n\n\n\n\n深圳摩天大樓賽格廣場大廈上週數次搖晃，引發公眾擔憂。深圳官方星期二（5月25日）發布“安民告示”：“大樓結構整體性能滿足要求”。\n大樓的晃動驚動了廣東省官員。中國媒體報導說，廣東省委書記李希、省長馬興瑞，省委副書記兼深圳市委書記王偉中上星期六（5月22日）前往深圳市“調研”，李希稱要“堅持生命至上、安全第一，科學、精準、嚴肅、穩妥做好應對處置工作。”\n他還表示，就賽格大廈樓體搖晃一事，應尊重科學、尊重專家，盡快拿出科學權威的調查結論。\n深圳市官方微信平台“深圳發布”星期二（5月25日）稱，專業機構對賽格大廈的房屋沉降、傾斜率和加速度等情況進行了持續監測，專家組表示，截至當天中午，“各項檢測數據正常，未超出相應標準要求”。\n“深圳發布”還說：“專業機構已結合最新技術條件完成大樓整體結構體系建模和復核驗算，認為大樓結構整體性能滿足要求。”\n賽格廣場大廈是深圳的地標建築之一，大樓共79層，總高度為355.8米。大樓從5月18日起連續3天出現晃動，並於5月21日零時起暫時關閉。\n一位伊朗商人對法新社表示，大樓上週開始搖晃時他在五十三層。他說：“我看到有東西在動，當我起來的時候，我看到所有的東西都在動。”\n“在那之後，我們很快就出來了，”他說，“現在，我們不知道如何做生意，也不知道如何應對……一切都不清楚。”\n他還表示，大樓此前還發生過“幾次晃動”。\n在馬路對面，一位電子貿易商也對法新社，他之前就曾聽到有人抱怨大樓搖晃，“但沒有這次那麼嚴重”。\n法新社還說，建築倒塌或事故在中國並不罕見，這往往與鬆懈的建築標准或腐敗有關。\n中國官媒新華社日前報導說，業內人士表示，賽格廣場聚集眾多電子元器件商家，此次大樓晃動事件，可能會對硬盤、顯卡等產品的收發貨造成影響，進而對市場造成一定衝擊。",
+          "link": "https://www.voacantonese.com/a/China-orders-prompt-probe-into-swaying-Shenzhen-skyscraper-20210525/5903592.html",
+          "publishedOn": "2021-05-25T13:55:13.000Z",
+          "wordCount": 292,
+          "title": "賽格大廈接連晃驚動廣東官員  安民告示：“大樓結構整體性能滿足要求”"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/cantonese-it-hong-kong-alliance-discuss-june-4th-candlelight-vigil-arrangements-with-police-20210525-rry/5903489.html",
+          "author": null,
+          "description": "香港支聯會在2015年6月4日晚在維多利亞公園舉行的六四晚會，2021年能否舉行目前依然是一個問號 （路透社資料照片）\n\n\n\n香港 — \n\n\n今年是北京六四屠城事件32周年，亦是《港區國安法》實施後首次六四紀念日，去年警方以新冠疫情限聚令為由，31年來首次反對香港支聯會在銅鑼灣維多利亞公園舉辦六四燭光悼念集會，今年疫情持續加上國安法的實施，支聯會能否繼續過去30年的傳統，在維園舉辦六四燭光悼念集會成為各界關注的焦點。\n距離六四32周年紀念日還有倒數10日，支聯會早前向警方申請下星期五(6月4日)晚，在維園舉辦六四燭光悼念集會，該會兩名常委梁錦威及盧偉明星期二(5月25日)早上到北角警署，與警方商討燭光集會安排，警方未有回覆是否發出不反對通知書。\n梁錦威與警方會面後接受傳媒訪問表示，支聯會希望可以進行一個合法及和平的悼念集會，讓市民可以繼續過去超過30年的堅持，悼念六四以及爭取民主。梁錦威又表示，警方一如去年以新冠肺炎疫情及限聚令為由，對燭光集會申請作出推搪，他呼籲警方盡快批出不反對通知書。\n支聯會較早前亦有申請下星期日(5月30日)舉辦六四32周年大遊行，由灣仔修頓球場遊行到北京駐港機構中聯辦，梁錦威表示，警方商討六四燭光集會安排的態度，相比上星期二(5月18日)商討六四大遊行安排的氣氛更緩和，警方對於燭光集會的安排，主要是針對目前4人限聚令，支聯會回應會遵從政府的防疫措施，包括保持社交距離及參與集會必須戴口罩等，並下調集會的申請人數至4 - 6萬人。但是警方未有正面回應。\n有建制派人士認為，《港區國安法》實施後，支聯會五大綱領中”結束一黨專政”涉嫌違反國安法。梁錦威表示，警方上星期二商討六四遊行安排時，首次問及支聯會五大綱領，今次商討六四燭光集會安排亦有問及，但沒有提及五大綱領是否有違反《港區國安法》。\n支聯會副主席何俊仁上星期二(5月18日)因反送中運動10-1遊行案被還柙前，接受網台訪問表示，如果市民今年到維園悼念六四將要冒很大風險，他認為當局今年可能會大規模拘捕，他以去年六四燭光集會參與未經批准集結案為例，以往他自己被控未經批准集結，一般只是罰款或者社會服務令了事，而去年的初犯者，就算只是進入維園”坐一坐”的區議員梁凱晴，也要即時入獄4個月。\n \n何俊仁估計，北京今年可能下達了”死令”，要求電視螢幕上不能夠再出現在維園舉辦悼念六四的畫面。他呼籲港人要靈活應對，例如改日子悼念、或悼念後才把相片上載到社交網站，令全香港變成維園。\n對於何俊仁的說法，支聯會常委梁錦威接受美國之音訪問表示，支聯會到目前為止，仍然是以爭取警方批出六四燭光集會不反對通知書為目標，希望可以舉辦合法及和平的集會，以保障參加者的安全，不希望重演去年警方拘捕六四燭光集會參加者的事件。\n梁錦威表示，對於警方是否批出六四大遊行及六四燭光集會不反對通知書不會感到悲觀，他又表示，支聯會現階段未有落實一旦警方反對六四遊行集會的後備方案，一切留待警方發出反對或不反對通知書再作決定。\n建制派的全國僑聯副主席盧文端星期一(5月24日)再度在香港《明報》針對支聯會撰文表示，香港已經進入國安法年代，他批評支聯會要求舉辦”結束一黨專政”的六四集會遊行，屬於危害中國國家安全的違法行為，亦屬於”必須禁止”之列，”否則《國安法》權威何在”？\n港區全國人大代表陳曼琪表示，如果支聯會今年不獲警方批准在維園舉行六四燭光晚會，而巿民自行往維園參與六四悼念活動，或者在網絡呼籲其他人參與，都有可能違法。\n對於國安法之下，建制派人士針對今年六四遊行集會的言論，支聯會常委梁錦威對美國之音表示，今年建制派人士的言論比過往激烈，企圖嚇怕市民，不過，他認為港人悼念六四的決心從來沒有改變過。\n記者問及，以往30年香港是中國管治下，唯一合法舉辦大型悼念六四集會的地方，維園燭光如海的畫面是國際社會對於香港在一國兩制下，是否仍然擁有言論集會自由的重要指標，今年國安法實施第一年之後，如果維園悼念六四的燭光消失，是否會引起國際社會更關注國安法之下，香港言論、集會自由的倒退﹖\n梁錦威表示，如果六四當晚悼念的燭光消失，他認為會是一個國際以致香港社會的一個警號。\n香港理工大學應用社會科學系前助理教授、香港民意研究所副行政總裁鍾劍華接受美國之音提問表示，國安法之下港府的紅線令人難以觸摸，他批評建制派人士及傳媒，經常就某些議題發言，但是政府官員不願意正面澄清，令法例界線模糊去阻嚇市民，他認為港府刻意製造白色恐怖的氣氛。\n支聯會表示，悼念六四是香港人過去31年的集體回憶，該會將繼續爭取市民合法悼念六四的權利。",
+          "link": "https://www.voacantonese.com/a/cantonese-it-hong-kong-alliance-discuss-june-4th-candlelight-vigil-arrangements-with-police-20210525-rry/5903489.html",
+          "publishedOn": "2021-05-25T13:31:46.000Z",
+          "wordCount": 312,
+          "title": "香港支聯會與警方商討六四燭光集會 續爭取港人合法悼念權利"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/is-full-blown-boycott-of-2022-Beijing-winter-games-feasible-20210525/5903465.html",
+          "author": null,
+          "description": "中國國旗和奧運旗幟在北京冬奧組委會外飄揚。 （2021年3月30日）\n\n\n\n香港 — \n\n還有兩個月就要揭幕的東京奧運會，由於疫情關係，籌組工作遇上空前困難。明年二月舉行的北京冬季奧運會也充滿暗湧。基於中國的人權狀況，美國國內抵制北京冬奧的呼聲一浪接一浪，不過，到底該以什麼形式採取抵制行動，政商界至今仍未達成共識。 40多年前，以美國為首的西方國家聯合抵制莫斯科奧運的一幕，是否會在北京重演呢？\n美國國會眾議院議長佩洛西5月18日透過視像向跨黨派國會聽證會發表講話，呼籲各國領導人不要出席明年二月在北京舉行的冬季奧運會，以抗議中國侵犯人權。\n她說∶“如果你願意向犯下種族滅絕罪的中國政府致敬，你有何道德權威去談論世上任何地方的人權問題。所以，留在家中支持你們的運動員吧。如果奧運會真的如期舉行，就讓我們透過外交方式進行抵制。在這議題上維持沉默是不能接受的。”\n\n早在兩個月前，美國共和黨國會參議員羅姆尼曾在紐約時報撰文， 呼籲對北京冬奧採取外交和經濟抵制。他促請美國總統在北京舉行冬奧期間，不要按照以往習慣，派遣外交人員和白宮官員到北京，改為邀請海外的中國異見人士、宗教領袖以及少數民族代表到北京觀禮。\n鑑於商業贊助和入場券是奧運會重要的收入來源，羅姆尼呼籲美國企業不要組織客戶到北京觀看冬奧。他表示，除了參賽運動員和教練員的家屬，其他美國人應留在國內，以免觀賽和酒店等花費為中共政權帶來龐大收益。\n美國部分國會議員和人權團體一直呼籲美國全面抵制北京冬奧，也就是不派運動員參賽，呼籲這項四年一度的體壇盛事異地舉行，但是遭到美國奧委會和不少美國民眾的反對。\n全面抵制未必符合拜登方針\n澳大利亞中華全球研究中心研究員宋文笛對美國之音表示，全面抵制北京冬奧未必符合拜登政府的外交方針。\n他說：“抵制冬奧的形式和拜登現在強調的增加國際參與是有一定抵消的。而且美國如果參與冬季奧運的話，有機會展示它在運動乃至…",
+          "link": "https://www.voacantonese.com/a/is-full-blown-boycott-of-2022-Beijing-winter-games-feasible-20210525/5903465.html",
+          "publishedOn": "2021-05-25T11:46:03.000Z",
+          "wordCount": 376,
+          "title": "抵制冬奧呼聲不斷 北京會否步莫斯科後塵？"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/i-and-o-discussion-summary-20210525/5903456.html",
+          "author": null,
+          "description": "北京之春榮譽主編胡平 (資料照)\n\n\n\n華盛頓 — \n\n“雜交水稻之父”袁隆平逝世震動了中國上下，官媒極具哀榮，稱他是“讓中國人把飯碗端在自己手中的英雄”。\n不同尋常的是，民間哀思滾滾，普通人們通過種種方式，自發而由衷地悼念這位讓中國人告別飢餓的農業大師。畢竟，如今60歲以上的中國人大都忘不了曾經總是飢腸轆轆的感覺。\n中共常說，中國歷代政府都沒有像共產黨政府那樣徹底解決了中國人的吃飯問題，但是袁隆平曾大膽直言，1950年代末的大饑荒餓死幾千萬人。而現代社會除非洲之外，三大著名飢荒分別發生在前蘇聯、中國和朝鮮，都是共產黨國家。\n中國人為何對袁隆平感恩戴德？解決中國吃飯問題的是農業科技創新還是中共制度優勢？\n《北京之春》榮譽主編胡平認為，袁隆平的確為中國和世界的糧食問題以及農業生產做出了卓越貢獻，因此他被譽為“雜交水稻之父”是名副其實的。\n他說：“袁隆平是雜交水稻研究的一個開創者，是世界上第一個把水稻雜交優勢成功應用於大面積生產的科學家。其實早在他之前，1963年，一個叫亨利·別克的美國人就在實驗室裡進行了水稻雜交，產生了優勢後代。只不過亨利·別克的操作技術不能大規模應用於實際。袁隆平在1973年開創的'三係法雜交水稻育種技術'是第一種能夠在生產中大面積應用的技術。實現了雜交水稻的產業化。袁隆平的貢獻還不在於他的團隊培育出了什麼優良的雜交水稻品種，而在於他創造了一種大家都能用的育種方法，為整個水稻雜交開闢了道路。也就是其它團隊培育出來的雜交水稻品種也包含了袁隆平的貢獻。幾十年來，袁隆平一直致力於雜交水稻的研究、應用和推廣，他為中國的糧食安全、農業科學的發展，以及世界的糧食供給都有很大的貢獻。所以稱他為'雜交水稻之父'應該說是名副其實的。”\n但胡平也表示，中國官方給他授予“讓中國人吃飽飯的說法”卻是言過其實，似乎有為掩蓋舊體制弊端的嫌疑。\n他說：“當然對袁隆平的有些稱頌未免言過其實。比如說'是袁隆平讓中國人吃飽了飯'，這種說法就言過其實。而且很有為舊體制的弊端掩蓋的嫌疑。不過總的來說，袁隆平確實為中國的糧食生產和農業科學，為中國的糧食安全做出過很突出的貢獻，這是沒有疑問的。”\n北京的獨立學者吳強對中國民間對袁隆平的自發悼念行為並不以為然。他認 為，這種自發性來自於中國國內帶有民粹主義色彩的造神運動。\n他說：“我們看到的實際上是過去九年，國內的一個造神運動的結果。人們好像是在一種民粹主義化的造神運動中被訓練有素地向一位死去的科學家表達悼念。把他當作什麼什麼之父，當作最近幾年國內一直強調的糧食安全，特別是種子安全的一個重要的工程來來紀念。所以這基本上是一個訓練有素的，是被過去幾年的糧食安全的強調所征服的。我們看到在過去九年國內所培養出的小粉紅，他們這種話語的模式已經影響到普通人。所以這才是我剛才所說的'訓練有素'的意義。尤其是現在他死的時機相當有意思，是在紀念黨成立100週年的這麼一個時候。很多黨員幹部都在以此來爭相表達效忠，表達把他這個所謂'雜交水稻之父'跟共產黨讓人民吃飽飯是等同起來的。這是很重要的一個背後造神運動的所謂'自發'的心里基礎。”\n吳強也表示，袁隆平的成功在一定程度上得益於他的幸運，而袁隆平一人的光芒也使得中國大多數沒那麼幸運的科研人員相形見絀。\n他說：“他很幸運。比如說，他早年得到了華國鋒的保護，能夠繼續從事水稻研究而沒有被文革衝擊，這我相信是很重要的。這種受到保護的科學家在國內也是很少的。在這個意義上講，他確實很幸運。而且趕上市場經濟，市場經濟的一些操作。他也是蠻擅長的，比如說他控股有17家企業，隆平高科是上市企業，這都是一個很難得、很幸運的中國科學家的一個生涯。在這一意義上他是被造出來的神。其實是掩蓋了中國大多數科學家，其實是在缺乏科學自由的情況下，很艱難困苦的來做研究，很多精力是花在形式主義上面，很多精力是花在低成本的赶超上面，沒有什麼原創性的激勵。",
+          "link": "https://www.voacantonese.com/a/i-and-o-discussion-summary-20210525/5903456.html",
+          "publishedOn": "2021-05-25T11:25:32.000Z",
+          "wordCount": 293,
+          "title": "飢餓記憶與恐懼- 袁隆平離世為何觸動中國?"
+        },
         {
           "id": "https://www.voacantonese.com/a/taiwan-difficult-choice-20210525/5903444.html",
           "author": null,
@@ -4455,6 +4599,528 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1979945",
+          "author": null,
+          "description": "意大利5月25日新增3224例新冠肺炎病例（上日增加2490例），新增166例死亡病例（上日增加110例）。",
+          "link": "https://wallstreetcn.com/livenews/1979945",
+          "publishedOn": "2021-05-25T15:25:12.000Z",
+          "wordCount": 141,
+          "title": "意大利5月25日新增3224例新冠肺炎病例（上日增加2490例），新增166例死亡病例（上日增加110例）。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979944",
+          "author": null,
+          "description": "越南政府称，新冠疫情在工人密度高的北江省、北宁省工业区传播，导致供应链和生产链受阻严重。鸿海工厂所在工业园已关闭。（一财）",
+          "link": "https://wallstreetcn.com/livenews/1979944",
+          "publishedOn": "2021-05-25T15:22:11.000Z",
+          "wordCount": 141,
+          "title": "越南政府称，新冠疫情在工人密度高的北江省、北宁省工业区传播，导致供应链和生产链受阻严重。鸿海工厂所在工业园已关闭。（一财）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979943",
+          "author": null,
+          "description": "英国5月25日新增2493例新冠肺炎病例。",
+          "link": "https://wallstreetcn.com/livenews/1979943",
+          "publishedOn": "2021-05-25T15:21:13.000Z",
+          "wordCount": 141,
+          "title": "英国5月25日新增2493例新冠肺炎病例。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979942",
+          "author": null,
+          "description": "印度：新冠肺炎疫苗接种总量达到2.005亿剂次。",
+          "link": "https://wallstreetcn.com/livenews/1979942",
+          "publishedOn": "2021-05-25T15:16:02.000Z",
+          "wordCount": 141,
+          "title": "印度：新冠肺炎疫苗接种总量达到2.005亿剂次。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979941",
+          "author": null,
+          "description": "近日，植物科学和药学一区杂志《植物医学》发表了一项中国医学科学院阜外医院教授李静团队的研究成果。该研究成果显示，中国新冠肺炎诊疗方案临床广泛使用的“清肺排毒汤”，可使得新冠肺炎住院患者的死亡风险下降一半。（央视）",
+          "link": "https://wallstreetcn.com/livenews/1979941",
+          "publishedOn": "2021-05-25T15:12:33.000Z",
+          "wordCount": 142,
+          "title": "近日，植物科学和药学一区杂志《植物医学》发表了一项中国医学科学院阜外医院教授李静团队的研究成果。该研究成果显示，中国新冠肺炎诊疗方案临床广泛使用的“清..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979924",
+          "author": null,
+          "description": "美联储理事夸尔斯：央行数字货币（CBDC）能否在美国奏效是一个开放式问题。",
+          "link": "https://wallstreetcn.com/livenews/1979924",
+          "publishedOn": "2021-05-25T15:12:22.000Z",
+          "wordCount": 141,
+          "title": "美联储理事夸尔斯：央行数字货币（CBDC）能否在美国奏效是一个开放式问题。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979940",
+          "author": null,
+          "description": "焦煤涨近1%，动力煤、铁矿石小幅上涨，螺纹、热卷跌超1%，焦炭跌0.3%。\n橡胶、PTA、短纤、塑料、EG、EB、纯碱、沥青上涨0.16%-0.76%。纸浆跌0.79%，玻璃、PVC、郑醇小幅下跌。\n豆一、玉米跌超1%，菜粕跌0.92%，豆粕跌0.82%，棕榈、淀粉、棉花均小幅下跌，豆油则小幅上涨。",
+          "link": "https://wallstreetcn.com/livenews/1979940",
+          "publishedOn": "2021-05-25T15:08:04.000Z",
+          "wordCount": 146,
+          "title": "焦煤涨近1%，动力煤、铁矿石小幅上涨，螺纹、热卷跌超1%，焦炭跌0.3%。\n橡胶、PTA、短纤、塑料、EG、EB、纯碱、沥青上涨0.16%-0.76%。纸浆跌0.79%，玻璃、PVC、..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979939",
+          "author": null,
+          "description": "美国将责令众多（能源）管道公司上报网络（袭击）事故。（华盛顿邮报）",
+          "link": "https://wallstreetcn.com/livenews/1979939",
+          "publishedOn": "2021-05-25T15:04:09.000Z",
+          "wordCount": 142,
+          "title": "美国将责令众多（能源）管道公司上报网络（袭击）事故。（华盛顿邮报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979938",
+          "author": null,
+          "description": "中概普涨，跑赢美股大盘。德银嘉实沪深300指数ETF大涨超4%，中国科技指数ETF涨近3%，红黄蓝涨17%，新东方涨15%，好未来涨12%，老虎证券涨超13%，网易有道涨8%，富途证券、金山云、涂鸦智能、斗鱼涨超7%，知乎涨5%，腾讯ADR、百度、爱奇艺、虎牙涨超3%。",
+          "link": "https://wallstreetcn.com/livenews/1979938",
+          "publishedOn": "2021-05-25T15:03:16.000Z",
+          "wordCount": 142,
+          "title": "中概普涨，跑赢美股大盘。德银嘉实沪深300指数ETF大涨超4%，中国科技指数ETF涨近3%，红黄蓝涨17%，新东方涨15%，好未来涨12%，老虎证券涨超13%，网易有道涨8%，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979937",
+          "author": null,
+          "description": "美国国会参议院民主党成员Warren将询问美联储理事夸尔斯：是否后悔削弱对银行业的监管。",
+          "link": "https://wallstreetcn.com/livenews/1979937",
+          "publishedOn": "2021-05-25T15:02:55.000Z",
+          "wordCount": 141,
+          "title": "美国国会参议院民主党成员Warren将询问美联储理事夸尔斯：是否后悔削弱对银行业的监管。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979936",
+          "author": null,
+          "description": "莫德纳（MRNA）料将在2022年于印度市场推出单针剂新冠肺炎疫苗接种方案。（PTI）",
+          "link": "https://wallstreetcn.com/livenews/1979936",
+          "publishedOn": "2021-05-25T15:01:38.000Z",
+          "wordCount": 141,
+          "title": "莫德纳（MRNA）料将在2022年于印度市场推出单针剂新冠肺炎疫苗接种方案。（PTI）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979935",
+          "author": null,
+          "description": "啤酒生产商星座品牌、莫尔森库尔斯饮料涨超1%，Boston Beer涨超3%；Bernstein看好啤酒行业，首次覆盖上述三家公司，并给予其跑赢大盘评级，称市场低估了顶级啤酒股的增长前景。",
+          "link": "https://wallstreetcn.com/livenews/1979935",
+          "publishedOn": "2021-05-25T14:50:42.000Z",
+          "wordCount": 143,
+          "title": "啤酒生产商星座品牌、莫尔森库尔斯饮料涨超1%，Boston Beer涨超3%；Bernstein看好啤酒行业，首次覆盖上述三家公司，并给予其跑赢大盘评级，称市场低估了顶级啤酒..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979934",
+          "author": null,
+          "description": "农业农村部部长唐仁健25日说，目前西南地区小麦已收获过半，增产趋势明显；黄淮海即将开镰，长势好于上年、好于常年，丰收在望。收获在即，要扎实做好小麦机收，确保丰收到手。唐仁健介绍说，今年夏粮生产势头良好，冬小麦面积扭转连续4年下滑的势头，增加了300多万亩。从前期调度情况看，今年投入“三夏”麦收的联合收割机将超过60万台。（澎湃）",
+          "link": "https://wallstreetcn.com/livenews/1979934",
+          "publishedOn": "2021-05-25T14:45:49.000Z",
+          "wordCount": 142,
+          "title": "农业农村部部长唐仁健25日说，目前西南地区小麦已收获过半，增产趋势明显；黄淮海即将开镰，长势好于上年、好于常年，丰收在望。收获在即，要扎实做好小麦机收，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979933",
+          "author": null,
+          "description": "意大利总理德拉吉：欧盟将于下一次首脑峰会上讨论移民问题。",
+          "link": "https://wallstreetcn.com/livenews/1979933",
+          "publishedOn": "2021-05-25T14:45:15.000Z",
+          "wordCount": 141,
+          "title": "意大利总理德拉吉：欧盟将于下一次首脑峰会上讨论移民问题。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979932",
+          "author": null,
+          "description": "Bitstamp数据显示，比特币维持日内整体超过2%的跌幅，徘徊于3.8万美元下方。",
+          "link": "https://wallstreetcn.com/livenews/1979932",
+          "publishedOn": "2021-05-25T14:40:27.000Z",
+          "wordCount": 141,
+          "title": "Bitstamp数据显示，比特币维持日内整体超过2%的跌幅，徘徊于3.8万美元下方。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979931",
+          "author": null,
+          "description": "标普500指数转跌，道指几乎回吐全部涨幅，纳指涨幅收窄至0.13%。",
+          "link": "https://wallstreetcn.com/livenews/1979931",
+          "publishedOn": "2021-05-25T14:38:20.000Z",
+          "wordCount": 141,
+          "title": "标普500指数转跌，道指几乎回吐全部涨幅，纳指涨幅收窄至0.13%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979930",
+          "author": null,
+          "description": "蔚来汽车目前涨2%，盘中一度涨超4%；据新华社，蔚来与合肥市政府新规划已经启动。",
+          "link": "https://wallstreetcn.com/livenews/1979930",
+          "publishedOn": "2021-05-25T14:37:05.000Z",
+          "wordCount": 141,
+          "title": "蔚来汽车目前涨2%，盘中一度涨超4%；据新华社，蔚来与合肥市政府新规划已经启动。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979928",
+          "author": null,
+          "description": "内蒙古发改委发布《关于对公开征求意见的公告》。八项措施中提到，对通讯企业、互联网企业等主体存在虚拟货币“挖矿”行为的，依据《中华人民共和国电信条例》相关规定，由主管部门依法吊销增值电信业务许可证，严肃追究责任。（内蒙古发改委）",
+          "link": "https://wallstreetcn.com/livenews/1979928",
+          "publishedOn": "2021-05-25T14:35:02.000Z",
+          "wordCount": 144,
+          "title": "内蒙古发改委发布《关于对<内蒙古自治区发展和改革委员会关于坚决打击惩戒虚拟货币“挖矿”行为八项措施（征求意见稿）>公开征求意见的公告》。八项措施中提到，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979927",
+          "author": null,
+          "description": "美股大麻股普涨，Canopy Growth涨超8%，Tilray涨超7%，Aurora Cannabis涨6%；MKM将Canopy Growth评级从中性上调至买入。",
+          "link": "https://wallstreetcn.com/livenews/1979927",
+          "publishedOn": "2021-05-25T14:34:11.000Z",
+          "wordCount": 147,
+          "title": "美股大麻股普涨，Canopy Growth涨超8%，Tilray涨超7%，Aurora Cannabis涨6%；MKM将Canopy Growth评级从中性上调至买入。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979925",
+          "author": null,
+          "description": "IMF总裁Kristalina Georgieva：气候变化对经济和金融稳定性都构成危险。",
+          "link": "https://wallstreetcn.com/livenews/1979925",
+          "publishedOn": "2021-05-25T14:29:48.000Z",
+          "wordCount": 143,
+          "title": "IMF总裁Kristalina Georgieva：气候变化对经济和金融稳定性都构成危险。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979921",
+          "author": null,
+          "description": "近日来，一度火热的社区团购从“供不应求”变得“门前冷落”，甚至面临订单下滑、用户流失的危机。据报道，一些社区团购平台的区域供应商订单环比降幅达7成。业内人士表示，目前电商市场竞争残酷，常常打起“价格战”。（中国之声）",
+          "link": "https://wallstreetcn.com/livenews/1979921",
+          "publishedOn": "2021-05-25T14:24:27.000Z",
+          "wordCount": 142,
+          "title": "近日来，一度火热的社区团购从“供不应求”变得“门前冷落”，甚至面临订单下滑、用户流失的危机。据报道，一些社区团购平台的区域供应商订单环比降幅达7成。业..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979917",
+          "author": null,
+          "description": "IMF总裁Kristalina Georgieva：如果美国通胀持续，完全相信美联储有应对工具。\n我所担心的是，2022-23年可能会出现全球性的利率上行。\n全球经济尚未摆脱新冠肺炎流行病疫情所造成的困境，未来仍将面临诸多挑战。\n通过实施全球性的最低公司税制度，可以避免竞相逐底的行为。\n如果在全球范围内实施公平的数字税，那将更加有效，将刺激（经济）增长。",
+          "link": "https://wallstreetcn.com/livenews/1979917",
+          "publishedOn": "2021-05-25T14:16:27.000Z",
+          "wordCount": 151,
+          "title": "IMF总裁Kristalina Georgieva：如果美国通胀持续，完全相信美联储有应对工具。\n我所担心的是，2022-23年可能会出现全球性的利率上行。\n全球经济尚未摆脱新冠肺炎..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979916",
+          "author": null,
+          "description": "Guggenheim分析师Scott Minerd预计，未来美国股市将出现10%的调整，不过标普500指数能在较长时间内复苏。依然看好黄金和白银，因为投资者正在寻找资产以抵御通胀。",
+          "link": "https://wallstreetcn.com/livenews/1979916",
+          "publishedOn": "2021-05-25T14:14:51.000Z",
+          "wordCount": 143,
+          "title": "Guggenheim分析师Scott Minerd预计，未来美国股市将出现10%的调整，不过标普500指数能在较长时间内复苏。依然看好黄金和白银，因为投资者正在寻找资产以抵御通胀..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979915",
+          "author": null,
+          "description": "Guggenheim分析师Scott Minerd上月就比特币崩盘发出警告，他现在预计比特币将进一步下跌。Minerd称比特币看起来非常泡沫，短时间内可能暴跌50%，至2万-3万美元之间。",
+          "link": "https://wallstreetcn.com/livenews/1979915",
+          "publishedOn": "2021-05-25T14:10:04.000Z",
+          "wordCount": 143,
+          "title": "Guggenheim分析师Scott Minerd上月就比特币崩盘发出警告，他现在预计比特币将进一步下跌。Minerd称比特币看起来非常泡沫，短时间内可能暴跌50%，至2万-3万美元之..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979913",
+          "author": null,
+          "description": "COMEX黄金期货涨幅扩大至0.5%，报1894.20美元/盎司。",
+          "link": "https://wallstreetcn.com/livenews/1979913",
+          "publishedOn": "2021-05-25T14:04:32.000Z",
+          "wordCount": 141,
+          "title": "COMEX黄金期货涨幅扩大至0.5%，报1894.20美元/盎司。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979912",
+          "author": null,
+          "description": "美国5月谘商会消费者预期指数 99.1，前值 109.8。",
+          "link": "https://wallstreetcn.com/livenews/1979912",
+          "publishedOn": "2021-05-25T14:01:09.000Z",
+          "wordCount": 145,
+          "title": "美国5月谘商会消费者预期指数 99.1，前值 109.8。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979910",
+          "author": null,
+          "description": "美国4月新屋销售环比 -5.9%，预期 -7%，前值 20.7%。",
+          "link": "https://wallstreetcn.com/livenews/1979910",
+          "publishedOn": "2021-05-25T14:00:42.000Z",
+          "wordCount": 147,
+          "title": "美国4月新屋销售环比 -5.9%，预期 -7%，前值 20.7%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979909",
+          "author": null,
+          "description": "美国4月新屋销售 86.3万户，预期 95万户，前值 102.1万户。",
+          "link": "https://wallstreetcn.com/livenews/1979909",
+          "publishedOn": "2021-05-25T14:00:04.000Z",
+          "wordCount": 149,
+          "title": "美国4月新屋销售 86.3万户，预期 95万户，前值 102.1万户。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979908",
+          "author": null,
+          "description": "美国5月谘商会消费者信心指数 117.2，预期 119，前值 121.7。",
+          "link": "https://wallstreetcn.com/livenews/1979908",
+          "publishedOn": "2021-05-25T14:00:01.000Z",
+          "wordCount": 147,
+          "title": "美国5月谘商会消费者信心指数 117.2，预期 119，前值 121.7。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979907",
+          "author": null,
+          "description": "美国5月谘商会消费者现况指数 144.3，前值 139.6。",
+          "link": "https://wallstreetcn.com/livenews/1979907",
+          "publishedOn": "2021-05-25T14:00:01.000Z",
+          "wordCount": 145,
+          "title": "美国5月谘商会消费者现况指数 144.3，前值 139.6。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979906",
+          "author": null,
+          "description": "美国5月里士满联储制造业指数 18，预期 19，前值 17。",
+          "link": "https://wallstreetcn.com/livenews/1979906",
+          "publishedOn": "2021-05-25T13:59:21.000Z",
+          "wordCount": 147,
+          "title": "美国5月里士满联储制造业指数 18，预期 19，前值 17。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979905",
+          "author": null,
+          "description": "美国10年期国债收益率下跌约2.4个基点，刷新日低至1.5774%。",
+          "link": "https://wallstreetcn.com/livenews/1979905",
+          "publishedOn": "2021-05-25T13:57:34.000Z",
+          "wordCount": 141,
+          "title": "美国10年期国债收益率下跌约2.4个基点，刷新日低至1.5774%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979904",
+          "author": null,
+          "description": "美股盘初，全球航空业ETF涨2%，半导体ETF涨1.1%，区域银行业ETF涨1%，公用事业ETF跌1%，日常消费品ETF跌0.41%。",
+          "link": "https://wallstreetcn.com/livenews/1979904",
+          "publishedOn": "2021-05-25T13:56:49.000Z",
+          "wordCount": 141,
+          "title": "美股盘初，全球航空业ETF涨2%，半导体ETF涨1.1%，区域银行业ETF涨1%，公用事业ETF跌1%，日常消费品ETF跌0.41%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979903",
+          "author": null,
+          "description": "电动车制造商Lordstown Motors大跌超15%，一季度净亏损为1.25亿美元，其设计的电动皮卡还未开始量产，大摩下调其目标价至8美元。",
+          "link": "https://wallstreetcn.com/livenews/1979903",
+          "publishedOn": "2021-05-25T13:55:37.000Z",
+          "wordCount": 143,
+          "title": "电动车制造商Lordstown Motors大跌超15%，一季度净亏损为1.25亿美元，其设计的电动皮卡还未开始量产，大摩下调其目标价至8美元。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979902",
+          "author": null,
+          "description": "美国10年期国债收益率跌至1.579%，为5月10日以来最低。",
+          "link": "https://wallstreetcn.com/livenews/1979902",
+          "publishedOn": "2021-05-25T13:51:24.000Z",
+          "wordCount": 141,
+          "title": "美国10年期国债收益率跌至1.579%，为5月10日以来最低。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979901",
+          "author": null,
+          "description": "巴克莱：随着全球借贷成本可能降到最低，高债务水平在未来几年将开始产生冲击，巴西是经济增长和债务可持续性受到打击的风险最大的国家。",
+          "link": "https://wallstreetcn.com/livenews/1979901",
+          "publishedOn": "2021-05-25T13:49:06.000Z",
+          "wordCount": 141,
+          "title": "巴克莱：随着全球借贷成本可能降到最低，高债务水平在未来几年将开始产生冲击，巴西是经济增长和债务可持续性受到打击的风险最大的国家。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979900",
+          "author": null,
+          "description": "克里姆林宫官方网站当地时间5月25日发布公告称，俄罗斯总统普京与美国总统拜登将于6月16日在瑞士日内瓦举行会晤。两国元首将讨论俄美关系的现状和发展前景、战略稳定问题，以及合作抗击新冠疫情和解决地区冲突等重大国际问题。另据白宫消息，两国领导人“将讨论所有紧迫的问题，因为我们寻求恢复美俄关系的可预测性和稳定性”。这也将是自拜登担任美国总统以来，美俄两国领导人首次展开面对面会晤。（央视）",
+          "link": "https://wallstreetcn.com/livenews/1979900",
+          "publishedOn": "2021-05-25T13:44:11.000Z",
+          "wordCount": 142,
+          "title": "克里姆林宫官方网站当地时间5月25日发布公告称，俄罗斯总统普京与美国总统拜登将于6月16日在瑞士日内瓦举行会晤。两国元首将讨论俄美关系的现状和发展前景、战略..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979899",
+          "author": null,
+          "description": "美国芝加哥联储主席埃文斯：没有看到可以改变他对美联储立场的任何事情。\n最近的通胀上升并不预示着持续上升。近期的高通胀不会持续下去。\n美联储认为，在2022年及以后，持续高通胀的风险很低。",
+          "link": "https://wallstreetcn.com/livenews/1979899",
+          "publishedOn": "2021-05-25T13:43:33.000Z",
+          "wordCount": 145,
+          "title": "美国芝加哥联储主席埃文斯：没有看到可以改变他对美联储立场的任何事情。\n最近的通胀上升并不预示着持续上升。近期的高通胀不会持续下去。\n美联储认为，在2022年..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979898",
+          "author": null,
+          "description": "老虎证券涨幅扩大至逾20%，一季度营收净利均创史上新高。",
+          "link": "https://wallstreetcn.com/livenews/1979898",
+          "publishedOn": "2021-05-25T13:40:21.000Z",
+          "wordCount": 141,
+          "title": "老虎证券涨幅扩大至逾20%，一季度营收净利均创史上新高。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979895",
+          "author": null,
+          "description": "道指高开70点，纳指涨0.55%，标普涨0.32%。中概教育股走强，新东方涨超12%，好未来涨超10%，高途涨超6%。老虎证券涨超9%，一季度营收净利均创史上新高。理想汽车涨2%，此前发布2021款理想one售价33.8万起。贝壳跌3%，此前回应“被市监总局发起反垄断调查”是旧闻。",
+          "link": "https://wallstreetcn.com/livenews/1979895",
+          "publishedOn": "2021-05-25T13:32:38.000Z",
+          "wordCount": 142,
+          "title": "道指高开70点，纳指涨0.55%，标普涨0.32%。中概教育股走强，新东方涨超12%，好未来涨超10%，高途涨超6%。老虎证券涨超9%，一季度营收净利均创史上新高。理想汽车..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979893",
+          "author": null,
+          "description": "标普500指数高开11.17点，涨幅0.27%，报4208.22点；\n道琼斯工业平均指数高开63.17点，涨幅0.18%，报34457.15点；\n纳斯达克综合指数高开59.04点，涨幅0.43%，报13720.21点。",
+          "link": "https://wallstreetcn.com/livenews/1979893",
+          "publishedOn": "2021-05-25T13:30:28.000Z",
+          "wordCount": 143,
+          "title": "标普500指数高开11.17点，涨幅0.27%，报4208.22点；\n道琼斯工业平均指数高开63.17点，涨幅0.18%，报34457.15点；\n纳斯达克综合指数高开59.04点，涨幅0.43%，报13..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979892",
+          "author": null,
+          "description": "牧原股份近期接待调研时表示，预计2021年资本开支规模300亿元左右，其中一季度公司资本开支规模约145亿元，在3月底前完工的猪舍可以在当年释放产能，产生利润。牧原股份预计2021年四季度可以时点或阶段性的实现14元/公斤的成本目标。目前公司屠宰板块整体冻品库存量在7500吨左右。",
+          "link": "https://wallstreetcn.com/livenews/1979892",
+          "publishedOn": "2021-05-25T13:29:48.000Z",
+          "wordCount": 142,
+          "title": "牧原股份近期接待调研时表示，预计2021年资本开支规模300亿元左右，其中一季度公司资本开支规模约145亿元，在3月底前完工的猪舍可以在当年释放产能，产生利润。..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979890",
+          "author": null,
+          "description": "为了满足暑期旺季需求，吉祥航空近期在空客天津总装公司接收一架全新空客A320neo飞机，由此吉祥航空在册飞机数量首次突破80架大关；本次引进也是均瑶集团旗下航空公司运营的第102架飞机。这是吉祥航空自2021年以来接收的第三架全新飞机，将为即将到来的暑运运行再增更多运力。（上证报）",
+          "link": "https://wallstreetcn.com/livenews/1979890",
+          "publishedOn": "2021-05-25T13:26:49.000Z",
+          "wordCount": 142,
+          "title": "为了满足暑期旺季需求，吉祥航空近期在空客天津总装公司接收一架全新空客A320neo飞机，由此吉祥航空在册飞机数量首次突破80架大关；本次引进也是均瑶集团旗下航..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979889",
+          "author": null,
+          "description": "欧洲央行管委、法国央行行长Villeroy：欧元区没有持续性的通胀回归的风险。\n在6月会议之外，有充足的时间来决定PEPP。\n除了PEPP，欧洲央行能保持宽松的货币政策。\n欧洲央行可能通过更灵活的资产购买计划来做出调整。\n目前欧洲央行储蓄利率不是在最低水平。\n欧洲央行应该明确前瞻指引。\n欧洲央行应该在更长时间内保留定向长期再融资操作（TLTRO）。",
+          "link": "https://wallstreetcn.com/livenews/1979889",
+          "publishedOn": "2021-05-25T13:26:47.000Z",
+          "wordCount": 153,
+          "title": "欧洲央行管委、法国央行行长Villeroy：欧元区没有持续性的通胀回归的风险。\n在6月会议之外，有充足的时间来决定PEPP。\n除了PEPP，欧洲央行能保持宽松的货币政策..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979896",
+          "author": null,
+          "description": "加密数字货币交易所Coinbase（COIN）宣布，该公司已为其大宗经纪业务平台Prime推出了修订版，此举是该公司计划的一部分，以吸引新的公司和华尔街客户，或追加销售现有客户。Coinbase表示，这是该公司首次整合完整的功能，包括交易、存储和以加密货币资产为抵押借款的能力。Coinbase称，其面向投资基金和大公司的机构部门在3月份拥有超过8000个客户和1220亿美元的资产。Coinbase在一篇博客文章中称，修改后的Prime服务针对的是“希望将加密货币添加到资产负债表中”的银行、大投资者和公司。",
+          "link": "https://wallstreetcn.com/livenews/1979896",
+          "publishedOn": "2021-05-25T13:23:19.000Z",
+          "wordCount": 142,
+          "title": "加密数字货币交易所Coinbase（COIN）宣布，该公司已为其大宗经纪业务平台Prime推出了修订版，此举是该公司计划的一部分，以吸引新的公司和华尔街客户，或追加销..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979887",
+          "author": null,
+          "description": "长三角生物医药产业链联盟在苏州工业园区成立。该联盟由上海市、江苏省、浙江省、安徽省有关部门牵头，首批吸引65家会员单位加入，包括中科院上海药物所、中国药科大学、信达生物、江苏恒瑞、江苏先声药业等，首届秘书处设在国家生物药技术创新中心。联盟将进一步推动高端要素集聚和资源协同合作，加快构建长三角生物医药产业链高质量一体化发展体系。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1979887",
+          "publishedOn": "2021-05-25T13:18:08.000Z",
+          "wordCount": 142,
+          "title": "长三角生物医药产业链联盟在苏州工业园区成立。该联盟由上海市、江苏省、浙江省、安徽省有关部门牵头，首批吸引65家会员单位加入，包括中科院上海药物所、中国药..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979886",
+          "author": null,
+          "description": "欧洲央行管委、法国央行行长Villeroy：欧洲央行有保持政策宽松的有力工具。\n2%的通胀目标也只是目标，并非上限。\n欧洲央行可以接受通胀在一段时间高于2%。\n欧洲央行至少会像美联储一样有耐心。\n在第三季中减少PEPP的想法是“纯属臆测”。",
+          "link": "https://wallstreetcn.com/livenews/1979886",
+          "publishedOn": "2021-05-25T13:12:19.000Z",
+          "wordCount": 149,
+          "title": "欧洲央行管委、法国央行行长Villeroy：欧洲央行有保持政策宽松的有力工具。\n2%的通胀目标也只是目标，并非上限。\n欧洲央行可以接受通胀在一段时间高于2%。\n欧洲..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979885",
+          "author": null,
+          "description": "美国白宫：今日美国半数成年人将完成新冠疫苗接种。",
+          "link": "https://wallstreetcn.com/livenews/1979885",
+          "publishedOn": "2021-05-25T13:10:34.000Z",
+          "wordCount": 141,
+          "title": "美国白宫：今日美国半数成年人将完成新冠疫苗接种。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979883",
+          "author": null,
+          "description": "在全国范围内，标普CoreLogic Case-Shiller房价指数3月上涨了13.2%，为2005年12月以来最大涨幅，2月份的涨幅为12%。与此同时，美国20个城市房价上涨了13.3%，超过彭博调查经济学家预测中值，并且是自2013年12月以来的最大升幅。过去一年来，随着美国人在郊区求购房地产，住房价格一直在飙升。低抵押贷款利率刺激了房地产市场的火爆，房源短缺也帮助推高了价格。（彭博）",
+          "link": "https://wallstreetcn.com/livenews/1979883",
+          "publishedOn": "2021-05-25T13:06:53.000Z",
+          "wordCount": 144,
+          "title": "在全国范围内，标普CoreLogic Case-Shiller房价指数3月上涨了13.2%，为2005年12月以来最大涨幅，2月份的涨幅为12%。与此同时，美国20个城市房价上涨了13.3%，超..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979881",
+          "author": null,
+          "description": "匈牙利央行称准备收紧货币政策。",
+          "link": "https://wallstreetcn.com/livenews/1979881",
+          "publishedOn": "2021-05-25T13:04:38.000Z",
+          "wordCount": 141,
+          "title": "匈牙利央行称准备收紧货币政策。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979879",
+          "author": null,
+          "description": "夜盘期货开盘，螺纹、郑煤、纸浆跌逾1%，焦炭、玻璃、热卷、沪铜、沪银等下跌；沥青、白糖、原油等上涨。",
+          "link": "https://wallstreetcn.com/livenews/1979879",
+          "publishedOn": "2021-05-25T13:00:03.000Z",
+          "wordCount": 143,
+          "title": "夜盘期货开盘，螺纹、郑煤、纸浆跌逾1%，焦炭、玻璃、热卷、沪铜、沪银等下跌；沥青、白糖、原油等上涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979877",
+          "author": null,
+          "description": "美国3月S&P/CS20座大城市房价指数同比 13.27%，预期 12.5%，前值 11.94%。",
+          "link": "https://wallstreetcn.com/livenews/1979877",
+          "publishedOn": "2021-05-25T13:00:00.000Z",
+          "wordCount": 147,
+          "title": "美国3月S&P/CS20座大城市房价指数同比 13.27%，预期 12.5%，前值 11.94%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979876",
+          "author": null,
+          "description": "美国3月FHFA房价指数环比 1.4%，预期 1.2%，前值 0.9%。",
+          "link": "https://wallstreetcn.com/livenews/1979876",
+          "publishedOn": "2021-05-25T13:00:00.000Z",
+          "wordCount": 147,
+          "title": "美国3月FHFA房价指数环比 1.4%，预期 1.2%，前值 0.9%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979875",
+          "author": null,
+          "description": "美国3月S&P/CS20座大城市季调后房价指数环比 1.6%，预期 1.3%，前值 1.17%。",
+          "link": "https://wallstreetcn.com/livenews/1979875",
+          "publishedOn": "2021-05-25T13:00:00.000Z",
+          "wordCount": 147,
+          "title": "美国3月S&P/CS20座大城市季调后房价指数环比 1.6%，预期 1.3%，前值 1.17%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979874",
+          "author": null,
+          "description": "李克强：想方设法做好大宗商品的保供稳价工作，努力防止向居民消费价格传导。\n据CNN，美国总统拜登和俄罗斯总统普京计划下个月在瑞士会面。\n发改委出台“十四五”时期深化价格机制改革行动方案：做好铁矿石、铜、玉米等大宗商品价格异动应对。\n美联储巴尔金：市场通胀压力还没有超出美联储的目标。\n据北京日报，网传“海淀区教委开会，教育机构暑期不许开课”为不实消息。\n据路透，拜登政府将向海外寻求电动汽车所需金属。\n德国一季度经济萎缩1.8%，幅度大于预期，储蓄率上升至纪录高位23.2%。\n摩根士丹利CEO：预计美联储将在2022年初加息，美联储料将在今年年底前开始减码刺激。\n特斯拉：已经在中国建立数据中心，所有在中国大陆市场销售车辆所产生的数据，都将存储在境内。\nModerna盘前涨幅扩大至近3%，研究显示Moderna的新冠疫苗对青少年高度有效。\n联电盘前涨超5%，高通已与晶圆代工厂联电达成一项长期协议，后者将为高通提供6年的产能支持。\n老虎证券盘前涨7%，一季度净利润同比大增21倍，创单季新高。\n贝壳找房公告：某外媒报道的“贝壳被市场监管总局立案调查”的消息为假消息。\n离岸人民币兑美元午后扩大涨幅，升破6.4关口，创2018年6月来新高。\n日经225指数收涨0.7%，沪指收涨2.4%，恒指收涨1.59%。",
+          "link": "https://wallstreetcn.com/livenews/1979874",
+          "publishedOn": "2021-05-25T12:54:12.000Z",
+          "wordCount": 170,
+          "title": "李克强：想方设法做好大宗商品的保供稳价工作，努力防止向居民消费价格传导。\n据CNN，美国总统拜登和俄罗斯总统普京计划下个月在瑞士会面。\n发改委出台“十四五..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979871",
+          "author": null,
+          "description": "针对晋商消费金融股份有限公司“个人征信报告出现侮辱性字眼”问题，人民银行太原中心支行于4月8日约谈了晋商消费金融公司，5月25日，再次约谈晋商消费金融公司。在重申监管意见的基础上，严肃提出后续整改要求。下一步，人民银行太原中心支行将对本次事件情况调查核实后，依法依规作出严肃处理。",
+          "link": "https://wallstreetcn.com/livenews/1979871",
+          "publishedOn": "2021-05-25T12:46:58.000Z",
+          "wordCount": 142,
+          "title": "针对晋商消费金融股份有限公司“个人征信报告出现侮辱性字眼”问题，人民银行太原中心支行于4月8日约谈了晋商消费金融公司，5月25日，再次约谈晋商消费金融公司..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979865",
+          "author": null,
+          "description": "谷歌被俄罗斯法院罚款400万卢布。（塔斯社）",
+          "link": "https://wallstreetcn.com/livenews/1979865",
+          "publishedOn": "2021-05-25T12:40:13.000Z",
+          "wordCount": 141,
+          "title": "谷歌被俄罗斯法院罚款400万卢布。（塔斯社）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1979863",
+          "author": null,
+          "description": "特斯拉官方微博：我们已经在中国建立数据中心，以实现数据存储本地化，并将陆续增加更多本地数据中心。所有在中国大陆市场销售车辆所产生的数据，都将存储在境内。",
+          "link": "https://wallstreetcn.com/livenews/1979863",
+          "publishedOn": "2021-05-25T12:23:42.000Z",
+          "wordCount": 183,
+          "title": "特斯拉官方微博：我们已经在中国建立数据中心，以实现数据存储本地化，并将陆续增加更多本地数据中心。所有在中国大陆市场销售车辆所产生的数据，都将存储在境内..."
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1979860",
           "author": null,
