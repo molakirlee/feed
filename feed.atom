@@ -2,10 +2,608 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T06:37:04.743Z</updated>
+    <updated>2021-05-26T08:31:22.640Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“创新经济”开启下一个十年超级周期]]></title>
+        <id>3631302</id>
+        <link href="https://wallstreetcn.com/articles/3631302"/>
+        <updated>2021-05-26T08:21:19.000Z</updated>
+        <summary type="html"><![CDATA[新一轮十年科技周期逐渐拉开帷幕。从“宏观环境、结构变化、产业变革“三个角度出发，识别出“经济安全、疫情大流行、Z世代、人工智能、基因技术“五大发展趋势。]]></summary>
+        <author>
+            <name>泽禕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫健委报告称“有充分证据表明电子烟不安全” 电子烟概念股大跌]]></title>
+        <id>3631303</id>
+        <link href="https://wallstreetcn.com/articles/3631303"/>
+        <updated>2021-05-26T07:52:19.000Z</updated>
+        <summary type="html"><![CDATA[报告称电子烟含大量致癌物。]]></summary>
+        <author>
+            <name>泽禕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个榴莲代表一千万元，一个香蕉代表一百万元——近期，一家深圳房地产中介门店用水果做暗语，展示住房价格。当地住建部门已联合房地产中介协会进行调查处理，相...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980432</id>
+        <link href="https://wallstreetcn.com/livenews/1980432"/>
+        <updated>2021-05-26T07:41:21.000Z</updated>
+        <summary type="html"><![CDATA[一个榴莲代表一千万元，一个香蕉代表一百万元——近期，一家深圳房地产中介门店用水果做暗语，展示住房价格。当地住建部门已联合房地产中介协会进行调查处理，相关中介门店停业整顿一周。“榴莲”侵扰背后，是深圳部分热点区域房屋市场价格远高于政府规定的成交参考价格、楼市价格严重失真、市场“炒房”情绪未得到根本扭转的严峻现实。虚火不灭，楼市调控就需保持高压，更需持续且稳定执行的长效政策，以便购房者对房价走势、购房时点有更稳定的预期。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生鲜供应商美菜秘密申请赴美IPO。（彭博）]]></title>
+        <id>https://wallstreetcn.com/livenews/1980430</id>
+        <link href="https://wallstreetcn.com/livenews/1980430"/>
+        <updated>2021-05-26T07:38:32.000Z</updated>
+        <summary type="html"><![CDATA[生鲜供应商美菜秘密申请赴美IPO。（彭博）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思摩尔国际跌超16%，卫健委报告称“有充分证据表明电子烟是不安全的”。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980426</id>
+        <link href="https://wallstreetcn.com/livenews/1980426"/>
+        <updated>2021-05-26T07:33:07.000Z</updated>
+        <summary type="html"><![CDATA[思摩尔国际跌超16%，卫健委报告称“有充分证据表明电子烟是不安全的”。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思摩尔国际跌幅扩大至超12%，报54.2港元，成交超15亿港元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980422</id>
+        <link href="https://wallstreetcn.com/livenews/1980422"/>
+        <updated>2021-05-26T07:21:15.000Z</updated>
+        <summary type="html"><![CDATA[思摩尔国际跌幅扩大至超12%，报54.2港元，成交超15亿港元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比亚迪电子午后快速拉升，现涨超20%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980420</id>
+        <link href="https://wallstreetcn.com/livenews/1980420"/>
+        <updated>2021-05-26T07:18:10.000Z</updated>
+        <summary type="html"><![CDATA[比亚迪电子午后快速拉升，现涨超20%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国债期货全线收涨，10年期主力合约涨0.16%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980417</id>
+        <link href="https://wallstreetcn.com/livenews/1980417"/>
+        <updated>2021-05-26T07:15:20.000Z</updated>
+        <summary type="html"><![CDATA[国债期货全线收涨，10年期主力合约涨0.16%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高途：2021年第一季度营收19.4亿元人民币，去年同期12.98亿元。
+第一季度K-12在线课程的收入为18.163亿元人民币，同比增长62.2%。
+预计第二季度收入为21.4亿至21...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980416</id>
+        <link href="https://wallstreetcn.com/livenews/1980416"/>
+        <updated>2021-05-26T07:12:37.000Z</updated>
+        <summary type="html"><![CDATA[高途：2021年第一季度营收19.4亿元人民币，去年同期12.98亿元。
+第一季度K-12在线课程的收入为18.163亿元人民币，同比增长62.2%。
+预计第二季度收入为21.4亿至21.58亿元人民币，预计将增长30%至31%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马来西亚新增确诊7478例新冠肺炎病例，为单日新增最高。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980415</id>
+        <link href="https://wallstreetcn.com/livenews/1980415"/>
+        <updated>2021-05-26T07:06:22.000Z</updated>
+        <summary type="html"><![CDATA[马来西亚新增确诊7478例新冠肺炎病例，为单日新增最高。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农发行发行1年期债券，规模50亿元，发行利率2.3154%，预期2.3500%，投标倍数7.91倍，边际倍数5.91倍；
+农发行发行10年期债券，规模100亿元，发行利率3.4669%，预...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980414</id>
+        <link href="https://wallstreetcn.com/livenews/1980414"/>
+        <updated>2021-05-26T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[农发行发行1年期债券，规模50亿元，发行利率2.3154%，预期2.3500%，投标倍数7.91倍，边际倍数5.91倍；
+农发行发行10年期债券，规模100亿元，发行利率3.4669%，预期3.4700%，投标倍数4.01倍，边际倍数2.83倍。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧股开盘小幅走高，德国DAX指数涨0.31%，英国富时100指数涨0.02%，欧洲斯托克50指数涨0.28%。欧洲Stoxx600指数涨0.3%，再刷新高。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980413</id>
+        <link href="https://wallstreetcn.com/livenews/1980413"/>
+        <updated>2021-05-26T07:05:02.000Z</updated>
+        <summary type="html"><![CDATA[欧股开盘小幅走高，德国DAX指数涨0.31%，英国富时100指数涨0.02%，欧洲斯托克50指数涨0.28%。欧洲Stoxx600指数涨0.3%，再刷新高。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沪指收涨0.34%，深成指收跌0.36%，创业板收跌0.95%。以每日额度余额口径，北向资金截至A股收盘净流入逾118亿元；以买卖成交额口径，北向资金净买入91亿元。行业E...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980411</id>
+        <link href="https://wallstreetcn.com/livenews/1980411"/>
+        <updated>2021-05-26T07:04:09.000Z</updated>
+        <summary type="html"><![CDATA[沪指收涨0.34%，深成指收跌0.36%，创业板收跌0.95%。以每日额度余额口径，北向资金截至A股收盘净流入逾118亿元；以买卖成交额口径，北向资金净买入91亿元。行业ETF分化明显，中概互联网ETF涨1.54%，房地产、有色金属ETF涨超1%，银行、金融ETF涨幅居前，光伏ETF跌超1%，酒、电子、机械ETF跌近1%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邵宇：竞争与平衡——美日VS美德贸易战]]></title>
+        <id>3631063</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631063?layout=wscn-layout"/>
+        <updated>2021-05-26T07:03:12.000Z</updated>
+        <summary type="html"><![CDATA[德国想明白一件事情，如果把德国马克单独拿出来和美元比较，它一定会跟日元一样升值；但是如果把德国马克隐含在一个能够相互抵消的力量中，情况就不一样了。]]></summary>
+        <author>
+            <name>邵宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中证转债指数收盘涨0.45%，溢利转债涨超8%，美联转债、鸿达转债、金陵转债涨超5%；岭南转债跌近10%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980409</id>
+        <link href="https://wallstreetcn.com/livenews/1980409"/>
+        <updated>2021-05-26T07:02:08.000Z</updated>
+        <summary type="html"><![CDATA[中证转债指数收盘涨0.45%，溢利转债涨超8%，美联转债、鸿达转债、金陵转债涨超5%；岭南转债跌近10%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沪指收报3593.36点，涨0.34%，成交额4558亿元。
+深成指收报14793.68点，跌0.36%，成交额5110亿元。
+创业板指收报3196.85点，跌0.95%，成交额1745亿元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980407</id>
+        <link href="https://wallstreetcn.com/livenews/1980407"/>
+        <updated>2021-05-26T07:01:10.000Z</updated>
+        <summary type="html"><![CDATA[沪指收报3593.36点，涨0.34%，成交额4558亿元。
+深成指收报14793.68点，跌0.36%，成交额5110亿元。
+创业板指收报3196.85点，跌0.95%，成交额1745亿元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑色系期货收盘领跌，铁矿、螺纹跌6%，热卷、苹果跌逾5%，线材跌4%，纸浆、生猪跌逾3%；郑醇、乙二醇涨逾3%，鸡蛋涨2%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980406</id>
+        <link href="https://wallstreetcn.com/livenews/1980406"/>
+        <updated>2021-05-26T07:01:03.000Z</updated>
+        <summary type="html"><![CDATA[黑色系期货收盘领跌，铁矿、螺纹跌6%，热卷、苹果跌逾5%，线材跌4%，纸浆、生猪跌逾3%；郑醇、乙二醇涨逾3%，鸡蛋涨2%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科创50指数收报1364.04点，跌0.44%，成交额310亿。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980404</id>
+        <link href="https://wallstreetcn.com/livenews/1980404"/>
+        <updated>2021-05-26T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[科创50指数收报1364.04点，跌0.44%，成交额310亿。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港恒生指数涨超1%，内地物管股、医药股涨幅居前，同仁堂国药涨超9%，世茂服务涨近8%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980401</id>
+        <link href="https://wallstreetcn.com/livenews/1980401"/>
+        <updated>2021-05-26T06:58:30.000Z</updated>
+        <summary type="html"><![CDATA[香港恒生指数涨超1%，内地物管股、医药股涨幅居前，同仁堂国药涨超9%，世茂服务涨近8%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北向资金尾盘净流入达100亿元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980395</id>
+        <link href="https://wallstreetcn.com/livenews/1980395"/>
+        <updated>2021-05-26T06:54:31.000Z</updated>
+        <summary type="html"><![CDATA[北向资金尾盘净流入达100亿元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思摩尔国际现跌6%，报58港元，暂成交超7亿港元，最新市值3460亿港元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980392</id>
+        <link href="https://wallstreetcn.com/livenews/1980392"/>
+        <updated>2021-05-26T06:53:46.000Z</updated>
+        <summary type="html"><![CDATA[思摩尔国际现跌6%，报58港元，暂成交超7亿港元，最新市值3460亿港元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*ST东海A尾盘触及涨停，上演地天板，换手率为9.62%，此前连续8个跌停。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980384</id>
+        <link href="https://wallstreetcn.com/livenews/1980384"/>
+        <updated>2021-05-26T06:47:17.000Z</updated>
+        <summary type="html"><![CDATA[*ST东海A尾盘触及涨停，上演地天板，换手率为9.62%，此前连续8个跌停。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国5月INSEE商业信心指数 108，预期 98，前值 95。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980381</id>
+        <link href="https://wallstreetcn.com/livenews/1980381"/>
+        <updated>2021-05-26T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[法国5月INSEE商业信心指数 108，预期 98，前值 95。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国5月消费者信心指数 97，预期 97，前值 94。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980379</id>
+        <link href="https://wallstreetcn.com/livenews/1980379"/>
+        <updated>2021-05-26T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[法国5月消费者信心指数 97，预期 97，前值 94。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国5月INSEE制造业信心指数 107，预期 105，前值 104。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980380</id>
+        <link href="https://wallstreetcn.com/livenews/1980380"/>
+        <updated>2021-05-26T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[法国5月INSEE制造业信心指数 107，预期 105，前值 104。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海市住房城乡建设管理委主任姚凯介绍，2021-2022年，计划完成中心城区成片二级旧里以下房屋改造约110余万平方米、受益居民约5.6万户。“十四五”期间，计划完...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980376</id>
+        <link href="https://wallstreetcn.com/livenews/1980376"/>
+        <updated>2021-05-26T06:43:42.000Z</updated>
+        <summary type="html"><![CDATA[上海市住房城乡建设管理委主任姚凯介绍，2021-2022年，计划完成中心城区成片二级旧里以下房屋改造约110余万平方米、受益居民约5.6万户。“十四五”期间，计划完成中心城区零星二级旧里以下房屋改造约48.4万平方米、受益居民约1.7万户。力争提前完成。（上海发布）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统鲁哈尼：伊朗禁止加密货币挖矿活动至9月22日。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980374</id>
+        <link href="https://wallstreetcn.com/livenews/1980374"/>
+        <updated>2021-05-26T06:42:54.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统鲁哈尼：伊朗禁止加密货币挖矿活动至9月22日。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据Bitstamp，以太坊升至2900美元上方，涨超7%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980369</id>
+        <link href="https://wallstreetcn.com/livenews/1980369"/>
+        <updated>2021-05-26T06:38:36.000Z</updated>
+        <summary type="html"><![CDATA[据Bitstamp，以太坊升至2900美元上方，涨超7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东西我都装好了 | 「古方」新用：用「5S」法则重塑你的收纳整理逻辑]]></title>
+        <id>https://sspai.com/post/66723</id>
+        <link href="https://sspai.com/post/66723"/>
+        <updated>2021-05-26T06:30:19.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文是少数派 × tomtoc「东西我都装好了」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。
+想了解如何参与本次征文，赢取各种丰厚奖品，你可以 点此查看 活动规则和奖品清单。
+
+好的收纳就是整整齐齐吗？很多人就是这么认为的「哇，好整齐啊！」「居然是按照颜色排序的耶」「想找一样东西变得更容易啦」「一顿收拾以后空间变大了」……但大家有没有想过，不出意外另一个熟悉的场景就会随之而来：整理好花一星期，但搞乱只需要一天。
+这是为什么呢？
+可能你会怪自己不够勤快（这不是人之本性嘛），或者自己东西太多太杂了（若想生活丰富多彩，五花八门的物品少不了），可能有一些道理，但并不是无法维持「有序」的根本原因。归根结底，还是物品布局与自己的「工作流」不匹配。
+如何解决呢？
+很多人会第一时间想到近藤麻理惠以及她的《怦然心动的人生整理魔法》，的确很棒，尤其适合整理房间和衣柜的场景。不过如果不严谨地按照「道、法、术、器」对它进行分类，书中对「道」的描述过于宏观，对「术」的描述适用范围又相对狭窄，不能实现「一本通吃」。与之相近的还有《断舍离》《小家，越住越大》《整理的艺术》等等。在这里推荐把以上方法作为「起居室场景」下的收纳整理法来使用，对于通用的日常工作学习场景，推荐使用「5S」1。5S 作为广泛流行于现代制造企业中的一种基础方法，起源于上世纪 50 年代的日本，美国质量学会（ASQ）对 5S 的定义是：
+
+5S 是一种基础管理方法，其结果是创造一个干净、整洁、安全有序的工作环境，以帮助减少浪费和提高生产力。5S 是为了帮助建立物理和精神层面上高质量的工作场景而设计。
+原文参见：https://asq.org/quality-resources/lean/five-s-tutorial
+
+正确理解 5S
+
+「5S 就是经营本身」—— 越前行夫
+
+日本企业 5S 教育专家…]]></summary>
+        <author>
+            <name>ThomasTeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近日，基础司组织召开交通运输领域碳达峰、碳中和座谈会，认真听取了相关行业协会、平台企业和有关专家意见建议。与会专家、企业负责人共同探讨了交通运输行业发...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980362</id>
+        <link href="https://wallstreetcn.com/livenews/1980362"/>
+        <updated>2021-05-26T06:30:09.000Z</updated>
+        <summary type="html"><![CDATA[近日，基础司组织召开交通运输领域碳达峰、碳中和座谈会，认真听取了相关行业协会、平台企业和有关专家意见建议。与会专家、企业负责人共同探讨了交通运输行业发展现状和存在的矛盾问题，重点对行业实现碳达峰、碳中和面临的主要困难，以及对碳达峰、碳中和路径选择进行了探讨交流，提出了平台企业赋能科技、汇聚运力、匹配供需、减少空驶、提高效率效益等意见建议。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内铁矿石期货主力合约跌破1000元/吨关口。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980360</id>
+        <link href="https://wallstreetcn.com/livenews/1980360"/>
+        <updated>2021-05-26T06:27:43.000Z</updated>
+        <summary type="html"><![CDATA[国内铁矿石期货主力合约跌破1000元/吨关口。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内外盘黑色系期货继续下挫]]></title>
+        <id>3631299</id>
+        <link href="https://wallstreetcn.com/articles/3631299"/>
+        <updated>2021-05-26T06:26:47.000Z</updated>
+        <summary type="html"><![CDATA[国内螺纹钢期货跌超5%，铁矿石跌5.5%，热卷跌近5%。新交所铁矿石期货跌幅扩大至超6％。
+...]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据Bitstamp，比特币重返40000美元上方，24小时内涨近4%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980355</id>
+        <link href="https://wallstreetcn.com/livenews/1980355"/>
+        <updated>2021-05-26T06:25:34.000Z</updated>
+        <summary type="html"><![CDATA[据Bitstamp，比特币重返40000美元上方，24小时内涨近4%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股物管股今日再度走高，远洋服务、滨江服务涨超8%，永升生活服务涨超7%，世茂服务涨6%，建发物业涨5%，星盛商业涨超4%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980354</id>
+        <link href="https://wallstreetcn.com/livenews/1980354"/>
+        <updated>2021-05-26T06:25:17.000Z</updated>
+        <summary type="html"><![CDATA[港股物管股今日再度走高，远洋服务、滨江服务涨超8%，永升生活服务涨超7%，世茂服务涨6%，建发物业涨5%，星盛商业涨超4%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内黑色系期货扩大跌幅，螺纹钢跌超5%，铁矿石跌近5%，热轧卷板跌超4%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980349</id>
+        <link href="https://wallstreetcn.com/livenews/1980349"/>
+        <updated>2021-05-26T06:22:15.000Z</updated>
+        <summary type="html"><![CDATA[国内黑色系期货扩大跌幅，螺纹钢跌超5%，铁矿石跌近5%，热轧卷板跌超4%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新交所铁矿石期货跌幅扩大至超6％。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980345</id>
+        <link href="https://wallstreetcn.com/livenews/1980345"/>
+        <updated>2021-05-26T06:19:39.000Z</updated>
+        <summary type="html"><![CDATA[新交所铁矿石期货跌幅扩大至超6％。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米集团合伙人、集团高级副总裁卢伟冰称，全球缺芯，影响持续至少一年。目前，智能手机最缺的是处理器芯片、屏幕驱动芯片和电源管理芯片。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980342</id>
+        <link href="https://wallstreetcn.com/livenews/1980342"/>
+        <updated>2021-05-26T06:17:37.000Z</updated>
+        <summary type="html"><![CDATA[小米集团合伙人、集团高级副总裁卢伟冰称，全球缺芯，影响持续至少一年。目前，智能手机最缺的是处理器芯片、屏幕驱动芯片和电源管理芯片。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牧原股份5月24日股价大跌引发市场关注，公司当日与一批机构进行电话交流。出席人员中有“上海泽熙投资洪俊骅”。调研中，公司回应了众多问题。公司称，公司预计2...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980340</id>
+        <link href="https://wallstreetcn.com/livenews/1980340"/>
+        <updated>2021-05-26T06:17:06.000Z</updated>
+        <summary type="html"><![CDATA[牧原股份5月24日股价大跌引发市场关注，公司当日与一批机构进行电话交流。出席人员中有“上海泽熙投资洪俊骅”。调研中，公司回应了众多问题。公司称，公司预计2021年资本开支规模300亿元左右，其中一季度公司资本开支规模约145亿元，在3月底前完工的猪舍可以在当年释放产能，产生利润。公司预计 2021年四季度可以时点或阶段性实现14元/公斤的成本目标。（e公司）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内苹果期货主力合约触及跌停，跌幅超6%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980335</id>
+        <link href="https://wallstreetcn.com/livenews/1980335"/>
+        <updated>2021-05-26T06:13:04.000Z</updated>
+        <summary type="html"><![CDATA[国内苹果期货主力合约触及跌停，跌幅超6%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国台湾流行疫情指挥中心：新增304例新冠肺炎确诊病例，分别为302例本土个案及2例境外移入个案；另有校正回归本土个案331例，总计635例。确诊个案中新增11例死...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980329</id>
+        <link href="https://wallstreetcn.com/livenews/1980329"/>
+        <updated>2021-05-26T06:08:21.000Z</updated>
+        <summary type="html"><![CDATA[中国台湾流行疫情指挥中心：新增304例新冠肺炎确诊病例，分别为302例本土个案及2例境外移入个案；另有校正回归本土个案331例，总计635例。确诊个案中新增11例死亡。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp已在德里对印度政府提起法律诉讼，寻求阻止周三生效的法规，专家称这些法规将迫使WhatsApp打破隐私保护。（路透）]]></title>
+        <id>https://wallstreetcn.com/livenews/1980328</id>
+        <link href="https://wallstreetcn.com/livenews/1980328"/>
+        <updated>2021-05-26T06:06:50.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp已在德里对印度政府提起法律诉讼，寻求阻止周三生效的法规，专家称这些法规将迫使WhatsApp打破隐私保护。（路透）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沪深两市成交额突破8000亿元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980327</id>
+        <link href="https://wallstreetcn.com/livenews/1980327"/>
+        <updated>2021-05-26T06:06:05.000Z</updated>
+        <summary type="html"><![CDATA[沪深两市成交额突破8000亿元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲央行执委帕内塔：数字欧元至少要到2026年才能推出。
+必须对过早宣布疫情胜利感到警惕。
+经济复苏依赖于货币和财政政策的支持。
+欧洲央行“削减购债”的讨论...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980326</id>
+        <link href="https://wallstreetcn.com/livenews/1980326"/>
+        <updated>2021-05-26T06:05:32.000Z</updated>
+        <summary type="html"><![CDATA[欧洲央行执委帕内塔：数字欧元至少要到2026年才能推出。
+欧洲央行“削减购债”的讨论是不成熟的。
+
+现在看到的收益率上升的趋势让人不满。
+只有持续的通胀才可以保证放缓紧急抗疫购债计划（PEPP）。
+对放缓紧急抗疫购债计划（PEPP）的讨论很明显是不成熟的。
+过早撤回支持措施可能会扼杀经济复苏。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日经225指数收盘上涨0.3%，报28642.19点。日本东证指数收盘上涨0.1%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980323</id>
+        <link href="https://wallstreetcn.com/livenews/1980323"/>
+        <updated>2021-05-26T06:01:33.000Z</updated>
+        <summary type="html"><![CDATA[日经225指数收盘上涨0.3%，报28642.19点。日本东证指数收盘上涨0.1%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车联合创始人兼总裁沈亚楠表示，整体芯片短缺可能会持续到年底，甚至到明年年初。我们每天都必须要求我们的供应商，我们不断增长的需求可能会带来一些压力...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980319</id>
+        <link href="https://wallstreetcn.com/livenews/1980319"/>
+        <updated>2021-05-26T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车联合创始人兼总裁沈亚楠表示，整体芯片短缺可能会持续到年底，甚至到明年年初。我们每天都必须要求我们的供应商，我们不断增长的需求可能会带来一些压力。但是，我们在采购替代品和进行调整方面也非常灵活。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找到A股最肥的鱼？]]></title>
+        <id>3631295</id>
+        <link href="https://wallstreetcn.com/articles/3631295"/>
+        <updated>2021-05-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[要在有鱼的地方钓鱼，A股最肥的鱼都在高ROE池塘。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内苹果期货主力合约跌幅进一步扩大至5%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980317</id>
+        <link href="https://wallstreetcn.com/livenews/1980317"/>
+        <updated>2021-05-26T05:58:06.000Z</updated>
+        <summary type="html"><![CDATA[国内苹果期货主力合约跌幅进一步扩大至5%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马来西亚每百万人中新冠肺炎病例的数量已经超过了印度。（CNBC）]]></title>
+        <id>https://wallstreetcn.com/livenews/1980315</id>
+        <link href="https://wallstreetcn.com/livenews/1980315"/>
+        <updated>2021-05-26T05:56:31.000Z</updated>
+        <summary type="html"><![CDATA[马来西亚每百万人中新冠肺炎病例的数量已经超过了印度。（CNBC）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月26日上午8点52分，FM7035航班满载疫情防控物资、生活用品、跨境电商货物从浙江宁波栎社国际机场跑道腾空而起，预计北京时间当天20点左右飞抵匈牙利布达佩斯李...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980312</id>
+        <link href="https://wallstreetcn.com/livenews/1980312"/>
+        <updated>2021-05-26T05:55:12.000Z</updated>
+        <summary type="html"><![CDATA[5月26日上午8点52分，FM7035航班满载疫情防控物资、生活用品、跨境电商货物从浙江宁波栎社国际机场跑道腾空而起，预计北京时间当天20点左右飞抵匈牙利布达佩斯李斯特·费伦茨国际机场。这标志着宁波往返布达佩斯货运航线正式启航，这也是宁波机场开通的首条直达中东欧国家城市的货运航线。宁波—匈牙利布达佩斯货运航线是由东航物流以B787-900“客改货”方式运营的定期航线，每周执飞2班，单程航班最大载货量可达35吨。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咨询公司Energy Aspects创始人称，如果核协议能够达成，伊朗将在三季度增加原油出口。稍早前，美国咨询公司Rapidan Energy主席Bob也称，伊朗最早将在9月全面恢复...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980311</id>
+        <link href="https://wallstreetcn.com/livenews/1980311"/>
+        <updated>2021-05-26T05:54:04.000Z</updated>
+        <summary type="html"><![CDATA[咨询公司Energy Aspects创始人称，如果核协议能够达成，伊朗将在三季度增加原油出口。稍早前，美国咨询公司Rapidan Energy主席Bob也称，伊朗最早将在9月全面恢复原油生产。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“老百姓的命最重要！"日本第二大报纸社论：建议取消东京奥运会]]></title>
+        <id>3631292</id>
+        <link href="https://wallstreetcn.com/articles/3631292"/>
+        <updated>2021-05-26T05:51:04.000Z</updated>
+        <summary type="html"><![CDATA[日本发行量第二大的《朝日新闻》在社论中表示：“变种病毒可能会在日本乃至世界范围内传播，押注这场赛事能够顺利进行是不可原谅的”，“最重要的是老百姓的生命”。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企查查APP显示，5月25日，深圳市腾讯鑫信科技有限公司、深圳市腾讯科融企业管理有限公司成立，注册资本均为200亿元人民币，马化腾为两家公司实际控制人、最终受...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980307</id>
+        <link href="https://wallstreetcn.com/livenews/1980307"/>
+        <updated>2021-05-26T05:49:37.000Z</updated>
+        <summary type="html"><![CDATA[企查查APP显示，5月25日，深圳市腾讯鑫信科技有限公司、深圳市腾讯科融企业管理有限公司成立，注册资本均为200亿元人民币，马化腾为两家公司实际控制人、最终受益人，同时马化腾还担任后者法定代表人、总经理、执行董事职务。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫苗股午后异动拉升，未名医药2连板，复星医药涨超9%。据人民日报海外网，中国台湾南投县正式发函，申请向中国大陆代理商购买疫苗。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980306</id>
+        <link href="https://wallstreetcn.com/livenews/1980306"/>
+        <updated>2021-05-26T05:49:33.000Z</updated>
+        <summary type="html"><![CDATA[疫苗股午后异动拉升，未名医药2连板，复星医药涨超9%。据人民日报海外网，中国台湾南投县正式发函，申请向中国大陆代理商购买疫苗。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于网易云音乐即将递交港股IPO文件的报道，网易云音乐回应称，不予置评。（全天候科技）]]></title>
+        <id>https://wallstreetcn.com/livenews/1980303</id>
+        <link href="https://wallstreetcn.com/livenews/1980303"/>
+        <updated>2021-05-26T05:46:29.000Z</updated>
+        <summary type="html"><![CDATA[对于网易云音乐即将递交港股IPO文件的报道，网易云音乐回应称，不予置评。（全天候科技）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本央行委员铃木人司：过平的超长期收益率损害市场情绪。
+金融体系可能在某个时刻出现预警信号。]]></title>
+        <id>https://wallstreetcn.com/livenews/1980301</id>
+        <link href="https://wallstreetcn.com/livenews/1980301"/>
+        <updated>2021-05-26T05:41:14.000Z</updated>
+        <summary type="html"><![CDATA[日本央行委员铃木人司：过平的超长期收益率损害市场情绪。
+金融体系可能在某个时刻出现预警信号。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据人民日报海外网消息，台湾南投县长林明溱25日喊话台当局，希望向大陆代理商上海复星购买30万剂疫苗。26日上午，南投县政府正式发文台流行疫情指挥中心，申请同...]]></title>
+        <id>https://wallstreetcn.com/livenews/1980300</id>
+        <link href="https://wallstreetcn.com/livenews/1980300"/>
+        <updated>2021-05-26T05:39:56.000Z</updated>
+        <summary type="html"><![CDATA[据人民日报海外网消息，台湾南投县长林明溱25日喊话台当局，希望向大陆代理商上海复星购买30万剂疫苗。26日上午，南投县政府正式发文台流行疫情指挥中心，申请同意开放县市政府购买上海复星代理的BNT疫苗。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑色系期货午后跳水，螺纹跌近4%，热卷跌逾3%，铁矿石跌逾2%。]]></title>
         <id>https://wallstreetcn.com/livenews/1980296</id>
@@ -34,6 +632,26 @@
         <summary type="html"><![CDATA[黄金股午后持续拉升，中金黄金一度涨超8%，赤峰黄金、山东黄金、湖南黄金、银泰黄金等跟涨，消息面上，国际金价上测1900美元关口，为最近约五个月首次。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲财团588亿收购兰博基尼，大众表示：我不卖]]></title>
+        <id>3631291</id>
+        <link href="https://wallstreetcn.com/articles/3631291"/>
+        <updated>2021-05-26T05:18:05.000Z</updated>
+        <summary type="html"><![CDATA[在汽车圈，任何事都不会空穴来风。]]></summary>
+        <author>
+            <name>林嘉浩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下载反超亚马逊，估值暴涨至3000亿，隐秘独角兽SheIn是谁？]]></title>
+        <id>3631290</id>
+        <link href="https://wallstreetcn.com/articles/3631290"/>
+        <updated>2021-05-26T05:17:03.000Z</updated>
+        <summary type="html"><![CDATA[最近，SHEIN火了。SHEIN在美国地区成功拿下Google平台上下载量最高的购物App。]]></summary>
+        <author>
+            <name>尹洪昌</name>
         </author>
     </entry>
     <entry>
