@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T12:28:03.470Z</updated>
+    <updated>2021-05-26T14:29:14.896Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新闻联播 2021/05/26]]></title>
+        <id>http://tv.cctv.com/lm/xwlb/day/20210526.shtml</id>
+        <link href="http://tv.cctv.com/lm/xwlb/day/20210526.shtml"/>
+        <updated>2021-05-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《新闻联播》 20210526 19:00 ⏱00:36:02
+[视频]习近平向世界环境司法大会致贺信 ⏱00:01:03
+[视频]习近平同黑山总统通电话 ⏱00:03:16
+[视频]习近平同西班牙首相通电话 ⏱00:02:13
+[视频]习近平同尼泊尔总统通电话 ⏱00:03:06
+[视频]【新思想引领新征程·红色足迹】沂蒙精神代代传 革命老区换新颜 ⏱00:03:33
+[视频]李克强主持召开国务院常务会议 ⏱00:02:58
+[视频]栗战书主持召开十三届全国人大常委会第九十四次委员长会议 ⏱00:01:51
+[视频]长三角一体化：同下一盘棋 开创新格局 ⏱00:04:02
+[视频]【奋斗百年路 启航新征程·今日中国】全方位推进高质量发展 谱写福建新篇章 ⏱00:02:30
+[视频]奋斗百年路 启航新征程·数风流人物 ⏱00:01:48
+[视频]文学界党员代表中外记者见面会在京举行 ⏱00:00:27
+[视频]中宣部追授彭士禄“时代楷模”称号 ⏱00:00:37
+[视频]国家卫生健康委通报最新疫情 ⏱00:00:33
+[视频]国内联播快讯 ⏱00:02:57
+[视频]全球新冠肺炎确诊病例超1亿6701万例 ⏱00:01:56
+[视频]美多地集会谴责种族主义和警察暴力执法 ⏱00:00:53]]></summary>
+        <author>
+            <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东为何增收不增利？拉客肉搏战的背后是一盘大棋]]></title>
+        <id>3631356</id>
+        <link href="https://wallstreetcn.com/articles/3631356"/>
+        <updated>2021-05-26T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[京东在社区团购、物流开放服务方面的投入力度加大对利润端构成较大影响，正在构建包含实物零售、消费服务、社区与生鲜三大类的全新电商履约基础设施，这将成为下一个十年的核心壁垒。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗重回核谈？原油市场三国杀再生变局]]></title>
+        <id>3631346</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631346?layout=wscn-layout"/>
+        <updated>2021-05-26T13:30:54.000Z</updated>
+        <summary type="html"><![CDATA[市场预期美伊最快在6月达成和解]]></summary>
+        <author>
+            <name>张娱</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高善文：本轮商品价格高点或许已过去，关键要注意深刻的长期结构性问题]]></title>
+        <id>3631349</id>
+        <link href="https://wallstreetcn.com/articles/3631349"/>
+        <updated>2021-05-26T13:25:51.000Z</updated>
+        <summary type="html"><![CDATA[市场结构和机制方面的问题意味着，一旦今后价格弹性变大，供应更加紧缩，那么需求层面的轻微扰动很容易引发价格大幅上升，并推动商品价格中枢上升。]]></summary>
+        <author>
+            <name>巩舒心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铁矿石市场进入紧平衡状态？这家券商高呼矿价“高处不胜寒”]]></title>
+        <id>3631345</id>
+        <link href="https://wallstreetcn.com/articles/3631345"/>
+        <updated>2021-05-26T13:17:05.000Z</updated>
+        <summary type="html"><![CDATA[东方证券分析师预测，在国内碳达峰、“去产量”背景下，到2022年铁矿石需求增速将显著低于供给，价格有望跟随生铁产量同比增速下探。]]></summary>
+        <author>
+            <name>泽禕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股权之争远去，万科董事会再施平衡术]]></title>
+        <id>3631351</id>
+        <link href="https://wallstreetcn.com/articles/3631351"/>
+        <updated>2021-05-26T13:13:12.000Z</updated>
+        <summary type="html"><![CDATA[万科在不断完善公司治理。]]></summary>
+        <author>
+            <name>周智宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币成了“过街老鼠”！伊朗禁止挖矿，韩国强制交易所客户开设银行账户]]></title>
+        <id>3631347</id>
+        <link href="https://wallstreetcn.com/articles/3631347"/>
+        <updated>2021-05-26T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[“交易平台太多，市场过于拥挤，尽管短期内可能会出现混乱，但清理市场需要官方认证。”]]></summary>
+        <author>
+            <name>巩舒心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行和市场都面临棘手的转折点！美联储已不再是美股的好朋友了]]></title>
+        <id>3631236</id>
+        <link href="https://wallstreetcn.com/articles/3631236"/>
+        <updated>2021-05-26T12:39:09.000Z</updated>
+        <summary type="html"><![CDATA[安联集团首席经济顾问El-Erian认为，美联储已沦为“平均通胀目标”的人质，后者并不适用于后新冠疫情时代的经济结构变化。现在收紧政策可能带来市场波动和美联储丧失信誉的双重风险，但长痛不如短痛……]]></summary>
+        <author>
+            <name>涂子君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华润置地谋“产业之王”，合资平台将上市]]></title>
+        <id>3631338</id>
+        <link href="https://wallstreetcn.com/articles/3631338"/>
+        <updated>2021-05-26T12:22:55.000Z</updated>
+        <summary type="html"><![CDATA[物业分拆上市频频造富，开发商要搭建更多的资产分拆、资本运作平台。]]></summary>
+        <author>
+            <name>周智宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联储隔夜逆回购激增：预示Taper还是流动性溢出？]]></title>
+        <id>3631333</id>
+        <link href="https://wallstreetcn.com/articles/3631333"/>
+        <updated>2021-05-26T12:07:55.000Z</updated>
+        <summary type="html"><![CDATA[美联储隔夜逆回购（RRP）用量非季末大幅飙升，说明狭义的流动性水平过剩了。那么会引发美联储收紧临近么？未必！引发资产价格上涨么？恐怕是的。]]></summary>
+        <author>
+            <name>周欣瑜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国常会：打击原材料囤积居奇、哄抬价格等行为，深入推进反垄断执法]]></title>
+        <id>3631343</id>
+        <link href="https://wallstreetcn.com/articles/3631343"/>
+        <updated>2021-05-26T11:58:41.000Z</updated>
+        <summary type="html"><![CDATA[支持大型企业搭建重点行业产业链供需对接平台，用市场化办法引导供应链上下游稳定原材料供应和产销配套协作，做好保供稳价。深入推进反垄断、反不正当竞争执法，依法查处具有优势地位的企业为抢占市场份额恶意补贴、低价倾销等行为。]]></summary>
+        <author>
+            <name>巩舒心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智利政局再生变数，对铜供应有何影响？]]></title>
+        <id>3631322</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631322?layout=wscn-layout"/>
+        <updated>2021-05-26T11:57:33.000Z</updated>
+        <summary type="html"><![CDATA[权利金法案、冰川保护法、品位下降，铜矿开采的麻烦不少]]></summary>
+        <author>
+            <name>侯秋芸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鸿海今天发布声明表示，预计自5月28日起，鸿海科技集团子公司位于越南之北江厂区将列入首批优先恢复生产试点企业名单中。而此前停工的立讯工厂则不在首批优先恢...]]></title>
         <id>https://wallstreetcn.com/livenews/1980605</id>
