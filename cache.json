@@ -334,7 +334,7 @@
     {
       "title": "Latest News from Science Magazine",
       "feedUrl": "https://www.sciencemag.org/rss/news_current.xml",
-      "siteUrl": "http://www.sciencemag.org/rss/news_current.xml",
+      "siteUrl": "http://ssl/rss/news_current.xml",
       "articles": [
         {
           "id": "https://www.sciencemag.org/news/2021/05/last-ice-age-wiped-out-people-east-asia-well-europe?rss=1",
@@ -353,6 +353,15 @@
           "publishedOn": "2021-05-27T15:34:00.000Z",
           "wordCount": 575,
           "title": "Astronomer Geoff Marcy booted from National Academy of Sciences in wake of sexual harassment"
+        },
+        {
+          "id": "https://www.sciencemag.org/news/2021/05/batteries-used-hearing-aids-could-be-key-future-renewable-energy?rss=1",
+          "author": null,
+          "description": "Zinc-based cells promise to be cheaper and safer for grid storage",
+          "link": "https://www.sciencemag.org/news/2021/05/batteries-used-hearing-aids-could-be-key-future-renewable-energy",
+          "publishedOn": "2021-05-27T14:30:00.000Z",
+          "wordCount": 1524,
+          "title": "Batteries used in hearing aids could be key to the future of renewable energy"
         },
         {
           "id": "https://www.sciencemag.org/news/2021/05/zinc-based-cells-promise-be-cheaper-and-safer-grid-storage?rss=1",
@@ -2279,6 +2288,24 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/news/global",
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
+        {
+          "id": "3631486",
+          "author": "杜玉",
+          "description": "美联储隔夜逆回购工具使用规模周四升至4853亿美元，刷新2015年末创下的历史新高纪录，连续第八个交易日增加。分析称，美国关键短期利率有跌破0的风险，市场上流动性太多，有人说也许离缩减购债taper不远了。",
+          "link": "https://wallstreetcn.com/articles/3631486",
+          "publishedOn": "2021-05-27T19:10:51.000Z",
+          "wordCount": 137,
+          "title": "这一工具再创新高，市场向美联储说：够了，QE已经过头了！"
+        },
+        {
+          "id": "3631485",
+          "author": "李丹",
+          "description": "拜登的6万亿美元政府支出预算案临公布前，耶伦称，拜登的基建等支出计划不会大幅推升通胀；白宫财政部密切关注通胀，需要时会有工具解决问题；财政部的预算自2010年以来就没有真正增加。",
+          "link": "https://wallstreetcn.com/articles/3631485",
+          "publishedOn": "2021-05-27T18:17:48.000Z",
+          "wordCount": 116,
+          "title": "耶伦呼吁国会加大财政支出力度 称高通胀是暂时的 可能持续到年末"
+        },
         {
           "id": "3631484",
           "author": "高星",

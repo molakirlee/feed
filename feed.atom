@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T18:56:51.008Z</updated>
+    <updated>2021-05-27T20:26:59.120Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -23,6 +23,26 @@
 [视频]香港中联办声明：新选举制度体系已经形成 相信会得到全面贯彻实施 ⏱00:01:19]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这一工具再创新高，市场向美联储说：够了，QE已经过头了！]]></title>
+        <id>3631486</id>
+        <link href="https://wallstreetcn.com/articles/3631486"/>
+        <updated>2021-05-27T19:10:51.000Z</updated>
+        <summary type="html"><![CDATA[美联储隔夜逆回购工具使用规模周四升至4853亿美元，刷新2015年末创下的历史新高纪录，连续第八个交易日增加。分析称，美国关键短期利率有跌破0的风险，市场上流动性太多，有人说也许离缩减购债taper不远了。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耶伦呼吁国会加大财政支出力度 称高通胀是暂时的 可能持续到年末]]></title>
+        <id>3631485</id>
+        <link href="https://wallstreetcn.com/articles/3631485"/>
+        <updated>2021-05-27T18:17:48.000Z</updated>
+        <summary type="html"><![CDATA[拜登的6万亿美元政府支出预算案临公布前，耶伦称，拜登的基建等支出计划不会大幅推升通胀；白宫财政部密切关注通胀，需要时会有工具解决问题；财政部的预算自2010年以来就没有真正增加。]]></summary>
+        <author>
+            <name>李丹</name>
         </author>
     </entry>
     <entry>
@@ -1093,6 +1113,16 @@ OPPO 为 Reno6 Pro+ 内置了裸感、…]]></summary>
         <summary type="html"><![CDATA[NYMEX天然气期货短线下挫0.035美元，最低触及2.971美元/百万英热单位，使得日内整体跌幅扩大至1.8%，此前美国能源信息署（EIA）发布天然气库存周报。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batteries used in hearing aids could be key to the future of renewable energy]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/batteries-used-hearing-aids-could-be-key-future-renewable-energy?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/batteries-used-hearing-aids-could-be-key-future-renewable-energy"/>
+        <updated>2021-05-27T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Zinc-based cells promise to be cheaper and safer for grid storage]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
