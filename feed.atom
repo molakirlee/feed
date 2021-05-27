@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T16:58:05.172Z</updated>
+    <updated>2021-05-27T18:56:51.008Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -23,6 +23,477 @@
 [视频]香港中联办声明：新选举制度体系已经形成 相信会得到全面贯彻实施 ⏱00:01:19]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sampling seabirds]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-a?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ligand-patterned immune synapses]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-b?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>VanHook, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pervasive criticality]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-c?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organismal evolution of the 3D genome]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-d?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Zahn, L. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bacterial effectors manipulate membranes]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-e?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Hurtley, S. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topography controls the T cell response]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-f?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Stajic, J.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulating quantum walkers]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-g?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Osborne, I. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imprinting oxides]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-h?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-h?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Grocholski, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban socioeconomics and mortality]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-i?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-i?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cellular RNAs guide CRISPR-Cas9]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-j?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-j?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Jiang, D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding reactions through ionic strength]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-k?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-k?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Store energy and save energy]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-l?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-l?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Lavine, M. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast spin flips for entangled atoms]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-m?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-m?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Providing for protein synthesis]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-n?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-n?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Ray, L. B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think globally, act locally]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-o?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-o?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community virus surveillance]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-p?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-p?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Ash, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Depleting plasmacytoid dendritic cells]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-q?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-q?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Maroso, M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skin sentinels]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-r?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-r?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Fogg, C. N.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The many talents of bispecific antibodies]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-s?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-s?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Alderton, G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-scale coordination]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-t?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-t?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Grocholski, B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding for space in the mammalian brain]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/929-u?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/929-u?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Stern, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seagrass offsets acidification]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-a?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-a?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Sugden, A. M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing cultural awareness to mentoring]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-b?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-b?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>McCartney, M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tusk records]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-c?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-c?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Vignieri, S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Culture and posttraumatic stress]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-d?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-d?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Rai, T. S.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actin to trap bacteria]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-e?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-e?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Vinson, V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live fast, die young]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-f?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-f?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Purnell, B. A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light frees a reactive thiol]]></title>
+        <id>http://science.sciencemag.org/cgi/content/short/372/6545/930-g?rss=1</id>
+        <link href="http://science.sciencemag.org/cgi/content/short/372/6545/930-g?rss=1"/>
+        <updated>2021-05-27T17:41:26.000Z</updated>
+        <author>
+            <name>Szuromi, P.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国最近24小时新增13933例新冠肺炎病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981561</id>
+        <link href="https://wallstreetcn.com/livenews/1981561"/>
+        <updated>2021-05-27T17:36:30.000Z</updated>
+        <summary type="html"><![CDATA[法国最近24小时新增13933例新冠肺炎病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出席5月26-27日IMN抵押贷款债券（CLO）会议的人员们表示：CLO市场完好无损，全球成交量料将在未来数月达到1万亿美元规模。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981560</id>
+        <link href="https://wallstreetcn.com/livenews/1981560"/>
+        <updated>2021-05-27T17:35:03.000Z</updated>
+        <summary type="html"><![CDATA[出席5月26-27日IMN抵押贷款债券（CLO）会议的人员们表示：CLO市场完好无损，全球成交量料将在未来数月达到1万亿美元规模。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六名华尔街银行CEO称：美国国会山需要针对伦敦银行间同业拆借利率（LIBOR）的替代方案立法。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981559</id>
+        <link href="https://wallstreetcn.com/livenews/1981559"/>
+        <updated>2021-05-27T17:34:50.000Z</updated>
+        <summary type="html"><![CDATA[六名华尔街银行CEO称：美国国会山需要针对伦敦银行间同业拆借利率（LIBOR）的替代方案立法。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通CEO戴蒙：美国总统拜登的增税计划将不利于众多公司。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981557</id>
+        <link href="https://wallstreetcn.com/livenews/1981557"/>
+        <updated>2021-05-27T17:23:46.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通CEO戴蒙：美国总统拜登的增税计划将不利于众多公司。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫组织：非洲大陆急需两千万剂新冠疫苗以完成第二剂接种。（央视）]]></title>
+        <id>https://wallstreetcn.com/livenews/1981556</id>
+        <link href="https://wallstreetcn.com/livenews/1981556"/>
+        <updated>2021-05-27T17:23:26.000Z</updated>
+        <summary type="html"><![CDATA[世卫组织：非洲大陆急需两千万剂新冠疫苗以完成第二剂接种。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储逆回购工具使用规模达到4853亿美元，创历史新高，连续第八个交易日增加。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981555</id>
+        <link href="https://wallstreetcn.com/livenews/1981555"/>
+        <updated>2021-05-27T17:17:40.000Z</updated>
+        <summary type="html"><![CDATA[美联储逆回购工具使用规模达到4853亿美元，创历史新高，连续第八个交易日增加。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞士信贷包括金融机构全球主管Przygoda在内的四名金融服务银行高管离职，均跳槽至杰弗瑞。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981554</id>
+        <link href="https://wallstreetcn.com/livenews/1981554"/>
+        <updated>2021-05-27T17:12:32.000Z</updated>
+        <summary type="html"><![CDATA[瑞士信贷包括金融机构全球主管Przygoda在内的四名金融服务银行高管离职，均跳槽至杰弗瑞。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[散户逼空的威力：AMC股价盘中涨超30% 市值首次突破100亿美元]]></title>
+        <id>3631484</id>
+        <link href="https://wallstreetcn.com/articles/3631484"/>
+        <updated>2021-05-27T17:11:26.000Z</updated>
+        <summary type="html"><![CDATA[周四，AMC连续四个交易日上涨，盘中上涨超30%，创2017年5月以来新高，总市值首次突破100亿美元，该股年初迄今累计涨幅扩大至1000%。今日在Reddit旗下WSB论坛当中提及AMC的讨论数最多，上日大涨的GME排名第二。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月27日，英国卫生大臣马修·汉考克表示，根据英格兰公共卫生署的数据，自上周以来，英格兰的在印度发现的新冠病毒变异株感染病例数增加了3535例，达到6959例。...]]></title>
+        <id>https://wallstreetcn.com/livenews/1981553</id>
+        <link href="https://wallstreetcn.com/livenews/1981553"/>
+        <updated>2021-05-27T17:09:05.000Z</updated>
+        <summary type="html"><![CDATA[5月27日，英国卫生大臣马修·汉考克表示，根据英格兰公共卫生署的数据，自上周以来，英格兰的在印度发现的新冠病毒变异株感染病例数增加了3535例，达到6959例。最新预测显示，由该变体引发的病例占所有新增新冠肺炎确诊病例数的一半以上，甚至多达四分之三。自5月初以来，英国的新冠肺炎确诊病例数一直在飙升。汉考克此前曾表示，由于新冠疫苗的接种，新增新冠肺炎确诊病例数与住院人数、死亡人数之间的必然联系已经被“切断”，但现在判定到6月21日解除全部防疫限制措施还为时尚早。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际铜夜盘收涨3.04%，沪铜收涨3.05%，沪铝收涨2.36%，沪锌收涨2.10%，沪铅收涨1.11%，沪镍收涨3.98%，沪锡收涨4.97%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981552</id>
+        <link href="https://wallstreetcn.com/livenews/1981552"/>
+        <updated>2021-05-27T17:06:05.000Z</updated>
+        <summary type="html"><![CDATA[国际铜夜盘收涨3.04%，沪铜收涨3.05%，沪铝收涨2.36%，沪锌收涨2.10%，沪铅收涨1.11%，沪镍收涨3.98%，沪锡收涨4.97%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泛欧交易所6月玉米期货合约一度上涨5.5%，刷新2007年9月份以来主力合约最高位至226.50欧元/吨，收报265.00欧元。
+CBOT玉米期货上涨0.40美元，涨幅6.41%，触及美...]]></title>
+        <id>https://wallstreetcn.com/livenews/1981551</id>
+        <link href="https://wallstreetcn.com/livenews/1981551"/>
+        <updated>2021-05-27T17:03:35.000Z</updated>
+        <summary type="html"><![CDATA[泛欧交易所6月玉米期货合约一度上涨5.5%，刷新2007年9月份以来主力合约最高位至226.50欧元/吨，收报265.00欧元。
+CBOT玉米期货上涨0.40美元，涨幅6.41%，触及美国芝加哥商业交易所（CME）涨停限制，报6.645美元/蒲式耳。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国财政部拍卖620亿美元七年期国债，得标利率1.285%，投标倍数2.41。
+七年期美债收益率维持大约3.3个基点的涨幅，暂报1.2665%，拍卖结果出炉前录得日高1.2736%...]]></title>
+        <id>https://wallstreetcn.com/livenews/1981550</id>
+        <link href="https://wallstreetcn.com/livenews/1981550"/>
+        <updated>2021-05-27T17:02:05.000Z</updated>
+        <summary type="html"><![CDATA[美国财政部拍卖620亿美元七年期国债，得标利率1.285%，投标倍数2.41。
+七年期美债收益率维持大约3.3个基点的涨幅，暂报1.2665%，拍卖结果出炉前录得日高1.2736%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國國務卿就香港立法會通過“愛國者治港” 選舉新法發表聲明]]></title>
+        <id>https://www.voacantonese.com/a/US-secretary-of-state-statement-on-HK-LegCo-election-new-law-20210527/5906765.html</id>
+        <link href="https://www.voacantonese.com/a/US-secretary-of-state-statement-on-HK-LegCo-election-new-law-20210527/5906765.html"/>
+        <updated>2021-05-27T16:59:52.000Z</updated>
+        <summary type="html"><![CDATA[美國國務卿布林肯。
+
+
+
+美國國務卿布林肯週四（5月27日）就香港立法會通過旨在封殺民主派聲音、剝奪其參選權利的所謂“愛國者治港”選舉新法發表聲明。
+美國國務卿布林肯聲明全文如下：
+中國政府還在繼續破壞香港的民主制度，剝奪香港居民享有的曾經受到中國人民共和國保障的權利。香港立法會在5月27日通過了改變香港立法會和選舉委員會組成的新措施，這嚴重限制了香港人民有意義地參加自我治理和表達意見的方式。
+削弱香港居民在立法機構的代表性，將不利於保持香港的長期政治和社會穩定。這項立法無視香港基本法中明確承諾的立法會選舉的最終目標是實現普選。我們再次呼籲中華人民共和國和香港當局聽取香港人民的聲音。我們也呼籲他們釋放那些僅僅因為參加選舉或表達不同觀點而受到國安法等法律指控的個人，並取消對他們的指控。美國將與盟友和夥伴團結一致，共同發聲，保護中英聯合聲明和基本法向香港人民承諾的人權和基本自由。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LME期铜收涨242美元，报10221美元/吨。
+LME期铝收涨79美元，报2481美元/吨。
+LME期锌收涨92美元，报3061美元/吨。
+LME期铅收涨26美元，报2202美元/吨。
+LME期镍...]]></title>
+        <id>https://wallstreetcn.com/livenews/1981549</id>
+        <link href="https://wallstreetcn.com/livenews/1981549"/>
+        <updated>2021-05-27T16:59:40.000Z</updated>
+        <summary type="html"><![CDATA[LME期铜收涨242美元，报10221美元/吨。
+LME期铝收涨79美元，报2481美元/吨。
+LME期锌收涨92美元，报3061美元/吨。
+LME期铅收涨26美元，报2202美元/吨。
+LME期镍收涨610美元，报17898美元/吨。
+LME期锡收涨385美元，报29910美元/吨。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国白宫发言人Psaki：美国有意在下周完成对供应链的评估。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981548</id>
+        <link href="https://wallstreetcn.com/livenews/1981548"/>
+        <updated>2021-05-27T16:52:07.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫发言人Psaki：美国有意在下周完成对供应链的评估。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因言獲罪的00後青年被迪拜釋放 乘搭飛機前往土耳其]]></title>
+        <id>https://www.voacantonese.com/a/US-resident-sought-by-China-for-comments-freed-in-Dubai-20210527/5906748.html</id>
+        <link href="https://www.voacantonese.com/a/US-resident-sought-by-China-for-comments-freed-in-Dubai-20210527/5906748.html"/>
+        <updated>2021-05-27T16:51:09.000Z</updated>
+        <summary type="html"><![CDATA[人權組織“保護衛士”發布的王靖渝的照片。
+
+
+
+因言獲罪的00後重慶青年王靖渝星期四（5月27日）被迪拜警方釋放，他已搭乘飛機前往土耳其。
+王靖渝因在海外旅行期間發表網絡言論批評中共軍方而受到中國當局限期自首的威脅。他的友人此前發表推文說，王靖渝前往美國途中，中轉迪拜時被當地警方逮捕，面臨遣返威脅。
+據美聯社報導，王靖渝的案件發生之際，長期作為美國在中東防務夥伴的阿聯酋近年來在貿易和抗擊新冠疫情問題上與中國越走越近。這也引發了美國官員的擔憂，有專家稱，美國與中國和俄羅斯的“大國衝突”迫在眉睫。
+美國國務院對美聯社說：“我們仍然對中國侵犯和踐踏人權的行為感到震驚，我們呼籲（中國）當局按照中國的國際義務和承諾，尊重其公民應有的基本自由。”
+報導說，王靖渝獲釋後發布了一段在阿聯酋航空航班上的視頻，展示了他飛回伊斯坦布爾的機票。
+“這裡的警察很糟糕，”他說，“今天，他們突然把我帶上了飛機。他們甚至都沒把我的衣服和鞋子還給我，就給了我一雙人字拖讓我穿。他們什麼都沒給我，只有一本護照和一部電話。他們真的太可怕了。太可怕了。”
+人權組織“保護衛士”（Safeguard Defenders）說，王靖渝稱，他在半夜被戴上手銬，被帶上飛機送回伊斯坦布爾。王靖渝的電腦、大部分衣物等仍歸迪拜警方所有。
+現年19歲的王靖渝2019年7月離開老家重慶，一直在國外旅行。旅行期間因為在微博上發表質疑和批評在中印邊境衝突中陣亡的解放軍官兵的言論而被網民舉報。
+重慶市公安局沙坪壩區分局官方微博2月22日發布警情通報稱，“以涉嫌尋釁滋事罪對犯罪嫌疑人王某刑事拘留，並對其上網追逃”。此後，王靖渝受到某些網民的猛烈抨擊，說他詆毀解放軍，是“賣國賊”、“漢姦”。他和家人的個人信息——姓名、出生日期、家庭住址、父母工作單位、手機號碼等也被瘋狂“人肉”。
+因王靖渝不在中國，他的父母因此事件受到當局的盤查滋擾，曾被帶到當地派出所訊問，警方甚至查抄了王靖渝和父母的家。
+據美聯社獲得的迪拜檢方起訴書稱，王靖渝因涉嫌“侮辱某一神論宗教”而面臨調查，這一指控通常指侮辱伊斯蘭教。然而，迪拜政府媒體辦公室最初對美聯社表示，王因“未支付酒店賬單”而被捕，並否認他因侮辱伊斯蘭教而面臨任何指控。
+據報導，迪拜政府媒體辦公室說，王靖渝後來面臨侮辱指控，但“酒店付款已結清，指控也被撤銷，他被釋放了。”
+該辦公室說，“中國當局沒有詢問過王靖渝的情況，也沒有要求將他遣返到中國，阿聯酋和中國當局之間也沒有任何關於王靖渝的協議。”
+報導還說，美國國務院一直在“積極尋求”王靖渝的信息，因為他可能被送回中國。
+“我們積極勸阻外國政府不要採取威脅海外記者和異見人士的策略，我們將繼續向夥伴和對手錶明，這種日益普遍的做法必須結束。” 美國國務院說，“言論自由決不應被定罪。 ”
+人權觀察組織1月發布的《2021世界人權報告》批評中國當局在持續打壓人權捍衛者群體的同時，日益將維權人士的家屬作為打擊目標。]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VOA國際60秒(粵語): 2021年5月27日]]></title>
+        <id>https://www.voacantonese.com/a/voa60-0527/5906733.html</id>
+        <link href="https://www.voacantonese.com/a/voa60-0527/5906733.html"/>
+        <updated>2021-05-27T16:41:19.000Z</updated>
+        <summary type="html"><![CDATA[1 數萬人撤離戈馬市擔心剛過火山再度噴發]]></summary>
+        <author>
+            <name>新聞 - 美國之音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提醒：美国财长耶伦听证会结束。]]></title>
+        <id>https://wallstreetcn.com/livenews/1981547</id>
+        <link href="https://wallstreetcn.com/livenews/1981547"/>
+        <updated>2021-05-27T16:37:37.000Z</updated>
+        <summary type="html"><![CDATA[提醒：美国财长耶伦听证会结束。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
@@ -3198,6 +3669,16 @@ Google 也首次在 Android 12 Beta 测试网站中创建了 专题界面，你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cracking consciousness, and taking the temperature of urban heat islands]]></title>
+        <id>https://www.sciencemag.org/podcast/cracking-consciousness-and-taking-temperature-urban-heat-islands?rss=1</id>
+        <link href="https://www.sciencemag.org/podcast/cracking-consciousness-and-taking-temperature-urban-heat-islands"/>
+        <updated>2021-05-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On this week’s show: a collaborative, yet adversarial, effort to move forward the understanding of consciousness, and why ground-based measures are crucial for understanding temperature in cities]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[德国6月GfK消费者信心指数 -7，预期 -5.2，前值由 -8.8 修正为 -8.6。]]></title>
         <id>https://wallstreetcn.com/livenews/1981127</id>
         <link href="https://wallstreetcn.com/livenews/1981127"/>
@@ -3389,6 +3870,16 @@ HUAWEI Inside 的赛力斯
 毫无疑问，华为的渠道和流量给予了极大贡献，也给出了一个非常优秀的合作案例。不少人甚至会对华为店里卖车这件事产生误解，上海南京东路…]]></summary>
         <author>
             <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can diet and exercise lower your risk of dementia? Rigorous clinical trials aim to find out]]></title>
+        <id>https://www.sciencemag.org/news/2021/05/can-diet-and-exercise-lower-your-risk-dementia-rigorous-clinical-trials-aim-find-out?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/05/can-diet-and-exercise-lower-your-risk-dementia-rigorous-clinical-trials-aim-find-out"/>
+        <updated>2021-05-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multidomain studies look for brain benefits from multiple lifestyle changes]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
