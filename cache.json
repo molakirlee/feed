@@ -409,6 +409,15 @@
           "title": "Swiss scientists fear becoming ‘collateral damage’ in breakdown of EU treaty talks"
         },
         {
+          "id": "https://www.sciencemag.org/news/2021/05/biden-seeks-big-increases-science-budgets?rss=1",
+          "author": null,
+          "description": "2022 spending request would boost civilian but cut defense research",
+          "link": "https://www.sciencemag.org/news/2021/05/biden-seeks-big-increases-science-budgets",
+          "publishedOn": "2021-05-28T10:55:00.000Z",
+          "wordCount": 2030,
+          "title": "Biden seeks big increases for science budgets"
+        },
+        {
           "id": "https://www.sciencemag.org/news/2021/05/biden-backs-new-nsf-tech-directorate-senate-balks?rss=1",
           "author": null,
           "description": "Biden would hike NSF budget by 20% as senators delay vote on big increase for agency",
@@ -2414,6 +2423,24 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/news/global",
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
+        {
+          "id": "3631585",
+          "author": "李丹",
+          "description": "本周又一家媒体称，特斯拉在接触中国台湾地区、韩国和美国的供应商，寻求通过提前付款获得车用芯片的稳定供应。稍早有媒体称，特斯拉还考虑买芯片代工厂。",
+          "link": "https://wallstreetcn.com/articles/3631585",
+          "publishedOn": "2021-05-28T23:29:10.000Z",
+          "wordCount": 122,
+          "title": "“缺芯”压力山大！特斯拉据称因此部分车型弃用雷达"
+        },
+        {
+          "id": "3631582",
+          "author": "朱希",
+          "description": "五分钟看懂全球市场，尽在财经早餐。",
+          "link": "https://wallstreetcn.com/articles/3631582",
+          "publishedOn": "2021-05-28T23:16:02.000Z",
+          "wordCount": 200,
+          "title": "华尔街见闻早餐FM-Radio｜2021年5月29日"
+        },
         {
           "id": "3631583",
           "author": "李丹",
@@ -5950,6 +5977,42 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-us-canada-57273062",
+          "author": null,
+          "description": "US President Biden's biggest foreign policy challenge is China. How is he handling the relationship?",
+          "link": "https://www.bbc.co.uk/news/world-us-canada-57273062",
+          "publishedOn": "2021-05-28T23:38:35.000Z",
+          "wordCount": 580,
+          "title": "[World] US-China relations: Biden and Xi - friends or foes?"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-australia-57264249",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionFormer Australian Prime Minister Kevin Rudd\n\nCountries should unite against China's growing economic and geopolitical coercion or risk being singled out and punished by Beijing, former Australian Prime Minister Kevin Rudd has told the BBC. \n\n\nMr Rudd said governments in the West should not be afraid to challenge China on issues such as human rights. \n\n\nAround the world, countries are navigating a new geopolitical order framed by the rising dominance of China. \n\n\n\"If you are going to have a disagreement with Beijing, as many governments around the world are now doing, it's far better to arrive at that position conjointly with other countries rather than unilaterally, because it makes it easier for China to exert bilateral leverage against you,\" Mr Ru…",
+          "link": "https://www.bbc.co.uk/news/world-australia-57264249",
+          "publishedOn": "2021-05-28T23:15:33.000Z",
+          "wordCount": 1433,
+          "title": "[World] Don't take on China alone, says ex-Australia PM Kevin Rudd"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-56791164",
+          "author": null,
+          "description": "image copyrightAbid Bhat\nimage captionManzoor Ahmad Wagay has been looking for his missing son for nine months\n\nLast August, an Indian soldier was abducted by a group of men in Indian-administered Kashmir. His family believes he is no longer alive. However, his father is continuing to look for his son's remains.\n\n\nA day after Manzoor Ahmad Wagay first heard the news of his son's kidnapping, police found the charred remains of his car.\n\n\nSome 15km (9 miles) away, blood-smeared, tattered pieces of his light brown shirt and black t-shirt were retrieved from an apple orchard.\n\n\nThen the trail went cold.\n\n\nIn the evening of 2 August 2020, 24-year-old Shakir Manzoor briefly joined the Eid celebrations at his home in Shopian, the apple growing district of the Himalayan region.\n\n\nAccording to his …",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-56791164",
+          "publishedOn": "2021-05-28T23:13:28.000Z",
+          "wordCount": 1475,
+          "title": "[World] Kashmir: A father digging up the ground to find his missing son"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-56347139",
+          "author": null,
+          "description": "When Dilara set off from the Bangladeshi coast, she dreamed of a new life in Malaysia. \n\n\nBut she and hundreds of others who had crammed into the boat ended up being rescued, having spent days floating at sea, after being turned away at the border.\n\n\nYet they were not returned to the mainland and the families they had left behind.\n\n\nInstead, their rescuers left the group on an island created out of silt in the middle of the Bay of Bengal, with no hope of escape.\n\n\n\"I don't know how long I will be here. I have no way out,\" the unmarried young woman, who fears leaving her room after dark, told the BBC.\n\n\n\"I will grow old and die here alone.\"\n\n\n\n\n\nDilara was among the first of a planned 100,000 Rohingya refugees to arrive on Bhasan Char, a piece of land measuring 40sq km (15 sq mi) in size wh…",
+          "link": "https://www.bbc.co.uk/news/world-asia-56347139",
+          "publishedOn": "2021-05-28T23:10:39.000Z",
+          "wordCount": 2211,
+          "title": "[World] The Rohingya refugees trapped on a remote island miles from land"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-us-canada-57286063",
           "author": null,
           "description": "image copyrightRoyal Thai Consulate-General Los Angeles\nimage captionThe stone lintels bearing intricate religious designs were created hundreds of years ago\n\nTwo ancient sandstone carvings, believed to have been stolen from Thailand and smuggled to the US during the Vietnam War, are being repatriated. \n\n\nThe carvings were originally lintels - support beams - in temples dating back to the 10th Century and feature the Hindu deities Indra and Yama. \n\n\nFor decades they have been on display in San Francisco's Asian Art Museum. \n\n\nThey are due to go on display at the National Museum in the Thai capital, Bangkok. \n\n\nThe San Francisco museum said it always wanted to return the beams to Thailand, but disputed experts' allegations that they had been stolen.\n\n\n\"We are very pleased that these lintels…",
@@ -6773,6 +6836,33 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/cantonese-american-report-847-20210529-ry/5906673.html",
+          "author": null,
+          "description": "華盛頓 — \n特朗普擔任總統期間的事情與彈劾審判造成共和黨內分裂。同時，在前總統特朗普面臨第二次彈劾後，共和黨正在為他們的未來而戰鬥。",
+          "link": "https://www.voacantonese.com/a/cantonese-american-report-847-20210529-ry/5906673.html",
+          "publishedOn": "2021-05-29T00:00:15.000Z",
+          "wordCount": 298,
+          "title": "美國專訊 847 (2021年5月29日)"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/Myanmar-China-20210528/5908632.html",
+          "author": null,
+          "description": "緬甸仰光郊區萊達雅鎮工業區的中資工廠被縱火後冒出的滾滾黑煙。(2021年3月14日)\n\n\n\n\n據緬甸官方媒體報導，緬甸一個軍事法庭對縱火襲擊兩家工廠的28人判處20年監禁和苦役。在3月間仰光發生騷亂期間，一系列主要由中國投資的工廠被縱火焚燒。\n軍方運營的苗瓦迪(Myawady)新聞門戶網站稱，這些肇事者襲擊的目標是緬甸最大城市仰光郊區萊達雅工業區的一家鞋廠和一家製衣廠。\n緬甸媒體和一個活動組織說，大火過後當局在這個郊區實行了戒嚴。當安全部隊向反軍方示威者開槍時，數十人喪生或受傷。\n中國駐緬甸大使館當時表示，有多名中國工作人員在縱火襲擊事件中受傷和被困，並呼籲緬方保障中資企業財產及中國公民。\n據中國國家控制的《環球時報》3月份報導，共有32家中資工廠在襲擊中被破壞，財產損失達到3690萬美元(約合2.4億元人民幣)。\n緬甸軍隊2月1日發動政變，推翻了民選的文官政府。中國被認為是軍政府的支持者。\n沒有組織聲稱對焚燒這些工廠負責。自從軍方掌權並逮捕了昂山素姬​(Aung San Suu Kyi)和她的政黨成員以來，緬甸一直處於混亂之中，每天都有反對軍政府的抗議、遊行和罷工。\n據活動人士組織“政治犯援助協會”(Assistance Association for Political Prisoners)說，安全部隊以致命武力回應，造成800多人死亡。軍方否認這一數字，政變領導人敏昂萊(Min Aung Hlaing)最近表示，大約300人在動亂中喪生，其中包括47名警察。\n除了在邊境地區與少數民族武裝重新爆發衝突外，緬甸軍隊與一些地區反對軍方、通常裝備極為粗陋的民兵之間的戰鬥也在升級。\n在與緬甸東部撣邦(Shan)和克耶邦(Kayah)交界的附近，當地居民和媒體報導說，數十名安全部隊和當地武裝人員在最近的戰鬥中喪生。\n一名在代莫索(Demoso)鎮附近避難的居民周五報告說，那裡的電力中斷，週四晚上爆發戰鬥，炮聲不斷。\n“我們擔心炸彈會擊中我們。他們不停地開火讓我渾身發抖，”這位要求不透露姓名的居民說。\n她說，所有人都逃離了代莫索，估計有4萬多人在這個城鎮的周邊地區避難，他們需要食物、衣服和庇護所。\n（本文依據了路透社的報導。）",
+          "link": "https://www.voacantonese.com/a/Myanmar-China-20210528/5908632.html",
+          "publishedOn": "2021-05-28T22:42:29.000Z",
+          "wordCount": 295,
+          "title": "緬甸軍事法庭判處縱火焚燒中資工廠的28人長期監禁和苦役"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/us-defense-budget-china-pay-raise-20210528/5908587.html",
+          "author": null,
+          "description": "美國總統拜登提交給國會的2022年預算案。\n\n\n\n\n美國總統拜登提出的7150億美元的國防部預算包括將軍人薪餉提高2.7%，並將數十億美元的支出從舊系統中轉移出來，幫助支付核武庫現代化的費用，以威懾中國。\n週五(5月28日)提交給國會的2022財年國防開支預算計劃投資於軍隊的戰備、太空、旨在對抗中國在亞洲擴充軍力的“太平洋威懾計劃”(Pacific Deterrence Initiative)以及核武器技術。\n這個預算請求將購買軍艦和戰機，並支付維護和薪餉，另外380億美元專用於聯邦調查局、能源部和其他政府機構的國防相關計劃，使國家安全預算總額達到7530億美元，比2021年的預算數額增加了1.7％。\n此外，在軍方旨在建立對抗俄羅斯和中國的能力之際，也有資金投入到進一步開發和測試高超音速武器和其它“下一代”系統。\n總統的預算請求，包括軍方的預算，通常是與國會談判的起點，經費如何使用的最終權力在國會。\n在擬議對國防部軍職和文職人員加薪之前，他們的薪水在9月30日結束的2021財年上漲了3%。\n超過50億美元將用於“太平洋威懾計劃”。該倡議旨在對抗中國，並專注於印-太競爭，目的在於通過為雷達、衛星和導彈系統提供資金來增強美國在該地區的備戰水平。具體來說，五角大樓計劃增加對雷神公司製造的“戰斧”和“標準導彈6”等導彈的資金投入，以遏阻中國。\n與日益咄咄逼人的中國之間的緊張關係是美國軍事規劃者們所關注的問題。上週，在一艘美國軍艦再次通過台灣海峽這一敏感水域後，北京指責美國威脅台灣海峽的和平與穩定。\n為了解決這一轉變以及巨額研究預算等的費用問題，五角大樓正在尋求剝離一些維修成本較高的老舊設備。\n在2022財政年度，陸軍、海軍和空軍要剝離的資產總額將達到28億美元。\n退役的裝備包括四艘瀕海戰鬥艦、為地面部隊提供近距離空中支援的42架A-10飛機，以及用於空中加油的14架KC-10和18架KC-135飛機。\n美國將減少購買通用動力公司製造的M1艾布拉姆斯坦克，從2021財年102輛的採購數量下降到70輛。\n（本文依據了路透社的報導。）",
+          "link": "https://www.voacantonese.com/a/us-defense-budget-china-pay-raise-20210528/5908587.html",
+          "publishedOn": "2021-05-28T21:29:03.000Z",
+          "wordCount": 289,
+          "title": "拜登向國會提交國防預算案增加威懾中國的開支 並為軍人加薪2.7%"
+        },
         {
           "id": "https://www.voacantonese.com/a/us-senate-votes-to-block-panel-to-probe-capitol-riot-20210528/5908487.html",
           "author": null,
@@ -8290,6 +8380,159 @@
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
         {
+          "id": "https://wallstreetcn.com/livenews/1982475",
+          "author": null,
+          "description": "国家卫健委消息，5月28日0-24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例16例，其中境外输入病例14例（上海7例，四川2例，陕西2例，浙江1例，福建1例，广东1例），本土病例2例（均在广东）；无新增死亡病例；无新增疑似病例。",
+          "link": "https://wallstreetcn.com/livenews/1982475",
+          "publishedOn": "2021-05-29T00:32:16.000Z",
+          "wordCount": 143,
+          "title": "国家卫健委消息，5月28日0-24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例16例，其中境外输入病例14例（上海7例，四川2例，陕西2例，浙江1..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982474",
+          "author": null,
+          "description": "广州市人民政府：在荔湾区海龙街、白鹤洞街、中南街、东漖街、冲口街区域范围内，所有人员以居家为主，停止非日常生活必须的一切活动，除每户每天限1人外出购买生活必需品外，其他人员不得外出。",
+          "link": "https://wallstreetcn.com/livenews/1982474",
+          "publishedOn": "2021-05-29T00:29:37.000Z",
+          "wordCount": 141,
+          "title": "广州市人民政府：在荔湾区海龙街、白鹤洞街、中南街、东漖街、冲口街区域范围内，所有人员以居家为主，停止非日常生活必须的一切活动，除每户每天限1人外出购买..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982473",
+          "author": null,
+          "description": "今天起，2021年端午假期首日的火车票将正式开抢。今年的端午假期有望成为继“五一”假期后的又一个客流高峰时段，中短途动车仍为乘客出行首选，高铁将继续领跑客流增长。北京至郑州、济南、武汉等方向的高铁动车车票销售堪比“五一”，长三角铁路发送旅客量预计将超过2019年同期水平，有望创下历史同期新高。（中国新闻网）",
+          "link": "https://wallstreetcn.com/livenews/1982473",
+          "publishedOn": "2021-05-29T00:12:29.000Z",
+          "wordCount": 143,
+          "title": "今天起，2021年端午假期首日的火车票将正式开抢。今年的端午假期有望成为继“五一”假期后的又一个客流高峰时段，中短途动车仍为乘客出行首选，高铁将继续领跑客..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982472",
+          "author": null,
+          "description": "广东省卫健委：全省新增2例本土确诊病例，广州报告1例，为无症状感染者转确诊；佛山报告1例。新增8例本土无症状感染者，广州报告5例，深圳报告1例，佛山报告2例。",
+          "link": "https://wallstreetcn.com/livenews/1982472",
+          "publishedOn": "2021-05-28T23:58:09.000Z",
+          "wordCount": 141,
+          "title": "广东省卫健委：全省新增2例本土确诊病例，广州报告1例，为无症状感染者转确诊；佛山报告1例。新增8例本土无症状感染者，广州报告5例，深圳报告1例，佛山报告2例..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982471",
+          "author": null,
+          "description": "证券时报头版评论称，投行业务正面临更加严格的法律环境，证券公司应高度重视因未勤勉尽责而可能承担连带责任的巨额赔付风险。近期，证监会集中公布了一批罚单，主要为保荐机构内部控制有效性不足、对发行人核查不充分等问题，反映出投行执业质量仍有待提高。投行执业质量不仅是注册制改革能否成功的关键因素，更决定证券公司未来是否会因此承担巨额民事赔偿。",
+          "link": "https://wallstreetcn.com/livenews/1982471",
+          "publishedOn": "2021-05-28T23:40:27.000Z",
+          "wordCount": 143,
+          "title": "证券时报头版评论称，投行业务正面临更加严格的法律环境，证券公司应高度重视因未勤勉尽责而可能承担连带责任的巨额赔付风险。近期，证监会集中公布了一批罚单，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982470",
+          "author": null,
+          "description": "“从手机行业来看，芯片供给非常重要，有多少芯片，就干多少芯片的活。需求暂时放缓，配套厂商可能相对比较难受。”5月28日，华南一家手机代工厂商高管对记者说。机构调研显示，小米、OPPO、vivo等均调低其2021年出货量目标。中信证券发布研报预测称，展望2021年第二季度及全年，预期智能手机出货量同比增速或将放缓，下修全年智能手机销量预期至13.5亿部，同比增长5%。 (中证报)",
+          "link": "https://wallstreetcn.com/livenews/1982470",
+          "publishedOn": "2021-05-28T23:34:04.000Z",
+          "wordCount": 144,
+          "title": "“从手机行业来看，芯片供给非常重要，有多少芯片，就干多少芯片的活。需求暂时放缓，配套厂商可能相对比较难受。”5月28日，华南一家手机代工厂商高管对记者说..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982468",
+          "author": null,
+          "description": "从主动权益基金、细分赛道ETF密集发行，再到“固收+”基金持续走俏，今年前5个月，新发公募基金的募资额超过1.3万亿元。据Wind数据统计显示，按照基金成立日统计，截至5月28日，新基金发行数量达647只，每个月新成立的基金数量均超过百只。尤其是在今年3月，新基金成立的数量高达184只。（上证报）",
+          "link": "https://wallstreetcn.com/livenews/1982468",
+          "publishedOn": "2021-05-28T22:44:21.000Z",
+          "wordCount": 142,
+          "title": "从主动权益基金、细分赛道ETF密集发行，再到“固收+”基金持续走俏，今年前5个月，新发公募基金的募资额超过1.3万亿元。据Wind数据统计显示，按照基金成立日统计..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982466",
+          "author": null,
+          "description": "今年以来，随着退市新规的实施，以及“应退尽退”的监管理念贯彻落实，证券市场退市效率进一步提升。据上市公司公告梳理，截至5月28日，今年以来已有15家上市公司被交易所终止上市，另外有3家上市公司收到交易所终止上市事先告知书，合计18家上市公司收到交易所“退市通知”。（证券日报）",
+          "link": "https://wallstreetcn.com/livenews/1982466",
+          "publishedOn": "2021-05-28T22:34:32.000Z",
+          "wordCount": 142,
+          "title": "今年以来，随着退市新规的实施，以及“应退尽退”的监管理念贯彻落实，证券市场退市效率进一步提升。据上市公司公告梳理，截至5月28日，今年以来已有15家上市公..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982465",
+          "author": null,
+          "description": "英国财政大臣里希·苏纳克5月28日呼吁七国集团（G7）继续共同努力，确保全球经济实现绿色和可持续复苏。G7贸易部长会议同日发表联合公报说，将致力于推动全球贸易从新冠疫情中复苏。苏纳克在当天结束的G7财长和央行行长视频会议上说，G7应确保在经济和金融政策中优先考虑应对气候变化，确保全球金融市场在向净零排放过渡中发挥作用，如改善与气候相关的财务信息披露等。G7贸易部长视频会议也于当天结束。各方在会后发表的联合公报中说，将致力于继续共同努力，推动全球贸易向前发展，以支持全球从疫情中复苏。各方同意推进贸易和环境、贸易和健康以及数字贸易等关键问题，确保全球贸易成为包容性经济增长的引擎。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1982465",
+          "publishedOn": "2021-05-28T22:29:31.000Z",
+          "wordCount": 142,
+          "title": "英国财政大臣里希·苏纳克5月28日呼吁七国集团（G7）继续共同努力，确保全球经济实现绿色和可持续复苏。G7贸易部长会议同日发表联合公报说，将致力于推动全球贸..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982464",
+          "author": null,
+          "description": "据东方财富Choice数据梳理发现，年内已有199家上市公司实施定增，累计募资总额为3332.67亿元。同时，对于上市公司定增，券商的参与积极性大幅提高，目前已认购金额244.54亿元，占年内A股上市公司已实施定增募资总额的7.34%。粤开证券首席策略分析师、行业组负责人陈梦洁表示，未来定增市场仍将是资金长期配置股票市场的重要方式，但短期内资金大幅进场的概率较小，定增市场大概率仍将保持供大于求的状态。目前新兴产业的再融资意愿明显增强，在高折价率背景下，定增市场收益率仍将较为可观。（证券日报）",
+          "link": "https://wallstreetcn.com/livenews/1982464",
+          "publishedOn": "2021-05-28T22:26:50.000Z",
+          "wordCount": 142,
+          "title": "据东方财富Choice数据梳理发现，年内已有199家上市公司实施定增，累计募资总额为3332.67亿元。同时，对于上市公司定增，券商的参与积极性大幅提高，目前已认购金..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982463",
+          "author": null,
+          "description": "周五（5月28日）纽约尾盘，CBOT玉米期货跌1.28%，报6.56美元/蒲式耳，本周累跌约0.42%，5月份累跌约2.56%。\nCBOT小麦期货跌1.56%，报6.63-3/4美元/蒲式耳，本周累跌约1.70%，5月份累跌约11.74%。\nCBOT大豆期货跌0.60%，报15.28-3/4美元/蒲式耳，本周累涨约0.28%，5月份累跌约0.46%。\nCBOT软木期货跌1.47%，报1303.50美元/1000板英尺，本周累跌约10.29%，5月份累跌约5.30%。",
+          "link": "https://wallstreetcn.com/livenews/1982463",
+          "publishedOn": "2021-05-28T22:22:47.000Z",
+          "wordCount": 147,
+          "title": "周五（5月28日）纽约尾盘，CBOT玉米期货跌1.28%，报6.56美元/蒲式耳，本周累跌约0.42%，5月份累跌约2.56%。\nCBOT小麦期货跌1.56%，报6.63-3/4美元/蒲式耳，本周..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982462",
+          "author": null,
+          "description": "Lefteris Acquisition将重新发布2020年业绩报告，此前美国证券交易委员会（SEC）针对特殊目的收购公司（SPAC）领域发布新版财务审计指导原则。",
+          "link": "https://wallstreetcn.com/livenews/1982462",
+          "publishedOn": "2021-05-28T22:01:56.000Z",
+          "wordCount": 143,
+          "title": "Lefteris Acquisition将重新发布2020年业绩报告，此前美国证券交易委员会（SEC）针对特殊目的收购公司（SPAC）领域发布新版财务审计指导原则。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982460",
+          "author": null,
+          "description": "周五（5月28）纽约尾盘，CME比特币期货BTC主力合约报35340美元，较周四纽约尾盘跌9.07%，盘中交投于39200-35150美元区间，本周累涨2.27%，5月份迄今已累跌约38.37%。\nCME以太币期货DCR主力合约报2435.00美元，较周四跌13.10%，盘中交投于2810.00-2435.00美元区间，本周累涨2.11%，5月份迄今累跌约13.87%。",
+          "link": "https://wallstreetcn.com/livenews/1982460",
+          "publishedOn": "2021-05-28T21:55:20.000Z",
+          "wordCount": 143,
+          "title": "周五（5月28）纽约尾盘，CME比特币期货BTC主力合约报35340美元，较周四纽约尾盘跌9.07%，盘中交投于39200-35150美元区间，本周累涨2.27%，5月份迄今已累跌约38.3..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982459",
+          "author": null,
+          "description": "离岸人民币（CNH）兑美元北京时间04:59报6.3603元，较周四纽约尾盘涨129点，盘中整体交投于6.3813-6.3588元区间，于在岸人民币白天收盘前后，继续录得2018年5月23日以来盘中最高位。",
+          "link": "https://wallstreetcn.com/livenews/1982459",
+          "publishedOn": "2021-05-28T21:51:43.000Z",
+          "wordCount": 141,
+          "title": "离岸人民币（CNH）兑美元北京时间04:59报6.3603元，较周四纽约尾盘涨129点，盘中整体交投于6.3813-6.3588元区间，于在岸人民币白天收盘前后，继续录得2018年5月2..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982458",
+          "author": null,
+          "description": "东方财富Choice数据显示，截至5月28日，年内地方债发行24670.42亿元，同比下降18.1%。其中，新增债券发行8672亿元，同比下降66%，再融资债券发行15998.26亿元，同比上涨243.4%。进入5月份，新增地方债发行逐渐增多，截至5月28日，当月地方债发行7961亿元，同比下降28.6%。专家预计，6月份地方债发行将有所加快，叠加6月中旬缴税影响，可能会导致资金面有所收紧，但不会对流动性产生明显冲击。（证券日报）",
+          "link": "https://wallstreetcn.com/livenews/1982458",
+          "publishedOn": "2021-05-28T21:51:22.000Z",
+          "wordCount": 142,
+          "title": "东方财富Choice数据显示，截至5月28日，年内地方债发行24670.42亿元，同比下降18.1%。其中，新增债券发行8672亿元，同比下降66%，再融资债券发行15998.26亿元，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982457",
+          "author": null,
+          "description": "从资金面来看，5月末流动性有小幅收紧。东方金诚首席宏观分析师王青表示，预计6月份新增地方政府专项债发行量有可能达到7000亿元至8000亿元左右的规模，对市场流动性的“抽水”效应会有所体现。因此，6月份资金面边际收紧的概率更高一些，但市场利率出现大幅波动的可能性很小。“考虑到未来一段时间新增地方政府专项债发行将会进入高峰期，加之PPI上行也可能推高资金面收紧预期。”王青预计，若年中前后市场利率出现较快上行势头，央行可能加大每日逆回购操作规模，必要时还可能通过加量续作MLF等方式予以对冲。（证券日报）",
+          "link": "https://wallstreetcn.com/livenews/1982457",
+          "publishedOn": "2021-05-28T21:48:21.000Z",
+          "wordCount": 142,
+          "title": "从资金面来看，5月末流动性有小幅收紧。东方金诚首席宏观分析师王青表示，预计6月份新增地方政府专项债发行量有可能达到7000亿元至8000亿元左右的规模，对市场流..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982456",
+          "author": null,
+          "description": "5月28日，人民币对美元汇率中间价报6.3858，这一中间价较2020年5月29日的7.1316上涨11.7%。人民币对美元汇率真的处于“抢跑”状态吗？答案是否定的。首先，人民币对美元汇率现在的中间价，只是回到了3年前的正常水平。其次，人民币对美元汇率现在的走势，是中国经济实力的真实反映。第三，保持人民币汇率在合理均衡水平上的基本稳定的目标不会改变。所以，保持人民币汇率在合理均衡水平上的基本稳定就是当前的最优选择。",
+          "link": "https://wallstreetcn.com/livenews/1982456",
+          "publishedOn": "2021-05-28T21:45:44.000Z",
+          "wordCount": 142,
+          "title": "5月28日，人民币对美元汇率中间价报6.3858，这一中间价较2020年5月29日的7.1316上涨11.7%。人民币对美元汇率真的处于“抢跑”状态吗？答案是否定的。首先，人民..."
+        },
+        {
           "id": "https://wallstreetcn.com/livenews/1982454",
           "author": null,
           "description": "投行执业质量不仅是注册制改革能否成功的关键因素，更决定证券公司未来是否会因此承担巨额民事赔偿。证券公司需从四方面强化风险管控：一是提高从业人员的合规意识，强化风控措施，发挥对投行业务的制衡作用，项目要能经得起历史考验；二是注重长远利益，莫为冲业务规模而漠视风险，把好立项入口关；三是优化对投行从业人员的管理方式，通过制度建设来控制投行业务人员的道德风险；四是督促投行从业者提升职业素养，树立责任意识，充分核查发行人相关事项。",
@@ -8477,6 +8720,15 @@
           "publishedOn": "2021-05-28T20:13:28.000Z",
           "wordCount": 125,
           "title": "据悉，美联储已经私下里告诉德意志银行称，该行的合规计划不合格，暗示这家银行未能遵守以往与美国监管机构达成的多项协议。美联储最近的警告源于年度监管评估，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1982419",
+          "author": null,
+          "description": "加拿大标普/TSX指数收涨0.39%，报19852.18点，连续第四个交易日创收盘历史新高，本周累涨1.58%，5月迄今累涨约3.89%，势必录得连续第四个月上涨。",
+          "link": "https://wallstreetcn.com/livenews/1982419",
+          "publishedOn": "2021-05-28T20:12:01.000Z",
+          "wordCount": 141,
+          "title": "加拿大标普/TSX指数收涨0.39%，报19852.18点，连续第四个交易日创收盘历史新高，本周累涨1.58%，5月迄今累涨约3.89%，势必录得连续第四个月上涨。"
         },
         {
           "id": "https://wallstreetcn.com/livenews/1982414",
