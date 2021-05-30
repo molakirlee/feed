@@ -424,7 +424,7 @@
     {
       "title": "Latest News from Science Magazine",
       "feedUrl": "https://www.sciencemag.org/rss/news_current.xml",
-      "siteUrl": "http://www.sciencemag.org/rss/news_current.xml",
+      "siteUrl": "http://ssl/rss/news_current.xml",
       "articles": [
         {
           "id": "https://www.sciencemag.org/news/2021/05/plan-new-us-health-agency-speed-treatments-takes-shape-doubts-remain?rss=1",
