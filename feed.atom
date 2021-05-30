@@ -2,10 +2,499 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T04:43:19.700Z</updated>
+    <updated>2021-05-30T10:44:41.069Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上海电气公告，公司控股子公司通讯公司应收账款普遍逾期，存在大额应收账款无法收回的风险。截至公告日，通讯公司应收账款余额为86.72亿元，账面存货余额为22.30...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982606</id>
+        <link href="https://wallstreetcn.com/livenews/1982606"/>
+        <updated>2021-05-30T10:26:52.000Z</updated>
+        <summary type="html"><![CDATA[上海电气公告，公司控股子公司通讯公司应收账款普遍逾期，存在大额应收账款无法收回的风险。截至公告日，通讯公司应收账款余额为86.72亿元，账面存货余额为22.30亿元，通讯公司在商业银行的借款余额为12.52亿元，公司向通讯公司提供的股东借款金额合计为77.66亿元，均存在重大损失风险。上述风险事项对公司本期利润或期后利润将产生重大不利影响，公司正全力以赴处置前述风险事项。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爆款重现！下周56只新基金“趁热打铁”，多位明星“中生代集结出征]]></title>
+        <id>3631628</id>
+        <link href="https://wallstreetcn.com/articles/3631628"/>
+        <updated>2021-05-30T10:23:40.000Z</updated>
+        <summary type="html"><![CDATA[首批REITs同时推出]]></summary>
+        <author>
+            <name>王小康</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广发戴康：汇率焦点，如何影响A股？]]></title>
+        <id>3631626</id>
+        <link href="https://wallstreetcn.com/articles/3631626"/>
+        <updated>2021-05-30T10:23:18.000Z</updated>
+        <summary type="html"><![CDATA[广发戴康认为，人民币升值预期较强阶段，外资定价对于A股板块表现的重要性提升，市场优先配置“人少+逻辑改善”的方向，建议新增关注升值区间内外资流入受益的金融板块。]]></summary>
+        <author>
+            <name>涂子君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国能源部相关数据显示，美国在2020年10月和今年3月从伊朗进口了石油，这是1991年后的首次。而伊朗方面就此回应说，伊朗官方没有这方面的消息。美国能源部能源...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982605</id>
+        <link href="https://wallstreetcn.com/livenews/1982605"/>
+        <updated>2021-05-30T10:18:18.000Z</updated>
+        <summary type="html"><![CDATA[美国能源部相关数据显示，美国在2020年10月和今年3月从伊朗进口了石油，这是1991年后的首次。而伊朗方面就此回应说，伊朗官方没有这方面的消息。美国能源部能源信息署局的数据显示，今年3月，美国从伊朗进口了103.3万桶原油和石油产品。此前，在2020年10月的进口量为111.1万桶。这是自1991年美国停止进口伊朗石油以来的首次。据俄罗斯卫星网5月29日报道，伊朗石油部发言人卡斯利·努里对此表示，该部并不掌握关于美国进口伊朗石油的数据，伊朗官方没有这方面的数据，无法证实这一消息。他还说，伊朗石油部也不掌握关于美国通过第三国进口伊朗石油的数据。卡斯利·努里还指出，这一信息并不合理，因为美国自身正在对伊朗实施制裁。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渐行渐近的Taper]]></title>
+        <id>3631621</id>
+        <link href="https://api.wallstcn.com/redirect?target_article_id=3631621&amp;read_model=false&amp;target_uri=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNzMzODYyNg%3D%3D%26mid%3D2650422764%26idx%3D2%26sn%3D725fafd0322a846c12bd90d99d16e436%26chksm%3D83713201b406bb17b9ef92bf7f103b3c80fae857b92fa5329e5752204bc6fe8cdafc97fbc55a%26scene%3D0%26xtrack%3D1"/>
+        <updated>2021-05-30T10:02:39.000Z</updated>
+        <summary type="html"><![CDATA[中金陈健恒团队认为，目前十年美债收益率位置与2013年5月初较为接近，若参考2013年美联储Taper经验，不排除6月议息会议上美联储改变口风，开始考虑Taper，十年美债收益率也会由目前1.6%的水平持续上行突破2%甚至更高的水平。]]></summary>
+        <author>
+            <name>涂子君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马来西亚政府宣布，允许18个经济领域在新冠肺炎疫情爆发期间复工复产，其中包括电子商务。
+制造业的12个界别小组可以按60%的产能运作。
+个人防护用品（PPE）品类...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982602</id>
+        <link href="https://wallstreetcn.com/livenews/1982602"/>
+        <updated>2021-05-30T09:44:32.000Z</updated>
+        <summary type="html"><![CDATA[马来西亚政府宣布，允许18个经济领域在新冠肺炎疫情爆发期间复工复产，其中包括电子商务。
+制造业的12个界别小组可以按60%的产能运作。
+个人防护用品（PPE）品类生产商也可以按60%的产能运作。
+防长Ismail Sabri Yaakob介绍称，飞机零部件和包装领域可以在疫情期间运行。
+除航空、食品饮料、清洁产品等特定行业外，所有其他制造业部门将在全面封锁期间关闭。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疲软开局，持续走弱的美元对美股意味着什么？]]></title>
+        <id>3631623</id>
+        <link href="https://wallstreetcn.com/articles/3631623"/>
+        <updated>2021-05-30T09:36:11.000Z</updated>
+        <summary type="html"><![CDATA[今年4月以来，美元指数持续走弱，截至目前已经接近2014年以来的最低水平。有分析认为，如果美元指数跌破90关口，并在2021年下半年持续向80这一关口趋近，那么将对美股产生重大影响。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安信策略陈果团队认为，当前美联储显著鸽派的背景下，全球股市估值容忍度上升，加之A股风险偏好处于有利窗口期，使得A股短期有一个向上波段。从结构上看，市场呈...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982601</id>
+        <link href="https://wallstreetcn.com/livenews/1982601"/>
+        <updated>2021-05-30T09:03:01.000Z</updated>
+        <summary type="html"><![CDATA[安信策略陈果团队认为，当前美联储显著鸽派的背景下，全球股市估值容忍度上升，加之A股风险偏好处于有利窗口期，使得A股短期有一个向上波段。从结构上看，市场呈现一定轮动特征，周期率先启动也率先调整，随后消费走强，近期呈现券商、军工、半导体及科技股接力特征。下一阶段，由于流动性环境和风险偏好因素整体依然是有利支持，成长扩散可能继续，关注补涨品种和中报强预期品种。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行主管媒体评论：未来可能推动人民币贬值的四大因素不能忽视]]></title>
+        <id>3631622</id>
+        <link href="https://wallstreetcn.com/articles/3631622"/>
+        <updated>2021-05-30T08:52:54.000Z</updated>
+        <summary type="html"><![CDATA[中国《金融时报》发布评论员文章指出，未来可能推动人民币贬值的四大因素分别是美联储退出量化宽松货币政策、美国经济强劲复苏带动美元走强、全球疫情逐渐得到控制和供给能力恢复和美国资产泡沫可能破裂，全球避险情绪升温。]]></summary>
+        <author>
+            <name>田晓艳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国《金融时报》发布评论员文章指出，近期人民币汇率有所升值。往前看，既有支持人民币升值的因素，也有支持人民币贬值的因素。未来可能推动人民币贬值的四大因...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982600</id>
+        <link href="https://wallstreetcn.com/livenews/1982600"/>
+        <updated>2021-05-30T08:52:54.000Z</updated>
+        <summary type="html"><![CDATA[中国《金融时报》发布评论员文章指出，近期人民币汇率有所升值。往前看，既有支持人民币升值的因素，也有支持人民币贬值的因素。未来可能推动人民币贬值的四大因素分别是美联储退出量化宽松货币政策、美国经济强劲复苏带动美元走强、全球疫情逐渐得到控制和供给能力恢复和美国资产泡沫可能破裂，全球避险情绪升温。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国立科技公告，公司收到广东省微生物分析检测中心出具的《生物降解吹膜料分析检测报告》，公司提供的生物降解吹膜料在第180天实验结束时的生物分解率为69.3%，相...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982599</id>
+        <link href="https://wallstreetcn.com/livenews/1982599"/>
+        <updated>2021-05-30T08:36:56.000Z</updated>
+        <summary type="html"><![CDATA[国立科技公告，公司收到广东省微生物分析检测中心出具的《生物降解吹膜料分析检测报告》，公司提供的生物降解吹膜料在第180天实验结束时的生物分解率为69.3%，相对生物分解率为81%。经检验，该样品所检项目的检测结果符合《降解塑料的定义、分类、标志和降解性能要求》（GB/T20197-2006）中降解性能“生物分解率≥60%”的要求。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在今天下午召开的广州疫情防控新闻发布会上，广州市卫健委副主任陈斌通报，为迅速切断病毒传播途径，广州市疫情防控指挥部决定，5月30日开始，在荔湾区继续组织...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982598</id>
+        <link href="https://wallstreetcn.com/livenews/1982598"/>
+        <updated>2021-05-30T08:36:00.000Z</updated>
+        <summary type="html"><![CDATA[在今天下午召开的广州疫情防控新闻发布会上，广州市卫健委副主任陈斌通报，为迅速切断病毒传播途径，广州市疫情防控指挥部决定，5月30日开始，在荔湾区继续组织核酸筛查的基础上，进一步扩大全员核酸检测范围，区域覆盖到越秀区、海珠区全域，以及天河区、白云区、番禺区的重点区域。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天下午召开的广州疫情防控新闻发布会上，广州市卫健委副主任陈斌通报，截至5月29日0时，广州第一轮核酸扩大排查现场采样工作基本结束，累计检测225.26万人次，...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982597</id>
+        <link href="https://wallstreetcn.com/livenews/1982597"/>
+        <updated>2021-05-30T08:30:32.000Z</updated>
+        <summary type="html"><![CDATA[今天下午召开的广州疫情防控新闻发布会上，广州市卫健委副主任陈斌通报，截至5月29日0时，广州第一轮核酸扩大排查现场采样工作基本结束，累计检测225.26万人次，截止到今日14时，此轮排查中共发现感染者20人，其中无症状感染者19人，确诊病例1人。21日以来感染者中已检测的基因测序结果高度同源，均为传播速度极快的印度发现的新冠病毒变异株。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海通策略：人民币升值助力牛市重建]]></title>
+        <id>3631618</id>
+        <link href="https://wallstreetcn.com/articles/3631618"/>
+        <updated>2021-05-30T08:28:13.000Z</updated>
+        <summary type="html"><![CDATA[荀玉根团队认为，人民币升值本质上源于中国贸易顺差较大，升值有助于缓解原材料成本压力，强化外资流入趋势。春节后市场调整源于通胀担忧，目前担忧渐弱，企业盈利扩张支撑市场向上，牛市重建中。]]></summary>
+        <author>
+            <name>涂子君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兴民智通披露重大资产重组预案，公司拟发行股份购买环渤海正宏、新余赛禾持有的中科信维50.29%股权，中科信维50.29%股权初步作价11.06亿元。公司拟向控股股东青...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982596</id>
+        <link href="https://wallstreetcn.com/livenews/1982596"/>
+        <updated>2021-05-30T08:23:54.000Z</updated>
+        <summary type="html"><![CDATA[兴民智通披露重大资产重组预案，公司拟发行股份购买环渤海正宏、新余赛禾持有的中科信维50.29%股权，中科信维50.29%股权初步作价11.06亿元。公司拟向控股股东青岛创疆非公开发行股份募集配套资金不超过9.23亿元，募集配套资金发行股份数量不超过1.86亿股。经公司向深圳证券交易所申请，公司股票自2021年5月31日（星期一）上午开市起复牌。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺力股份公告，近日，公司全资子公司中鼎集成与福鼎时代签订了多份合同，合同内容为中鼎集成向宁德时代提供自动化成测试物流系统，合同总金额为2.29亿元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982595</id>
+        <link href="https://wallstreetcn.com/livenews/1982595"/>
+        <updated>2021-05-30T08:11:47.000Z</updated>
+        <summary type="html"><![CDATA[诺力股份公告，近日，公司全资子公司中鼎集成与福鼎时代签订了多份合同，合同内容为中鼎集成向宁德时代提供自动化成测试物流系统，合同总金额为2.29亿元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盛松成：人民币快速升值不可持续]]></title>
+        <id>3631620</id>
+        <link href="https://wallstreetcn.com/articles/3631620"/>
+        <updated>2021-05-30T08:07:48.000Z</updated>
+        <summary type="html"><![CDATA[中国央行调查统计司原司长盛松成认为，当前人民币过快升值有可能已经出现超调，未来看不可持续，也不符合国内外经济金融形势。]]></summary>
+        <author>
+            <name>新华社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行前官员盛松成：人民币快速升值不可持续]]></title>
+        <id>https://wallstreetcn.com/livenews/1982594</id>
+        <link href="https://wallstreetcn.com/livenews/1982594"/>
+        <updated>2021-05-30T08:07:48.000Z</updated>
+        <summary type="html"><![CDATA[【央行前官员盛松成：人民币快速升值不可持续】中国人民银行调查统计司原司长盛松成认为，当前人民币过快升值有可能已经出现超调，未来看不可持续，也不符合国内外经济金融形势。首先，美国经济下半年有望出现全面反弹，美元或随之走强。其次，人民币汇率升值无法抵消大宗商品价格的上涨，不能成为工具。再次，人民币汇率超调是短期投机行为，不可持续。我国坚持对外开放，鼓励长期资金投资，但要防止短期资金大量流入，推高人民币汇率，削弱出口企业竞争力，扰乱我国金融市场和货币政策的独立施行。 (新华社)]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弱美元：何时“逆袭”？]]></title>
+        <id>3631617</id>
+        <link href="https://wallstreetcn.com/articles/3631617"/>
+        <updated>2021-05-30T07:55:43.000Z</updated>
+        <summary type="html"><![CDATA[海通宏观梁中华认为，一旦经济复苏预期再度转强，或者美联储释放偏鹰派信号，美元或再度开启“逆袭”之路。目前看，美国多个州已经开始了奖励疫苗接种的计划，欧洲的疫苗接种近几日有所放缓，资产上的转变或已临近。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本东京新增448例新冠肺炎确诊病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982593</id>
+        <link href="https://wallstreetcn.com/livenews/1982593"/>
+        <updated>2021-05-30T07:51:58.000Z</updated>
+        <summary type="html"><![CDATA[日本东京新增448例新冠肺炎确诊病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙商宏观李超团队认为，拜登的“宽支出”并非“宽财政”，支出规模扩张以增税为基础，长期来看不会令美国债务规模失速增长。一揽子计划可能在生效后的短期内抬升...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982592</id>
+        <link href="https://wallstreetcn.com/livenews/1982592"/>
+        <updated>2021-05-30T07:38:30.000Z</updated>
+        <summary type="html"><![CDATA[浙商宏观李超团队认为，拜登的“宽支出”并非“宽财政”，支出规模扩张以增税为基础，长期来看不会令美国债务规模失速增长。一揽子计划可能在生效后的短期内抬升美国的通胀中枢，但对经济的拉动作用存疑。综合考虑方案规模与立法进程对年内资产价格节奏的影响有限，长期看对美联储购债规模诉求同样有限。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚洲开发银行能源部总监翟永平在国际金融论坛（IFF）2021春季会议上表示，实现碳中和需要三个创新，分别是技术创新、商务模式创新和金融创新。翟永平认为金融创...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982591</id>
+        <link href="https://wallstreetcn.com/livenews/1982591"/>
+        <updated>2021-05-30T07:29:32.000Z</updated>
+        <summary type="html"><![CDATA[亚洲开发银行能源部总监翟永平在国际金融论坛（IFF）2021春季会议上表示，实现碳中和需要三个创新，分别是技术创新、商务模式创新和金融创新。翟永平认为金融创新才能支持未来的50%的新技术，这些技术需要非常长期的投入，它目前来看是低回报的，而且是高风险的，金融机构需要改变运营逻辑。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙商证券：科创板将成为本轮牛市续航发动机]]></title>
+        <id>3631616</id>
+        <link href="https://wallstreetcn.com/articles/3631616"/>
+        <updated>2021-05-30T07:06:24.000Z</updated>
+        <summary type="html"><![CDATA[浙商策略认为，主导产业崛起是牛市的决定要素。应用类产业将是牛市续航的发动机，即以科创板为代表的To B数字化产业将带动A股步入牛市新阶段。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家卫健委：截至2021年5月29日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗62097.4万剂次。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982590</id>
+        <link href="https://wallstreetcn.com/livenews/1982590"/>
+        <updated>2021-05-30T07:01:51.000Z</updated>
+        <summary type="html"><![CDATA[国家卫健委：截至2021年5月29日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗62097.4万剂次。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我闻到的是火药味吗？Chrome/Edge 91 稳定版亮点汇总]]></title>
+        <id>https://sspai.com/post/66928</id>
+        <link href="https://sspai.com/post/66928"/>
+        <updated>2021-05-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作为用户，Chromium Edge 崛起后我们在 Edge 与 Chrome 的激烈竞争中尝到了甜头。转眼又到了每月一次的更新环节，这次 Edge 和 Chrome 又分别为我们带来了哪些新功能呢？
+不妨跟随本文一起来看一看。
+Edge 91
+Windows 10 上性能最好的浏览器
+今年的微软 Build 大会刚刚落幕，微软就在一篇针对 Edge 浏览器的新技术总结 博文 中毫不谦虚地宣布说：
+
+Edge 91 将会是 Windows 10 上性能表现最好的浏览器。
+
+这么自信的原因主要有两点，其实都算不上是本次更新才加入的新功能：启动增强和标签页休眠。
+启动增强将 Edge 浏览器的部分进程事先「缓存」，以此加快浏览器启动和第三方应用链接跳转的打开速度，有些取巧但又着实有效，在「浏览器设置 > 系统」中开启后，应该可以明显感受到浏览器在响应速度上的提升。
+标签页休眠则通过对不活动标签页进行休眠的方式来回收系统资源，相比 Chrome 还提供了视觉样式反馈开关、休眠前闲置时长、休眠白名单等自定义设置，对于续航比较敏感的笔记本设备而言十分有用。
+
+人性化的浏览器外观定制
+此前如果你想改变 Edge 的主题外观，只能像 Chrome 浏览器那样通过扩展商店像安装扩展那样进行安装，并且一次只能使用一个主题，每次更换主题都得前往商店重新安装一次，还是挺麻烦的。
+而在 Edge 91 中我们这些「爱面子」的用户终于有了一种更人性化的浏览器定制方式，在「浏览器设置 > 外观」中，微软为我们准备包含整体外观（明暗）和主题在内的全新自定义功能。
+
+除了对深色、浅色界面进行设置外，Edge 91 还内置了 15 种不同的主题配色可供选取，主题配色主要影响浏览器标题栏、地址栏、工具栏和收藏夹栏，支持一键切换、实时应用，相比以往的 Edge 和现在的 Chrome 要方便不少。另外这里也提供…]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海通宏观梁中华认为，美元近期偏弱主因疫苗接种放缓。一旦经济复苏预期再度转强，或者美联储释放偏鹰派信号，美元或再度开启“逆袭”之路，4月以来的汇率、利率...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982589</id>
+        <link href="https://wallstreetcn.com/livenews/1982589"/>
+        <updated>2021-05-30T06:59:15.000Z</updated>
+        <summary type="html"><![CDATA[海通宏观梁中华认为，美元近期偏弱主因疫苗接种放缓。一旦经济复苏预期再度转强，或者美联储释放偏鹰派信号，美元或再度开启“逆袭”之路，4月以来的汇率、利率、黄金、长久期资产的走势或再度逆转。目前看，美国多个州已经开始了奖励疫苗接种的计划，欧洲的疫苗接种近几日有所放缓，资产上的转变或已临近。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越南政府收紧了胡志明市的社交距离限制措施。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982588</id>
+        <link href="https://wallstreetcn.com/livenews/1982588"/>
+        <updated>2021-05-30T06:57:42.000Z</updated>
+        <summary type="html"><![CDATA[越南政府收紧了胡志明市的社交距离限制措施。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海通策略团队荀玉根、李影认为，最近一周市场最大的变化就是在震荡磨底2个多月后，市场出现了向上突破的迹象，这或与近期人民币升值有关。5月25日美元兑人民币汇...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982587</id>
+        <link href="https://wallstreetcn.com/livenews/1982587"/>
+        <updated>2021-05-30T06:53:14.000Z</updated>
+        <summary type="html"><![CDATA[海通策略团队荀玉根、李影认为，最近一周市场最大的变化就是在震荡磨底2个多月后，市场出现了向上突破的迹象，这或与近期人民币升值有关。5月25日美元兑人民币汇率快速向上突破至6.4，创近3年以来历史新高，人民币升值吸引外资加速流入A股，这有利于市场重拾信心，助力牛市重建。人民币升值本质上源于中国贸易顺差较大，升值有助于缓解原材料成本压力，强化外资流入趋势。春节后市场调整源于通胀担忧，目前担忧渐弱，企业盈利扩张支撑市场向上，牛市重建中。以茅指数为代表的各行业龙头优质公司仍是较好配置，守正。盈利增长较快、顺应政策方向的智能制造有弹性，出奇。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通胀恐慌加剧 美联储官员们态度大转弯：可能要讨论缩减QE了！]]></title>
+        <id>3631615</id>
+        <link href="https://wallstreetcn.com/articles/3631615"/>
+        <updated>2021-05-30T06:17:20.000Z</updated>
+        <summary type="html"><![CDATA[随着通胀数据大幅超出预期，尽管美联储认为通胀是暂时的，但是他们现在也开始怀疑，劳动力供给方面的缓慢反应是否可能导致连续数个季度的高通胀数据，并开始影响消费者心理。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾地区流行疫情指挥中心今日（30日）公布，台湾新增266例本土病例，另有所谓“校正回归”本土病例89例，总计355例。确诊病例中新增11例死亡。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982586</id>
+        <link href="https://wallstreetcn.com/livenews/1982586"/>
+        <updated>2021-05-30T06:13:36.000Z</updated>
+        <summary type="html"><![CDATA[台湾地区流行疫情指挥中心今日（30日）公布，台湾新增266例本土病例，另有所谓“校正回归”本土病例89例，总计355例。确诊病例中新增11例死亡。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西省日前出台《关于加快中医药特色发展的若干措施》。若干措施指出，要认真总结中医药防治新冠肺炎经验做法，着力破解当前江西省中医药发展存在的问题，更好地...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982585</id>
+        <link href="https://wallstreetcn.com/livenews/1982585"/>
+        <updated>2021-05-30T05:57:07.000Z</updated>
+        <summary type="html"><![CDATA[江西省日前出台《关于加快中医药特色发展的若干措施》。若干措施指出，要认真总结中医药防治新冠肺炎经验做法，着力破解当前江西省中医药发展存在的问题，更好地发挥中医药特色与优势，推动中西医相互补充、协调发展。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西班牙交通部当地时间29日说，鉴于当前欧洲新冠疫情有所缓解，将于6月7日起允许国际邮轮重新进入西班牙港口。不过，邮轮必须满足多项严格的卫生要求，具体细节将...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982584</id>
+        <link href="https://wallstreetcn.com/livenews/1982584"/>
+        <updated>2021-05-30T05:23:02.000Z</updated>
+        <summary type="html"><![CDATA[西班牙交通部当地时间29日说，鉴于当前欧洲新冠疫情有所缓解，将于6月7日起允许国际邮轮重新进入西班牙港口。不过，邮轮必须满足多项严格的卫生要求，具体细节将很快公布。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社科院张明：通货膨胀不会成为中国央行改变货币政策方向的主要驱动力]]></title>
+        <id>3631614</id>
+        <link href="https://wallstreetcn.com/articles/3631614"/>
+        <updated>2021-05-30T05:16:49.000Z</updated>
+        <summary type="html"><![CDATA[疫后经济复苏具有不充分、不平衡特征，财政政策会显著收紧，地方债风险不断暴露、违约事件频发，这几点决定了货币政策正常化一定要谨慎处理，不宜过快收紧。]]></summary>
+        <author>
+            <name>张明</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份内部备忘录显示，华为创始人任正非呼吁公司员工“敢于在软件领域引领世界”，该领域具有“更大的独立性和自主性”，公司正寻求在硬件业务以外的增长。备忘录...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982583</id>
+        <link href="https://wallstreetcn.com/livenews/1982583"/>
+        <updated>2021-05-30T04:53:45.000Z</updated>
+        <summary type="html"><![CDATA[一份内部备忘录显示，华为创始人任正非呼吁公司员工“敢于在软件领域引领世界”，该领域具有“更大的独立性和自主性”，公司正寻求在硬件业务以外的增长。备忘录称，由于受到外部限制，华为很难在短期内生产先进硬件，应该专注于构建软件生态系统，如鸿蒙操作系统、全场景AI计算框架Mindspore和其他IT产品。备忘录还建议软件团队聘请专业心理人士提升青年员工心智成熟。(界面）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点今年亚洲股市前三强：散户功不可没]]></title>
+        <id>3631613</id>
+        <link href="https://wallstreetcn.com/articles/3631613"/>
+        <updated>2021-05-30T04:29:37.000Z</updated>
+        <summary type="html"><![CDATA[美国散户割机构韭菜成为今年年初的市场热点，但回看今年以来亚洲表现最强的三个股票市场，散户投资者也发挥着功不可没的作用。问题是，这股力量能持续下去吗？]]></summary>
+        <author>
+            <name>涂子君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度新增165553例新冠肺炎确诊病例，累计确诊超过2790万例，新增死亡病例3460例，累计死亡病例325972例。]]></title>
+        <id>https://wallstreetcn.com/livenews/1982582</id>
+        <link href="https://wallstreetcn.com/livenews/1982582"/>
+        <updated>2021-05-30T04:11:29.000Z</updated>
+        <summary type="html"><![CDATA[印度新增165553例新冠肺炎确诊病例，累计确诊超过2790万例，新增死亡病例3460例，累计死亡病例325972例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人机交互的三次革命（一）]]></title>
+        <id>https://sspai.com/post/66647</id>
+        <link href="https://sspai.com/post/66647"/>
+        <updated>2021-05-30T04:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+「第零次革命」与键盘的诞生
+从计算机诞生后，键盘的出现可以被认为是「第零次革命」，主要产物是命令行界面，命令行界面至今仍然是计算机的核心界面之一。
+一百多年前键盘诞生，如今键盘依然在发挥着古老又暂时无法替代的作用。
+B. Shneiderman 认为键盘是一种按键设备(正文输入设备)，为电脑提供用户输入的字符串流1。 经过多年研究改进， 现行计算机键盘不论是尺寸形状还是布局，都较为完善且基本不再变化2。
+常用键盘的基本形状是长方形，但这一形状不符合人体工程学标准，长方形增加了对手腕的压力，手腕长期以弯曲的姿势使用鼠标或键盘，会使得手腕酸痛，易得医学上所说的「腕管综合征」，这是一种对腕部的累积性伤害3。
+1972年，K. Kroemer 为了避免这种现象，提出了符合人体工程学的「K键盘」设计4，虽然符合人体工程学的键盘诞生了，但大多数键盘形状并没有被更改。
+微软 Surface Ergonomic Keyboard
+键盘的布局和基本形状一样，从1868年被 C. L. Sholes发明开始，从打字机沿用至键盘5，如今最为常用的「QWERTY」布局不再发生变化，但这一布局存在两大问题。
+
+打英文读物时，左右手负担比例为 57 : 43，左手工作量大于右手，对占多数的「右撇子」不利。
+频率较高的字母（「I」「S」「O」等）由小拇指或无名指敲击，不合理。
+
+虽说 1932 年就有改进的 Dvorak 键盘布局问世，但因「惯性」使然，「QWERTY」键盘依旧是最为普遍的布局6。
+Dvorak Keyboard
+命令行界面改进了键盘布局，增加…]]></summary>
+        <author>
+            <name>格物穷理</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙商证券王杨表示，目前科创板已经反转，步入牛市初期，科创板中批量出现的工业软件、物联网模组、机器人、AR或VR等新赛道整体具备高景气，将是牛市续航的发动机...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982581</id>
+        <link href="https://wallstreetcn.com/livenews/1982581"/>
+        <updated>2021-05-30T04:05:02.000Z</updated>
+        <summary type="html"><![CDATA[浙商证券王杨表示，目前科创板已经反转，步入牛市初期，科创板中批量出现的工业软件、物联网模组、机器人、AR或VR等新赛道整体具备高景气，将是牛市续航的发动机。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线教育「被教育」、鸿蒙要来了和 6 亿次的疫苗｜极客一周]]></title>
+        <id>https://www.geekpark.net/news/279081</id>
+        <link href="https://www.geekpark.net/news/279081"/>
+        <updated>2021-05-30T04:01:25.000Z</updated>
+        <summary type="html"><![CDATA[在线教育「被教育」
+据说消费领域有一个鄙视链，依次是女人、小孩、老人、狗，最后是男人，通常被用来嘲笑「男性消费者不如狗」。这个排行榜的作者毫无疑问是单身人士，因为只要有了小孩，「四脚吞金兽」的威力会让其重新思考这个榜单的排名坐次。
+即便能避开豪华月子中心和洋奶粉，等到小孩能说出完整句子的时候，教育就成为所有家庭最大的开支，没有之一。
+在村上春树「让天下少男少女流干红泪」的经典作品《挪威的森林》中，男女主人公渡边和绿子初次接头的「御茶水」，据说是东京的「海淀黄庄」，每到周末前来培训补课的学生摩肩擦踵，堪比秋叶原——在「教育内卷」这个话题上，日本韩国和老大哥中国一脉相承。
+即便不是因为疫情，中国在线教育竞争的激烈程度，也基本上只有当年的团购大战和共享单车大战能有一比。近两年，从 K12 到英语口语，在线教育公司融资动辄数亿美元起跳，最后大笔的融资变成线下和线上的广告，最后转化成一小部分用户，进入到在线教育公司的报表之中。
+而这样的白热化竞争，引来了监管层的一瓢凉水。本周，在监管进一步收紧教育培训行业之后，「假期不许开课」、「禁止上市和广告」等传言曝光于网络，教育培训上市公司股价应声下跌。
+与此同时，多家头部在线教育公司传出大幅裁员消息。年初某家英语口语教育公司裁员 50%，即便有「冲刺上市」为理由，这种断肢式依然令行业惊心。而到现在，行业内的公司直恨自己刀法太慢，断肢断的不够早。
+5 月 26 日，高途集团创始人、CEO 陈向东在第一季财报的电话会中透露，「投放带来巨大的流量增长不再适用于教培行业」，未来的重心是运营。
+就在几天后，高途裁撤启蒙教育近千人团队。
+在内部信中，陈向东分析认为，即将实行的《中华人民共和国未成年人保护法》中，明确指出「幼儿园、校外培训机构不得对学龄前未成年人进行小学课程教育。」这意味着所有做 3 岁-6 岁启蒙教育的团队，在 6 月 1 日之后，干的事…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据广州市卫健委通报，2021年5月29日0时至24时，广州新增无症状感染者16例，其中境内12例、境外输入4例。截至目前，上述12例本土无症状感染者共甄别119名密切接触...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982580</id>
+        <link href="https://wallstreetcn.com/livenews/1982580"/>
+        <updated>2021-05-30T03:52:30.000Z</updated>
+        <summary type="html"><![CDATA[据广州市卫健委通报，2021年5月29日0时至24时，广州新增无症状感染者16例，其中境内12例、境外输入4例。截至目前，上述12例本土无症状感染者共甄别119名密切接触者，并已按有关规定进行集中隔离医学观察，所涉及的相关居住场所和活动场所均已进行终末消毒。（北京日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据广州市卫健委通报，2021年5月29日0时至24时，广州新增无症状感染者16例，其中境内12例、境外输入4例。截至目前，上述12例本土无症状感染者共甄别119名密切接触...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982579</id>
+        <link href="https://wallstreetcn.com/livenews/1982579"/>
+        <updated>2021-05-30T03:48:57.000Z</updated>
+        <summary type="html"><![CDATA[据广州市卫健委通报，2021年5月29日0时至24时，广州新增无症状感染者16例，其中境内12例、境外输入4例。截至目前，上述12例本土无症状感染者共甄别119名密切接触者，并已按有关规定进行集中隔离医学观察，所涉及的相关居住场所和活动场所均已进行终末消毒。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌拉圭公共卫生部近日发布的一项报告显示，在接种第二剂中国科兴新冠疫苗14天后，可以减少97%的新冠死亡病例。（新华社）]]></title>
+        <id>https://wallstreetcn.com/livenews/1982578</id>
+        <link href="https://wallstreetcn.com/livenews/1982578"/>
+        <updated>2021-05-30T03:29:10.000Z</updated>
+        <summary type="html"><![CDATA[乌拉圭公共卫生部近日发布的一项报告显示，在接种第二剂中国科兴新冠疫苗14天后，可以减少97%的新冠死亡病例。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中信证券分析师明明表示，我国出口高速增长推动人民币升值趋势，人民币对美元汇率或将突破6.2区间。黑色系商品稳定价格已经取得了明显的成效。但是油跟铜还面临...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982577</id>
+        <link href="https://wallstreetcn.com/livenews/1982577"/>
+        <updated>2021-05-30T03:22:01.000Z</updated>
+        <summary type="html"><![CDATA[中信证券分析师明明表示，我国出口高速增长推动人民币升值趋势，人民币对美元汇率或将突破6.2区间。黑色系商品稳定价格已经取得了明显的成效。但是油跟铜还面临比较大不确定性，可能二、三季度美国经济的复苏和美国经济的需求可能还是偏强的，可能会对于全球的大宗商品价格有一定的提振作用。（一财）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第四届全国青年企业家峰会于2021年5月30日在南京举行。蔚来汽车创始人、董事长、CEO李斌出席并演讲。李斌透露，截止4月底，在过去将近三年的时间里，蔚来已经交...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982576</id>
+        <link href="https://wallstreetcn.com/livenews/1982576"/>
+        <updated>2021-05-30T03:19:39.000Z</updated>
+        <summary type="html"><![CDATA[第四届全国青年企业家峰会于2021年5月30日在南京举行。蔚来汽车创始人、董事长、CEO李斌出席并演讲。李斌透露，截止4月底，在过去将近三年的时间里，蔚来已经交付了102803台车，平均售价是43.47万人民币。比宝马、奥迪的平均售价都高，比特斯拉中国的平均售价贵十几万，已经初步建立起了一个高端品牌。（新浪）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华社：多重禁令之下 电子烟商家仍在“围猎”青少年]]></title>
         <id>3631612</id>
@@ -17,6 +506,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新华社：多重禁令之下 电子烟商家仍在“围猎”青少年]]></title>
+        <id>https://wallstreetcn.com/livenews/1982575</id>
+        <link href="https://wallstreetcn.com/livenews/1982575"/>
+        <updated>2021-05-30T03:01:12.000Z</updated>
+        <summary type="html"><![CDATA[【新华社：多重禁令之下 电子烟商家仍在“围猎”青少年】5月26日国家卫生健康委发布的《中国吸烟危害健康报告2020》认为，使用电子烟可能更能致人抽上卷烟，这一现象在青少年中尤为明显。自2018年以来，国家发布了多个保护未成年人免受电子烟侵害的禁令。但记者调查发现，多重禁令之下，仍有商家变换招数“围猎”青少年。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[多快修复产能？市场紧盯下周OPEC+会议]]></title>
         <id>3631611</id>
         <link href="https://wallstreetcn.com/articles/3631611"/>
@@ -24,6 +523,26 @@
         <summary type="html"><![CDATA[6月1日OPEC和非OPEC部长级会议即将召开。随着全球经济的复苏，分析师普遍预计OPEC+将确认增加石油供应的计划。不过对交易员而言更为重要的是，OPEC+是否会就下一季度战略给出暗示。]]></summary>
         <author>
             <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中信证券李想等分析师称，5月局部地区限电属于罕见，预计2021Q2国内用电需求增速或在10.5%水平，有望录的2014年来历史最高季度用电增速。高煤价下，火电抢增量意...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982574</id>
+        <link href="https://wallstreetcn.com/livenews/1982574"/>
+        <updated>2021-05-30T02:53:43.000Z</updated>
+        <summary type="html"><![CDATA[中信证券李想等分析师称，5月局部地区限电属于罕见，预计2021Q2国内用电需求增速或在10.5%水平，有望录的2014年来历史最高季度用电增速。高煤价下，火电抢增量意愿明显抑制，优质水电将迎价值重估、核电利用小时有望回升。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本内阁官房长官加藤胜信接受读卖电视台采访时说，东京都、大阪府等地6月20日疫情紧急状态到期后，可能继续实施力度仅次于紧急状态的重点防疫举措，以防新冠疫...]]></title>
+        <id>https://wallstreetcn.com/livenews/1982573</id>
+        <link href="https://wallstreetcn.com/livenews/1982573"/>
+        <updated>2021-05-30T02:53:05.000Z</updated>
+        <summary type="html"><![CDATA[日本内阁官房长官加藤胜信接受读卖电视台采访时说，东京都、大阪府等地6月20日疫情紧急状态到期后，可能继续实施力度仅次于紧急状态的重点防疫举措，以防新冠疫情反弹。在实施重点防疫举措的地区，政府同样可以执行严格防疫限制措施，如要求餐馆等场所缩短营业时间等。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
