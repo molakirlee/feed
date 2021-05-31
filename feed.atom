@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T21:09:23.395Z</updated>
+    <updated>2021-05-31T22:41:32.359Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -18,6 +18,16 @@
 [视频]【奋斗百年路 启航新征程·今日中国】奋楫扬帆 谱写荆楚新篇章 ⏱00:02:36]]></summary>
         <author>
             <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯防疫指挥部5月31日发布公告称，从6月10日起，俄罗斯将恢复与奥地利、匈牙利、黎巴嫩、卢森堡、毛里求斯、摩洛哥、克罗地亚的定期航班以及与阿尔巴尼亚的包...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983273</id>
+        <link href="https://wallstreetcn.com/livenews/1983273"/>
+        <updated>2021-05-31T21:08:01.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯防疫指挥部5月31日发布公告称，从6月10日起，俄罗斯将恢复与奥地利、匈牙利、黎巴嫩、卢森堡、毛里求斯、摩洛哥、克罗地亚的定期航班以及与阿尔巴尼亚的包机通航，并增加与白俄罗斯等10个国家的定期航班数量。防疫指挥部同时决定，延长与土耳其和坦桑尼亚的航班禁令至6月21日；取消去年底作出的与英国暂停通航的决定，自6月2日起恢复莫斯科与伦敦之间每周三次的定期航班。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
