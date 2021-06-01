@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T17:44:47.738Z</updated>
+    <updated>2021-06-01T20:26:58.210Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -27,11 +27,173 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[法国巴黎银行：上调巴西2021年GDP预期至增长5.5%，之前料增4.5%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984088</id>
+        <link href="https://wallstreetcn.com/livenews/1984088"/>
+        <updated>2021-06-01T19:48:13.000Z</updated>
+        <summary type="html"><![CDATA[法国巴黎银行：上调巴西2021年GDP预期至增长5.5%，之前料增4.5%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫组织：全球新冠肺炎确诊病例超过1.704亿例。（央视）]]></title>
+        <id>https://wallstreetcn.com/livenews/1984086</id>
+        <link href="https://wallstreetcn.com/livenews/1984086"/>
+        <updated>2021-06-01T19:42:06.000Z</updated>
+        <summary type="html"><![CDATA[世卫组织：全球新冠肺炎确诊病例超过1.704亿例。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6月1日，世卫组织（WHO）、世贸组织（WTO）、国际货币基金组织（IMF）和世界银行举行联合发布会，呼吁公平分配新冠疫苗，增加全球应对疫情的资金投入。发布会上...]]></title>
+        <id>https://wallstreetcn.com/livenews/1984085</id>
+        <link href="https://wallstreetcn.com/livenews/1984085"/>
+        <updated>2021-06-01T19:37:25.000Z</updated>
+        <summary type="html"><![CDATA[6月1日，世卫组织（WHO）、世贸组织（WTO）、国际货币基金组织（IMF）和世界银行举行联合发布会，呼吁公平分配新冠疫苗，增加全球应对疫情的资金投入。发布会上，世贸组织总干事伊维拉表示，贸易对医疗用品的流通来说至关重要，2020年全球医疗用品贸易额增加了16%，呼吸机和消毒器等产品的贸易增加了31%，检测工具和诊断试剂的贸易增加超过40%，而个人防护装备相关贸易增加了50%。伊维拉指出，贸易政策还可以帮助增加疫苗产量，首先应开放疫苗原材料的贸易流通，然后与疫苗厂商合作，尽可能利用现有生产设施并开发新的产能，最后应针对新冠疫苗知识产权豁免达成一致，推动技术转让。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴基斯坦正式发布本地灌装中国康希诺新冠疫苗。（新华社）]]></title>
+        <id>https://wallstreetcn.com/livenews/1984084</id>
+        <link href="https://wallstreetcn.com/livenews/1984084"/>
+        <updated>2021-06-01T19:34:22.000Z</updated>
+        <summary type="html"><![CDATA[巴基斯坦正式发布本地灌装中国康希诺新冠疫苗。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase：将在Coinbase Pro平台推出狗狗币交易服务。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984083</id>
+        <link href="https://wallstreetcn.com/livenews/1984083"/>
+        <updated>2021-06-01T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase：将在Coinbase Pro平台推出狗狗币交易服务。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储理事布雷纳德：美联储债券购买计划的组合方式是有效的。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984080</id>
+        <link href="https://wallstreetcn.com/livenews/1984080"/>
+        <updated>2021-06-01T18:36:46.000Z</updated>
+        <summary type="html"><![CDATA[美联储理事布雷纳德：美联储债券购买计划的组合方式是有效的。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTI 7月原油期货收涨1.40美元，涨幅2.11%，报67.72美元/桶。
+布伦特8月原油期货收报70.25美元/桶。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984077</id>
+        <link href="https://wallstreetcn.com/livenews/1984077"/>
+        <updated>2021-06-01T18:33:08.000Z</updated>
+        <summary type="html"><![CDATA[WTI 7月原油期货收涨1.40美元，涨幅2.11%，报67.72美元/桶。
+布伦特8月原油期货收报70.25美元/桶。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上期所原油期货2107合约夜盘收涨0.64%，报438.00元人民币/桶。
+沪金夜盘收跌0.28%，沪银收跌0.43%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984076</id>
+        <link href="https://wallstreetcn.com/livenews/1984076"/>
+        <updated>2021-06-01T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[上期所原油期货2107合约夜盘收涨0.64%，报438.00元人民币/桶。
+沪金夜盘收跌0.28%，沪银收跌0.43%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国不可能对众多关键的欧洲地区解封旅行。（英国卫报）]]></title>
+        <id>https://wallstreetcn.com/livenews/1984072</id>
+        <link href="https://wallstreetcn.com/livenews/1984072"/>
+        <updated>2021-06-01T18:11:55.000Z</updated>
+        <summary type="html"><![CDATA[英国不可能对众多关键的欧洲地区解封旅行。（英国卫报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国得州公诉人与众多烟草公司达成共识。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984071</id>
+        <link href="https://wallstreetcn.com/livenews/1984071"/>
+        <updated>2021-06-01T18:08:04.000Z</updated>
+        <summary type="html"><![CDATA[美国得州公诉人与众多烟草公司达成共识。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国立卫生研究院（NIH）：开始针对全球性流感进行候选疫苗的临床试验。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984070</id>
+        <link href="https://wallstreetcn.com/livenews/1984070"/>
+        <updated>2021-06-01T18:03:59.000Z</updated>
+        <summary type="html"><![CDATA[美国国立卫生研究院（NIH）：开始针对全球性流感进行候选疫苗的临床试验。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储理事布雷纳德：美国经济远未实现美联储的那些目标，且既存在上行风险、也存在下行风险。
+如果能在通胀方面取得可持续的进展，那将具有重要意义。
+（我）将...]]></title>
+        <id>https://wallstreetcn.com/livenews/1984069</id>
+        <link href="https://wallstreetcn.com/livenews/1984069"/>
+        <updated>2021-06-01T18:00:21.000Z</updated>
+        <summary type="html"><![CDATA[美联储理事布雷纳德：美国经济远未实现美联储的那些目标，且既存在上行风险、也存在下行风险。
+如果能在通胀方面取得可持续的进展，那将具有重要意义。
+（我）将密切留意通胀预期。
+预计将在未来数月取得更多进展。
+将留意数据，并准备在必要时调整（FOMC货币政策）。
+通胀和就业数据体现出暂时性的错位。
+在2021年，财政政策构成尾部风险，但将在2022年转变为逆风。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[至少已经有10家工厂在遭遇网络袭击之后暂停运营。（Food Inspector）]]></title>
+        <id>https://wallstreetcn.com/livenews/1984068</id>
+        <link href="https://wallstreetcn.com/livenews/1984068"/>
+        <updated>2021-06-01T17:58:11.000Z</updated>
+        <summary type="html"><![CDATA[至少已经有10家工厂在遭遇网络袭击之后暂停运营。（Food Inspector）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMEX 8月黄金期货收跌0.02%，报1905.00美元/盎司。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984066</id>
+        <link href="https://wallstreetcn.com/livenews/1984066"/>
+        <updated>2021-06-01T17:51:58.000Z</updated>
+        <summary type="html"><![CDATA[COMEX 8月黄金期货收跌0.02%，报1905.00美元/盎司。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[巴西农业部：巴西将把海洋货运产能扩充40%。]]></title>
         <id>https://wallstreetcn.com/livenews/1984065</id>
         <link href="https://wallstreetcn.com/livenews/1984065"/>
         <updated>2021-06-01T17:41:56.000Z</updated>
         <summary type="html"><![CDATA[巴西农业部：巴西将把海洋货运产能扩充40%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE原糖期货涨约2.2%，处于连续第三个交易上涨之中，暂报17.74美分/磅，欧股早盘曾涨至17.89美分，巴西干旱加重投资者对供应的顾虑。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984074</id>
+        <link href="https://wallstreetcn.com/livenews/1984074"/>
+        <updated>2021-06-01T17:18:46.000Z</updated>
+        <summary type="html"><![CDATA[ICE原糖期货涨约2.2%，处于连续第三个交易上涨之中，暂报17.74美分/磅，欧股早盘曾涨至17.89美分，巴西干旱加重投资者对供应的顾虑。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
@@ -64,6 +226,34 @@
         <summary type="html"><![CDATA[美联储周二（6月1日）逆回购工具使用规模为4480亿美元。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[World] Covid: China's Sinovac vaccine gets WHO emergency approval]]></title>
+        <id>https://www.bbc.co.uk/news/world-asia-china-57322504</id>
+        <link href="https://www.bbc.co.uk/news/world-asia-china-57322504"/>
+        <updated>2021-06-01T17:11:39.000Z</updated>
+        <summary type="html"><![CDATA[image copyrightGetty Images
+image captionThe Sinovac jab is already being used in countries including the Philippines
+
+The World Health Organization (WHO) has approved China's Sinovac Covid vaccine for emergency use.
+
+
+It is the second Chinese vaccine to receive the green light from the WHO, after Sinopharm.
+
+
+It opens the door for the jab to be used in the Covax programme, which aims to ensure fair access to vaccines.
+
+
+The vaccine, which has already been used in several countries, has been recommended for over 18s, with a second dose two to four weeks later. 
+
+
+The emergency approval means the vaccine "meets international standards for safety, efficacy and manufacturing", the WHO said.
+
+
+Studies showed that Sinovac prevented symptomatic disease in more than half of those vaccinated and p…]]></summary>
+        <author>
+            <name>BBC News world-asia</name>
         </author>
     </entry>
     <entry>
@@ -149,6 +339,27 @@ LME期镍收涨17美元，报18130美元/吨。
 LME期锡收跌17美元，报30723美元/吨。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Russia Relations at the Dawn of the Biden Era]]></title>
+        <id>https://www.chinafile.com/library/china-world-podcast/china-russia-relations-dawn-of-biden-era</id>
+        <link href="https://www.chinafile.com/library/china-world-podcast/china-russia-relations-dawn-of-biden-era"/>
+        <updated>2021-06-01T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Sergei Ilyin—Sputnik/AFP/Getty Images
+  
+  
+  
+        
+Russian President Vladimir Putin attends a ceremony to mark the beginning of the construction of Russian-designed power units for the Tianwan and Xudapu nuclear power plants in China, via a video link at the Novo-Ogaryovo state residence outside Moscow, May 19, 2021.
+  
+  
+          
+  
+While U.S.-China and U.S.-Russia relations have steadily deteriorated, China-Russia cooperation has continued to strengthen. On the heels of the contentious U.S.-China Alaska summit, Chinese and Russian foreign ministers met in Guilin to discuss bilateral cooperation on a range of issues and even published a joint statement promoting a shared vision for global governance. However, it is unclear to what extent Russian and Chinese interests will continue to converge. Although both nations have found a common adversary in the United States, any divergence of Russian or Chinese interests could create roadblocks to the two countries’ warming relations. Given China’s increasing economic and political clout, how will Russia manage the relationship in a way that concurrently maintains cooperation with China and protects its own national interests? Will China continue to view Russia as a security and economic partner? And how does the United States view and approach strong China-Russia ties?
+During a live recording of the China in the World podcast, Paul Haenle spoke with Andrew Weiss, James Family Chair and Vice President for Studies at the Carnegie Endowment, Guan Guihai, Associate Professor at and Executive Vice President of the Institute of International and Strategic Studies at Peking University, and Vita Spivak, an analyst at Control Risks, a global consulting firm, on recent developments in China-Russia relations and their implications for the United States. This panel was hosted as the third of the Carnegie Global Dialogue Series 2020-2021 and is also available to be watched online.]]></summary>
+        <author>
+            <name>Paul Haenle, Andrew S. Weiss &amp;#38; more</name>
         </author>
     </entry>
     <entry>
@@ -375,6 +586,16 @@ LME期锡收跌17美元，报30723美元/吨。]]></summary>
         <link href="https://wallstreetcn.com/livenews/1984023"/>
         <updated>2021-06-01T15:46:30.000Z</updated>
         <summary type="html"><![CDATA[黑龙江尚志市遭受龙卷风和冰雹强对流天气，造成1人死亡、16人受伤。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃尔沃集团（AB Volvo）：董事会建议推进出售UD卡车业务给日本铃木的进程，计划按每股9.50瑞典克朗出售，总额大约为190亿克朗（折合23亿美元）。]]></title>
+        <id>https://wallstreetcn.com/livenews/1984020</id>
+        <link href="https://wallstreetcn.com/livenews/1984020"/>
+        <updated>2021-06-01T15:40:20.000Z</updated>
+        <summary type="html"><![CDATA[沃尔沃集团（AB Volvo）：董事会建议推进出售UD卡车业务给日本铃木的进程，计划按每股9.50瑞典克朗出售，总额大约为190亿克朗（折合23亿美元）。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
@@ -3905,6 +4126,16 @@ Campaigners say it a…]]></summary>
         <summary type="html"><![CDATA[南向资金净流入达50亿元。]]></summary>
         <author>
             <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel reports link between rare cases of heart inflammation and COVID-19 vaccination in young men]]></title>
+        <id>https://www.sciencemag.org/news/2021/06/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination?rss=1</id>
+        <link href="https://www.sciencemag.org/news/2021/06/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination"/>
+        <updated>2021-06-01T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Study strengthens suspicions first announced in April, but most incidents are mild]]></summary>
+        <author>
+            <name>Latest News from Science Magazine</name>
         </author>
     </entry>
     <entry>
