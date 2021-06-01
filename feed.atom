@@ -2,10 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T10:57:58.490Z</updated>
+    <updated>2021-06-01T13:00:24.090Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新闻联播 2021/06/01]]></title>
+        <id>http://tv.cctv.com/lm/xwlb/day/20210601.shtml</id>
+        <link href="http://tv.cctv.com/lm/xwlb/day/20210601.shtml"/>
+        <updated>2021-06-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[视频]习近平在中共中央政治局第三十次集体学习时强调 加强和改进国际传播工作 展示真实立体全面的中国 ⏱00:07:12
+[视频]【央视快评】努力塑造可信 可爱 可敬的中国形象 ⏱00:00:07
+[视频]习近平向叙利亚当选连任总统致贺电 ⏱00:00:47
+[视频]传承红色基因 争做新时代好少年——习近平总书记给江苏省淮安市新安小学少先队员的回信在全国各地引起热烈反响 ⏱00:04:48
+[视频]中共中央关于加强对“一把手”和领导班子监督的意见 ⏱00:03:57
+[视频]韩正主持召开推动长三角一体化发展领导小组全体会议 ⏱00:01:55
+[视频]【奋斗百年路 启航新征程·今日中国】湖南在推动高质量发展上闯新路 ⏱00:02:32
+[视频]奋斗百年路 启航新征程·数风流人物 ⏱00:02:05
+[视频]各地少年儿童欢度“六一” ⏱00:01:44
+[视频]2021年度中俄智库高端论坛举行 ⏱00:00:40
+[视频]人民日报钟声文章：“有罪推定”包藏污名化祸心——新冠病毒溯源不容政治操弄② ⏱00:01:13]]></summary>
+        <author>
+            <name>CCTV 新闻联播</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时代天使：背靠高瓴，牙医界的“爱美客”来了？]]></title>
+        <id>3631850</id>
+        <link href="https://wallstreetcn.com/articles/3631850"/>
+        <updated>2021-06-01T12:24:17.000Z</updated>
+        <summary type="html"><![CDATA[时代天使已经成为与隐适美二分天下的隐形正畸龙头，技术固然重要，但背靠大树好乘凉更是关键。]]></summary>
+        <author>
+            <name>陈晨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉今年为啥频频涨价？马斯克终于出面解释了]]></title>
+        <id>3631857</id>
+        <link href="https://wallstreetcn.com/articles/3631857"/>
+        <updated>2021-06-01T12:23:35.000Z</updated>
+        <summary type="html"><![CDATA[马斯克在推特表示，由于整个汽车行业特别是原材料的供应链压力，特斯拉的价格因此上涨。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基金卖疯了！继公募东方红之后，这次轮到私募被疯抢了]]></title>
+        <id>3631858</id>
+        <link href="https://wallstreetcn.com/articles/3631858"/>
+        <updated>2021-06-01T12:02:07.000Z</updated>
+        <summary type="html"><![CDATA[本来打算只卖一天，临时改为只卖一小时，最后决定只卖半小时，然后不到半小时100多个亿就被抢光了。]]></summary>
+        <author>
+            <name>张泽一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宽裕的流动性会持续到何时？ ——6月大类资产配置]]></title>
+        <id>3631852</id>
+        <link href="https://wallstreetcn.com/articles/3631852"/>
+        <updated>2021-06-01T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[5月国内资产全都上涨，海外的流动性是推升资产价格的重要力量。预期风险点可能在6月中的美联储议息会议和5月通胀就业数据的发布，实际流动性拐点或在8月财政和货币的共振。]]></summary>
+        <author>
+            <name>周欣瑜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储Bullard：美国就业市场复苏比预想中更快]]></title>
+        <id>3631855</id>
+        <link href="https://wallstreetcn.com/articles/3631855"/>
+        <updated>2021-06-01T11:46:11.000Z</updated>
+        <summary type="html"><![CDATA[这可能加快美联储从经济中撤出部分货币刺激措施的时间表。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让散户参与IPO！这家英国企业正致力于突破金融业传统]]></title>
+        <id>3631853</id>
+        <link href="https://wallstreetcn.com/articles/3631853"/>
+        <updated>2021-06-01T11:32:55.000Z</updated>
+        <summary type="html"><![CDATA[继美国的Robinhood推出“IPO Access”后，英国的众筹平台也将推出自己的“零售服务”，并表示消费类企业的IPO或许最适合这种募资方式。]]></summary>
+        <author>
+            <name>张泽一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 年来最大更新，焕然一新的 Firefox 89 稳定版都有哪些新变化？]]></title>
+        <id>https://sspai.com/post/66984</id>
+        <link href="https://sspai.com/post/66984"/>
+        <updated>2021-06-01T11:24:36.000Z</updated>
+        <summary type="html"><![CDATA[6 月 1 日，Firefox 89 进入稳定版推送通道，带来了自 2017 年 Firefox Quantum 问世以来最大的界面改动以及众多细节改进。Mozilla 在博客中写道，设计师们权衡并简化了 Firefox 的交互体验，使其更易于在每台设备上使用，帮助用户提高效率、减少干扰。1
+那么这一版本究竟带来了哪些新功能，有何亮点与不足？我们不妨在这篇文章中一探究竟。
+注意：本文撰写于 6 月 1 日前，基于 Firefox Nightly 测试版本介绍。
+全新的 Proton 设计语言
+2017 年发布的 Firefox Quantum 采用了被 Mozilla 称为 Photon 的设计语言，Firefox 89 的界面设计则被命名为仅一字之差的 Proton。这可能与新版的重构思路有关，Firefox 设计团队调研了广大用户的日常使用习惯，绘制了如下图所示的交互热力图2，希望在一次大版本更新中重新设计 UI 组件，并解决长期遗留的问题。因此，Firefox 产品高级总监 Mikal Lewis 表示，这次改版更像是在原版的基础上，由数不清的细节改进构成的整体，最终呈现出与旧版大不相同的实际效果。
+Firefox 88 的工具栏交互热力图
+从上图中我们不难发现，原版设计中地址栏右侧的几个按钮利用率极低，更不用说二级菜单中的项目了。因此 Mozilla 已经在 Firefox 88 中将「截图」操作转移至右键菜单，89 则更进一步，移除了整个「页面动作」菜单——别担心，里面的老朋友都还在，右键单击标签页，选择发送到其它设备，也是更符合直觉的方法。Mozilla 力推的稍后阅读工具 Pocket 优先级再度提升，于主工具栏上占据一席之地。
+Firefox 89 的工具栏设计
+当然，不使用 Pocket 的同学大可点击「定制工具栏」，将 Firefox 改造为自己理想中的…]]></summary>
+        <author>
+            <name>SHY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月份以来，我国南方连续多次发生强降雨过程，从今天（1日）开始，全国进入主汛期。水利部介绍，通常情况下每年6月-8月是全国的主汛期，目前，今年全国江河超警...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983846</id>
+        <link href="https://wallstreetcn.com/livenews/1983846"/>
+        <updated>2021-06-01T11:09:32.000Z</updated>
+        <summary type="html"><![CDATA[5月份以来，我国南方连续多次发生强降雨过程，从今天（1日）开始，全国进入主汛期。水利部介绍，通常情况下每年6月-8月是全国的主汛期，目前，今年全国江河超警数情况与多年同期相当。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从广东省佛山市住房公积金管理中心获悉，佛山市住房公积金管理中心于5月31日发布《关于调整我市缴存职工提取住房公积金支付房租办法的通知》。《通知》指出，职...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983844</id>
+        <link href="https://wallstreetcn.com/livenews/1983844"/>
+        <updated>2021-06-01T11:07:30.000Z</updated>
+        <summary type="html"><![CDATA[从广东省佛山市住房公积金管理中心获悉，佛山市住房公积金管理中心于5月31日发布《关于调整我市缴存职工提取住房公积金支付房租办法的通知》。《通知》指出，职工在佛山市连续足额缴存住房公积金满3个月，本人及配偶在佛山市无自有住房且租赁住房的，可提取夫妻双方住房公积金支付房租。从租房提取额度来看，2021年度（2021年7月至2022年6月）可提取额度最高为7128元。（澎湃）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挪威5月所有新车销量中，电动汽车占60.4%。]]></title>
+        <id>https://wallstreetcn.com/livenews/1983842</id>
+        <link href="https://wallstreetcn.com/livenews/1983842"/>
+        <updated>2021-06-01T11:05:23.000Z</updated>
+        <summary type="html"><![CDATA[挪威5月所有新车销量中，电动汽车占60.4%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年A股最大规模IPO！中国电力史上最大IPO！三峡能源申购近1.3万亿元 | IPO见闻]]></title>
+        <id>3631849</id>
+        <link href="https://wallstreetcn.com/articles/3631849"/>
+        <updated>2021-06-01T10:54:53.000Z</updated>
+        <summary type="html"><![CDATA[或将成为A股新能源发电投资领域总资产第一、营收第一、净利润第一、市值第一的超级新能源投资巨头，还极易中签。]]></summary>
+        <author>
+            <name>张泽一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天顺风能：预计上半年净利润同比增长40%-60%，在手订单72万吨。]]></title>
+        <id>https://wallstreetcn.com/livenews/1983837</id>
+        <link href="https://wallstreetcn.com/livenews/1983837"/>
+        <updated>2021-06-01T10:50:44.000Z</updated>
+        <summary type="html"><![CDATA[天顺风能：预计上半年净利润同比增长40%-60%，在手订单72万吨。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨头齐入局，奶酪是一门好生意吗？]]></title>
+        <id>3631838</id>
+        <link href="https://wallstreetcn.com/premium/articles/3631838?layout=wscn-layout"/>
+        <updated>2021-06-01T10:49:36.000Z</updated>
+        <summary type="html"><![CDATA[“奶酪第一股”将遭遇各大品牌“围猎”。]]></summary>
+        <author>
+            <name>侯秋芸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安利股份：公司在提供相关资格信息，进行一系列供应商培训和厂区实地考察等后，成功成为美国匡威（Converse）公司供应商，主要向其旗下产品提供鞋用生态功能性聚...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983835</id>
+        <link href="https://wallstreetcn.com/livenews/1983835"/>
+        <updated>2021-06-01T10:47:14.000Z</updated>
+        <summary type="html"><![CDATA[安利股份：公司在提供相关资格信息，进行一系列供应商培训和厂区实地考察等后，成功成为美国匡威（Converse）公司供应商，主要向其旗下产品提供鞋用生态功能性聚氨酯合成革及复合材料。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件显示，微创医疗寻求通过发行5年期可转债筹资7亿美元。]]></title>
+        <id>https://wallstreetcn.com/livenews/1983833</id>
+        <link href="https://wallstreetcn.com/livenews/1983833"/>
+        <updated>2021-06-01T10:42:09.000Z</updated>
+        <summary type="html"><![CDATA[文件显示，微创医疗寻求通过发行5年期可转债筹资7亿美元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江省发展和改革委员会召开《浙江省中医药发展“十四五”规划》新闻通气会。《规划》近日已由该委和省经信厅、省农业农村厅、省卫生健康委、省中医药管理局联合...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983832</id>
+        <link href="https://wallstreetcn.com/livenews/1983832"/>
+        <updated>2021-06-01T10:40:35.000Z</updated>
+        <summary type="html"><![CDATA[浙江省发展和改革委员会召开《浙江省中医药发展“十四五”规划》新闻通气会。《规划》近日已由该委和省经信厅、省农业农村厅、省卫生健康委、省中医药管理局联合印发。《规划》提出了重大改革、重大政策、重大平台和重大项目清单，其中重大项目115个，涉及中医医疗服务、中医药产业、科研创新等，“十四五”计划投资560亿元，作为落地《规划》的重要抓手。（证券时报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州白云国际机场股份有限公司董事会秘书戚耀明在广州新闻办召开的新闻发布会上通报，白云机场对乘坐计划出港时间在5月31日22时之后航班的出港旅客（不含外地中...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983831</id>
+        <link href="https://wallstreetcn.com/livenews/1983831"/>
+        <updated>2021-06-01T10:36:05.000Z</updated>
+        <summary type="html"><![CDATA[广州白云国际机场股份有限公司董事会秘书戚耀明在广州新闻办召开的新闻发布会上通报，白云机场对乘坐计划出港时间在5月31日22时之后航班的出港旅客（不含外地中转旅客），查验健康码“绿码”和72小时核酸检测阴性证明。根据通报，据统计，5月31日22时至6月1日12时，白云机场共保障航班129班出行，实际出港人数5908人；少数因条件不符未能成行的旅客，均得到免费退改签保障。白云机场将继续做好各项疫情防控工作，保障旅客安心抵离。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币： 虚拟与现实的冲突]]></title>
+        <id>3631848</id>
+        <link href="https://wallstreetcn.com/articles/3631848"/>
+        <updated>2021-06-01T10:30:23.000Z</updated>
+        <summary type="html"><![CDATA[展望加密货币的未来，如同青春失乐园。]]></summary>
+        <author>
+            <name>张泽一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘉楠科技盘前涨超12%，一季度营收大增，盈利转正。]]></title>
+        <id>https://wallstreetcn.com/livenews/1983828</id>
+        <link href="https://wallstreetcn.com/livenews/1983828"/>
+        <updated>2021-06-01T10:23:42.000Z</updated>
+        <summary type="html"><![CDATA[嘉楠科技盘前涨超12%，一季度营收大增，盈利转正。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A股五张图：底部高比例减持，跌的连大股东也扛不住了？]]></title>
         <id>3631846</id>
@@ -27,6 +245,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[嘉楠科技财报显示，第一季度营收4.03亿元，去年同期6827.3万元；净利润120.4万元，去年同期亏损3994.6万元。嘉楠科技表示，随着公司大规模生产新一代比特币挖矿...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983827</id>
+        <link href="https://wallstreetcn.com/livenews/1983827"/>
+        <updated>2021-06-01T10:20:58.000Z</updated>
+        <summary type="html"><![CDATA[嘉楠科技财报显示，第一季度营收4.03亿元，去年同期6827.3万元；净利润120.4万元，去年同期亏损3994.6万元。嘉楠科技表示，随着公司大规模生产新一代比特币挖矿机，预计盈利和交付量将较2021年第一季度大幅增长。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三一集团董事、三一重工总裁向文波表示，钢铁每吨上涨1000元，尽管一年会增加20亿的采购成本，但是公司每年的生产成本都在降低，最终要靠企业的规模效应抵御原材...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983826</id>
+        <link href="https://wallstreetcn.com/livenews/1983826"/>
+        <updated>2021-06-01T10:11:36.000Z</updated>
+        <summary type="html"><![CDATA[三一集团董事、三一重工总裁向文波表示，钢铁每吨上涨1000元，尽管一年会增加20亿的采购成本，但是公司每年的生产成本都在降低，最终要靠企业的规模效应抵御原材料价格上涨风险，三一重工目前没有涨价预期。（央视财经）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[三孩概念领涨两市，多个行业显著受益]]></title>
         <id>3631844</id>
         <link href="https://wallstreetcn.com/articles/3631844"/>
@@ -44,6 +282,16 @@
         <summary type="html"><![CDATA[欧元区、德、法、意制造业PMI高于预期；欧元区、德、法、意、英制造业PMI均远高于荣枯线。]]></summary>
         <author>
             <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6月1日17时30分，广州召开新闻发布会，会上广州天河区委常委、区人民政府常务副区长龚伟河表示，天河区组建由58人组成的区级专业流调队伍，落实 “三同时”机制...]]></title>
+        <id>https://wallstreetcn.com/livenews/1983824</id>
+        <link href="https://wallstreetcn.com/livenews/1983824"/>
+        <updated>2021-06-01T10:09:53.000Z</updated>
+        <summary type="html"><![CDATA[6月1日17时30分，广州召开新闻发布会，会上广州天河区委常委、区人民政府常务副区长龚伟河表示，天河区组建由58人组成的区级专业流调队伍，落实 “三同时”机制，利用大数据、互联网+等技术手段，扩大筛查，不漏一户、不落一人，全力以赴做好流调溯源，重点人群日清日结。截至目前，共排查发现广州疫情关联密切接触者36人、次密接触者333人，均按要求落实健康管理措施。（一财）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
         </author>
     </entry>
     <entry>
