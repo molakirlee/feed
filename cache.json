@@ -6,6 +6,15 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/66883",
+          "author": "100gle",
+          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n那么多的文本编辑器，我为什么会选择 VS Code\n最开始写作时，我也经常去尝试大家所喜闻乐见的一些 Markdown 文本编辑器，比如：Typora、Ulysses、Bear、iA Writer、纯纯写作 等。\n在这些编辑器中，有的最初都是只有在手机端上才能使用，所以我在通勤过程中也尝试在手机上写下一二文字，但都苦于屏幕太小且嘈杂的环境对我造成干扰，使我没办法很好地专注于内容构思上最终而放弃。\n于是后面我干脆将创作都放到了电脑上。\n但在电脑写作时，作为程序员的我又感觉使用桌面端的文本编辑器往往很难让人有敲代码的那种操作感，每次碰上需要将大段内容调整、批量的文本替换等操作时，需要额外的鼠标操作从而打断写作的连贯性。\n所以我盯上了 VS Code，一款由微软开发的、目前被程序员广泛使用的跨平台编辑器。\n\n但最开始我使用 VS Code 时并没有将其作为一个文本编辑器来使用，而是将其作为一个编写代码的 IDE（Integrated Development Environment，即集成开发环境）来使用。但它本质上还是属于文本编辑器，只不过借助了社区丰富的插件才拥有了一些能和真正意义上的 IDE 相比肩的功能。\n从我开始尝试使用 VS Code 来进行写作至今，粗略统计，我已经写了包括技术文档、少数派文章以及教程等在内的文字大约 30 万余；随着写作次数的增多，我发现 VS Code 在某些层面上很满足我这种有着技术背景且在桌面端进行创作的作者的需要。\n跨平台\n除了像 Typora 这样的开源文本编辑器之外，前面提到的像 Bear、Ul…",
+          "link": "https://sspai.com/post/66883",
+          "publishedOn": "2021-06-02T03:28:22.000Z",
+          "wordCount": 388,
+          "title": "不走寻常路的写作工具：我的 VS Code 配置经验分享"
+        },
+        {
           "id": "https://sspai.com/post/66989",
           "author": "老麦",
           "description": "我派用户应该都知道，这个月，我们做了一次大胆的尝试，那就是开着特斯拉成功穿越了西藏和新疆，完成了 22 天的创作之旅，而我们这次的主力创作工具，就是 OPPO Find X3 Pro ，我在微博上已经发布了不少照片，效果着实惊艳，以往都是看着摄影师专门去旅拍，没想到我们自己也能随手出大片，而手机的便捷性，更容易在行进中捕捉精彩瞬间。\n我们这次同行的还有两位商业摄影师，这也是他们第一次用手机来完成全程的记录，不管是照片的细节呈现，还是视频的防抖能力，都刷新了他们对手机摄影能力的认知，体验之后，他们甚至认为，手机的输出能力已经可以应对常规的商业拍摄，让摄影师的工作更加轻松。\n\n但我们的拍摄过程中也遇到一些有趣的问题，我和同事喜欢用自动模式，摄影师喜欢用专业模式，自动模式下，照片靓丽喜人，但有可能会损失一些细节，而摄影师则可以调教出大量细节，让照片更有质感，更立体。我带着这个问题，来到 OPPO Reno6 的发布会后台，跟 OPPO 的产品经理和影像产品经理来了一个幕后访谈。\n洞察年轻用户是 OPPO 定义产品的基础\n我开门见山的问了 OPPO 影像产品经理，相机的默认模式是不是根据大众用户的喜好，进行过整体调教？\n\n答案是必然的。OPPO 到今天依然保持着多个产品线，就是针对不同客群的需求深度定义的，我们使用的 Find X 系列，作为旗舰产品，专门服务对影像要求较高的用户群，但这些用户不一定都是摄影师，所以默认模式下，会针对普通用户最关注的亮度和色彩进行平衡优化，帮助用户记录当下的影像情感。而专业模式则完全开放所有调教，释放足够的创作空间。\n而 Reno 系列则是面向年轻大众的产品，不管是年轻人最关注的外观颜值，轻薄时尚，还是更符合年轻人需求的人像视频，都是每一代产品技术突破的重点，这次发布的 Reno6 系列，又给年轻用户带来了新的惊喜。\n大众游戏已经成为年轻人的新刚需\n…",
@@ -2147,6 +2156,24 @@
       "siteUrl": "https://www.geekpark.net",
       "articles": [
         {
+          "id": "https://www.geekpark.net/news/279279",
+          "author": null,
+          "description": "HarmonyOS 发布在即，华为现可使用「鸿蒙 TM」商标\n\n          \n\n鸿蒙操作系统及华为全场景新品发布会将于 6 月 2 日举行，备受瞩目的国产操作系统 HarmonyOS 2.0 正式版（下称鸿蒙 2.0）届时将正式发布。\n据了解，6 月 2 日的发布会上，华为多款新产品均将搭载鸿蒙 2.0，但不会有搭载鸿蒙 2.0 的新手机。首批升级名单包括：Mate40、Mate40 Pro、Mate40 Pro+、Mate40 RS、MateX2、nova8、nova8 Pro、MatePad Pro。\n曾引发网友热议的鸿蒙商标归属权也终于尘埃落定。从企查查网站了解到，2019 年华为技术有限公司「鸿蒙」商标流程状态变更为驳回复审。近日，相关一审行政判决书公开，因与引证商标构成近似商标，华为诉讼请求被驳回。\n据红星新闻报道，惠州契贝科技转让给华为的 3 个鸿蒙商标，转让时处在申请过程中，目前的状态是驳回复审。在复审期间，华为有权继续使用鸿蒙商标，但不能表明已注册标识（R），而是使用 TM 标志。TM 标志对商标有一定保护作用，可以防止他人提出重复申请，表示现有商标持有人有优先使用权。（来源：快科技、IT 之家）\n\n          \n\n苹果正重启造车计划，最终目标是造整车\n\n          \n        \n6 月 1 日消息，据报道，早在 2015 年，苹果内部称为「泰坦计划」（Project Titan）的电动自动汽车项目就开始浮出水面。然而过去几年里，有关该项目的战略目标却多次反复，技术进展似乎也不大。现在，苹果正重启造车计划，最终目标是开发整车。\n\n2015 年左右，苹果大举招募汽车行业英才，仅研发人员就超过 5000 人。但其始终没有发布确切的产品，后来甚至缩小了目标范围，即只开发自动驾驶软件出售给第三方。不过，虽然苹果在操作系统方面的专业知识使…",
+          "link": "https://www.geekpark.net/news/279279",
+          "publishedOn": "2021-06-02T04:09:54.000Z",
+          "wordCount": 405,
+          "title": "HarmonyOS 将发，华为拿到「鸿蒙」商标；百度首款电动车，20万起；欠债 1469 亿，方正集团破产重组"
+        },
+        {
+          "id": "https://www.geekpark.net/news/279087",
+          "author": null,
+          "description": "总有这么一些产品，它们或许并不都是热门的当红炸子鸡，也不一定是老少通吃的万人迷，却总凭着让人着迷的设计巧思、极致的细节体验，给人带来愉悦和感动，令大家不禁感叹：「啧啧啧，讲究。」\n我们会每月定期搜罗视野里那些值得被记住的产品——但区别于把产品参数说明书念给你听，我们更想向你展示那些你或许会忽略、但却很有巧思的设计，挖挖那些被我们津津乐道的、细节中的小魔鬼。\nPolaroid Go——全球最小拍立得\n\n\n\n作为已经诞生几十年的拍摄设备，一次成像相机仍在散发着它独特的魅力。人们偏爱它即拍即出的方便性，还有实体相片带来的质感。知名拍立得品牌「宝丽来」虽然经历了几次破产、被收购，但依然还在推出新的相机，最近最吸引人眼球的就是这款 Polaroid Go。\n它最独特之处就是小，号称当前世界上最小的拍立得相机。Polaroid Go 大概只有普通拍立得的一半体积，重量 242 克，拿在手上、放在包里一点也不会显得笨重。拿它出去旅游、扫街，单手完成拍摄不是问题。当然相应的，Polaroid Go 的相纸用的也是小一号，购买时注意对比。\n功能方面，Polaroid Go 支持闪光灯、自拍倒数、双重曝光，比起普通型号的拍立得当然比较基础，但毕竟体积小了那么多，总有取舍。价格方面 Polaroid Go 售价 100 美元，相纸 20 美元/16 张。\n\n\nAqara 智能墙壁开关 E1——啪，一键进入智能生活\n\n\n智能音箱、智能电视、智能门锁、智能门铃……当我把越来越多的智能家居产品搬进自己家的时候，却还是在一个冬天的晚上，不得不为了关灯而离开自己刚刚捂热的被窝。\n除了重新装修，或者买支激光灯指挥猫去关灯，现在有了更方便的选择，能让开关灯这件事变得智能起来。智能家居厂商绿米联创推出了全新的 Aqara 智能墙壁开关 E1，不用买智能灯具，更不用折腾改线，只需要这么一个开关就能让普通灯具秒变智…",
+          "link": "https://www.geekpark.net/news/279087",
+          "publishedOn": "2021-06-02T03:29:08.000Z",
+          "wordCount": 155,
+          "title": "极讲究・五月好物名单：Polaroid Go、Aqara 智能开关 E1、一加手表赛博朋克版"
+        },
+        {
           "id": "https://www.geekpark.net/news/279258",
           "author": null,
           "description": "两百多年前的工业革命之后，全球公司排名前十的公司，大多属于铁路、制造和电力行业。互联网兴起不到 20 年，全球市值最高公司目前被互联网垄断。如果说之前巨型企业的崛起背后靠的是石油，那么互联网科技的兴盛，背后则是海量的数据。\n\n如果说数据是新时代的「原油」，已经有十几年历史的云计算平台则是新时代的「新基建」。第一批认识到数据背后价值的是互联网科技公司，他们自然也成为云计算的最早也是最重要的客户，因为科技公司离数据更近。而随着时间推移和技术的进步，更多传统行业由于数字化转型需求增大，也开始成为云计算的目标客户。\n几天前举办的阿里云峰会上，阿里云智能总裁张建锋表示，阿里云不仅是一家云计算公司，更是数字化转型的服务商，下一步的重要战略是「做好服务」，通过设立 18 个行业和 16 个区域，从行业垂直度和地域两方面结合，更好的服务客户。\n云计算，从单一的计算变成体系化的创新，云厂商在「拼技术」之外，还得「拼服务」，才能满足千行百业的数字化转型需求。\n\n          \n        \n阿里云智能总裁张建锋｜阿里云\n\n云计算「沉默的大多数」\n刚刚结束的阿里云峰会，是阿里云自去年疫情之后第一次举行线下活动。也正是这场疫情，不仅开启了普通人数字化生活的加速键，同样让企业认识到了数字化转型的重要性。\n2020 年数字经济占 GDP 的比重已经达到 38.6%。数字经济的增速是 GDP 增速的 3.2 倍。\n与之相对，阿里云 2020 年全年营收 601.2 亿元，同比上一财年的 400 亿收入大幅增长 50%，在全球「三朵云」中依然保持较高增速。\n但是，一些变化已经出现。\n根据数据，2018 年中国云计算市场中，互联网公司客户占比达到 60% 以上。一年后，互联网、政务、金融、制造业在云计算市场的占比分别为 33%、29%、19% 和 10%，可以看到以政务、金融和制造为代表的传统行业…",
@@ -2531,6 +2558,186 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/news/global",
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
+        {
+          "id": "3631897",
+          "author": "叶桢",
+          "description": "疫情冲击的性质不同于传统金融危机，经济波动和周期轮动速度都更快。下半年股市提防内外共振风险，继续挖掘结构性机会；债市继续做时间的朋友与空间的对手盘；黄金整体偏空，大宗商品行情度过共振最佳时段。",
+          "link": "https://wallstreetcn.com/articles/3631897",
+          "publishedOn": "2021-06-02T04:27:14.000Z",
+          "wordCount": 244,
+          "title": "“美林电风扇”的“短暂回归”"
+        },
+        {
+          "id": "3631925",
+          "author": "叶桢",
+          "description": "不到一周的时间内，中方牵头人与美国两机构的新“掌门”先后通话。这意味着双方完成了对之前中美经贸关系的延续接洽，一度静默的中美经贸交流再次启动。",
+          "link": "https://wallstreetcn.com/articles/3631925",
+          "publishedOn": "2021-06-02T04:19:05.000Z",
+          "wordCount": 168,
+          "title": "两次通话同样基调：务实解决问题最重要"
+        },
+        {
+          "id": "3631910",
+          "author": "韩旭阳",
+          "description": "昨日公司公告多名股东减持股份进行套现，英科医疗一度跌停，英科转债跌超17%。",
+          "link": "https://wallstreetcn.com/articles/3631910",
+          "publishedOn": "2021-06-02T03:49:39.000Z",
+          "wordCount": 123,
+          "title": "A股早盘高开低走 创业板一度跌近2% 英科医疗遭遇巨额减持跌20%"
+        },
+        {
+          "id": "3631916",
+          "author": "徐红",
+          "description": "分析认为，生长激素将被剔除集采目录的可能性是非常大的。",
+          "link": "https://wallstreetcn.com/articles/3631916",
+          "publishedOn": "2021-06-02T02:46:22.000Z",
+          "wordCount": 114,
+          "title": "生长激素采集计划有变？“药茅”长春高新大幅反弹，安科生物涨10%"
+        },
+        {
+          "id": "3631915",
+          "author": "王煜梦",
+          "description": "不能让“空气币”收割了血汗钱，不能让高耗能“矿场”挤占宝贵资源。",
+          "link": "https://wallstreetcn.com/articles/3631915",
+          "publishedOn": "2021-06-02T02:44:16.000Z",
+          "wordCount": 184,
+          "title": "新华社为何紧盯“币圈”那些事？一些“矿场”一天就耗电上百万度！"
+        },
+        {
+          "id": "3631914",
+          "author": "林菁扬",
+          "description": "这个增长是相当令人惊讶的，不到一个月前大多数经济学家还认为环比会有下降；这要归因于巴西农业部门的繁荣、固定资产投资的增加及卫生限制的放宽。",
+          "link": "https://wallstreetcn.com/articles/3631914",
+          "publishedOn": "2021-06-02T02:42:26.000Z",
+          "wordCount": 143,
+          "title": "意外！巴西GDP已回到疫情前水平"
+        },
+        {
+          "id": "3631908",
+          "author": "周智宇",
+          "description": "前五月房企销售增速放缓，大型房企优势凸显，央企、国企飞快窜升。",
+          "link": "https://wallstreetcn.com/articles/3631908",
+          "publishedOn": "2021-06-02T02:06:25.000Z",
+          "wordCount": 119,
+          "title": "稳健型房企迎来春天，“万保招金”再聚前十"
+        },
+        {
+          "id": "3631912",
+          "author": "夏雨辰",
+          "description": "又来了！这次黑客将攻击目标瞄准了全球最大的肉类供应商JBS，芝商所活牛期货应声下跌3.4%。",
+          "link": "https://wallstreetcn.com/articles/3631912",
+          "publishedOn": "2021-06-02T01:55:26.000Z",
+          "wordCount": 144,
+          "title": "全球最大牛肉厂商关闭所有加工厂，黑客瘫痪美国1/4牛肉供给"
+        },
+        {
+          "id": "3631911",
+          "author": "见智研究员",
+          "description": "美国劳动力市场状况比总体数据所显示的要糟糕？",
+          "link": "https://wallstreetcn.com/premium/articles/3631911?layout=wscn-layout",
+          "publishedOn": "2021-06-02T01:32:25.000Z",
+          "wordCount": 106,
+          "title": "6月2日会员早报：美联储暗示本周非农超预期？OPEC+按兵不动"
+        },
+        {
+          "id": "3631909",
+          "author": "韩旭阳",
+          "description": "新能源大潮之下，新能源汽车的销量总是充满着惊喜。",
+          "link": "https://wallstreetcn.com/articles/3631909",
+          "publishedOn": "2021-06-02T01:32:05.000Z",
+          "wordCount": 146,
+          "title": "新能源大潮加速赶来：电动车卖爆了！万亿巨头传来重磅消息，3900亿龙头连刷三项世界纪录"
+        },
+        {
+          "id": "3631903",
+          "author": "林菁扬",
+          "description": "随着欧美经济强势复苏，OPEC+预计全球市场未来能够消化更多原油。OPEC+联合技术委员会预计，石油需求将在下半年每天增加600万桶；到7月底，全球石油库存将低于2015-2019年期间的五年平均水平。",
+          "link": "https://wallstreetcn.com/articles/3631903",
+          "publishedOn": "2021-06-02T01:26:36.000Z",
+          "wordCount": 124,
+          "title": "油价创两年新高，发生了什么？"
+        },
+        {
+          "id": "3631906",
+          "author": "韩旭阳",
+          "description": "尽管新冠病毒卷土重来，越南股市的表现仍旧令人瞩目。",
+          "link": "https://wallstreetcn.com/articles/3631906",
+          "publishedOn": "2021-06-02T01:26:02.000Z",
+          "wordCount": 123,
+          "title": "疫情越高，股市越嗨？越南股市今年暴涨21%"
+        },
+        {
+          "id": "3631907",
+          "author": "叶桢",
+          "description": "双方认为中美经济关系十分重要。双方本着平等和相互尊重的态度，就宏观经济形势和多双边领域合作进行了广泛交流，对彼此关心的问题坦诚交换了意见，愿意继续保持沟通。",
+          "link": "https://wallstreetcn.com/articles/3631907",
+          "publishedOn": "2021-06-02T01:04:30.000Z",
+          "wordCount": 119,
+          "title": "刘鹤与美财政部长耶伦视频通话"
+        },
+        {
+          "id": "3631900",
+          "author": "曾心怡",
+          "description": "支持率较高的秘鲁极左翼总统候选人卡斯蒂略提议效仿邻国智利，对铜销售征收最多高达75%的重税。若他真的当选总统，全球铜矿供应大格局或许就要变了。",
+          "link": "https://wallstreetcn.com/articles/3631900",
+          "publishedOn": "2021-06-02T01:03:12.000Z",
+          "wordCount": 126,
+          "title": "南美集体“变天”？又一矿产大国左翼要上台，矿业黑天鹅不断？"
+        },
+        {
+          "id": "3631898",
+          "author": "叶桢",
+          "description": "从历史来看，油价突破70美元后仍会延续上涨态势。如果油价保持在70美元以上，将抬升下半年中国PPI中枢，高点在5月突破8%之后，下半年中枢仍将位于6%之上。",
+          "link": "https://wallstreetcn.com/articles/3631898",
+          "publishedOn": "2021-06-02T00:37:23.000Z",
+          "wordCount": 124,
+          "title": "油价再破70美元大关，意味着什么？"
+        },
+        {
+          "id": "3631893",
+          "author": "叶桢",
+          "description": "这一目标达成的速度也快于欧洲央行的预期。今年3月，欧央行的预测显示，直到今年最后三个月的通胀率才会达到2%。",
+          "link": "https://wallstreetcn.com/articles/3631893",
+          "publishedOn": "2021-06-02T00:30:17.000Z",
+          "wordCount": 119,
+          "title": "央妈“收手”压力越来越大！欧洲CPI两年多来首度超过央行目标"
+        },
+        {
+          "id": "3631868",
+          "author": "乐鸣",
+          "description": "全球通胀这是什么节奏？",
+          "link": "https://wallstreetcn.com/premium/articles/3631868?layout=wscn-layout",
+          "publishedOn": "2021-06-02T00:27:28.000Z",
+          "wordCount": 108,
+          "title": "德国通胀冲向4% 刺激仍然绝不能停"
+        },
+        {
+          "id": "3631036",
+          "author": "夏雨辰",
+          "description": "这个时候百度下场造车晚不晚？集度汽车CEO夏一平的回答是：不晚！",
+          "link": "https://wallstreetcn.com/articles/3631036",
+          "publishedOn": "2021-06-02T00:22:01.000Z",
+          "wordCount": 207,
+          "title": "百度造车90天，集度汽车能不能打？"
+        },
+        {
+          "id": "3631890",
+          "author": "李丹",
+          "description": "有效联邦基金利率（EFFR）下降的同时，回笼流动性的美联储隔夜逆回购（RRP）用量上周创纪录。评论称，美联储上调联邦基金利率区间上限——IOER这种管理利率几乎板上钉钉。",
+          "link": "https://wallstreetcn.com/articles/3631890",
+          "publishedOn": "2021-06-02T00:06:15.000Z",
+          "wordCount": 132,
+          "title": "流动性爆表！美联储最重要的利率更接近零 逼近历史低位"
+        },
+        {
+          "id": "3631892",
+          "author": "韩旭阳",
+          "description": "周期股正在具备跑赢商品的能力，真正的周期行情正在开启。顺大势之下，周期股投资者应该是逆小势而布局。",
+          "link": "https://wallstreetcn.com/articles/3631892",
+          "publishedOn": "2021-06-02T00:05:49.000Z",
+          "wordCount": 118,
+          "title": "开源策略：周期股正在具备跑赢商品的能力"
+        },
         {
           "id": "3631883",
           "author": "朱希",
@@ -7867,6 +8074,69 @@
       "siteUrl": "https://www.bbc.co.uk/news/world/asia",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-china-57326075",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionIt is not unheard of that people working with poultry occasionally get infected\n\nA 41-year-old Chinese man has been confirmed as the first human case of infection with a rare bird flu strain. \n\n\nOfficials did not give details on how the man got infected but the H10N3 strain is thought to not easily spread from humans to humans. \n\n\nThe Jiangsu province resident, who was diagnosed last week, has now recovered and is ready to be discharged. \n\n\nThere are many bird flu strains and it is not unheard of that people working with poultry occasionally get infected. \n\n\nContract tracing did not find any other cases of the virus. \n\n\nBeijing's National Health Commission (NHC) said on Tuesday the resident of the city of Zhenjiang was hospitalized on 28 April and d…",
+          "link": "https://www.bbc.co.uk/news/world-asia-china-57326075",
+          "publishedOn": "2021-06-02T04:12:20.000Z",
+          "wordCount": 898,
+          "title": "[World] Bird flu: China sees first human case of rare H10N3 strain"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/business-57326054",
+          "author": null,
+          "description": "image copyrightGetty Images\nimage captionCoal is a major export for Australia\n\nAustralia's economy has continued its rapid rebound, to grow larger than it was before the Covid-19 pandemic.\n\n\nOfficial figures show that gross domestic product (GDP) rose by 1.8% in the first quarter, beating expectations.\n\n\nGrowth was spurred by a soaring demand for commodities around the world and spending by consumers and businesses.\n\n\nLast year, Australia was tipped into recession after lockdown measures were imposed across the country.\n\n\n\nChina suspends key economic dialogue with Australia\nThe battle to open up 'Fortress Australia'\nAustralia in first recession for nearly 30 years\n\n\n\nRising household spending, investment by businesses, and higher prices of iron ore and gas exports helped drive the expansio…",
+          "link": "https://www.bbc.co.uk/news/business-57326054",
+          "publishedOn": "2021-06-02T04:08:52.000Z",
+          "wordCount": 923,
+          "title": "[Business] Covid: Australia economy climbs back to pre-pandemic size"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-australia-57325513",
+          "author": null,
+          "description": "image copyrightEPA\nimage captionVictoria has recorded 60 cases since an outbreak emerged a week ago\n\nThe Australian state of Victoria will extend its lockdown by another week as authorities battle to control a growing virus outbreak.\n\n\nOfficials say people have been catching the virus from \"fleeting\" encounters in a Melbourne outbreak of the B.1.617.1 strain, now named the Gamma variant by the World Health Organization.\n\n\nAustralia's second most-populous state will now be locked down until 10 June.\n\n\nIt's the fourth shutdown endured by residents so far in the pandemic.\n\n\nSix new local cases were reported on Wednesday, taking the cluster to 60. \n\n\n\"I know this is not the news that everybody wants to hear but given the cases we have... the government had no choice,\" said Acting Premier James…",
+          "link": "https://www.bbc.co.uk/news/world-australia-57325513",
+          "publishedOn": "2021-06-02T03:21:14.000Z",
+          "wordCount": 1099,
+          "title": "[World] Australia coronavirus: Victoria extends lockdown to curb outbreak"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57303799",
+          "author": null,
+          "description": "The rise in number of mucormycosis cases in India has alarmed experts.",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57303799",
+          "publishedOn": "2021-06-02T03:11:42.000Z",
+          "wordCount": 544,
+          "title": "[World] India coronavirus: The patients battling deadly black fungus"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/technology-57316621",
+          "author": null,
+          "description": "image copyrightGetty Images\n\n\nAn update of HarmonyOS, the operating system developed by Huawei, means it will now be installed in a wider range of products, including its smartphones.\n\n\nIt is due to roll out across Asia following a launch event on 2 June.\n\n\nThere is no date for a global launch yet.\n\n\nA trade ban imposed by the US last year effectively prevented Huawei devices from working fully with Google's Android platform because it blocked access to essential apps like Gmail.\n\n\nHowever, Huawei said it did not consider Harmony to be a replacement for Android, which accounted for 85.4% of smartphones shipped in 2019.\n\n\nApple's iOS had the remaining 14.6%, according to the research firm IDC. \n\n\nOther operating systems such as Samsung's Tizen and Amazon's Fire have failed to disrupt the ha…",
+          "link": "https://www.bbc.co.uk/news/technology-57316621",
+          "publishedOn": "2021-06-02T00:19:48.000Z",
+          "wordCount": 889,
+          "title": "[Technology] Huawei operating system coming to smartphones in Asia"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-india-57169834",
+          "author": null,
+          "description": "image copyrightGetty Images\n\n\nWhen Jagriti Eadala found out she was pregnant in February, she and her husband celebrated by going on a holiday. It coincided with their anniversary and Covid appeared to be on the wane in India. \n\n\nBut within a month, the 29-year-old found herself cloistered in a room, scared to step out. The virus had returned with alarming ferocity. Her husband had to continue going to work, so she isolated herself from everyone in the house. \n\n\nBy then, India had begun vaccination against Covid but that was not an option for Jagriti. It still isn't because the jab has not been approved for pregnant women in the country. The government recently cleared it for nursing mothers, but there is no word on what pregnant women should expect, leaving them anxious and scared.  \n\n\n\"I…",
+          "link": "https://www.bbc.co.uk/news/world-asia-india-57169834",
+          "publishedOn": "2021-06-01T23:54:11.000Z",
+          "wordCount": 1842,
+          "title": "[World] Pregnant and unprotected: Indian mothers-to-be living in fear of Covid"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-asia-57241981",
+          "author": null,
+          "description": "image captionShafiq Ahmed was walking near his home when a group of masked men bundled him into a car\n\nWalking to the barber's one evening, Shafiq Ahmed began to suspect he was being followed. The 37-year-old lawyer and social media activist in Pakistan worried he was about to be abducted. \n\n\nA few seconds later, a group of men grabbed him and forced him into the backseat of a waiting car.\n\n\nThe kidnapping in December 2019, in the eastern city of Okara, was captured on CCTV. Mr Ahmed can be seen desperately trying to fight back, while his attackers appear to threaten bystanders against intervening.\n\n\nAfter Mr Ahmed was bundled in the car, no-one would hear from him for weeks.\n\n\nHe believes that the men who abducted him worked for Pakistan's intelligence services. Mr Ahmed was a forthright …",
+          "link": "https://www.bbc.co.uk/news/world-asia-57241981",
+          "publishedOn": "2021-06-01T23:48:48.000Z",
+          "wordCount": 2269,
+          "title": "[World] Pakistan intelligence accused of kidnapping critic in crackdown on dissent"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-china-57322504",
           "author": null,
           "description": "image copyrightGetty Images\nimage captionThe Sinovac jab is already being used in countries including the Philippines\n\nThe World Health Organization (WHO) has approved China's Sinovac Covid vaccine for emergency use.\n\n\nIt is the second Chinese vaccine to receive the green light from the WHO, after Sinopharm.\n\n\nIt opens the door for the jab to be used in the Covax programme, which aims to ensure fair access to vaccines.\n\n\nThe vaccine, which has already been used in several countries, has been recommended for over 18s, with a second dose two to four weeks later. \n\n\nThe emergency approval means the vaccine \"meets international standards for safety, efficacy and manufacturing\", the WHO said.\n\n\nStudies showed that Sinovac prevented symptomatic disease in more than half of those vaccinated and p…",
@@ -8961,15 +9231,6 @@
           "publishedOn": "2021-05-06T18:12:00.000Z",
           "wordCount": 2777,
           "title": "What Should China Do about Its Aging Population?"
-        },
-        {
-          "id": "https://www.chinafile.com/reporting-opinion/features/new-data-show-hong-kongs-national-security-arrests-follow-pattern",
-          "author": "Lydia Wong &#38; Thomas Kellogg",
-          "description": "Anthony Kwan—Getty Images\n  \n  \n  \n        \nPro-democracy supporters gather outside the West Kowloon court as police officers patrol, in Hong Kong, March 1, 2021.\n  \n  \nWhen a new National Security Law for Hong Kong went into effect on June 30, 2020, some observers believed it might serve more as a latent threat than an active tool. Many hoped both the Hong Kong government and Beijing might see the enactment of the law itself as a sufficient deterrent, a signal of Beijing’s resolve to turn the page on the w…",
-          "link": "https://www.chinafile.com/reporting-opinion/features/new-data-show-hong-kongs-national-security-arrests-follow-pattern",
-          "publishedOn": "2021-05-03T15:44:00.000Z",
-          "wordCount": 1445,
-          "title": "New Data Show Hong Kong’s National Security Arrests Follow a Pattern"
         }
       ]
     },
@@ -8978,6 +9239,69 @@
       "feedUrl": "https://rsshub.app/voa/cantonese/zprtie-ttp",
       "siteUrl": "https://www.voacantonese.com/",
       "articles": [
+        {
+          "id": "https://www.voacantonese.com/a/paris-20210601/5913278.html",
+          "author": null,
+          "description": "拜登總統在2021年6月1日紀念塔爾薩種族屠殺100週年時發表講話。\n\n\n\n白宫 — \n\n拜登總統星期二前往俄克拉荷馬州的塔爾薩發表講話，紀念塔爾薩種族屠殺100週年(Tulsa Race Massacre)。\n當年事件不但導致多人死亡，也使得有黑人華爾街之稱的地帶，中斷了原本繁榮發展的經濟，受難者後代至今仍在追求正義與賠償，拜登總統也宣布了政策，來拉近美國各族裔之間的財富差距。\n1921年5月31日和6月1日，在俄克拉荷馬州發生了塔爾薩種族屠殺(Tulsa Race Massacre)，當時白人武裝暴民殺害了100名至300名非裔居民，並燒毀了黑人社區格林伍德，到現在當局仍持續發現不明屍體殘骸。\n拜登總統在2021年6月1號，屠殺事件一百週年時訪問塔爾薩。在參觀格林伍德文化中心時，為拜登介紹導覽的文化中心項目主任米歇爾･博德斯(Michelle Brown-Burdex)展示了格林伍德當年經濟繁榮盛況的照片，告訴拜登說，“24小時之內白人暴徒摧毀了這一切”。\n拜登總統回應：“你說的沒錯，這是一場屠殺。”接著拜登總統會見了三位塔薩爾種族屠殺的倖存者。\n拜登總統會見三名塔薩爾種族屠殺倖存者(年齡介於101-107歲間): 維歐拉･弗萊契(Viola “Mother” Fletcher)、休斯･凡艾利斯(Hughes “Uncle Red” Van Ellis)、萊希･班寧菲爾德蘭德爾(Lessie “Mother Randle” Benningfield Randle)。這三位倖存者對地方政府提起訴訟, 並要求賠償。\n拜登總統發表紀念塔薩爾屠殺100週年的演說，現場有200多人參加，包括屠殺事件的倖存者與家屬，社區領袖，以及民選官員。拜登說，這麼大的悲劇發生之後，歷史卻被掩埋，塔爾薩當地的學校多年沒有教導這段歷史，更遑論美國其他地區的學校。\n拜登說：“在格林伍德發生的事，是仇恨的表現，是國內恐怖主義，而一直到今天都還存在。閉上眼睛想想。記得四年前看到在夏洛特維爾市發生的事，從電視上看到，新納粹黨、白人至上主義者、3K黨，他們晚上在維吉尼亞高舉點燃的火炬，青筋暴露的嘶吼著。只要閉上眼睛就彷佛能看到。（塔薩爾屠殺倖存者）維歐拉･弗萊契說，當她看到1月6日在國會大樓的暴動，她的心都碎了，她說看到一群暴力的白人極端主義者，讓她想到100年前發生在格林伍德的事情。”\n拜登總統說，仇恨一直沒有消失，現在仍然存在對非裔美國人和亞裔美國人的仇恨與歧視，他的政府將會努力解決這些問題。\n拜登總統說，在當年的種族隔離情況之下，受到歧視的非裔美國人努力工作，創造了繁榮的經濟，但由於這次屠殺事件，摧毀了當地的經濟，當地的非洲裔美國人被剝奪擁有自己的住房，還有建立信用的能力。\n原本繁榮的社區被列為破落地區，也得不到聯邦府建設的補助。拜登政府將針對兩個創造財富的關鍵要素：擁有住房與擁有小型企業，來協助非裔美國人社區。他將處理非洲裔美國人的房價被低估的歧視問題，並且在未來五年內，確保處於劣勢的小型企業，獲得約1000億美元的聯邦政府合同。\n拜登總統並說，另一個要關注的重點是投票權。他批評現在許多州通過限制選民投票的法案，並且呼籲民權團體促進選民登記，要求國會盡快通過相關法案，保障選民權益。",
+          "link": "https://www.voacantonese.com/a/paris-20210601/5913278.html",
+          "publishedOn": "2021-06-02T00:32:19.000Z",
+          "wordCount": 302,
+          "title": "拜登紀念塔爾薩種族屠殺100週年 推出政策降低族裔貧富差距"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/nba-urged-to-ban-china-sportwear-20210601/5912887.html",
+          "author": null,
+          "description": "NBA超級明星勒布朗·詹姆斯的中國球迷身穿有他名字的背心觀看洛杉磯湖人隊和布魯克林籃網隊在上海的比賽。（2019年10月10日）\n\n\n\n\n美國國會一個有關中國事務的委員會要求美國籃球明星停止為使用新疆種植棉花的中國運動品牌代言，對新疆的強迫勞動行為表示反對。\n美國國會及行政當局中國委員會（CECC）主席、民主黨參議員默克里（Jeff Merkley）和共同主席、民主黨眾議員麥戈文（Jim McGovern）星期二（6月1日）致函美國男子職業籃球聯賽組織國家籃球協會（NBA）並提出上述要求。\n信函指出，十多名NBA球員與安踏（ANTA）、李寧（Li-Ning）和匹克（Peak）等中國運動品牌公司簽了約，在西方媒體最近披露這些公司繼續使用新疆棉花後，“球員們繼續與安踏運動品牌公司簽訂新約。”\n這封信函說，安踏、李寧和匹克都公開支持新疆棉，NBA球員贊助這些產品，“可能讓他們成為使用強迫勞動的幫兇” ，“我們認為與這些使用新疆棉的公司保持商業交往為NBA球員和NBA本身製造了聲譽危險”，因為美國政府確定中國政府在新疆進行了種族滅絕，並禁止進口新疆棉。\n信函敦促國家籃球協會球員工會（NBPA）就新疆正在進行的種族滅絕和強迫勞動行為對球員們進行教育，並表示“我們希望此類努力的結果會是球員們利用他們與安踏、李寧和匹克的合約對這些公司施加壓力，要它們停止使用新疆棉。如果沒有這個結果，我們就鼓勵球員們終止與這些公司的代言合約。”\n中國是NBA極為重要的海外市場。2019年末，因為當時的休斯頓火箭隊（Houston Rockets）總經理莫雷（Daryl Morey）發了一條支持香港民主抗議的推文，NBA與中國關係的惡化。中國的官方電視台因為莫雷這條隨後刪掉的推文中斷了對NBA比賽的轉播。\n與此同時，這起事件讓很多美國政界人士指責NBA對中國共產黨政府過於軟弱。\n時任美國副總統、共和黨人彭斯在2019年10月的一次演說中抨擊說，NBA的一些明星和老闆經常批評美國，在中國人權與自由問題上卻“失聲”了。他說：“NBA與中國共產黨政府為伍，壓制言論自由，行為就像是那個威權政權全資擁有的子公司。”\n去年7月，在傳出當地僱員在NBA在新疆開辦的籃球學院虐待少年球員並騷擾外國工作人員的指稱後，NBA表示已經與這處新疆培訓設施切斷了聯繫。\nNBA主席蕭華（ Adam Silver）隨後在去年10月接受美國有線新聞電視網（CNN）採訪時說，NBA與中國的長期互動對美中相互了解有著“正面”影響。他說，他仍然相信民間交流有助於兩國文化相互學習和輸出美國價值觀。\n（本文參考了路透社的報導。）",
+          "link": "https://www.voacantonese.com/a/nba-urged-to-ban-china-sportwear-20210601/5912887.html",
+          "publishedOn": "2021-06-01T23:04:28.000Z",
+          "wordCount": 285,
+          "title": "國會機構CECC呼籲美國籃球明星停止為中國運動品牌代言"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/who-approves-chinese-made-covid-vaccine-for-emergency-use-20210601/5912883.html",
+          "author": null,
+          "description": "香港市民在一處疫苗接種中心等候接種科興新冠疫苗。(2021年2月26日)\n\n\n\n\n世界衛生組織批准對18歲及以上成年人緊急使用一種中國製造的新冠疫苗。\n聯合國旗下的世衛組織星期二(6月1日)批准了中國製藥公司科興生物(Sinovac Biotech)製造的疫苗。這是第二家疫苗被世衛組織批准緊急使用的中國公司。\n世衛組織說，科興提交的數據顯示，在接種兩劑科興疫苗的人群中，只有略多於半數的人得到預防出現症狀的保護。世衛組織還說，無法評估疫苗在60歲以上人群中的有效性，因為這個年齡群組參加實驗的人很少。\n世衛組織的決定使“新冠疫苗實施計劃”(COVAX)又增加了一種可用來幫助較貧窮國家的疫苗。這個國際項目向發展中國家分發疫苗，其中很多是貧窮國家。\n但是，COVAX分發疫苗的努力遲緩了下來，這是因為該項目位於印度的最大供應商表示，由於印度感染病例的上升，在年底之前將被迫停止供應疫苗。\n上個月，世衛組織批評緊急使用中國國有製藥公司國藥集團(Sinopharm)的疫苗。其它獲得世衛組織批准緊急認證的新冠疫苗是阿斯利康(AstraZeneca)、默德納(Moderna)、強生(Johnson & Johnson)和輝瑞-生技(Pfizer-BioNTech)製造的疫苗。",
+          "link": "https://www.voacantonese.com/a/who-approves-chinese-made-covid-vaccine-for-emergency-use-20210601/5912883.html",
+          "publishedOn": "2021-06-01T22:56:34.000Z",
+          "wordCount": 273,
+          "title": "世衛組織批准緊急使用中國科興新冠疫苗"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/belarus-activist-stabs-himself-20210601/5912877.html",
+          "author": null,
+          "description": "白俄羅斯反對派活動人士拉提帕烏（Stsiapan Latypau）在法庭聽證中自傷抗議。（2021年6月1日）\n\n\n\n\n白俄羅斯一名反對派活動人士星期二（6月1日）在明斯克一家法庭出席聽證時把鋼筆刺進了自己的喉嚨，抗議當局威脅他如果不承認犯有組織反對盧卡申科總統抗議的罪行就會逮捕他的親友。\n自由歐洲電台/自由電台播放的畫面顯示拉提帕烏（Stsiapan Latypau）自傷後癱倒在被告囚籠的長椅上，看守正在處理他的傷勢。\n畫面顯示他被放在一個擔架上抬出法院，脖子用白布包紮，並被送進救護車。\n白俄羅斯維阿斯納（Viasna）人權中心說，拉提帕烏進入藥物控制的人工昏迷狀態。他的律師拒絕就此發表評論。\n拉提帕烏自傷之前爬上被告席囚籠的長椅聲稱，調查人員告訴他，“我如果不認罪，他們將對我家人和鄰居刑事立案。”\n拉提帕烏2020年被控多項罪名並一直被關押，罪名包括在去年夏天大規模反對盧卡申科的抗議活動中的行動破壞了公共秩序。\n如果罪名成立，拉提帕烏最多可被判處十年監禁。\n拉提帕烏的明顯自殺企圖是與反對盧卡申科抗議行動有關的最新事件。一名反對派政治人物上星期在獄中死亡，死因不明，一名因抗議行為而接受調查的少年也從一棟16層高的樓宇中跳樓自殺。\n“這是白俄羅斯國家恐怖、壓迫和酷刑的結果，”白俄羅斯反對派領袖季哈諾夫斯卡婭（Svetlana Tsikhanouskaya）寫道。“我們必須立即停止它！”\n盧卡申科上個月迫降一家瑞安航空公司（ Ryanair）的班機並逮捕2019年後流亡海外的白俄羅斯活動人士普拉塔塞維奇（Raman Pratasevich），各國紛紛對此進行譴責，但白俄羅斯的密切盟友俄羅斯對他表示了支持。\n普拉塔塞維奇和女友薩佩加（Sofia Sapega）在這架客機改道在明斯克機場著陸後被捕。飛機被白俄羅斯勒令改道的理由是有人據稱威脅說機上有炸彈，但飛機上沒有發現爆炸物。\n作為回應，歐洲國家停止飛越白俄羅斯的領空，讓白俄羅斯政府無法得到飛越收入，並阻止國有的白俄羅斯航空公司(Belavia)的班機在歐洲城市降落。\n盧卡申科上星期與俄羅斯總統普京會面，鞏固俄羅斯政府這個重要外國盟友的支持。盧卡申科星期二宣布，白俄羅斯很快將開放與克里米亞之間的直航。俄羅斯2014年吞併了克里米亞，但西方國家政府並不承認俄羅斯對克里米亞的主權聲索。",
+          "link": "https://www.voacantonese.com/a/belarus-activist-stabs-himself-20210601/5912877.html",
+          "publishedOn": "2021-06-01T22:49:59.000Z",
+          "wordCount": 286,
+          "title": "白俄羅斯反對派活動人士法庭聽證時刺喉自傷抗議"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/china-firms-misuse-green-financing-20210601/5912871.html",
+          "author": null,
+          "description": "中國山西省一個煤炭加​​工廠（2019年11月28日）\n\n\n\n\n最新調查表明，中國大型國有能源企業利用規章漏洞，通過綠色融資來資助包括燃煤發電廠在內的日常運作。\n能源經濟與金融分析研究所（IEEFA）星期二（6月1日）公佈的研究報告對中國能源投資集團（CEIC）和中國華能集團等大型國有能源企業今年發行的首批以人民幣計價的碳中和債進行了分析，並得出以上結論。\n報告說，這批碳中和債的融資收益有30%用作債券發行方的運營資金。\n“綠色債券的承諾是，它們可以幫助將資金用於能源轉型投資，”能源經濟與金融分析研究所分析員克里斯蒂娜·吳（Christina Ng）對路透社說。“但是，這些國企從這些債券交易中籌集的收益可能會被用於煤炭業務的維持穩定或擴大，特別是因為這些國企即將有新的煤炭資產。”\n路透社的報導提到，為了實現2030年讓碳排放達到峰值並在2060年實現淨零排放的目標，中國需要興建清潔能源的基礎建設，發放綠色債券就成為中國政府的一項優先要務。中國今年第一季度為此發行了157億美元的綠色債券，超過了美國，但分析人士認為還需要更多的政策支持。\n中國公司之前獲准申請發行綠色債券來資助“煤炭清潔利用”項目，儘管它們依然製造大量的二氧化碳。\n克里斯蒂娜·吳對路透社說，中國央行以後將“煤炭清潔利用項目”排除在申請綠色債券發行權的條件清單之外，可是最高50%的綠色債券收益依然能夠用作運營資本，用來資助煤炭產業。\n她說，“綠色債券的收益100%都應該用於綠色項目。”\n(本文依據了路透社的報導。)",
+          "link": "https://www.voacantonese.com/a/china-firms-misuse-green-financing-20210601/5912871.html",
+          "publishedOn": "2021-06-01T22:39:26.000Z",
+          "wordCount": 277,
+          "title": "研究報告：中國國有企業用綠色融資規則漏洞資助燃煤電廠"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/China-pervasive-discrimination-under-two-child-policy-20210601/5912862.html",
+          "author": null,
+          "description": "廣東深圳蛇口的兒童在玩耍。（2021年3月15日）\n\n\n\n\n在中國推行一胎化的三十多年中，中國女性因超生遭受了世界罕見的迫害和摧殘。新的報告顯示，目前正在推行的多胎政策正在給中國女性就業帶來新的歧視和困難。\n總部設在紐約的人權組織“人權觀察”在周二（6月1日）發布的報告《中國：二孩政策造成普遍歧視》中指出，二胎政策意味每個女性可能需要兩次產假，“許多公司企圖避免員工休產假，於是在招聘廣告、新人面試和職場待遇各方面給沒有孩子或只有一孩的女性差別對待。”\n報告還提到雇主對懷孕員工採取多種懲罰、開除、罰款等。還有的企業會給懷孕女工製造工作困難，迫使她們自動辭職。報告列舉了東北吉林一家公司強迫一個懷有7個半月身孕的員工去建築工地工作。\n有些企業在招工廣告中甚至公然把生育狀況列入了招工標準。報告說，北京一家成衣業公司最近在前程無憂網（51job.com）發布經理職缺，要求應徵者“年齡30到35歲，已婚已育，外貌佳，身材好。”\n人權觀察研究員王亞秋表示，面對中國生育率下降和老齡化問題加劇，中國政府採取措施，鼓勵女性多生孩子是可以理解的。但是，她說，“中國政府該做的不是逼迫女性'為了國家'生育第二個孩子，而是應該履行國際法義務，保障就業和生育權利的平等待遇。”\n王亞秋表示，“追求提高生育率卻沒有適當的就業保障，中國政府等於是向雇主騷擾和歧視女性發放了許可證。”她說：“許多女性已經走上網路、媒體和法院，訴說她們在職場遭受的侵害。”\n中國最近公佈的最新一次人口普查結果顯示，中國的人口生育率為1.3，已降至1961年以來的最低水平，也使中國成為世界上出生率最低的國家之一。中國政府在2016年開始放棄一胎化政策，開始實行二胎化。5月31日，中國政府又宣布，實施一對夫妻可生三個孩子的政策。\n人權觀察的報告說，雖然中國憲法保障男女平權，中國法律也禁止性別歧視和懷孕的就業歧視，但由於缺少制度保證，受害者找不到適當的救濟管道。她們的投訴往往無法成功。即使經過重重困難最後勝訴，可獲得賠償根本無法彌補打官司的成本，更無法對企業產生任何有效的赫阻作用。",
+          "link": "https://www.voacantonese.com/a/China-pervasive-discrimination-under-two-child-policy-20210601/5912862.html",
+          "publishedOn": "2021-06-01T22:07:14.000Z",
+          "wordCount": 281,
+          "title": "人權報告：由於制度缺失  中國開放多胎生育為女性帶來更多歧視"
+        },
+        {
+          "id": "https://www.voacantonese.com/a/China-accuses-morrison-and-ardern-of-gross-interference-on-Xinjiang-and-South-China-Sea-20210601/5912836.html",
+          "author": null,
+          "description": "新西蘭總理阿德恩和澳大利亞總理莫里森在皇后鎮舉行澳新領導人會議。（2021年5月31日）\n\n\n\n\n中國星期一（5月31日）指責澳大利亞和新西蘭總理在香港、新疆等事務及南中國海問題上粗暴干涉中國內政，並對此表示堅決反對。澳新兩位領導人此前譴責中國在南中國海“破壞穩定的活動”，並對香港事態及新疆人權問題表示嚴重關注。\n澳大利亞總理莫里森和新西蘭總理阿德恩星期一舉行了年度澳大利亞-新西蘭領導人會議，在會後發表的聯合聲明中，兩國總理對南中國海的事態發展表示嚴重關切，並強調了航行自由和飛越自由的重要性。\n兩國總理還對限製香港人民的權利和自由的事態發展深表關注，並對新疆維吾爾自治區的人權狀況表示嚴重關切。\n南中國海蘊藏著豐富的漁業資源及海底燃料資源。馬來西亞、菲律賓和越南等國均是南中國海的主權聲索國，而中國更是宣稱對南中國海幾乎所有海域擁有主權。中國近年來在南中國海加緊造島的同時，還不斷在這片海域部署海警和漁船以加強巡邏力度，引起了國際社會的關注與擔憂。\n自北京於2020年6月頒布了港版《國家安全法》以來，中國不斷加強對香港的控制，越來越多的活動人士和政界人士被迫離開香港，流亡海外。北京對於新疆的做法更是受到了國際社會的廣泛批評。新疆的拘禁營中據信關押了數百萬維吾爾和其他穆斯林少數族裔，他們據稱在營中遭受了酷刑、強迫絕育、強迫墮胎、強姦和性虐待，以及政治灌輸等侵犯人權行為。\n中國外交部發言人汪文斌在例行記者會上對澳新總理的聯合聲明作出回應。他說，澳大利亞和新西蘭總理在香港、新疆等中國內部事務及南中國海問題上說三道四，對中國進行無端指責，粗暴干涉中國內政，此舉嚴重違反了國際法和國際關係基本準則，中國對此堅決反對。\n汪文斌回應稱，當前南中國海局勢總體保持穩定，航行和飛越自由從來都不是問題。在香港問題上，中國堅持貫徹“一國兩制”方針、維護香港繁榮和穩定的決心和信心不會動搖。而所謂的涉疆問題並非人權、民族或宗教問題，而是反暴恐、反分裂和去極端化問題。他接著說：“過去四年多，新疆沒有發生一起暴恐案件，經濟社會發展和民生改善取得了顯著成就，包括維吾爾族在內各族人民的權益得到充分保障。”\n他還說：“我們再次敦促有關方面停止發表不負責任的言論，多做有利於雙邊關係發展和地區和平穩定的事，而不是相反。”\n澳大利亞目前與中國關係緊張。去年4月，澳大利亞總理莫里森呼籲國際社會對新冠病毒源頭展開獨立調查，這個行動引起北京的強烈憤怒。中國隨後對澳大利亞展開了一系列報復行動，包括限制進口多種澳大利亞商品，以及對澳方施加懲罰性關稅等。\n對此，莫里森仍然表示，澳大利亞在某些問題上會堅守原則，不會做交易。\n新西蘭總理阿德恩上個月曾表示，隨著北京在世界上的角色不斷增長和變化，新西蘭和中國之間的分歧正變得越來越難以調和。她還表示，管理與中國的關係並不總是容易的，而且“不可能有任何保證”。\n新西蘭和澳大利亞今年3月曾發表聯合聲明，對越來越多有關新疆維吾爾族和其他穆斯林少數民族的人權受到嚴重踐踏的報告表示嚴重關注。\n新西蘭外交部長馬胡塔則在4月的一次演講中說：“人權等問題應以一貫的、不分國家的方式處理。如果某個國家的行動與我們對普遍人權的長期和正式承諾相衝突，我們不會忽視其嚴重性和影響。”\n她一星期前還對英國衛報表示，新西蘭可能會發現自己處於來自中國的憤怒“風暴”的中心，出口商需要尋求多樣化，確保其能夠在新西蘭與北京不斷惡化的關係中生存下來。",
+          "link": "https://www.voacantonese.com/a/China-accuses-morrison-and-ardern-of-gross-interference-on-Xinjiang-and-South-China-Sea-20210601/5912836.html",
+          "publishedOn": "2021-06-01T21:50:09.000Z",
+          "wordCount": 286,
+          "title": "澳新總理嚴重關注中國人權及南中國海  中國指責二人干涉內政"
+        },
         {
           "id": "https://www.voacantonese.com/a/voa60-cantonese-060121/5912511.html",
           "author": null,
@@ -11061,6 +11385,726 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/live",
       "siteUrl": "https://wallstreetcn.com/live/global",
       "articles": [
+        {
+          "id": "https://wallstreetcn.com/livenews/1984372",
+          "author": null,
+          "description": "日本央行委员Adachi：日本央行5月份不购买ETF是反映了3月评估结果，是合适的。",
+          "link": "https://wallstreetcn.com/livenews/1984372",
+          "publishedOn": "2021-06-02T05:30:19.000Z",
+          "wordCount": 141,
+          "title": "日本央行委员Adachi：日本央行5月份不购买ETF是反映了3月评估结果，是合适的。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984370",
+          "author": null,
+          "description": "俄罗斯央行行长纳比乌里娜(Elvira Nabiullina)表示，数字货币将是俄罗斯金融系统的未来，因为它与数字经济的发展相关联，美国的制裁对俄罗斯来说是一种“持续的风险”，“去美元化”是管理外汇风险的广泛政策的一部分。（CNBC）",
+          "link": "https://wallstreetcn.com/livenews/1984370",
+          "publishedOn": "2021-06-02T05:25:56.000Z",
+          "wordCount": 143,
+          "title": "俄罗斯央行行长纳比乌里娜(Elvira Nabiullina)表示，数字货币将是俄罗斯金融系统的未来，因为它与数字经济的发展相关联，美国的制裁对俄罗斯来说是一种“持续的..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984366",
+          "author": null,
+          "description": "亚马逊将6月21-22日定为prime day。",
+          "link": "https://wallstreetcn.com/livenews/1984366",
+          "publishedOn": "2021-06-02T05:15:23.000Z",
+          "wordCount": 143,
+          "title": "亚马逊将6月21-22日定为prime day。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984364",
+          "author": null,
+          "description": "富时新加坡海峡时报指数跌1%。",
+          "link": "https://wallstreetcn.com/livenews/1984364",
+          "publishedOn": "2021-06-02T05:11:57.000Z",
+          "wordCount": 141,
+          "title": "富时新加坡海峡时报指数跌1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984361",
+          "author": null,
+          "description": "韩国央行：密切关注通胀趋势，韩国央行行长将于6月24日就通胀讲话，供需方面的通胀压力可能扩张。到2022年通胀率预计将放缓至1%左右。",
+          "link": "https://wallstreetcn.com/livenews/1984361",
+          "publishedOn": "2021-06-02T05:08:28.000Z",
+          "wordCount": 141,
+          "title": "韩国央行：密切关注通胀趋势，韩国央行行长将于6月24日就通胀讲话，供需方面的通胀压力可能扩张。到2022年通胀率预计将放缓至1%左右。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984359",
+          "author": null,
+          "description": "近期，深圳市地方金融监管局地方金融监管局对辖内9家主要从事赎楼担保业务的融资担保公司进行集体监管约谈。深圳市地方金融监管局指出，各融资担保公司应对照各项监管要求，全面排查经营用途贷款担保业务，重点自查涉及房地产“贷款担保”或“委托贷款”相关业务，一旦发现违规情形，应提前结清相关业务，并向市地方金融监管局报告。",
+          "link": "https://wallstreetcn.com/livenews/1984359",
+          "publishedOn": "2021-06-02T05:06:26.000Z",
+          "wordCount": 142,
+          "title": "近期，深圳市地方金融监管局地方金融监管局对辖内9家主要从事赎楼担保业务的融资担保公司进行集体监管约谈。深圳市地方金融监管局指出，各融资担保公司应对照各..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984358",
+          "author": null,
+          "description": "语音平台Redbox Global现在接受狗狗币作为官方支付方式。",
+          "link": "https://wallstreetcn.com/livenews/1984358",
+          "publishedOn": "2021-06-02T05:05:35.000Z",
+          "wordCount": 143,
+          "title": "语音平台Redbox Global现在接受狗狗币作为官方支付方式。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984356",
+          "author": null,
+          "description": "菲律宾股指收涨3.2%。",
+          "link": "https://wallstreetcn.com/livenews/1984356",
+          "publishedOn": "2021-06-02T05:00:29.000Z",
+          "wordCount": 141,
+          "title": "菲律宾股指收涨3.2%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984355",
+          "author": null,
+          "description": "京东618首日：39个品牌下单金额过亿，4800个品牌同比增幅超5倍，超六成核心三方店铺增长翻番。",
+          "link": "https://wallstreetcn.com/livenews/1984355",
+          "publishedOn": "2021-06-02T04:57:33.000Z",
+          "wordCount": 141,
+          "title": "京东618首日：39个品牌下单金额过亿，4800个品牌同比增幅超5倍，超六成核心三方店铺增长翻番。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984351",
+          "author": null,
+          "description": "2日上午，广东省汕头市南澳县疾病预防控制中心发布《关于1名游客新冠病毒核酸检测结果阳性防控情况的通报》。6月1日晚，汕头南澳县接广州市通报，在6月1日广州市社区筛查中1名人员核酸检测结果为阳性，该人员5月21日至23日曾到过汕头南澳岛旅游。（央视新闻）",
+          "link": "https://wallstreetcn.com/livenews/1984351",
+          "publishedOn": "2021-06-02T04:50:53.000Z",
+          "wordCount": 142,
+          "title": "2日上午，广东省汕头市南澳县疾病预防控制中心发布《关于1名游客新冠病毒核酸检测结果阳性防控情况的通报》。6月1日晚，汕头南澳县接广州市通报，在6月1日广州市..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984349",
+          "author": null,
+          "description": "6月2日，深交所首批4只基础设施公募REITs配售比例出炉，首钢绿能公众认购最终配售比例最低，为1.76%，该数据已刷新公募历史最低配售比例。此前在2019年12月发行的广发科技创新基金曾一日大卖300亿元，最终配售比例低至3.3%，创下公募基金比例配售新低。（澎湃）",
+          "link": "https://wallstreetcn.com/livenews/1984349",
+          "publishedOn": "2021-06-02T04:37:08.000Z",
+          "wordCount": 142,
+          "title": "6月2日，深交所首批4只基础设施公募REITs配售比例出炉，首钢绿能公众认购最终配售比例最低，为1.76%，该数据已刷新公募历史最低配售比例。此前在2019年12月发行..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984348",
+          "author": null,
+          "description": "A股两市早盘高开低走，创业板指跌1.5%，医美概念股集体重挫。\n刘鹤与美财政部长耶伦视频通话，双方认为中美关系十分重要。\n国家卫健委：昨日新增确诊病例24例，其中广东新增本土病例10例。\n人民币中间价七天来首次调降，报6.3773，下调201点。\n富士康：深圳观澜园区小面积起火，目前火已扑灭。\n“手套茅”英科医疗早盘跌停，公司实控人及部分董监高拟减持不超6.07%股份。\n沪深两市融资余额刷新近6年高点，较前一交易日增加79.47亿元。",
+          "link": "https://wallstreetcn.com/livenews/1984348",
+          "publishedOn": "2021-06-02T04:35:00.000Z",
+          "wordCount": 154,
+          "title": "A股两市早盘高开低走，创业板指跌1.5%，医美概念股集体重挫。\n刘鹤与美财政部长耶伦视频通话，双方认为中美关系十分重要。\n国家卫健委：昨日新增确诊病例24例，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984347",
+          "author": null,
+          "description": "高盛：相对于现金和债券更看好中国股票，认为股市处于“多年上升期的初期阶段”，顺周期价值股应该会迎头赶上成长股。",
+          "link": "https://wallstreetcn.com/livenews/1984347",
+          "publishedOn": "2021-06-02T04:33:37.000Z",
+          "wordCount": 141,
+          "title": "高盛：相对于现金和债券更看好中国股票，认为股市处于“多年上升期的初期阶段”，顺周期价值股应该会迎头赶上成长股。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984343",
+          "author": null,
+          "description": "① 时间待定 华为正式举办鸿蒙产品发布会；\n次日02:00 美联储发布经济状况褐皮书，美国明尼阿波利斯联储主席卡什卡利、亚特兰大联储主席博斯蒂克、达拉斯联储主席卡普兰、以及费城联储主席哈克参加主题为种族与经济的线上会议；\n微信小程序搜索“见闻历”，了解更多。",
+          "link": "https://wallstreetcn.com/livenews/1984343",
+          "publishedOn": "2021-06-02T04:28:03.000Z",
+          "wordCount": 178,
+          "title": "① 时间待定 华为正式举办鸿蒙产品发布会；\n②  次日00:00 美国费城联储主席哈克就经济展望讲话，芝加哥联储主席埃文斯就经济现状和货币政策讲话；\n③ 次日01:10..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984342",
+          "author": null,
+          "description": "日前银保监会财险部发布《农业保险承保理赔管理办法（征求意见稿）》表示，保险机构应当准确完整记录投保信息。《意见稿》指出，投保信息应当包括但不限于：客户信息、保险标的信息等。其中，保险标的信息包括种植业保险标的数量、地块或村组位置，养殖业保险标的数量、地点和标的信息，森林保险林木属性等。此外，投保信息还应包括投保险种、保费金额、保险费率、自缴保费、保险金额、保险期间等。（北京商报）",
+          "link": "https://wallstreetcn.com/livenews/1984342",
+          "publishedOn": "2021-06-02T04:14:47.000Z",
+          "wordCount": 143,
+          "title": "日前银保监会财险部发布《农业保险承保理赔管理办法（征求意见稿）》表示，保险机构应当准确完整记录投保信息。《意见稿》指出，投保信息应当包括但不限于：客户..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984340",
+          "author": null,
+          "description": "印度过去24小时新增确诊病例132788例，累计确诊病例达2831万例；新增死亡病例3207例，累计死亡335102例。",
+          "link": "https://wallstreetcn.com/livenews/1984340",
+          "publishedOn": "2021-06-02T04:03:34.000Z",
+          "wordCount": 141,
+          "title": "印度过去24小时新增确诊病例132788例，累计确诊病例达2831万例；新增死亡病例3207例，累计死亡335102例。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984339",
+          "author": null,
+          "description": "据陶然笔记，6月2日上午，中共中央政治局委员、国务院副总理、中美全面经济对话中方牵头人刘鹤与美财政部长耶伦举行视频通话。在此前的中美经贸高级别磋商中，美方是由贸易代表办公室（USTR）和财政部两个部门共同代表美国与中方会谈。如今不到一周的时间内，中方牵头人与美国两机构的新“掌门”先后通话。这意味着双方完成了对之前中美经贸关系的延续接洽，一度静默的中美经贸交流再次启动。",
+          "link": "https://wallstreetcn.com/livenews/1984339",
+          "publishedOn": "2021-06-02T04:02:48.000Z",
+          "wordCount": 145,
+          "title": "据陶然笔记，6月2日上午，中共中央政治局委员、国务院副总理、中美全面经济对话中方牵头人刘鹤与美财政部长耶伦举行视频通话。在此前的中美经贸高级别磋商中，美..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984335",
+          "author": null,
+          "description": "据猫眼专业版实时数据，截至6月2日11:27，《速度与激情9》总票房超12.31亿元，成2021年进口片票房冠军。",
+          "link": "https://wallstreetcn.com/livenews/1984335",
+          "publishedOn": "2021-06-02T03:54:20.000Z",
+          "wordCount": 141,
+          "title": "据猫眼专业版实时数据，截至6月2日11:27，《速度与激情9》总票房超12.31亿元，成2021年进口片票房冠军。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984334",
+          "author": null,
+          "description": "从云南大学获悉，由胡凤益教授团队培育的多年生稻“云大107” 近日在云南省玉溪市新平县戛洒镇试验示范地获得丰收。项目在2021年开始在戛洒镇开始大规模推广应用，目前已经种植超过500亩，长势喜人。经专家组实测验收，“云大107”早稻示范片的亩产量为615.6千克，比邻近非示范区亩产量高7.77%，取得了明显的增产增收效果，具有较大的应用前景。（央视新闻）",
+          "link": "https://wallstreetcn.com/livenews/1984334",
+          "publishedOn": "2021-06-02T03:52:47.000Z",
+          "wordCount": 144,
+          "title": "从云南大学获悉，由胡凤益教授团队培育的多年生稻“云大107” 近日在云南省玉溪市新平县戛洒镇试验示范地获得丰收。项目在2021年开始在戛洒镇开始大规模推广应用..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984331",
+          "author": null,
+          "description": "一季度，评级机构共对35家发行人进行了评级调整，同比增加6.06%；占总存续家数的0.99%，同比增加0.1个百分点。其中正面调整3家，同比减少78.57%；负面调整32家，同比增加68.42%。级别调整中高级别下调幅度较大。有22家发行人的主体评级被下调3个及以上子级，占比73.33%。一季度新增14家企业首次违约，涉及6家评级机构，违约前1年内最高级别AA+以上的家数过半。（全文）",
+          "link": "https://wallstreetcn.com/livenews/1984331",
+          "publishedOn": "2021-06-02T03:49:11.000Z",
+          "wordCount": 142,
+          "title": "一季度，评级机构共对35家发行人进行了评级调整，同比增加6.06%；占总存续家数的0.99%，同比增加0.1个百分点。其中正面调整3家，同比减少78.57%；负面调整32家，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984330",
+          "author": null,
+          "description": "中国财政部发行3年期债券，规模550亿元，发行利率2.7069%，边际利率2.7256%，预期2.7200%，投标倍数3.22倍，边际倍数1.15倍；\n中国财政部发行7年期债券，规模550亿元，发行利率3.0115%，边际利率3.0328%，预期3.0300%，投标倍数4.02倍，边际倍数4.20倍。",
+          "link": "https://wallstreetcn.com/livenews/1984330",
+          "publishedOn": "2021-06-02T03:40:00.000Z",
+          "wordCount": 144,
+          "title": "中国财政部发行3年期债券，规模550亿元，发行利率2.7069%，边际利率2.7256%，预期2.7200%，投标倍数3.22倍，边际倍数1.15倍；\n中国财政部发行7年期债券，规模550..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984328",
+          "author": null,
+          "description": "北京市教委1日发布近日检查校外培训机构的通报。针对无证学科类、语言类校外培训机构等违规教学的情况再次进行点名。在查访中，北京龙举云兴教育科技有限公司（龙文教育）西城区中信城教学点、北京壹佳城培训学校有限公司（北外壹佳英语）广安门校区、北京市西城区博弈文化艺术培训学校庄胜广场教学点等机构被点名。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1984328",
+          "publishedOn": "2021-06-02T03:38:36.000Z",
+          "wordCount": 142,
+          "title": "北京市教委1日发布近日检查校外培训机构的通报。针对无证学科类、语言类校外培训机构等违规教学的情况再次进行点名。在查访中，北京龙举云兴教育科技有限公司（..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984327",
+          "author": null,
+          "description": "截至A股早盘收盘，主要行业ETF多数下跌，军工龙头ETF跌超2%，科技ETF跌近2%；房地产ETF上涨0.6%。",
+          "link": "https://wallstreetcn.com/livenews/1984327",
+          "publishedOn": "2021-06-02T03:36:33.000Z",
+          "wordCount": 141,
+          "title": "截至A股早盘收盘，主要行业ETF多数下跌，军工龙头ETF跌超2%，科技ETF跌近2%；房地产ETF上涨0.6%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984325",
+          "author": null,
+          "description": "国债期货早盘收盘，10年期主力合约持平，5年期涨0.03%，2年期持平。",
+          "link": "https://wallstreetcn.com/livenews/1984325",
+          "publishedOn": "2021-06-02T03:32:31.000Z",
+          "wordCount": 141,
+          "title": "国债期货早盘收盘，10年期主力合约持平，5年期涨0.03%，2年期持平。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984322",
+          "author": null,
+          "description": "中证转债指数午盘跌0.04%，英科转债跌超17%，溢利转债跌超6%；锋龙转债涨超15%，嘉澳转债涨超8%，比音转债涨超7%。",
+          "link": "https://wallstreetcn.com/livenews/1984322",
+          "publishedOn": "2021-06-02T03:32:05.000Z",
+          "wordCount": 141,
+          "title": "中证转债指数午盘跌0.04%，英科转债跌超17%，溢利转债跌超6%；锋龙转债涨超15%，嘉澳转债涨超8%，比音转债涨超7%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984320",
+          "author": null,
+          "description": "沪指早盘收报3601.24点，跌0.65%，成交额2890亿元。\n深成指早盘收报14873.35点，跌1.07%，成交额3544亿元。\n创业板指早盘收报3248.64点，跌1.56%，成交额1237亿元。",
+          "link": "https://wallstreetcn.com/livenews/1984320",
+          "publishedOn": "2021-06-02T03:31:00.000Z",
+          "wordCount": 147,
+          "title": "沪指早盘收报3601.24点，跌0.65%，成交额2890亿元。\n深成指早盘收报14873.35点，跌1.07%，成交额3544亿元。\n创业板指早盘收报3248.64点，跌1.56%，成交额1237亿..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984321",
+          "author": null,
+          "description": "科创50指数早盘收报1437.74点，跌1.56%，成交额317亿。",
+          "link": "https://wallstreetcn.com/livenews/1984321",
+          "publishedOn": "2021-06-02T03:31:00.000Z",
+          "wordCount": 141,
+          "title": "科创50指数早盘收报1437.74点，跌1.56%，成交额317亿。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984318",
+          "author": null,
+          "description": "日本便利店运营商7-Eleven周二表示，计划到2022年年底前在美国和加拿大建设至少500座电动汽车充电站。该公司表示，其北美大约250家门店将安装直流快速充电接口，从而创建美国最大的零售快速充电网络之一。7-Eleven还表示，正在购买风能，为德克萨斯州的800多家门店和伊利诺伊州的300多家门店供电。（新浪）",
+          "link": "https://wallstreetcn.com/livenews/1984318",
+          "publishedOn": "2021-06-02T03:29:48.000Z",
+          "wordCount": 145,
+          "title": "日本便利店运营商7-Eleven周二表示，计划到2022年年底前在美国和加拿大建设至少500座电动汽车充电站。该公司表示，其北美大约250家门店将安装直流快速充电接口，..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984309",
+          "author": null,
+          "description": "英伟达CEO称，对收购芯片设计公司Arm事宜能通过监管审批很有信心。",
+          "link": "https://wallstreetcn.com/livenews/1984309",
+          "publishedOn": "2021-06-02T03:15:42.000Z",
+          "wordCount": 141,
+          "title": "英伟达CEO称，对收购芯片设计公司Arm事宜能通过监管审批很有信心。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984304",
+          "author": null,
+          "description": "【富士康：深圳观澜园区小面积起火 目前火已扑灭】今日，有媒体报道，广东深圳龙华区观澜富士康起火，现场火光冲天，黑烟弥漫，不时传来爆燃声，起火建筑为C11号楼，消防已赶到现场处置。对此，富士康表示，公司观澜园区一栋建筑物楼顶今早发生小面积起火，在消防部门协助下已迅速扑灭。目前起因正在调查中，事件无人员伤亡，且不影响园区生产。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1984304",
+          "publishedOn": "2021-06-02T03:13:04.000Z",
+          "wordCount": 143,
+          "title": "富士康：深圳观澜园区小面积起火 目前火已扑灭"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984302",
+          "author": null,
+          "description": "当地时间6月1日，据美国证券交易委员会(SEC)官方网站消息，备受关注的Faraday Future(FF)已正式向美国SEC提交了最新版S-4/A上市文件。这意味着，FF已基本突破了IPO之前的最大障碍，完成与Property Solutions Acquisition Corp.的SPAC上市合并交易有望完成。（证券时报）",
+          "link": "https://wallstreetcn.com/livenews/1984302",
+          "publishedOn": "2021-06-02T03:08:46.000Z",
+          "wordCount": 150,
+          "title": "当地时间6月1日，据美国证券交易委员会(SEC)官方网站消息，备受关注的Faraday Future(FF)已正式向美国SEC提交了最新版S-4/A上市文件。这意味着，FF已基本突破了I..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984300",
+          "author": null,
+          "description": "恒生科技指数跌幅扩大至1%，比亚迪电子跌超4%领跌成分股。",
+          "link": "https://wallstreetcn.com/livenews/1984300",
+          "publishedOn": "2021-06-02T03:05:16.000Z",
+          "wordCount": 141,
+          "title": "恒生科技指数跌幅扩大至1%，比亚迪电子跌超4%领跌成分股。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984296",
+          "author": null,
+          "description": "隔夜SHIBOR报2.0400%，下降14.70个基点。\n7天SHIBOR报2.1560%，下降7.70个基点。\n3个月SHIBOR报2.4690%，下降0.90个基点。",
+          "link": "https://wallstreetcn.com/livenews/1984296",
+          "publishedOn": "2021-06-02T03:01:15.000Z",
+          "wordCount": 143,
+          "title": "隔夜SHIBOR报2.0400%，下降14.70个基点。\n7天SHIBOR报2.1560%，下降7.70个基点。\n3个月SHIBOR报2.4690%，下降0.90个基点。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984295",
+          "author": null,
+          "description": "北向资金净流出达30亿元。",
+          "link": "https://wallstreetcn.com/livenews/1984295",
+          "publishedOn": "2021-06-02T02:56:21.000Z",
+          "wordCount": 141,
+          "title": "北向资金净流出达30亿元。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984294",
+          "author": null,
+          "description": "“空气币”如空气一般，看不见、摸不着，没有实物依托、不具备应用价值。这样的投机炒作标的一旦价格崩盘、潮水退去，带给投资人的只有巨大损失和悔不当初。虚拟货币挖矿要借助计算机运算，用于挖矿的“矿机”要具备极强的数据处理能力，一般功率较大。“矿主”们为了早些挖出虚拟货币换钱，将许许多多台“矿机”集中起来形成“矿场”，没日没夜地开挖，因此电力消耗巨大。打击虚拟货币挖矿，不仅需要地方政府主动发文叫停挖矿行为，切断增量；还需要推出包括电价、土地、税收、环保等多方面的综合措施，推动存量企业有序退出。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1984294",
+          "publishedOn": "2021-06-02T02:54:58.000Z",
+          "wordCount": 144,
+          "title": "“空气币”如空气一般，看不见、摸不着，没有实物依托、不具备应用价值。这样的投机炒作标的一旦价格崩盘、潮水退去，带给投资人的只有巨大损失和悔不当初。虚拟..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984290",
+          "author": null,
+          "description": "美克家居股票涉嫌操纵事件持续发酵，6月1日，此次涉案的两个当事人杨震和许亚飞均进行了回应。许亚飞公开称，自己在此事之间只扮演了一个掮客的身份，杨震本人是贼喊捉贼，其所举报的美克家居股票操纵系自己酒醉后吹牛所说。就许亚飞本人所说的酒醉之言，杨震表示，“自己平时不喝酒。”“5月15日上午10：00至11：30的90分钟内，自己与委托律师与许亚飞及黄姓合伙人交涉，彼时许亚飞亲口自曝的内容；交涉结束后并没有留他们吃饭。” (贝壳财经)",
+          "link": "https://wallstreetcn.com/livenews/1984290",
+          "publishedOn": "2021-06-02T02:50:17.000Z",
+          "wordCount": 145,
+          "title": "美克家居股票涉嫌操纵事件持续发酵，6月1日，此次涉案的两个当事人杨震和许亚飞均进行了回应。许亚飞公开称，自己在此事之间只扮演了一个掮客的身份，杨震本人是..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984286",
+          "author": null,
+          "description": "富时中国A50指数期货跌超1%。",
+          "link": "https://wallstreetcn.com/livenews/1984286",
+          "publishedOn": "2021-06-02T02:48:38.000Z",
+          "wordCount": 141,
+          "title": "富时中国A50指数期货跌超1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984285",
+          "author": null,
+          "description": "京东集团：网传刘强东牵头成立京东资本消息不实。（中证报）",
+          "link": "https://wallstreetcn.com/livenews/1984285",
+          "publishedOn": "2021-06-02T02:48:30.000Z",
+          "wordCount": 143,
+          "title": "京东集团：网传刘强东牵头成立京东资本消息不实。（中证报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984284",
+          "author": null,
+          "description": "小米官方微博称，截至6月1日24点，中国区新零售全渠道支付金额突破40亿。",
+          "link": "https://wallstreetcn.com/livenews/1984284",
+          "publishedOn": "2021-06-02T02:47:09.000Z",
+          "wordCount": 142,
+          "title": "小米官方微博称，截至6月1日24点，中国区新零售全渠道支付金额突破40亿。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984278",
+          "author": null,
+          "description": "国家发改委印发《保障性租赁住房中央预算内投资专项管理暂行办法》。办法提出，保障性租赁住房中央预算内投资专项以新型城镇化战略为导向，坚持“房子是用来住的，不是用来炒的”定位，支持人口净流入大城市中符合条件的保障性租赁住房建设，推动解决符合条件的无房新市民、青年人等群体的住房困难问题，优先满足从事基本公共服务群体租赁住房需求，促进有能力在城镇稳定就业生活的常住人口有序实现市民化。",
+          "link": "https://wallstreetcn.com/livenews/1984278",
+          "publishedOn": "2021-06-02T02:40:00.000Z",
+          "wordCount": 142,
+          "title": "国家发改委印发《保障性租赁住房中央预算内投资专项管理暂行办法》。办法提出，保障性租赁住房中央预算内投资专项以新型城镇化战略为导向，坚持“房子是用来住的..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984272",
+          "author": null,
+          "description": "进出口行发行3年期债券，规模20亿元，发行利率2.8900%，预期2.9200%，投标倍数7.78倍，边际倍数1.00倍。",
+          "link": "https://wallstreetcn.com/livenews/1984272",
+          "publishedOn": "2021-06-02T02:36:00.000Z",
+          "wordCount": 142,
+          "title": "进出口行发行3年期债券，规模20亿元，发行利率2.8900%，预期2.9200%，投标倍数7.78倍，边际倍数1.00倍。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984271",
+          "author": null,
+          "description": "啤酒股早盘集体走高，兰州黄河涨停，惠泉啤酒、燕京啤酒、珠江啤酒、乐惠国际、青岛啤酒等跟涨。",
+          "link": "https://wallstreetcn.com/livenews/1984271",
+          "publishedOn": "2021-06-02T02:35:25.000Z",
+          "wordCount": 147,
+          "title": "啤酒股早盘集体走高，兰州黄河涨停，惠泉啤酒、燕京啤酒、珠江啤酒、乐惠国际、青岛啤酒等跟涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984268",
+          "author": null,
+          "description": "吉利汽车涨幅持续扩大，涨超8%。",
+          "link": "https://wallstreetcn.com/livenews/1984268",
+          "publishedOn": "2021-06-02T02:30:42.000Z",
+          "wordCount": 141,
+          "title": "吉利汽车涨幅持续扩大，涨超8%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984266",
+          "author": null,
+          "description": "5月19日至22日，就贯彻落实《关于支持海南自由贸易港建设放宽市场准入若干特别措施的意见》，国家发展改革委体改司赴海南开展调研。调研组实地走访了中国(海南)改革发展研究院、文昌国际航天城等地，深入了解市场准入制度建设情况和问题，听取海南省有关部门关于《意见》落实进展情况、问题困难及有关工作的意见建议，研究进一步推进落实工作机制。",
+          "link": "https://wallstreetcn.com/livenews/1984266",
+          "publishedOn": "2021-06-02T02:29:23.000Z",
+          "wordCount": 144,
+          "title": "5月19日至22日，就贯彻落实《关于支持海南自由贸易港建设放宽市场准入若干特别措施的意见》，国家发展改革委体改司赴海南开展调研。调研组实地走访了中国(海南)..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984263",
+          "author": null,
+          "description": "高盛表示，预计中国PPI未来数月将维持高位，建议超配受益于PPI上升的能源、交通和原材料股，回避毛利承压的股票。",
+          "link": "https://wallstreetcn.com/livenews/1984263",
+          "publishedOn": "2021-06-02T02:26:16.000Z",
+          "wordCount": 143,
+          "title": "高盛表示，预计中国PPI未来数月将维持高位，建议超配受益于PPI上升的能源、交通和原材料股，回避毛利承压的股票。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984261",
+          "author": null,
+          "description": "科创板青云科技3连板，从底部算起股价半个月已经翻倍。",
+          "link": "https://wallstreetcn.com/livenews/1984261",
+          "publishedOn": "2021-06-02T02:23:22.000Z",
+          "wordCount": 141,
+          "title": "科创板青云科技3连板，从底部算起股价半个月已经翻倍。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984253",
+          "author": null,
+          "description": "中国央行继续开展100亿元逆回购操作等量对冲到期，进入6月半年末时点将至，税期和跨半年因素或令资金波动加大，关注央行何时结束100亿的平稳操作、向市场注入更多流动性。今日早盘银行间隔夜回购加权平均利率迈向一周低点，7天期变动不大。截至北京时间10:15，1天期回购利率跌逾14个基点，报2.0366%；7天期回购利率跌4个基点，报2.1576%。彭博援引交易员称，今日早盘资金面偏宽松，市场供需基本平衡。",
+          "link": "https://wallstreetcn.com/livenews/1984253",
+          "publishedOn": "2021-06-02T02:17:19.000Z",
+          "wordCount": 142,
+          "title": "中国央行继续开展100亿元逆回购操作等量对冲到期，进入6月半年末时点将至，税期和跨半年因素或令资金波动加大，关注央行何时结束100亿的平稳操作、向市场注入更..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984252",
+          "author": null,
+          "description": "从北京市金融监管局获悉，结合2021北京消费季安排，北京市启动“京彩奋斗者 数字嘉年华”数字人民币试点活动。本次“京彩”活动由北京城市副中心、东城区、朝阳区、海淀区、石景山区、延庆区共同主办，通过“京彩平台”向成功预约报名并中签的消费者发放20万份数字人民币“京彩”红包。每份“京彩”红包金额200元，可在本市近2000家指定商户无门槛消费使用。“京彩平台”自2021年6月5日正式开启，数字人民币“京彩”红包的使用时间为6月11日至6月20日。（北京日报）",
+          "link": "https://wallstreetcn.com/livenews/1984252",
+          "publishedOn": "2021-06-02T02:15:50.000Z",
+          "wordCount": 146,
+          "title": "从北京市金融监管局获悉，结合2021北京消费季安排，北京市启动“京彩奋斗者 数字嘉年华”数字人民币试点活动。本次“京彩”活动由北京城市副中心、东城区、朝阳..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984248",
+          "author": null,
+          "description": "纺织服装板块早盘拉升，安正时尚、真爱美家、美邦服饰、浪莎股份等多股涨停，金发拉比、中胤时尚、搜于特等跟涨。",
+          "link": "https://wallstreetcn.com/livenews/1984248",
+          "publishedOn": "2021-06-02T02:05:53.000Z",
+          "wordCount": 147,
+          "title": "纺织服装板块早盘拉升，安正时尚、真爱美家、美邦服饰、浪莎股份等多股涨停，金发拉比、中胤时尚、搜于特等跟涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984245",
+          "author": null,
+          "description": "创业板指跌1%，深成指跌超0.8%，沪指跌0.6%。",
+          "link": "https://wallstreetcn.com/livenews/1984245",
+          "publishedOn": "2021-06-02T02:02:22.000Z",
+          "wordCount": 145,
+          "title": "创业板指跌1%，深成指跌超0.8%，沪指跌0.6%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984242",
+          "author": null,
+          "description": "北向资金净流出超10亿元。",
+          "link": "https://wallstreetcn.com/livenews/1984242",
+          "publishedOn": "2021-06-02T02:00:26.000Z",
+          "wordCount": 141,
+          "title": "北向资金净流出超10亿元。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984240",
+          "author": null,
+          "description": "科汇股份，申购代码787681，发行价9.56元，申购上限0.65万股，顶格申购需配市值6.50万元。\n德迈仕，申购代码301007，发行价5.29元，申购上限1.05万股，顶格申购需配市值10.50万元。",
+          "link": "https://wallstreetcn.com/livenews/1984240",
+          "publishedOn": "2021-06-02T02:00:00.000Z",
+          "wordCount": 144,
+          "title": "科汇股份，申购代码787681，发行价9.56元，申购上限0.65万股，顶格申购需配市值6.50万元。\n德迈仕，申购代码301007，发行价5.29元，申购上限1.05万股，顶格申购..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984235",
+          "author": null,
+          "description": "白酒板块短线拉升，皇台酒业涨超9%，青青稞酒、青海春天、海南椰岛跟涨。",
+          "link": "https://wallstreetcn.com/livenews/1984235",
+          "publishedOn": "2021-06-02T01:51:56.000Z",
+          "wordCount": 141,
+          "title": "白酒板块短线拉升，皇台酒业涨超9%，青青稞酒、青海春天、海南椰岛跟涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984232",
+          "author": null,
+          "description": "煤炭板块开盘异动拉升，金能科技涨超7%，山煤国际、山西焦煤、潞安环能、中煤能源、冀中能源等跟涨。",
+          "link": "https://wallstreetcn.com/livenews/1984232",
+          "publishedOn": "2021-06-02T01:48:30.000Z",
+          "wordCount": 147,
+          "title": "煤炭板块开盘异动拉升，金能科技涨超7%，山煤国际、山西焦煤、潞安环能、中煤能源、冀中能源等跟涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984230",
+          "author": null,
+          "description": "英科医疗跌停，英科转债跌超17%。",
+          "link": "https://wallstreetcn.com/livenews/1984230",
+          "publishedOn": "2021-06-02T01:45:02.000Z",
+          "wordCount": 141,
+          "title": "英科医疗跌停，英科转债跌超17%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984227",
+          "author": null,
+          "description": "券商股开盘拉升，中银证券涨超7%，中泰证券、国联证券、红塔证券、中信建投、东北证券等跟涨。",
+          "link": "https://wallstreetcn.com/livenews/1984227",
+          "publishedOn": "2021-06-02T01:38:47.000Z",
+          "wordCount": 147,
+          "title": "券商股开盘拉升，中银证券涨超7%，中泰证券、国联证券、红塔证券、中信建投、东北证券等跟涨。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984226",
+          "author": null,
+          "description": "中信证券分析师明明等人在研报中称，东南亚疫情再起或导致我国出口替代效应延续，叠加欧美等经济体的修复高峰，我国出口预计在年内将继续保持良好表现，同时需要关注东南亚外需对我国出口形成扰动。一方面，由纺织品引发的此轮替代效应时长较短，而机电产品替代效应的长期性将随着产业升级逐渐体现，为我国出口提供支撑。另一方面，尽管东南亚的外需或为我国出口形成扰动，但整体上看欧美外需的强劲将带动我国出口保持强势。",
+          "link": "https://wallstreetcn.com/livenews/1984226",
+          "publishedOn": "2021-06-02T01:36:39.000Z",
+          "wordCount": 142,
+          "title": "中信证券分析师明明等人在研报中称，东南亚疫情再起或导致我国出口替代效应延续，叠加欧美等经济体的修复高峰，我国出口预计在年内将继续保持良好表现，同时需要..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984222",
+          "author": null,
+          "description": "医美概念股早盘再度走弱，宜华健康大跌6%，悦心健康、苏宁环球、朗姿股份、贝泰妮等个股均纷纷下挫。",
+          "link": "https://wallstreetcn.com/livenews/1984222",
+          "publishedOn": "2021-06-02T01:35:39.000Z",
+          "wordCount": 141,
+          "title": "医美概念股早盘再度走弱，宜华健康大跌6%，悦心健康、苏宁环球、朗姿股份、贝泰妮等个股均纷纷下挫。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984220",
+          "author": null,
+          "description": "日本央行官员安达诚司：必须为物价目标做好长期战斗的准备。\n可以通过持续宽松来实现价格目标。\n过早政策正常化可能付出高昂代价。\n需要在必要时毫不犹豫地加码刺激。",
+          "link": "https://wallstreetcn.com/livenews/1984220",
+          "publishedOn": "2021-06-02T01:33:51.000Z",
+          "wordCount": 147,
+          "title": "日本央行官员安达诚司：必须为物价目标做好长期战斗的准备。\n可以通过持续宽松来实现价格目标。\n过早政策正常化可能付出高昂代价。\n需要在必要时毫不犹豫地加码..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984218",
+          "author": null,
+          "description": "澳元兑美元小幅走高，此前澳大利亚一季度GDP数据好于预期。",
+          "link": "https://wallstreetcn.com/livenews/1984218",
+          "publishedOn": "2021-06-02T01:31:28.000Z",
+          "wordCount": 141,
+          "title": "澳元兑美元小幅走高，此前澳大利亚一季度GDP数据好于预期。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984217",
+          "author": null,
+          "description": "国债期货盘初走低，10年期主力合约跌0.09%，5年期跌0.03%，2年期跌0.01%。",
+          "link": "https://wallstreetcn.com/livenews/1984217",
+          "publishedOn": "2021-06-02T01:30:45.000Z",
+          "wordCount": 141,
+          "title": "国债期货盘初走低，10年期主力合约跌0.09%，5年期跌0.03%，2年期跌0.01%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984216",
+          "author": null,
+          "description": "澳大利亚一季度GDP季环比 1.8%，预期 1.5%，前值 3.1%。",
+          "link": "https://wallstreetcn.com/livenews/1984216",
+          "publishedOn": "2021-06-02T01:30:01.000Z",
+          "wordCount": 147,
+          "title": "澳大利亚一季度GDP季环比 1.8%，预期 1.5%，前值 3.1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984215",
+          "author": null,
+          "description": "澳大利亚一季度GDP同比 1.1%，预期 0.6%，前值 -1.1%。",
+          "link": "https://wallstreetcn.com/livenews/1984215",
+          "publishedOn": "2021-06-02T01:30:01.000Z",
+          "wordCount": 147,
+          "title": "澳大利亚一季度GDP同比 1.1%，预期 0.6%，前值 -1.1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984214",
+          "author": null,
+          "description": "中证转债指数低开0.01%，龙大转债涨9.2%，彤程转债涨5%，英科转债跌8.9%，久吾转债、维格转债跌超3%。",
+          "link": "https://wallstreetcn.com/livenews/1984214",
+          "publishedOn": "2021-06-02T01:29:04.000Z",
+          "wordCount": 141,
+          "title": "中证转债指数低开0.01%，龙大转债涨9.2%，彤程转债涨5%，英科转债跌8.9%，久吾转债、维格转债跌超3%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984212",
+          "author": null,
+          "description": "花旗称，尽管美团管理层预计美团优选可能因为冷链物流投资等产生更大的亏损，但亦认为公司的总亏损可能在今年见顶，并从明年开始收窄。美团管理层还认为，未来社区电商的市场格局可能由几家领头公司主导，前两家企业可能占据超过50%的市场份额。花旗维持对美团的买入评级和440港元的目标价。",
+          "link": "https://wallstreetcn.com/livenews/1984212",
+          "publishedOn": "2021-06-02T01:26:35.000Z",
+          "wordCount": 143,
+          "title": "花旗称，尽管美团管理层预计美团优选可能因为冷链物流投资等产生更大的亏损，但亦认为公司的总亏损可能在今年见顶，并从明年开始收窄。美团管理层还认为，未来社..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984210",
+          "author": null,
+          "description": "科创50指数开盘报1461.74点，涨0.08%。",
+          "link": "https://wallstreetcn.com/livenews/1984210",
+          "publishedOn": "2021-06-02T01:26:10.000Z",
+          "wordCount": 141,
+          "title": "科创50指数开盘报1461.74点，涨0.08%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984209",
+          "author": null,
+          "description": "“手套茅”英科医疗大幅低开17.2%，春节以来累计跌超50%。英科转债跌近9%。昨日公司公告，实际控制人刘方毅等多名股东拟合计减持不超过6.0703%。",
+          "link": "https://wallstreetcn.com/livenews/1984209",
+          "publishedOn": "2021-06-02T01:25:48.000Z",
+          "wordCount": 145,
+          "title": "“手套茅”英科医疗大幅低开17.2%，春节以来累计跌超50%。英科转债跌近9%。昨日公司公告，实际控制人刘方毅等多名股东拟合计减持不超过6.0703%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984208",
+          "author": null,
+          "description": "沪指开盘报3626.33点，涨0.04%。\n深成指开盘报15044.94点，涨0.07%。\n创业板指开盘报3309.18点，涨0.27%。",
+          "link": "https://wallstreetcn.com/livenews/1984208",
+          "publishedOn": "2021-06-02T01:25:48.000Z",
+          "wordCount": 143,
+          "title": "沪指开盘报3626.33点，涨0.04%。\n深成指开盘报15044.94点，涨0.07%。\n创业板指开盘报3309.18点，涨0.27%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984205",
+          "author": null,
+          "description": "香港恒生指数开盘跌0.18%，报29414.64点。快手涨超2%，哔哩哔哩、锦欣生殖、吉利汽车、五菱汽车涨超1%。",
+          "link": "https://wallstreetcn.com/livenews/1984205",
+          "publishedOn": "2021-06-02T01:21:56.000Z",
+          "wordCount": 141,
+          "title": "香港恒生指数开盘跌0.18%，报29414.64点。快手涨超2%，哔哩哔哩、锦欣生殖、吉利汽车、五菱汽车涨超1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984204",
+          "author": null,
+          "description": "中国央行公开市场进行100亿元7天期逆回购操作，另有100亿元逆回购到期；中标利率2.2%，持平上次。",
+          "link": "https://wallstreetcn.com/livenews/1984204",
+          "publishedOn": "2021-06-02T01:21:38.000Z",
+          "wordCount": 141,
+          "title": "中国央行公开市场进行100亿元7天期逆回购操作，另有100亿元逆回购到期；中标利率2.2%，持平上次。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984202",
+          "author": null,
+          "description": "人民币兑美元中间价报6.3773，下调201点；上一交易日中间价6.3572，上一交易日官方收盘价6.3759，上日夜盘报收6.3825。",
+          "link": "https://wallstreetcn.com/livenews/1984202",
+          "publishedOn": "2021-06-02T01:15:32.000Z",
+          "wordCount": 142,
+          "title": "人民币兑美元中间价报6.3773，下调201点；上一交易日中间价6.3572，上一交易日官方收盘价6.3759，上日夜盘报收6.3825。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984200",
+          "author": null,
+          "description": "6月2日上午，中共中央政治局委员、国务院副总理、中美全面经济对话中方牵头人刘鹤与美财政部长耶伦举行视频通话。双方认为中美经济关系十分重要。双方本着平等和相互尊重的态度，就宏观经济形势和多双边领域合作进行了广泛交流，对彼此关心的问题坦诚交换了意见，愿意继续保持沟通。（新华社）",
+          "link": "https://wallstreetcn.com/livenews/1984200",
+          "publishedOn": "2021-06-02T01:01:30.000Z",
+          "wordCount": 144,
+          "title": "6月2日上午，中共中央政治局委员、国务院副总理、中美全面经济对话中方牵头人刘鹤与美财政部长耶伦举行视频通话。双方认为中美经济关系十分重要。双方本着平等和..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984198",
+          "author": null,
+          "description": "铁矿、焦煤期货主力开盘涨超3%，苯乙烯、郑煤、沥青、纯碱涨超2%。纸浆、生猪开盘跌超1%。",
+          "link": "https://wallstreetcn.com/livenews/1984198",
+          "publishedOn": "2021-06-02T01:00:22.000Z",
+          "wordCount": 143,
+          "title": "铁矿、焦煤期货主力开盘涨超3%，苯乙烯、郑煤、沥青、纯碱涨超2%。纸浆、生猪开盘跌超1%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984196",
+          "author": null,
+          "description": "富时中国A50指数期货开盘涨0.23%，上个交易日凌晨夜盘涨0.13%。",
+          "link": "https://wallstreetcn.com/livenews/1984196",
+          "publishedOn": "2021-06-02T01:00:12.000Z",
+          "wordCount": 141,
+          "title": "富时中国A50指数期货开盘涨0.23%，上个交易日凌晨夜盘涨0.13%。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984195",
+          "author": null,
+          "description": "美国总统拜登将在美东时间下午1:15（北京时间次日凌晨1:15）就新冠疫情和疫苗接种计划发表讲话。",
+          "link": "https://wallstreetcn.com/livenews/1984195",
+          "publishedOn": "2021-06-02T00:57:13.000Z",
+          "wordCount": 141,
+          "title": "美国总统拜登将在美东时间下午1:15（北京时间次日凌晨1:15）就新冠疫情和疫苗接种计划发表讲话。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984193",
+          "author": null,
+          "description": "中国工程院院士增选第二轮评审候选人名单公布，共235位，中国生物董事长杨晓明等人榜上有名。（北京日报）",
+          "link": "https://wallstreetcn.com/livenews/1984193",
+          "publishedOn": "2021-06-02T00:53:02.000Z",
+          "wordCount": 141,
+          "title": "中国工程院院士增选第二轮评审候选人名单公布，共235位，中国生物董事长杨晓明等人榜上有名。（北京日报）"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984189",
+          "author": null,
+          "description": "截至6月1日，上交所融资余额报8324.70亿元，较前一交易日增加45.16亿元；深交所融资余额报7450.65亿元，较前一交易日增加34.31亿元；两市合计15775.35亿元，较前一交易日增加79.47亿元。",
+          "link": "https://wallstreetcn.com/livenews/1984189",
+          "publishedOn": "2021-06-02T00:48:25.000Z",
+          "wordCount": 150,
+          "title": "截至6月1日，上交所融资余额报8324.70亿元，较前一交易日增加45.16亿元；深交所融资余额报7450.65亿元，较前一交易日增加34.31亿元；两市合计15775.35亿元，较前..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984185",
+          "author": null,
+          "description": "国家卫健委：昨日新增确诊病例24例，其中境外输入病例14例（上海6例，福建3例，广东3例，四川1例，云南1例），本土病例10例（均在广东）；无新增死亡病例；无新增疑似病例。",
+          "link": "https://wallstreetcn.com/livenews/1984185",
+          "publishedOn": "2021-06-02T00:38:06.000Z",
+          "wordCount": 143,
+          "title": "国家卫健委：昨日新增确诊病例24例，其中境外输入病例14例（上海6例，福建3例，广东3例，四川1例，云南1例），本土病例10例（均在广东）；无新增死亡病例；无新..."
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984184",
+          "author": null,
+          "description": "韩国确认新增677例新冠确诊病例。",
+          "link": "https://wallstreetcn.com/livenews/1984184",
+          "publishedOn": "2021-06-02T00:33:29.000Z",
+          "wordCount": 141,
+          "title": "韩国确认新增677例新冠确诊病例。"
+        },
+        {
+          "id": "https://wallstreetcn.com/livenews/1984181",
+          "author": null,
+          "description": "中信证券表示，下半年，海外疫情逐步得到控制、疫苗接种不断落地，仍是大概率事件，全球经济复苏亦在进行之中，预计油价中枢中长期仍将上行，以铜为代表的有色金属或将高位震荡。美元实际利率重回低位区间，下行空间有限，但疫情以来美联储等全球主要央行扩表抬升金价运行中枢，预计金价将在较小范围内震荡，黄金配置性价比中性。随着3月以来，决策层持续关注大宗商品价格上涨，并已经出台保供稳价措施，同时打击囤积居奇和投机炒作行为，黑色系商品政策风险不容忽视。",
+          "link": "https://wallstreetcn.com/livenews/1984181",
+          "publishedOn": "2021-06-02T00:27:12.000Z",
+          "wordCount": 142,
+          "title": "中信证券表示，下半年，海外疫情逐步得到控制、疫苗接种不断落地，仍是大概率事件，全球经济复苏亦在进行之中，预计油价中枢中长期仍将上行，以铜为代表的有色金..."
+        },
         {
           "id": "https://wallstreetcn.com/livenews/1984179",
           "author": null,
