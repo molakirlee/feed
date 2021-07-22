@@ -8,15 +8,15 @@ sources:
 # Xilock Source
   - href: https://sspai.com/feed
 # Science
-  - href: https://www.sciencemag.org/rss/news_current.xml
+#  - href: https://www.sciencemag.org/rss/news_current.xml
   - href: https://science.sciencemag.org/rss/twis.xml
-  - href: https://science.sciencemag.org/rss/ec.xml
+#  - href: https://science.sciencemag.org/rss/ec.xml
 # News
-  - href: https://rsshub.app/cctv/xwlb
+ # - href: https://rsshub.app/cctv/xwlb
   - href: https://rsshub.app/geekpark/breakingnews
   - href: https://rsshub.app/wallstreetcn/news/global
   - href: https://rsshub.app/bbc/world-asia
-  - href: https://rsshub.app/chinafile/all
+ # - href: https://rsshub.app/chinafile/all
   - href: https://rsshub.app/voa/cantonese/zprtie-ttp
   - href: https://rsshub.app/whb/bihui
   - href: https://rsshub.app/wallstreetcn/live
