@@ -11,9 +11,9 @@ sources:
 # News
   - href: https://rsshub.app/geekpark/breakingnews
   - href: https://rsshub.app/wallstreetcn/news/global
-  - href: https://rsshub.app/bbc/world-asia
   - href: https://rsshub.app/wallstreetcn/live
-#  - href: https://feedx.net/rss/bbc.xml
+  - href: https://feedx.net/rss/bbc.xml
+#  - href: https://rsshub.app/bbc/world-asia
 #  - href: https://rsshub.app/voa/cantonese/zprtie-ttp
 #  - href: https://rsshub.app/whb/bihui
 #  - href: https://science.sciencemag.org/rss/ec.xml
