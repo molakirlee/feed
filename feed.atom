@@ -2,10 +2,1473 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T12:14:18.398Z</updated>
+    <updated>2021-07-24T02:22:55.629Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7月23日0-24时，江苏新增本土确诊病例12例（均在南京市定点医院治疗）。截至7月23日24时，全省累计报告确诊病例788例（其中境外输入121例），除35例本土确诊病例...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014816</id>
+        <link href="https://wallstreetcn.com/livenews/2014816"/>
+        <updated>2021-07-24T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[7月23日0-24时，江苏新增本土确诊病例12例（均在南京市定点医院治疗）。截至7月23日24时，全省累计报告确诊病例788例（其中境外输入121例），除35例本土确诊病例和10例境外输入确诊病例在定点医院隔离治疗外，其余均已出院。当日新增本土无症状感染者4例，新增境外输入无症状感染者1例，解除集中隔离和医学管理1例。截至7月23日24时，正在集中隔离和医学管理的无症状感染者42例（其中境外输入23例，本土19例）。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南京市将对7月10日至20日进出过南京禄口机场的“苏康码”黄码的人员进行严格管理，原则上一律实施14天集中隔离医学观察，条件不具备的地方，按规范严格实施居家...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014815</id>
+        <link href="https://wallstreetcn.com/livenews/2014815"/>
+        <updated>2021-07-24T01:18:12.000Z</updated>
+        <summary type="html"><![CDATA[南京市将对7月10日至20日进出过南京禄口机场的“苏康码”黄码的人员进行严格管理，原则上一律实施14天集中隔离医学观察，条件不具备的地方，按规范严格实施居家健康监测。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBC转播东京奥运开幕式时使用不完整中国地图，我驻纽约总领馆回应：坚决反对有违奥林匹克宪章精神的行为，敦促NBC采取措施纠正错误。（人民日报）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014814</id>
+        <link href="https://wallstreetcn.com/livenews/2014814"/>
+        <updated>2021-07-24T01:11:25.000Z</updated>
+        <summary type="html"><![CDATA[NBC转播东京奥运开幕式时使用不完整中国地图，我驻纽约总领馆回应：坚决反对有违奥林匹克宪章精神的行为，敦促NBC采取措施纠正错误。（人民日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例35例，其中境外输入病例22例（广东5例，云南5例，福建4例，四川3例，上海2例，天...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014813</id>
+        <link href="https://wallstreetcn.com/livenews/2014813"/>
+        <updated>2021-07-24T00:55:53.000Z</updated>
+        <summary type="html"><![CDATA[7月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例35例，其中境外输入病例22例（广东5例，云南5例，福建4例，四川3例，上海2例，天津1例，河南1例，湖北1例），本土病例13例（江苏12例，四川1例）；无新增死亡病例；无新增疑似病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中证协表示，近期，协会对2021年上半年度139家证券公司（含子公司）未经审计经营数据进行了统计排名，共计25项指标。先看总营收，上半年排名前20的券商如下。其...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014812</id>
+        <link href="https://wallstreetcn.com/livenews/2014812"/>
+        <updated>2021-07-24T00:52:48.000Z</updated>
+        <summary type="html"><![CDATA[中证协表示，近期，协会对2021年上半年度139家证券公司（含子公司）未经审计经营数据进行了统计排名，共计25项指标。先看总营收，上半年排名前20的券商如下。其中，排名前10的券商营收总计1033.18亿元，占比44.45%。再看净利润，上半年排名前20的券商如下。其中，排名前10的券商上半年净利润总计474.89亿元，占比达52.60%。（中国证券报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国新增1629例新冠肺炎确诊病例，已有16864368人注射了第一剂新冠疫苗，6847556人注射了第二剂新冠疫苗。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014811</id>
+        <link href="https://wallstreetcn.com/livenews/2014811"/>
+        <updated>2021-07-24T00:32:09.000Z</updated>
+        <summary type="html"><![CDATA[韩国新增1629例新冠肺炎确诊病例，已有16864368人注射了第一剂新冠疫苗，6847556人注射了第二剂新冠疫苗。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高德红外消息，7月23日下午，中国保利集团有限公司总经理张振高一行到高德红外参观调研，高德红外董事长黄立、总经理张燕等陪同调研及座谈。保利集团总经理张振...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014810</id>
+        <link href="https://wallstreetcn.com/livenews/2014810"/>
+        <updated>2021-07-24T00:29:00.000Z</updated>
+        <summary type="html"><![CDATA[高德红外消息，7月23日下午，中国保利集团有限公司总经理张振高一行到高德红外参观调研，高德红外董事长黄立、总经理张燕等陪同调研及座谈。保利集团总经理张振高表示，通过此次调研，对高德红外的整体实力有了一个更加全面的了解，切实感受到科技创新的力量，同时也为高德近年来突飞猛进的发展感到欣喜。希望在延续之前合作模式的基础上，共同创造机会，积极探讨资本层面的合作，促使双方的合作高度再上新台阶。（证券时报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应急管理部消息，应河南省请求，应急管理部昨晚（23日）启动第三轮跨区域增援行动，紧急从湖北、陕西抽组两支应急排涝专业队伍共计300人，携103台套大流量排水装...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014809</id>
+        <link href="https://wallstreetcn.com/livenews/2014809"/>
+        <updated>2021-07-23T23:38:05.000Z</updated>
+        <summary type="html"><![CDATA[应急管理部消息，应河南省请求，应急管理部昨晚（23日）启动第三轮跨区域增援行动，紧急从湖北、陕西抽组两支应急排涝专业队伍共计300人，携103台套大流量排水装备，连夜赶赴河南新乡执行排涝抢险任务。同时，应急管理部抽调国家安全生产应急救援队伍11支共计219人，携44台排水装备赶赴鹤壁开展排涝抢险工作。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊要准备接受数字货币？招聘广告泄天机]]></title>
+        <id>3636216</id>
+        <link href="https://wallstreetcn.com/articles/3636216"/>
+        <updated>2021-07-23T23:20:21.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊接受付款与体验团队本周招聘一名“数字货币和区块链产品领导者”。今年稍早另一招聘岗位显示，亚马逊在开发客户可以用数字货币购物的服务。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年7月24日]]></title>
+        <id>3636215</id>
+        <link href="https://wallstreetcn.com/articles/3636215"/>
+        <updated>2021-07-23T23:10:54.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技股力撑美股新高 中概教育股暴跌 伦锡又新高 天然气一周涨超10%]]></title>
+        <id>3636213</id>
+        <link href="https://wallstreetcn.com/articles/3636213"/>
+        <updated>2021-07-23T22:50:05.000Z</updated>
+        <summary type="html"><![CDATA[三大美股指齐新高，纳指创逾三月最大周涨幅；龙头科技股中特斯拉独跌，Facebook涨超5%领跑；英特尔跌超5%，领跌道指成份股。法拉第未来上市次日涨6%。中概ETF KWEB跌超8%，好未来跌超70%，高途教育跌超60%，新东方跌超50%。泛欧股指四连阳创新高，戴姆勒涨超5%。原油又创一周新高，周一暴跌后全周仍累涨，天然气五创两年半新高，并创逾五月最大周涨幅。黄金创两周新低终结四周连涨，伦铜四连涨创两周新高，伦锡连涨五周。美元指数短线重上93逼近逾三月高位，比特币逼近3.3万美元后盘中转跌。10年期美债收益率未能站稳1.30%。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前富士康正处在iPhone新品的量产备货期，通过招聘渠道了解到，手机园区一直在持续招工，并且返费（相当于奖金）还在上涨。7月24日起，郑州港区富士康IDPBG事业...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014808</id>
+        <link href="https://wallstreetcn.com/livenews/2014808"/>
+        <updated>2021-07-23T22:49:35.000Z</updated>
+        <summary type="html"><![CDATA[目前富士康正处在iPhone新品的量产备货期，通过招聘渠道了解到，手机园区一直在持续招工，并且返费（相当于奖金）还在上涨。7月24日起，郑州港区富士康IDPBG事业群（生产iPhone）返费模式涨价，基本工资1900元加加班费，打卡55天在职90天最高返费10000元。（21世纪经济报道）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业内人士分析称，近期，随着手机品牌厂商开始推出新品，三季度产业链旺季可期。中信证券维持全年智能手机销量预测13.5亿部，同比增长5%，下半年销量有望好于上半...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014807</id>
+        <link href="https://wallstreetcn.com/livenews/2014807"/>
+        <updated>2021-07-23T22:48:19.000Z</updated>
+        <summary type="html"><![CDATA[业内人士分析称，近期，随着手机品牌厂商开始推出新品，三季度产业链旺季可期。中信证券维持全年智能手机销量预测13.5亿部，同比增长5%，下半年销量有望好于上半年，预计上半年、下半年销量分别约6.5亿部、7亿部。中金公司认为，除小米外，苹果2021年下半年新品备货稳步推进，产业链相关公司业绩有望快速增长。（中证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当心拜登万亿刺激！索罗斯“亲密战友”：这是我见过的最大泡沫]]></title>
+        <id>3636214</id>
+        <link href="https://wallstreetcn.com/articles/3636214"/>
+        <updated>2021-07-23T22:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Druckenmiller说，美国已批准近6万亿美元支出，通胀在加速回升，通胀是穷人无力承担也无法避免的税赋。如果我想要摧毁美国经济，就会在经济已经火热的中期大举支出。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日，云南无新增本土新冠肺炎确诊病例和无症状感染者。新增境外输入确诊病例5例、无症状感染者3例。（央视）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014806</id>
+        <link href="https://wallstreetcn.com/livenews/2014806"/>
+        <updated>2021-07-23T22:45:52.000Z</updated>
+        <summary type="html"><![CDATA[7月23日，云南无新增本土新冠肺炎确诊病例和无症状感染者。新增境外输入确诊病例5例、无症状感染者3例。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind数据显示，截至7月23日收盘，A股共有48家房地产上市公司披露上半年业绩预告，21家预喜，预喜比例为43.75%。其中，略增2家、扭亏7家、预增12家。机构研报显示...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014805</id>
+        <link href="https://wallstreetcn.com/livenews/2014805"/>
+        <updated>2021-07-23T22:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Wind数据显示，截至7月23日收盘，A股共有48家房地产上市公司披露上半年业绩预告，21家预喜，预喜比例为43.75%。其中，略增2家、扭亏7家、预增12家。机构研报显示，由于拿地毛利率未见企稳，短期开发类房企估值或仍将承压，后续关注二、三批次集中供地降温带来的开发类房企估值修复。相比开发类房企，更看好行业空间广阔、短期中报业绩有望高增的物管板块及商管板块，建议关注具备规模及资金优势、在增值服务各细分领域率先发力的物管龙头，以及占据购物中心优质赛道、轻资产输出实力强劲的商业运营商。（中证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证监会处罚委办公室副主任董文媛介绍，近年来，证监会持续加大对财务造假、操纵市场等恶性违法案件的查处力度，坚决落实新证券法各项要求，切实提升资本市场违法...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014800</id>
+        <link href="https://wallstreetcn.com/livenews/2014800"/>
+        <updated>2021-07-23T22:20:17.000Z</updated>
+        <summary type="html"><![CDATA[证监会处罚委办公室副主任董文媛介绍，近年来，证监会持续加大对财务造假、操纵市场等恶性违法案件的查处力度，坚决落实新证券法各项要求，切实提升资本市场违法违规成本，强化监管执法震慑。近日，首批适用新证券法惩处财务造假恶性案件已进入事先告知阶段或作出行政处罚决定，最高拟处以近4000万元罚款。（中证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根据美国约翰斯·霍普金斯大学于美国东部时间7月23日17时21分（北京时间7月24日5时21分）统计的数据，美国新冠肺炎确诊病例已超过3432万例，达到34323426例；死...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014799</id>
+        <link href="https://wallstreetcn.com/livenews/2014799"/>
+        <updated>2021-07-23T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[根据美国约翰斯·霍普金斯大学于美国东部时间7月23日17时21分（北京时间7月24日5时21分）统计的数据，美国新冠肺炎确诊病例已超过3432万例，达到34323426例；死亡病例超过61万例，达到610412例。 （央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西最近24小时新增108,732例新冠肺炎病例，新增1,324例死亡病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014798</id>
+        <link href="https://wallstreetcn.com/livenews/2014798"/>
+        <updated>2021-07-23T22:03:35.000Z</updated>
+        <summary type="html"><![CDATA[巴西最近24小时新增108,732例新冠肺炎病例，新增1,324例死亡病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥新增16,421例新冠肺炎病例，累计确诊2,726,160例，新增328例死亡病例，累计死亡237,954例。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014797</id>
+        <link href="https://wallstreetcn.com/livenews/2014797"/>
+        <updated>2021-07-23T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[墨西哥新增16,421例新冠肺炎病例，累计确诊2,726,160例，新增328例死亡病例，累计死亡237,954例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周五（7月23）纽约尾盘，CBOT玉米期货跌3.10%，报5.47美元/蒲式耳，本周累跌约1.35%。
+CBOT小麦期货跌1.13%，报6.79美元/蒲式耳，本周累跌约2.13%。
+CBOT大豆期...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014796</id>
+        <link href="https://wallstreetcn.com/livenews/2014796"/>
+        <updated>2021-07-23T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[周五（7月23）纽约尾盘，CBOT玉米期货跌3.10%，报5.47美元/蒲式耳，本周累跌约1.35%。
+CBOT小麦期货跌1.13%，报6.79美元/蒲式耳，本周累跌约2.13%。
+CBOT大豆期货跌1.29%，报13.53-1/2美元/蒲式耳，本周累跌约3.34%。
+CBOT软木期货涨0.22%，报648.40美元/1000板英尺，本周累涨约20.88%。
+CBOT瘦肉猪期货涨0.98%，ICE原糖期货涨2.72%本周累涨约2.49%、ICE白糖期货涨1.77%，ICE棉花期货跌0.10%。
+ICE阿拉比卡咖啡期货跌0.98%、本周累涨约20.22%，罗布斯塔咖啡期货涨0.21%、本周累涨约7.31%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西班牙首相Sanchez：西班牙将向那些初创公司投资20亿欧元。
+预计苹果公司将扩大在西班牙的投资规模，该公司将在西班牙投资于人工智能（AI）领域。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014795</id>
+        <link href="https://wallstreetcn.com/livenews/2014795"/>
+        <updated>2021-07-23T21:54:27.000Z</updated>
+        <summary type="html"><![CDATA[西班牙首相Sanchez：西班牙将向那些初创公司投资20亿欧元。
+预计苹果公司将扩大在西班牙的投资规模，该公司将在西班牙投资于人工智能（AI）领域。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期，英飞特、瑞丰光电、聚飞光电、三安光电等公司股价接连大涨。业内人士表示，其背后逻辑是Mini LED市场爆发在即：随着索尼、三星等大屏产品的推出，Mini/Mic...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014794</id>
+        <link href="https://wallstreetcn.com/livenews/2014794"/>
+        <updated>2021-07-23T21:52:46.000Z</updated>
+        <summary type="html"><![CDATA[近期，英飞特、瑞丰光电、聚飞光电、三安光电等公司股价接连大涨。业内人士表示，其背后逻辑是Mini LED市场爆发在即：随着索尼、三星等大屏产品的推出，Mini/Micro LED今年开始快速渗透，大屏市场开启快速增长；与此同时，在苹果介入后，Mini LED小屏市场有望快速形成规模。这将给LED板块带来强劲的增长动力。Choice数据显示，近3个月以来，有23家LED概念股披露了机构调研情况，数家公司被多次调研。（上证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周五（7月23）纽约尾盘，CME比特币期货BTC主力合约报32480美元，较周四纽约尾盘涨0.20%，盘中交投于31980-32930美元区间，本周累涨2.54%。
+CME以太币期货DCR主力...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014793</id>
+        <link href="https://wallstreetcn.com/livenews/2014793"/>
+        <updated>2021-07-23T21:46:23.000Z</updated>
+        <summary type="html"><![CDATA[周五（7月23）纽约尾盘，CME比特币期货BTC主力合约报32480美元，较周四纽约尾盘涨0.20%，盘中交投于31980-32930美元区间，本周累涨2.54%。
+CME以太币期货DCR主力合约报2042.50美元，较周四涨2.29%，盘中交投于1994.50-2095.00美元区间，本周累涨6.70%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整体来看，恶性违规数量平稳，轻微违规有所集中。2021年上半年，纪律处分发挥规范指引功能，纪律处分的违规占比由上年同期的29.91%下降至24.34%，发出公开谴责18...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014792</id>
+        <link href="https://wallstreetcn.com/livenews/2014792"/>
+        <updated>2021-07-23T21:45:01.000Z</updated>
+        <summary type="html"><![CDATA[整体来看，恶性违规数量平稳，轻微违规有所集中。2021年上半年，纪律处分发挥规范指引功能，纪律处分的违规占比由上年同期的29.91%下降至24.34%，发出公开谴责18份，同比增长20%；公开认定3人，仍主要集中于资金占用、违规担保、财务造假等恶性违规案件；通报批评47份，同比基本持平。(上证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4764元，较周四纽约尾盘跌7点，盘中整体交投于6.4701-6.4868元区间。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014790</id>
+        <link href="https://wallstreetcn.com/livenews/2014790"/>
+        <updated>2021-07-23T21:38:29.000Z</updated>
+        <summary type="html"><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4764元，较周四纽约尾盘跌7点，盘中整体交投于6.4701-6.4868元区间。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中概汽车股满帮跌约28.4%，共享出行公司滴滴跌约21.0%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014789</id>
+        <link href="https://wallstreetcn.com/livenews/2014789"/>
+        <updated>2021-07-23T21:35:30.000Z</updated>
+        <summary type="html"><![CDATA[中概汽车股满帮跌约28.4%，共享出行公司滴滴跌约21.0%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中概房产类股房多多跌12.3%，贝壳找房跌超10.9%，乐居跌约5.6%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014788</id>
+        <link href="https://wallstreetcn.com/livenews/2014788"/>
+        <updated>2021-07-23T21:35:18.000Z</updated>
+        <summary type="html"><![CDATA[中概房产类股房多多跌12.3%，贝壳找房跌超10.9%，乐居跌约5.6%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中概教育股好未来收跌逾70.7%，高途教育跌超63.2%，新东方跌超54.2%，网易有道跌超42.8%，一起教育跌超38.7%，流利说跌超26.7%，尚德机构跌约11.1%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014787</id>
+        <link href="https://wallstreetcn.com/livenews/2014787"/>
+        <updated>2021-07-23T21:35:08.000Z</updated>
+        <summary type="html"><![CDATA[中概教育股好未来收跌逾70.7%，高途教育跌超63.2%，新东方跌超54.2%，网易有道跌超42.8%，一起教育跌超38.7%，流利说跌超26.7%，尚德机构跌约11.1%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国会众议院多数派（民主党）领导人Hoyer置评债务上限问题，称：即使缺乏共和党的支持，美国（联邦政府）也将偿还联邦债务。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014786</id>
+        <link href="https://wallstreetcn.com/livenews/2014786"/>
+        <updated>2021-07-23T21:32:51.000Z</updated>
+        <summary type="html"><![CDATA[美国国会众议院多数派（民主党）领导人Hoyer置评债务上限问题，称：即使缺乏共和党的支持，美国（联邦政府）也将偿还联邦债务。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车类股多数收下跌，RIDE收跌约8.7%，理想汽车跌超8.0%，九紫新能跌超7.9%，小鹏汽车跌超5.2%，图森未来跌约5.0%，蔚来汽车跌超4.5%，QS跌约4.2%，百度跌约3.3%...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014804</id>
+        <link href="https://wallstreetcn.com/livenews/2014804"/>
+        <updated>2021-07-23T21:30:53.000Z</updated>
+        <summary type="html"><![CDATA[汽车类股多数收下跌，RIDE收跌约8.7%，理想汽车跌超8.0%，九紫新能跌超7.9%，小鹏汽车跌超5.2%，图森未来跌约5.0%，蔚来汽车跌超4.5%，QS跌约4.2%，百度跌约3.3%，AGC跌超1.8%，RMO跌约1.7%，Nikola跌约1.3%，通用汽车跌超1.2%，Fisker跌超1.1%，特斯拉跌超0.9%、ARKK则涨约0.6%，福特汽车跌超0.6%，CCIV则涨5.9%，法拉第未来涨超6.0%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美林的一名前交易员Harnaik Lakhan告诉芝加哥的一个联邦陪审团，他从该行纽约办公室的另外两名资深交易员John Pacilio和Edward Bases那里学会了如何操纵贵金属价...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014785</id>
+        <link href="https://wallstreetcn.com/livenews/2014785"/>
+        <updated>2021-07-23T21:28:40.000Z</updated>
+        <summary type="html"><![CDATA[美林的一名前交易员Harnaik Lakhan告诉芝加哥的一个联邦陪审团，他从该行纽约办公室的另外两名资深交易员John Pacilio和Edward Bases那里学会了如何操纵贵金属价格。Lakhan称，他利用美林的内部电脑系统监视Pacilio和Bases，他们发出并不想执行的指令，推动价格上涨或下跌，以使他们想执行的指令有利可图。Pacilio和Bases因涉嫌欺诈而受到审判。Lakhan同意与政府合作以避免被起诉。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石油类股普跌，卡隆石油收跌逾4.9%，FTI跌超4.1%，哈里伯顿跌超2.1%，马拉松石油、EOG资源、康菲石油、西方石油公司、DVN等至少跌超1.4%；ETF中，用于追踪国际油...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014803</id>
+        <link href="https://wallstreetcn.com/livenews/2014803"/>
+        <updated>2021-07-23T21:27:04.000Z</updated>
+        <summary type="html"><![CDATA[石油类股普跌，卡隆石油收跌逾4.9%，FTI跌超4.1%，哈里伯顿跌超2.1%，马拉松石油、EOG资源、康菲石油、西方石油公司、DVN等至少跌超1.4%；ETF中，用于追踪国际油价的美国原油基金（USO）和美国布伦特原油基金（BNO）至少涨超0.6%，但用于追踪石油类股的XLE、VDE、PXE、IEO、XOP跌幅介于0.37%-1.02%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据美国地质调查局（USGS）地震信息网消息，菲律宾胡凯以南16公里处海域北京时间24日4时48分发生6.7级地震。（新华社）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014784</id>
+        <link href="https://wallstreetcn.com/livenews/2014784"/>
+        <updated>2021-07-23T21:21:11.000Z</updated>
+        <summary type="html"><![CDATA[据美国地质调查局（USGS）地震信息网消息，菲律宾胡凯以南16公里处海域北京时间24日4时48分发生6.7级地震。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国会山民主党成员们可能会从基建立法草案中废弃那些配套资金。（路透）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014781</id>
+        <link href="https://wallstreetcn.com/livenews/2014781"/>
+        <updated>2021-07-23T21:08:47.000Z</updated>
+        <summary type="html"><![CDATA[美国国会山民主党成员们可能会从基建立法草案中废弃那些配套资金。（路透）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近1.5%，大豆基金跌约1.0%，美国国债20+年ETF跌约0.7%，农产品基金、恐慌指数做多、日元做多至少跌0.4%，纳指100 ...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014780</id>
+        <link href="https://wallstreetcn.com/livenews/2014780"/>
+        <updated>2021-07-23T20:59:25.000Z</updated>
+        <summary type="html"><![CDATA[美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近1.5%，大豆基金跌约1.0%，美国国债20+年ETF跌约0.7%，农产品基金、恐慌指数做多、日元做多至少跌0.4%，纳指100 ETF则涨约1.2%，标普500 ETF涨超1.0%，美国房地产ETF涨超0.8%，巴克莱美国可转债ETF涨0.7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新数据显示，今年上半年财产全行业的车险综合成本率进一步攀升至99.9%，同时，中小财险公司车险承保呈普遍亏损的状态，不同险企间分化较为明显。除了3家自保公...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014779</id>
+        <link href="https://wallstreetcn.com/livenews/2014779"/>
+        <updated>2021-07-23T20:51:13.000Z</updated>
+        <summary type="html"><![CDATA[最新数据显示，今年上半年财产全行业的车险综合成本率进一步攀升至99.9%，同时，中小财险公司车险承保呈普遍亏损的状态，不同险企间分化较为明显。除了3家自保公司，全行业市场化运营的财险公司仅有13家实现了车险承保盈利。（证券日报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股行业ETF普遍收涨，网络股指数ETF涨超2.1%，公用事业ETF涨约1.3%，日常消费品ETF涨1.2%，医疗业ETF和全球科技股指数ETF均涨约1.1%，科技行业ETF涨约1.0%，只...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014778</id>
+        <link href="https://wallstreetcn.com/livenews/2014778"/>
+        <updated>2021-07-23T20:47:39.000Z</updated>
+        <summary type="html"><![CDATA[美股行业ETF普遍收涨，网络股指数ETF涨超2.1%，公用事业ETF涨约1.3%，日常消费品ETF涨1.2%，医疗业ETF和全球科技股指数ETF均涨约1.1%，科技行业ETF涨约1.0%，只有能源业ETF和全球航空业ETF收跌，均跌超0.3%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日，二十国集团（G20）环境部长会议在意大利那不勒斯结束。会议通过了关于能源和气候问题的公报，但关于欧美、日本和加拿大提出的在2030年前把气候变暖控制...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014730</id>
+        <link href="https://wallstreetcn.com/livenews/2014730"/>
+        <updated>2021-07-23T20:41:42.000Z</updated>
+        <summary type="html"><![CDATA[7月23日，二十国集团（G20）环境部长会议在意大利那不勒斯结束。会议通过了关于能源和气候问题的公报，但关于欧美、日本和加拿大提出的在2030年前把气候变暖控制在1.5度以内，和在2025年实现能源生产零碳化的目标，各方未能达成一致。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国商品期货交易委员会（CFTC）数据显示，截至7月20日当周，投机者和资管公司对欧洲美元期货进行看涨调整。报告期赶上了7月19日强劲的前期涨势，投机者大幅减少...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014774</id>
+        <link href="https://wallstreetcn.com/livenews/2014774"/>
+        <updated>2021-07-23T20:29:35.000Z</updated>
+        <summary type="html"><![CDATA[美国商品期货交易委员会（CFTC）数据显示，截至7月20日当周，投机者和资管公司对欧洲美元期货进行看涨调整。报告期赶上了7月19日强劲的前期涨势，投机者大幅减少欧洲美元净空头头寸至870万美元/DV01，资管公司则将其净空头头寸减少50万美元/DV01。此外，资管公司本周对10年期美国国债期货进行了看跌调整，将净多头削减了720万美元/DV01。投机者本周还对5年期美国国债期货进行看涨调整，将净空头头寸减少580万美元/DV01。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统拜登：（白宫与国会山）可以敲定跨党派基建立法事宜。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014772</id>
+        <link href="https://wallstreetcn.com/livenews/2014772"/>
+        <updated>2021-07-23T20:10:14.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登：（白宫与国会山）可以敲定跨党派基建立法事宜。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷新增15,622例新冠肺炎病例，新增286例死亡病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014770</id>
+        <link href="https://wallstreetcn.com/livenews/2014770"/>
+        <updated>2021-07-23T20:03:27.000Z</updated>
+        <summary type="html"><![CDATA[阿根廷新增15,622例新冠肺炎病例，新增286例死亡病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普500指数收涨44.31点，涨幅1.01%，报4411.79点，本周累涨约1.96%。
+道琼斯工业平均指数收涨238.20点，涨幅0.68%，报35061.55点，本周累涨约1.08%。
+纳斯达克...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014768</id>
+        <link href="https://wallstreetcn.com/livenews/2014768"/>
+        <updated>2021-07-23T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[标普500指数收涨44.31点，涨幅1.01%，报4411.79点，本周累涨约1.96%。
+道琼斯工业平均指数收涨238.20点，涨幅0.68%，报35061.55点，本周累涨约1.08%。
+纳斯达克综合指数（纳指）收涨152.39点，涨幅1.04%，报14836.99点，本周累涨约2.84%。
+纳斯达克100指数收涨1.15%，报15111.79点，本周累涨约2.93%。
+纳斯达克生物科技指数收涨0.80%，报5190.09点，本周累涨约3.41%。
+罗素2000指数收涨0.46%，报2209.65点，本周累涨约2.15%。
+费城半导体指数指数收涨0.63%，报3280.06点，本周累涨约4.28%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际奥委会主席巴赫：由于新冠肺炎疫情的原因，今年东京奥运会将首次全部采用云技术支撑全球转播，成为一次真正意义上的“云上奥运”。（央视）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014767</id>
+        <link href="https://wallstreetcn.com/livenews/2014767"/>
+        <updated>2021-07-23T19:52:06.000Z</updated>
+        <summary type="html"><![CDATA[国际奥委会主席巴赫：由于新冠肺炎疫情的原因，今年东京奥运会将首次全部采用云技术支撑全球转播，成为一次真正意义上的“云上奥运”。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国商品期货交易委员会（CFTC）：7月20日当周，投机者所持WTI原油净多头头寸下降17.0%，至316,789手合约。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014766</id>
+        <link href="https://wallstreetcn.com/livenews/2014766"/>
+        <updated>2021-07-23T19:39:29.000Z</updated>
+        <summary type="html"><![CDATA[美国商品期货交易委员会（CFTC）：7月20日当周，投机者所持WTI原油净多头头寸下降17.0%，至316,789手合约。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国商品期货交易委员会（CFTC）：7月20日当周，投机者所持COMEX黄金净多头头寸增加5,826手合约，至108,815手合约。
+投机者所持COMEX白银净多头头寸下降8,431手...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014765</id>
+        <link href="https://wallstreetcn.com/livenews/2014765"/>
+        <updated>2021-07-23T19:34:20.000Z</updated>
+        <summary type="html"><![CDATA[美国商品期货交易委员会（CFTC）：7月20日当周，投机者所持COMEX黄金净多头头寸增加5,826手合约，至108,815手合约。
+投机者所持COMEX白银净多头头寸下降8,431手合约，至26,247手合约，创最近15周新低。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆东墙补西墙 参议院通过基建法案“有戏”？]]></title>
+        <id>3636211</id>
+        <link href="https://wallstreetcn.com/articles/3636211"/>
+        <updated>2021-07-23T18:43:08.000Z</updated>
+        <summary type="html"><![CDATA[在经过讨价还价之后，美国两党参议员距离在基建法案上达成一致似乎越来越近，而代价之一是将特朗普时代的医保条例推迟实行。目前两党分歧焦点是如何为基建方案中的新增支出买单。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡在线地产公司PropertyGuru计划与空白支票公司Bridgetown 2 Holdings构建合作伙伴关系，从而实现公开上市，合并后的新公司将在纽交所挂牌交易；这笔潜在交...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014764</id>
+        <link href="https://wallstreetcn.com/livenews/2014764"/>
+        <updated>2021-07-23T18:42:32.000Z</updated>
+        <summary type="html"><![CDATA[新加坡在线地产公司PropertyGuru计划与空白支票公司Bridgetown 2 Holdings构建合作伙伴关系，从而实现公开上市，合并后的新公司将在纽交所挂牌交易；这笔潜在交易的公司估值大约为13.5亿美元，股票价值大约为17.8亿美元。该特殊目的收购公司（SPAC）由Pacific Century Group和Thiele Capital组建。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTI 9月原油期货收涨0.16美元，涨幅0.22%，报72.07美元/桶。
+布伦特9月原油期货收涨0.31美元，涨幅0.42%，报74.10美元/桶。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014760</id>
+        <link href="https://wallstreetcn.com/livenews/2014760"/>
+        <updated>2021-07-23T18:32:05.000Z</updated>
+        <summary type="html"><![CDATA[WTI 9月原油期货收涨0.16美元，涨幅0.22%，报72.07美元/桶。
+布伦特9月原油期货收涨0.31美元，涨幅0.42%，报74.10美元/桶。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上期所原油期货2109合约夜盘收涨1.75%，报442.30元人民币/桶。
+沪金夜盘收涨0.05%，沪银收跌0.19%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014759</id>
+        <link href="https://wallstreetcn.com/livenews/2014759"/>
+        <updated>2021-07-23T18:30:06.000Z</updated>
+        <summary type="html"><![CDATA[上期所原油期货2109合约夜盘收涨1.75%，报442.30元人民币/桶。
+沪金夜盘收涨0.05%，沪银收跌0.19%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷央行（BCRA）排除加息的可能性：准备在可预见的未来按兵不动。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014757</id>
+        <link href="https://wallstreetcn.com/livenews/2014757"/>
+        <updated>2021-07-23T18:22:20.000Z</updated>
+        <summary type="html"><![CDATA[阿根廷央行（BCRA）排除加息的可能性：准备在可预见的未来按兵不动。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江苏、山东、重庆、广西、吉林和海南六省份的上半年GDP两年平均增速均超过了2019年上半年的水平，表现出了较为强劲的经济韧性。此外，四川、福建、湖南、安徽、...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014756</id>
+        <link href="https://wallstreetcn.com/livenews/2014756"/>
+        <updated>2021-07-23T18:20:38.000Z</updated>
+        <summary type="html"><![CDATA[江苏、山东、重庆、广西、吉林和海南六省份的上半年GDP两年平均增速均超过了2019年上半年的水平，表现出了较为强劲的经济韧性。此外，四川、福建、湖南、安徽、江西、云南、贵州和宁夏的上半年GDP两年平均增速都超过了6%，有的与2019年同期增速已经相差不远，表明经济复苏之势十分显著。与今年一季度相比，湖北上半年的GDP排名反超了湖南，与福建的GDP差距也由878亿元缩小至136亿元，这表明湖北在第二季度的表现尤其瞩目，疫情造成的损失正在加速追回。（21世纪经济报道）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国最近24小时新增19,561例新冠肺炎病例，新增29例死亡病例，累计死亡85,082例。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014755</id>
+        <link href="https://wallstreetcn.com/livenews/2014755"/>
+        <updated>2021-07-23T18:18:12.000Z</updated>
+        <summary type="html"><![CDATA[法国最近24小时新增19,561例新冠肺炎病例，新增29例死亡病例，累计死亡85,082例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列卫生部周四（7月22日）表示，根据6月20日至7月17日进行的研究，辉瑞的新冠疫苗可有效防止感染新冠肺炎德尔塔变异毒株后出现重症及住院的有效性分别为91%和...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014753</id>
+        <link href="https://wallstreetcn.com/livenews/2014753"/>
+        <updated>2021-07-23T18:15:56.000Z</updated>
+        <summary type="html"><![CDATA[以色列卫生部周四（7月22日）表示，根据6月20日至7月17日进行的研究，辉瑞的新冠疫苗可有效防止感染新冠肺炎德尔塔变异毒株后出现重症及住院的有效性分别为91%和88%，但在预防感染方面的有效性只有39%。报告称，由于对已接种疫苗和未接种疫苗的人群进行测试的方式不同，数据可能有偏差。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国消费者新闻与商业频道当地时间7月23日报道，随着“德尔塔”变异毒株在美国的迅速蔓延，美国50个州和哥伦比亚特区的新冠肺炎病例均呈上升趋势。根据约翰斯·...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014751</id>
+        <link href="https://wallstreetcn.com/livenews/2014751"/>
+        <updated>2021-07-23T18:04:19.000Z</updated>
+        <summary type="html"><![CDATA[美国消费者新闻与商业频道当地时间7月23日报道，随着“德尔塔”变异毒株在美国的迅速蔓延，美国50个州和哥伦比亚特区的新冠肺炎病例均呈上升趋势。根据约翰斯·霍普金斯大学的数据显示，过去一周美国平均每天报告约43700例新增病例，增幅达65%，数值几乎是两周前的3倍。与此同时，疫苗接种率不断下降。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMEX 8月黄金期货收跌0.2%，报1801.80美元/盎司，本周累跌0.7%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014750</id>
+        <link href="https://wallstreetcn.com/livenews/2014750"/>
+        <updated>2021-07-23T17:58:16.000Z</updated>
+        <summary type="html"><![CDATA[COMEX 8月黄金期货收跌0.2%，报1801.80美元/盎司，本周累跌0.7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洲际交易所（ICE）：7月20日当周，投机者所持布伦特原油净多头头寸下降50,786手合约，至261,841手合约，创最近八周新低。
+投机者所持布伦特汽油净多头头寸减少34...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014748</id>
+        <link href="https://wallstreetcn.com/livenews/2014748"/>
+        <updated>2021-07-23T17:46:55.000Z</updated>
+        <summary type="html"><![CDATA[洲际交易所（ICE）：7月20日当周，投机者所持布伦特原油净多头头寸下降50,786手合约，至261,841手合约，创最近八周新低。
+投机者所持布伦特汽油净多头头寸减少34,709手合约，至106,551手合约。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接力美联储与英国央行 欧央行也放松疫情期间的银行派息限制！]]></title>
+        <id>3636212</id>
+        <link href="https://wallstreetcn.com/articles/3636212"/>
+        <updated>2021-07-23T17:43:31.000Z</updated>
+        <summary type="html"><![CDATA[计算显示，欧元区最大的十家银行已预留出超222亿欧元用于日后回馈股东。但一周前有欧央行官员预警称，取消回馈上限后，银行仍应执行“平均规模”的股息政策，否则欧央行会介入干预。这抑制了欧洲银行业股息派发激增的可能性。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据印度报业托拉斯7月23日报道，印度铁道部长阿什维尼·维什诺向季风议会联邦院通报，在建的孟买-艾哈迈达巴德高速铁路（MAHSR）项目进度因马哈拉施特拉邦土地征...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014747</id>
+        <link href="https://wallstreetcn.com/livenews/2014747"/>
+        <updated>2021-07-23T17:41:37.000Z</updated>
+        <summary type="html"><![CDATA[据印度报业托拉斯7月23日报道，印度铁道部长阿什维尼·维什诺向季风议会联邦院通报，在建的孟买-艾哈迈达巴德高速铁路（MAHSR）项目进度因马哈拉施特拉邦土地征用进展缓慢而延误。印度首条高速铁路连接印度最大城市孟买和古吉拉特邦首府艾哈迈达巴德，全长508公里。印度方面最早的计划是2022年8月15日，即印度独立75周年投入运营。由于新冠肺炎疫情等因素，土地收购工作受阻，原计划到今年3月完成土地收购工作，但是目前这一目标还未完成。已经更改到2023年12月完工的高铁项目，从目前进度看竣工时间有可能进一步推迟。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资机构淡马锡公司中国区总裁吴亦兵表示我们在中国和全球的投资主要围绕四大结构性趋势，即数字化进程、可持续的生活、未来新消费和更长的寿命。数字化进程和可...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014746</id>
+        <link href="https://wallstreetcn.com/livenews/2014746"/>
+        <updated>2021-07-23T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[投资机构淡马锡公司中国区总裁吴亦兵表示我们在中国和全球的投资主要围绕四大结构性趋势，即数字化进程、可持续的生活、未来新消费和更长的寿命。数字化进程和可持续的生活影响着各行各业的方方面面，未来新消费和更长的寿命这两大趋势则反映了消费模式的结构性转变，以及人们与社会不断变化的生命周期相关需求。中国有全球最完整的供应链，能够生产高质量的产品，这些都造就了新消费品牌的爆发。（21世纪经济报道）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普500指数涨幅扩大至超过1%，道指维持超过240点的涨幅，纳指涨幅也扩大至将近1.0%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014744</id>
+        <link href="https://wallstreetcn.com/livenews/2014744"/>
+        <updated>2021-07-23T17:20:20.000Z</updated>
+        <summary type="html"><![CDATA[标普500指数涨幅扩大至超过1%，道指维持超过240点的涨幅，纳指涨幅也扩大至将近1.0%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储周五（7月23日）逆回购工具使用规模为8773亿美元。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014742</id>
+        <link href="https://wallstreetcn.com/livenews/2014742"/>
+        <updated>2021-07-23T17:15:52.000Z</updated>
+        <summary type="html"><![CDATA[美联储周五（7月23日）逆回购工具使用规模为8773亿美元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据越南河内人民委员会7月23日晚间最新消息，自当地时间7月24日6时起，河内市全市展开为期15天的社会隔离。据悉，本次隔离将以区与区、村与村、街道与街道、家庭...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014741</id>
+        <link href="https://wallstreetcn.com/livenews/2014741"/>
+        <updated>2021-07-23T17:15:12.000Z</updated>
+        <summary type="html"><![CDATA[据越南河内人民委员会7月23日晚间最新消息，自当地时间7月24日6时起，河内市全市展开为期15天的社会隔离。据悉，本次隔离将以区与区、村与村、街道与街道、家庭与家庭为单位进行全面的隔离。除去购买食物、药品、体检以及治疗等紧急情况，民众须进行居家隔离，执行公务与生产、出售生活必需品等特殊情况除外。民众须严格遵循保持2米社交距离的原则，在公共场合聚集人数不得超过2人。如出现发热、咳嗽、呼吸急促、味觉消失等情况须立即联系当地医疗机构进行检查治疗。主动下载健康应用程序进行健康申报和监测。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周五（7月23日）欧市尾盘，德国10年期国债收益率涨0.6个基点，报-0.420%，美股盘前曾涨至-0.396%，本周累跌6.7个基点。
+法国10年期国债收益率跌0.4个基点，报-0....]]></title>
+        <id>https://wallstreetcn.com/livenews/2014740</id>
+        <link href="https://wallstreetcn.com/livenews/2014740"/>
+        <updated>2021-07-23T17:07:15.000Z</updated>
+        <summary type="html"><![CDATA[周五（7月23日）欧市尾盘，德国10年期国债收益率涨0.6个基点，报-0.420%，美股盘前曾涨至-0.396%，本周累跌6.7个基点。
+法国10年期国债收益率跌0.4个基点，报-0.088%，美股盘前曾涨至-0.057%，本周累跌7.2个基点。
+英国10年期国债收益率涨1.9个基点，报0.584%%。
+意大利10年期国债收益率跌1.9个基点，报0.618%，本周累跌8.9个基点。
+西班牙10年期国债收益率跌1.5个基点，报0.271%。
+希腊10年期国债收益率跌1.0个基点，报0.663%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际铜夜盘收涨1.52%，沪铜夜盘收涨1.09%，沪铝收涨1.09%，沪锌收涨0.72%，沪铅收跌0.15%，沪镍收涨2.90%，沪锡收涨1.58%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014736</id>
+        <link href="https://wallstreetcn.com/livenews/2014736"/>
+        <updated>2021-07-23T17:02:38.000Z</updated>
+        <summary type="html"><![CDATA[国际铜夜盘收涨1.52%，沪铜夜盘收涨1.09%，沪铝收涨1.09%，沪锌收涨0.72%，沪铅收跌0.15%，沪镍收涨2.90%，沪锡收涨1.58%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月23日当周石油钻井数 387，预期 383，前值 380。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014735</id>
+        <link href="https://wallstreetcn.com/livenews/2014735"/>
+        <updated>2021-07-23T17:00:56.000Z</updated>
+        <summary type="html"><![CDATA[美国7月23日当周石油钻井数 387，预期 383，前值 380。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月23日当周天然气钻井数 104，前值 104。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014734</id>
+        <link href="https://wallstreetcn.com/livenews/2014734"/>
+        <updated>2021-07-23T17:00:56.000Z</updated>
+        <summary type="html"><![CDATA[美国7月23日当周天然气钻井数 104，前值 104。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月23日当周总钻井数 491，前值 484。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014733</id>
+        <link href="https://wallstreetcn.com/livenews/2014733"/>
+        <updated>2021-07-23T17:00:33.000Z</updated>
+        <summary type="html"><![CDATA[美国7月23日当周总钻井数 491，前值 484。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LME期铜收涨74美元，报9516美元/吨。
+LME期铝收涨20美元，报2502美元/吨。
+LME期锌收涨24美元，报2963美元/吨。
+LME期铅收跌24美元，报2375美元/吨。
+LME期镍收...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014732</id>
+        <link href="https://wallstreetcn.com/livenews/2014732"/>
+        <updated>2021-07-23T16:55:39.000Z</updated>
+        <summary type="html"><![CDATA[LME期铜收涨74美元，报9516美元/吨。
+LME期铝收涨20美元，报2502美元/吨。
+LME期锌收涨24美元，报2963美元/吨。
+LME期铅收跌24美元，报2375美元/吨。
+LME期镍收涨450美元，报19372美元/吨。
+LME期锡收涨400美元，报34500美元/吨。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日晚间，证监会公布了2021年证券公司分类评价结果，和去年相比，今年券商评级变化不小。具体来看，今年有50家券商被评为A类，数量占获评券商数的近一半，这...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014731</id>
+        <link href="https://wallstreetcn.com/livenews/2014731"/>
+        <updated>2021-07-23T16:54:27.000Z</updated>
+        <summary type="html"><![CDATA[7月23日晚间，证监会公布了2021年证券公司分类评价结果，和去年相比，今年券商评级变化不小。具体来看，今年有50家券商被评为A类，数量占获评券商数的近一半，这50家券商中有15家券商获评AA级；此外，26家券商级别上调，东海证券“打怪升级”最快，连升5级。此外，25家券商级别被下调，最惨的被连降4级，分别为恒泰证券和国都证券。值得注意的是，近期提出破产申请的网信证券再次被评为D类，而这已经是其自2019年以来，连续三年被评为D类券商了。此外，去年11月份开业的首家内资券商甬兴证券今年首次参与评级即获BB级。（中国基金报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提醒：北京时间01:00，美国油服贝克休斯发布石油钻井机周报。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014729</id>
+        <link href="https://wallstreetcn.com/livenews/2014729"/>
+        <updated>2021-07-23T16:50:11.000Z</updated>
+        <summary type="html"><![CDATA[提醒：北京时间01:00，美国油服贝克休斯发布石油钻井机周报。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国财政部部长耶伦7月23日致信多位国会领导人，敦促国会尽快提高或暂停联邦债务上限，否则将“对美国经济和美国人的生计造成无法弥补的损害”。耶伦警告称，如...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014727</id>
+        <link href="https://wallstreetcn.com/livenews/2014727"/>
+        <updated>2021-07-23T16:46:13.000Z</updated>
+        <summary type="html"><![CDATA[美国财政部部长耶伦7月23日致信多位国会领导人，敦促国会尽快提高或暂停联邦债务上限，否则将“对美国经济和美国人的生计造成无法弥补的损害”。耶伦警告称，如果国会无法在8月1日前提高或暂停债务上限，财政部将无法预测其可以在多长时间内避免潜在的国债违约问题，届时美国可能无法按时足额支付政府的债务，并引发灾难性后果。耶伦表示，仅仅是面临国债违约风险，就可能损害国家的财政状况，她列举了国际评级机构决定在2011年债务上限僵局期间下调美国信用评级的决定。据悉，财政部此前已经采取了非常措施避免违约情况，但耶伦指出，新冠疫情造成的困难为财政部的努力带来限制。此前，美国国会预算办公室表示，除非美国国会提高或暂停债务上限，否则美国可能在今年10月或11月出现债务违约。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为保障转板上市制度落地实施，7月23日沪深交易所发布多个配套规则，旨在明确转板上市相关申请文件编制、报送及信息披露要求。在转板上市规则落地之前，新三板已...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014725</id>
+        <link href="https://wallstreetcn.com/livenews/2014725"/>
+        <updated>2021-07-23T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[为保障转板上市制度落地实施，7月23日沪深交易所发布多个配套规则，旨在明确转板上市相关申请文件编制、报送及信息披露要求。在转板上市规则落地之前，新三板已为科创板、创业板等板块持续输送企业。根据安信证券分析师诸海滨的统计，科创板中来自新三板的企业共81家，总体占比27%，其中市值最大为君实生物，市值超过500亿。和一般意义上认为新三板公司规模较小不同，来自新三板的科创板公司2020年平均营业收入6.53亿，平均归母净利润9355万元，并不乏大规模体量公司。新三板成为科创板的重要公司来源地，信息技术、新材料、生物医药、高端装备为主力行业，占比分别为28.40%、22.22%、17.28%、14.81%。硬科技公司不少，部分公司具备赛道、研发、行业壁垒、估值等优势。（券商中国）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国会参议院共和党成员Bill Cassidy：对达成基础设施协议保持乐观态度。
+预计下周早些时间公布基建法案。
+更多的共和党议员支持接种新冠疫苗。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014724</id>
+        <link href="https://wallstreetcn.com/livenews/2014724"/>
+        <updated>2021-07-23T16:29:02.000Z</updated>
+        <summary type="html"><![CDATA[美国国会参议院共和党成员Bill Cassidy：对达成基础设施协议保持乐观态度。
+预计下周早些时间公布基建法案。
+更多的共和党议员支持接种新冠疫苗。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周五（7月23日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.28%，报50.88欧元/吨，本周累跌3.67%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014722</id>
+        <link href="https://wallstreetcn.com/livenews/2014722"/>
+        <updated>2021-07-23T16:16:53.000Z</updated>
+        <summary type="html"><![CDATA[周五（7月23日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.28%，报50.88欧元/吨，本周累跌3.67%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲央行管委兼德国央行行长魏德曼：欧洲央行新版目标并不意味着欧元区通胀可以显著地上扬。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014718</id>
+        <link href="https://wallstreetcn.com/livenews/2014718"/>
+        <updated>2021-07-23T16:08:58.000Z</updated>
+        <summary type="html"><![CDATA[欧洲央行管委兼德国央行行长魏德曼：欧洲央行新版目标并不意味着欧元区通胀可以显著地上扬。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[意大利新增5,143例新冠肺炎病例，新增17例死亡病例。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014716</id>
+        <link href="https://wallstreetcn.com/livenews/2014716"/>
+        <updated>2021-07-23T16:05:17.000Z</updated>
+        <summary type="html"><![CDATA[意大利新增5,143例新冠肺炎病例，新增17例死亡病例。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲央行：决定不将（银行业）派息建议延长至超过2021年9月份，现有建议将于9月30日到期失效。
+呼吁银行业在派息和股票回购方面保持审慎态度，在薪酬方面保持谨...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014715</id>
+        <link href="https://wallstreetcn.com/livenews/2014715"/>
+        <updated>2021-07-23T16:00:58.000Z</updated>
+        <summary type="html"><![CDATA[欧洲央行：决定不将（银行业）派息建议延长至超过2021年9月份，现有建议将于9月30日到期失效。
+呼吁银行业在派息和股票回购方面保持审慎态度，在薪酬方面保持谨慎和前瞻性。
+银行业决定分红时，它们并没有低估信用风险。
+央行银行业监督成员们恢复新冠肺炎流行病疫情爆发之前的派息计划评估方案。
+（欧元区）个成员国监管部门料将参照欧洲央行的新规。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去一年，新加坡政府投资公司(GIC)将债券和现金持有比例从50%降至45%左右，考虑到固定收益资产的收益率上升和价格下跌，他们计划进一步减持。GIC可能不是唯一一...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014714</id>
+        <link href="https://wallstreetcn.com/livenews/2014714"/>
+        <updated>2021-07-23T16:00:45.000Z</updated>
+        <summary type="html"><![CDATA[过去一年，新加坡政府投资公司(GIC)将债券和现金持有比例从50%降至45%左右，考虑到固定收益资产的收益率上升和价格下跌，他们计划进一步减持。GIC可能不是唯一一家想要解决传统投资组合业绩不佳的机构投资者，但它是最大的之一。GIC在年报中说，虽然全球市场反弹和新的利基将继续提供短期增长，但这家投资者预测未来5到10年的回报率将会下降，因为通胀率、升高的收益率、高估值和疫情的长期影响可能侵蚀收益。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴ADR跌幅扩大至20%，刷新日低至8.16美元，较6月30日所创盘中历史高位回落将近54.7%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014713</id>
+        <link href="https://wallstreetcn.com/livenews/2014713"/>
+        <updated>2021-07-23T15:57:10.000Z</updated>
+        <summary type="html"><![CDATA[滴滴ADR跌幅扩大至20%，刷新日低至8.16美元，较6月30日所创盘中历史高位回落将近54.7%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日了解到，航空港厂区（郑州富士康总部）已经恢复生产工作，主要生产手机。向多位员工了解到，郑州暴雨期间该厂区员工上下班及工作秩序均正常，厂区附近超...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014708</id>
+        <link href="https://wallstreetcn.com/livenews/2014708"/>
+        <updated>2021-07-23T15:46:04.000Z</updated>
+        <summary type="html"><![CDATA[7月23日了解到，航空港厂区（郑州富士康总部）已经恢复生产工作，主要生产手机。向多位员工了解到，郑州暴雨期间该厂区员工上下班及工作秩序均正常，厂区附近超市、饭店、宿舍楼未受到雨水影响。（每经网）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京奥运2020：疫情下终于迎来开幕 中港台代表队入场各有看点]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/world-57941143</id>
+        <link href="https://www.bbc.com/zhongwen/simp/world-57941143"/>
+        <updated>2021-07-23T15:43:01.000Z</updated>
+        <summary type="html"><![CDATA[5 分钟前
+
+
+
+图像来源，Reuters
+
+
+观看东京奥运开幕式烟花的民众
+
+
+
+一位表演者独自在场地中间站起来，身后一棵幼苗形状的影子徐徐延伸，他走向一台跑步机，开幕式就此以这样一个讯息开启：运动员在全球疫情的限制下没有一刻放弃和放松，经过长时间准备之后终于迎来东京奥运开幕。
+
+东京时间周五（7月23日）晚上八时，东京新国立竞技场亮起的光芒给繁荣日本国都平添了又一分色彩。一场集艺术、欢庆和国家荣耀为一体的，而且迟到了许久的奥运开幕式终于与世人见面了。
+
+一系列以日本历史、传统艺术、工业进程与流行文化为主题的表演之后，现场为那些在全球疫情期间逝世的人们进行了一个静默仪式。
+
+对全球华人观众来说，来自中国、香港和台湾的代表队入场也各有看点。
+
+
+
+在全球聚焦开幕庆典同时，东京也发生了一些反对疫情期间举办奥运民众的抗议活动。
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+在延期一年之后，东京奥运会在疫情中开幕。
+
+
+
+艺术、欢庆和国家荣耀
+
+作为历史传承的象征，第二主办奥运会的东京，还将五个木制的圆环推进场地，然后组成奥林匹克的标志——那是1964年东京上一次举办奥运时由各国选手播撒种子，57年之后树木成材，被取用来制作的奥运五环。
+
+虽然不允许公众入场，但是国际奥委会主席托马斯·巴赫（Thomas Bach）、日本德仁天皇、法国总统马克龙（Emmanuel Macron）、美国第一夫人吉尔·拜登（Jill Biden）等多国元首、政要或官员均到场。
+
+一如传统，希腊作为现代奥运会的发源地，其代表团在207个参赛国家及地区当中率先出场，日本作为东道主最后进入场地。
+
+但由于疫情限制措施，各国代表团出席开幕式的人数较往届为少。并没有出现数百人代表团一同出席的场面，多数代表团仅派数十名代表出席，大英代表团派出约30人出席代表团入场仪式。
+
+此外，本届奥运采取一项新措施，各国…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士康中牟县厂区被淹，生产设备进水，周二（7月20日）晚上8点左右开始停工，现在还在用水泵排水，复工时间尚不明确，对iPhone供应影响未知。（21世纪经济报道）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014706</id>
+        <link href="https://wallstreetcn.com/livenews/2014706"/>
+        <updated>2021-07-23T15:39:42.000Z</updated>
+        <summary type="html"><![CDATA[富士康中牟县厂区被淹，生产设备进水，周二（7月20日）晚上8点左右开始停工，现在还在用水泵排水，复工时间尚不明确，对iPhone供应影响未知。（21世纪经济报道）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据教育部相关人士透露，《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》已在教育系统印发。（21世纪经济报道）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014705</id>
+        <link href="https://wallstreetcn.com/livenews/2014705"/>
+        <updated>2021-07-23T15:38:26.000Z</updated>
+        <summary type="html"><![CDATA[据教育部相关人士透露，《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》已在教育系统印发。（21世纪经济报道）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在岸人民币兑美元北京时间23:30收报6.4807，较上一交易日夜盘收盘跌106点。成交量332.12亿美元，较周四减少19.38亿美元。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014704</id>
+        <link href="https://wallstreetcn.com/livenews/2014704"/>
+        <updated>2021-07-23T15:34:20.000Z</updated>
+        <summary type="html"><![CDATA[在岸人民币兑美元北京时间23:30收报6.4807，较上一交易日夜盘收盘跌106点。成交量332.12亿美元，较周四减少19.38亿美元。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国DAX 30指数收涨1.00%，报15669.29点，本周累涨0.83%。
+法国CAC 40指数收涨1.35%，报6568.82点，本周累涨3.02%。
+英国富时100指数收涨0.85%，报7027.58点，本...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014703</id>
+        <link href="https://wallstreetcn.com/livenews/2014703"/>
+        <updated>2021-07-23T15:30:15.000Z</updated>
+        <summary type="html"><![CDATA[德国DAX 30指数收涨1.00%，报15669.29点，本周累涨0.83%。
+法国CAC 40指数收涨1.35%，报6568.82点，本周累涨3.02%。
+英国富时100指数收涨0.85%，报7027.58点，本周累涨0.28%；富时250指数收涨0.91%。
+意大利富时MIB指数收涨1.29%，报25124.91点，本周累涨1.34%；富时意大利综合股价银行指数收涨1.47%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富时泛欧绩优300指数收涨1.10%，报1778.78点，本周累涨1.38%。
+欧洲STOXX 600指数收涨1.09%，报461.51点，创收盘历史新高，本周累涨1.49%。
+欧元区STOXX 50指数...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014702</id>
+        <link href="https://wallstreetcn.com/livenews/2014702"/>
+        <updated>2021-07-23T15:30:07.000Z</updated>
+        <summary type="html"><![CDATA[富时泛欧绩优300指数收涨1.10%，报1778.78点，本周累涨1.38%。
+欧洲STOXX 600指数收涨1.09%，报461.51点，创收盘历史新高，本周累涨1.49%。
+欧元区STOXX 50指数收涨1.23%，报4109.10点，本周累涨1.82%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为支持中央金融企业履行社会责任，强化金融服务，向灾区提供必要支援，财政部发布通知，鼓励中央金融企业通过深化减费让利有效支持灾区实体经济。鼓励通过加大灾...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014701</id>
+        <link href="https://wallstreetcn.com/livenews/2014701"/>
+        <updated>2021-07-23T15:24:20.000Z</updated>
+        <summary type="html"><![CDATA[为支持中央金融企业履行社会责任，强化金融服务，向灾区提供必要支援，财政部发布通知，鼓励中央金融企业通过深化减费让利有效支持灾区实体经济。鼓励通过加大灾区贷款投放、落实普惠小微企业贷款延期还本付息政策等方式，帮助灾区尽快恢复生产生活秩序。支持保险公司用足用好农业保险保费补贴政策，发挥好包括农业保险在内各类保险的风险保障功能。同时，在合理安排对灾区捐赠方面，要综合考虑经营情况、防汛抗灾需要等因素，确定防汛抗灾捐赠事项。中央金融企业原则上应在年度捐赠授权额度内，优化全年捐赠结构，妥善安排对灾区捐赠规模。保险机构可统筹考虑现金捐赠情况，向受灾企业和群众捐赠保险产品。捐赠要实行集团统一管理，捐赠资金应专款专用、加强监督。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo S10 Pro 体验：「好看」，真的就够了]]></title>
+        <id>https://www.geekpark.net/news/281597</id>
+        <link href="https://www.geekpark.net/news/281597"/>
+        <updated>2021-07-23T15:23:07.000Z</updated>
+        <summary type="html"><![CDATA[进入到 2021 年，很多行业都面临着「缺芯」问题，不过这似乎并没有对手机厂商们的产品发布节奏造成太多影响。除了华为情况比较特殊，其它几家基本都在稳步推进。
+自 2019 年 vivo S1 开始，S 系列一直延续着一年两代的更新频率，今年也不例外。三月份的时候，vivo 推出了 S9 系列，现在 vivo S10 系列也正式和大家见面了。
+有趣的是，虽然这代 S 系列同样包含两款机型，但命名方式做了改动，分别叫做 vivo S10 和 vivo S10 Pro，而非 vivo S10 和 vivo S10e，似乎有些「致敬初代」的意思。
+这篇文章我要说的，是 vivo S10 Pro。
+
+        
+
+      
+什么样的美颜，是更好看的美颜？
+人们对于美的理解，是一个动态变化的过程。大方向上，手机美颜功能的进化逻辑和当前大众普遍审美观念保持一致，美颜算法以及技术迭代也都围绕这一核心展开。
+早期，受技术能力所限，智能手机通常是以一套算法「打天下」，无论什么脸型，或者有什么样的面部特征，最终输出的人像效果都比较相近，所谓柳叶眉、瓜子脸。
+后来随着影像能力的重要性被提到更高优先级，手机美颜功能开始向「简单又复杂」的方向发展。简单，是通过内建多套算法模型来实现 AI 一键美颜的拍摄效果；复杂，则是将局部美颜调节选项开放给用户，允许根据个人喜好获得更有针对性的美颜。
+虽然功能和效果都在不断完善，但如果放到更高维度来看手机美颜这件事情你会发现，其实很多厂商所选择的产品路径和早些时候没有本质上的区别，依旧是以既定的美化方案来服务于不同用户，多了一些别人眼中的好看，却少了一些属于自己的与众不同。
+vivo S10 Pro 特别的地方，是重新回到了技术服务于人这个理念上，新增了自然人像功能。它是以个人作为主体，在保留用户面部特征的基础上去做美颜，从而让美颜不再变得千篇一律。
+
+ …]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliance：预计印度汽油价格将从10月1日上涨50%甚至60%。
+本公司正侧重于加速启动清洁能源公司。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014700</id>
+        <link href="https://wallstreetcn.com/livenews/2014700"/>
+        <updated>2021-07-23T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Reliance：预计印度汽油价格将从10月1日上涨50%甚至60%。
+本公司正侧重于加速启动清洁能源公司。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电力企业联合会发布预测报告称，综合考虑下半年国内外经济形势、电能替代等因素，预计2021年下半年全社会用电量同比增长6%左右。预测报告称，预计2021年年底...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014697</id>
+        <link href="https://wallstreetcn.com/livenews/2014697"/>
+        <updated>2021-07-23T15:15:10.000Z</updated>
+        <summary type="html"><![CDATA[中国电力企业联合会发布预测报告称，综合考虑下半年国内外经济形势、电能替代等因素，预计2021年下半年全社会用电量同比增长6%左右。预测报告称，预计2021年年底全国发电装机容量23.7亿千瓦，同比增长7.7%左右。中电联有关负责人表示，今年上半年，我国电力行业为经济社会发展提供了坚强电力保障，用电量快速增长，电力装机结构延续绿色低碳发展态势，电力供需总体平衡，部分地区电力供应偏紧。（新华社）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲STOXX 600指数刷新盘中历史高位至461.38点，目前涨超1.0%，暂报461.20点。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014696</id>
+        <link href="https://wallstreetcn.com/livenews/2014696"/>
+        <updated>2021-07-23T15:13:50.000Z</updated>
+        <summary type="html"><![CDATA[欧洲STOXX 600指数刷新盘中历史高位至461.38点，目前涨超1.0%，暂报461.20点。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国进出口银行出台抗洪涝稳外贸金融扶助方案，采取多项金融举措，全力做好支持河南防汛救灾金融服务工作。具体措施包括：配置50亿元专项信贷投放额度，支持河南...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014694</id>
+        <link href="https://wallstreetcn.com/livenews/2014694"/>
+        <updated>2021-07-23T15:08:48.000Z</updated>
+        <summary type="html"><![CDATA[中国进出口银行出台抗洪涝稳外贸金融扶助方案，采取多项金融举措，全力做好支持河南防汛救灾金融服务工作。具体措施包括：配置50亿元专项信贷投放额度，支持河南地区防汛救灾和外贸、制造业企业恢复生产；安排30亿元抗洪涝稳外贸主题金融债，专项用于保障救灾及受灾企业采购原料、生产运营等；运用应急响应贷款和专项纾困资金，保障受灾地区供应链和产业链正常运行等。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥经济部官员Tatiana Clouthier：对话将有助于强化美国墨西哥加拿大贸易协议（USMCA）关系。
+墨西哥正与美国分析汽车贸易规则，两国尚未讨论因新冠肺炎流行...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014693</id>
+        <link href="https://wallstreetcn.com/livenews/2014693"/>
+        <updated>2021-07-23T15:08:45.000Z</updated>
+        <summary type="html"><![CDATA[墨西哥经济部官员Tatiana Clouthier：对话将有助于强化美国墨西哥加拿大贸易协议（USMCA）关系。
+墨西哥正与美国分析汽车贸易规则，两国尚未讨论因新冠肺炎流行病疫情而关闭边界一事。
+墨西哥和加拿大在汽车贸易规则方面与美国存在意见分歧。
+美国政府并没有根据三方协议阐述USMCA中关于原产地的规则。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中兴通讯：近日与华人运通宣布达成战略合作，双方将共同探索5G、C-V2X、云计算、大数据、人工智能等技术与智能驾驶、智能制造等技术的深度融合，利用中兴通讯在5...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014692</id>
+        <link href="https://wallstreetcn.com/livenews/2014692"/>
+        <updated>2021-07-23T15:07:33.000Z</updated>
+        <summary type="html"><![CDATA[中兴通讯：近日与华人运通宣布达成战略合作，双方将共同探索5G、C-V2X、云计算、大数据、人工智能等技术与智能驾驶、智能制造等技术的深度融合，利用中兴通讯在5G、C-V2X等通讯和计算技术方面的优势，以及华人运通在自动驾驶、智能汽车等方面的优势，共同进行基于5G+V2X车路协同终端及创新应用场景等方面的深度合作。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[螺纹期货夜盘收涨0.14%，热卷收跌0.47%；铁矿石期货收涨0.40%。
+焦炭夜盘收涨0.88%，焦煤收涨0.88%，动力煤收跌0.94%。
+橡胶夜盘收涨0.64%，沥青收跌1.07%。
+豆...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014689</id>
+        <link href="https://wallstreetcn.com/livenews/2014689"/>
+        <updated>2021-07-23T15:04:03.000Z</updated>
+        <summary type="html"><![CDATA[螺纹期货夜盘收涨0.14%，热卷收跌0.47%；铁矿石期货收涨0.40%。
+焦炭夜盘收涨0.88%，焦煤收涨0.88%，动力煤收跌0.94%。
+橡胶夜盘收涨0.64%，沥青收跌1.07%。
+豆粕夜盘收跌0.56%，菜粕收跌1.28%。
+郑棉夜盘收涨0.03%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国7月23日新增36,389例新冠肺炎病例，新增64例死亡病例。
+7月22日，英国医院收治的总体新冠肺炎病患数为5,001例。
+英国已有46,476,845人接种第一剂新冠肺炎疫...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014688</id>
+        <link href="https://wallstreetcn.com/livenews/2014688"/>
+        <updated>2021-07-23T15:01:22.000Z</updated>
+        <summary type="html"><![CDATA[英国7月23日新增36,389例新冠肺炎病例，新增64例死亡病例。
+7月22日，英国医院收治的总体新冠肺炎病患数为5,001例。
+英国已有46,476,845人接种第一剂新冠肺炎疫苗，其中36,762,646人接种了第二剂。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普500指数涨超0.6%，刷新盘中历史高位至4395.64点，成分股Facebook涨超4.4%，美国运通涨超3.4%，谷歌A涨超2.5%，星巴克涨超2.4%，MasterCard涨超2.1%，麦当劳...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014685</id>
+        <link href="https://wallstreetcn.com/livenews/2014685"/>
+        <updated>2021-07-23T14:55:25.000Z</updated>
+        <summary type="html"><![CDATA[标普500指数涨超0.6%，刷新盘中历史高位至4395.64点，成分股Facebook涨超4.4%，美国运通涨超3.4%，谷歌A涨超2.5%，星巴克涨超2.4%，MasterCard涨超2.1%，麦当劳涨幅不足2.0%。但英特尔跌超5.5%，甲骨文跌2.6%，霍尼韦尔跌超2.1%，特斯拉跌1.7%，英伟达、康菲石油至少跌1.5%。道指维持不足200点的涨幅，徘徊于日高35056.97点附近。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缅甸国家管理委员会宣布，为防控新冠疫情，将之前7月17日到25日的公众假期，再延长一周至8月1日结束。这一连续假期从之前的9天延长到16天。此前，缅甸国家管理委...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014684</id>
+        <link href="https://wallstreetcn.com/livenews/2014684"/>
+        <updated>2021-07-23T14:54:23.000Z</updated>
+        <summary type="html"><![CDATA[缅甸国家管理委员会宣布，为防控新冠疫情，将之前7月17日到25日的公众假期，再延长一周至8月1日结束。这一连续假期从之前的9天延长到16天。此前，缅甸国家管理委员会7月14日宣布缅甸将于7月17日至25日全国放假9天，以防控第三波新冠疫情。缅甸卫生与体育部7月23日晚发布消息，在当天检测的13487个样本中，发现新增新冠确诊病例5506例，确诊率达40.8%，累计确诊258870例；当日新增死亡病例326例，再次刷新缅甸单日新增死亡病例记录，累计死亡6459例。（央视新闻）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新东方港交所公告：我们注意到，今天有部分英文及中文媒体报导称，中国监管机构正在考虑制定一套新规例，内容涉及中国义务教育制度下所教授学校科目的相关课外辅...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014682</id>
+        <link href="https://wallstreetcn.com/livenews/2014682"/>
+        <updated>2021-07-23T14:47:31.000Z</updated>
+        <summary type="html"><![CDATA[新东方港交所公告：我们注意到，今天有部分英文及中文媒体报导称，中国监管机构正在考虑制定一套新规例，内容涉及中国义务教育制度下所教授学校科目的相关课外辅导服务。该等规例尚未公布，本公司亦未收到有关该等规例的正式通知。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股价腰斩，好未来、新东方、高途齐发声：网传政策尚未公布]]></title>
+        <id>3636210</id>
+        <link href="https://wallstreetcn.com/articles/3636210"/>
+        <updated>2021-07-23T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[好未来公告称，注意到部分媒体发布了中国考虑针对课外学科辅导服务实施新监管政策的报道，该监管政策尚未发布，公司暂未收到来自监管部门任何正式通知。公司不对市场推测做出评论。新东方、高途也发布了与好未来类似的公告。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好未来：今日注意到部分媒体发布了中国考虑针对课外学科辅导服务实施新监管政策的报道，该监管政策尚未发布，公司暂未收到来自监管部门任何正式通知。公司不对市...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014680</id>
+        <link href="https://wallstreetcn.com/livenews/2014680"/>
+        <updated>2021-07-23T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[好未来：今日注意到部分媒体发布了中国考虑针对课外学科辅导服务实施新监管政策的报道，该监管政策尚未发布，公司暂未收到来自监管部门任何正式通知。公司不对市场推测做出评论。（澎湃）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上交所部署开展科创板网下投资者专项检查行动，以引导督促网下投资者规范参与新股发行承销活动。（中证报）]]></title>
+        <id>https://wallstreetcn.com/livenews/2014679</id>
+        <link href="https://wallstreetcn.com/livenews/2014679"/>
+        <updated>2021-07-23T14:35:12.000Z</updated>
+        <summary type="html"><![CDATA[上交所部署开展科创板网下投资者专项检查行动，以引导督促网下投资者规范参与新股发行承销活动。（中证报）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉（TSLA）下跌1.4%，刷新日低至639.26美元，据Electrek报道，部分特斯拉Model S买家被告知，他们所订购的新款Model S被暂缓交付，但并未被告知具体原因。有...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014677</id>
+        <link href="https://wallstreetcn.com/livenews/2014677"/>
+        <updated>2021-07-23T14:23:42.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉（TSLA）下跌1.4%，刷新日低至639.26美元，据Electrek报道，部分特斯拉Model S买家被告知，他们所订购的新款Model S被暂缓交付，但并未被告知具体原因。有些买家被告知了暂缓交付的原因，但各不相同，例如有的买家被告知其车辆仍需留在交付中心进行最后的检测等。对此，有买家猜测，这可能与6月份Model S意外起火事件有关，但目前没有明确的证据。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「双减」刀落，在线教育「各奔前程」]]></title>
+        <id>https://www.geekpark.net/news/281883</id>
+        <link href="https://www.geekpark.net/news/281883"/>
+        <updated>2021-07-23T14:22:16.000Z</updated>
+        <summary type="html"><![CDATA[终于，在线教育和学科培训行业头顶的达摩克利斯之剑就此斩下。
+7 月 23 日午间，针对校外教培和在线教育行业的「双减」文件正式落地。该文件早在两个月前于中央深改委第九次会议审议通过，时隔两个月，由中共中央办公厅和国务院办公厅印发的《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》（下称《双减》文件）已于近日正式下发到各地机关。
+受此消息影响，已经开盘的港股教育公司股票出现大幅下跌，其中，新东方股价腰斩，创下股价下跌纪录，卓越教育、思考乐教育等公司的股价同样出现近 30% 的下跌。美股虽然还没开盘，但高途教育、好未来等中概股在盘前股票已跌去近 50%。
+《双减》文件在机构定性和资本等方面对校外培训和在线教育公司进行了「精准监管」。
+《双减》文件指出，在义务教育阶段，各地将不再审批新的学科类教育培训机构。同时，已经审批的机构统一转为「非营利性」机构；线上机构由备案制转为审批制，且已经备案的机构要根据标准重新审批。
+同时，因为疫情而被用户和资本热捧的在线教育，在去年创下了超过 550 亿元的巨额融资，几乎重演了当年「网约车大战」的资本大战。在线教育赛道流淌的「热钱」中，不少来自海外知名投资机构。
+对此，《双减》文件有专门的监管新规。其中「上市公司不得通过股票市场融资投资学科类培训机构，不得通过发行股份或支付现金等方式购买学科类培训机构资产」和「外资不得通过兼并收购、受托经营、加盟连锁、利用可变利益实体等方式控股或参股学科类培训机构。」堵住了来自国内和国外的投资渠道；而「学科类培训机构一律不得上市融资，严禁资本化运作」则彻底掐灭了创业公司的上市希望。
+限制业务、掐断资本的情况下，纯粹做 To C 的在线教育的命运似乎已经成为定局。在线教育的下一步是什么？
+
+预警：避免资本无序竞争
+「跟谁学」董事长陈向东曾经说：「2020 年全球教育投资大概有 80% 都流向了中国，这在…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日从银保监会获悉，为支持河南防汛救灾工作，银保监会要求各银行保险机构及时对灾区保险报案进行估损，全力做好保险理赔，积极发放救灾资金，帮助受灾群众...]]></title>
+        <id>https://wallstreetcn.com/livenews/2014675</id>
+        <link href="https://wallstreetcn.com/livenews/2014675"/>
+        <updated>2021-07-23T14:20:55.000Z</updated>
+        <summary type="html"><![CDATA[7月23日从银保监会获悉，为支持河南防汛救灾工作，银保监会要求各银行保险机构及时对灾区保险报案进行估损，全力做好保险理赔，积极发放救灾资金，帮助受灾群众、受灾企业恢复生产生活，切实维护人民群众利益。截至23日12时，据初步统计，河南保险业累计接到报案17.69万件，估损金额58.27亿元，其中车险16.75万件，估损47.11亿元；企财产险1863件，估损8亿元；工程险主要是郑州地铁1.66亿元；农险6112件，估损1.05亿元；其他险种1304件，估损4560万元，预计后期报案数量仍将持续增长。（央视）]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国利物浦海事商城从世界遗产名录中除名的前因后果]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/uk-57929834</id>
+        <link href="https://www.bbc.com/zhongwen/simp/uk-57929834"/>
+        <updated>2021-07-23T14:13:03.000Z</updated>
+        <summary type="html"><![CDATA[15 分钟前
+
+
+
+图像来源，Getty Images
+
+
+
+联合国教科文组织(UNESCO) 世界遗产委员会决定，英国利物浦海事商城从世界遗产名录上除名。
+
+在中国福州召开的第44届世界遗产大会在无记名投票后作出这一决定，原因是：利物浦滨海区作为世界遗产的价值，遭受了不可逆转的损害。
+
+联合国教科文组织说，在利物浦滨海区的开发项目、包括计划中的新埃弗顿体育场，对历史遗迹造成了“严重损害”。
+
+
+一根巨石柱心终于解开英国巨石阵谜团
+“镇塔王后”失踪：伦敦塔乌鸦的来历与传说
+英国利物浦大学被指种族主义向中国学生道歉
+
+
+“难以理解”
+
+利物浦市长琼安·安德森（Joanne Anderson）对这一决定表示“难以理解”。
+
+
+
+她说，利物浦的世界文化遗产处于有史以来最好的状态，几十座受保护的建筑和公共场所从数亿英镑的投资中获益。
+
+她还透露，将与政府联手研究利物浦是否可以对这一决定提出上诉。
+
+
+
+
+
+
+
+
+
+利物浦是英国著名乐队披头士（The Beatles）的故乡，有悠久的航海历史。
+
+2004年联合国教科文组织将利物浦列入《世界遗产名录》，认可这个城市在18世纪和19世纪作为世界主要贸易中心之一的影响力并表彰其开创性的码头技术、运输系统和港口管理。
+
+保护与发展
+
+利物浦位于英格兰西北部，是英国第二大贸易港，也是一个有深厚文化、体育、艺术和历史底蕴的城市。
+
+利物浦富有特色的拱顶牌楼下、鹅卵石街道边布满了画廊、博物馆、酒吧，孕育了许多世界闻名的艺术家、喜剧演员、发明家和政界要人，包括风靡世界的披头士乐队。
+
+利物浦也因足球享有盛誉，有利物浦、埃弗顿两大著名的俱乐部；它还是最著名的安特里国家赛马大赛的起源地。
+
+2008年，利物浦曾成为欧洲文化之都。
+
+但这座历史名城面临的一个重大挑战是如何在保护文化遗产和继续发展经济之间找到平衡。
+
+
+
+
+
+
+图像来源，Everton FC
+
+
+正在利物浦海滨兴建的新埃弗顿体育馆样图。
+
+
+
+2004年，利物浦正式名列世界遗产名单时，利物浦一号购物中心还没有兴建，价值数百万英镑的埃弗顿体育馆也没有人提出构想。
+
+而现在，正是这些项目被认为造成了“过度开发”的后果，严重影响了利物浦海滨的历史韵味。
+
+英国广播公司BBC利物浦地区电台的记者克莱尔·哈米尔顿（Claire Hamilton）说，在利物浦，有些人认为并不需要“世界遗产”这个头衔，特别是在一个过去几十年一直被忽视、年久失修的破旧地区；确实，很多人来利物浦的历史名胜参观，但那并不是因为利物浦名列世界遗产名单，而是为了披头士乐队、足球、食物和历史。
+
+但是，利物浦被除名也让部分人担心，今后这座城市在保护遗产、建筑、历史方面的动力和能量会锐减，会出现更多随心所欲、缺乏规划的开发项目。
+
+利物浦历史
+
+利物浦的世界遗产从著名的海滨，穿过传统商业区，延伸到圣乔治厅。
+
+利物浦申请世界遗产的核心是在18和19世纪作为全球主要港口的历史，当时它在大英帝国的发展中发挥了重要作用。
+
+当时利物浦是人口大规模流动的枢纽，欧洲很多移民经过这里前往美洲。
+
+历史上，利物浦还曾是跨大西洋贩奴的关键港口。
+
+二战结束后，利物浦的皇家阿尔伯特码头成为英国最大的单一一级保护建筑群。
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+1915年第一次世界大战期间，12000官兵在圣乔治厅外举行阅兵式。
+
+
+
+《世界遗产名录》
+
+联合国教科文组织于1972年开始编制《世界遗产名录》，最初命名了12个，其中包括美国的黄石国家公园和埃塞俄比亚的拉利贝拉洞穴教堂。
+
+目前，在教科文组织的167个会员国中，有超过1100个历史文化遗址列入该名录。
+
+最近新增的遗址包括新西兰西南部的蒂瓦希普纳穆(Te Wahipounamu )公园。
+
+中国从1986年开始申报教科文组织世界遗产项目。截至目前，中国共有世界遗产55处，包括长城、天坛、莫高窟、兵马俑等。
+
+在利物浦海事商城被除名之前，英国共有32处世界遗产，其中包括巨石阵、前首相丘吉尔出生地布莱尼姆宫、伦敦塔、坎特伯雷大教堂、伦敦著名植物园邱园、巴斯城，等等。
+
+如今利物浦成为被除名的第三个世界遗产地。
+
+2007年，阿曼的阿拉伯羚羊保护区(Arabian Oryx Sanctuary)因偷猎和栖息地退化问题而被教科文组织除名，成为第一个被除名的世界遗产。
+
+2009年，德国德累斯顿的易北河谷(Elbe Valley)是第二个被从《世界遗产名录》中除名的地方，因为在易北河上建造了瓦尔德施洛辛(Waldschlosschen)公路桥。]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深交所发布《深圳证券交易所创业板发行上市审核业务指南第1号——创业板发行上市申请文件受理关注要点》等业务指南。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014672</id>
+        <link href="https://wallstreetcn.com/livenews/2014672"/>
+        <updated>2021-07-23T14:08:39.000Z</updated>
+        <summary type="html"><![CDATA[深交所发布《深圳证券交易所创业板发行上市审核业务指南第1号——创业板发行上市申请文件受理关注要点》等业务指南。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国会山成员们建议出台跨党派立法草案，以应对美国年轻人出现的电子烟危机。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014671</id>
+        <link href="https://wallstreetcn.com/livenews/2014671"/>
+        <updated>2021-07-23T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[美国国会山成员们建议出台跨党派立法草案，以应对美国年轻人出现的电子烟危机。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国债价格跌幅收窄，10年期美债收益率回升至1.28%。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014669</id>
+        <link href="https://wallstreetcn.com/livenews/2014669"/>
+        <updated>2021-07-23T14:03:13.000Z</updated>
+        <summary type="html"><![CDATA[美国国债价格跌幅收窄，10年期美债收益率回升至1.28%。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲央行管委、比例是央行行长Wunsch：新版利率指做得过火。
+我曾呼吁欧洲央行决策者们（针对新版指引）制定“例外条款”。]]></title>
+        <id>https://wallstreetcn.com/livenews/2014668</id>
+        <link href="https://wallstreetcn.com/livenews/2014668"/>
+        <updated>2021-07-23T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[欧洲央行管委、比例是央行行长Wunsch：新版利率指做得过火。
+我曾呼吁欧洲央行决策者们（针对新版指引）制定“例外条款”。]]></summary>
+        <author>
+            <name>要闻 - 实时快讯 - 华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资地产的逻辑是什么？投资凯德是否做足尽调？未来投资策略是什么？中国平安首席投资官回应投资者关切热点！]]></title>
+        <id>3636208</id>
+        <link href="https://wallstreetcn.com/articles/3636208"/>
+        <updated>2021-07-23T13:54:25.000Z</updated>
+        <summary type="html"><![CDATA[平安保险资金一贯坚持的地产投资策略是：坚持长期投资；专注符合政策导向的商办、养老、公租房、长租公寓、物流、基建等社会民生领域的长期投资机会，看重长期持有的优质、稳定、收租型物业，这和当前“房住不炒”的总基调是完全一致的。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月Markit制造业PMI创历史新高 服务业PMI意外跌至五个月低位]]></title>
+        <id>3636206</id>
+        <link href="https://wallstreetcn.com/articles/3636206"/>
+        <updated>2021-07-23T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[金融数据供应商IHS Markit周五公布了美国7月的制造业和服务业PMI数据，其中制造业PMI初值仍然高于预期，并且创下历史新高，但同时公布的服务业PMI初值却意外下滑至五个月以来的低位。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿新锐私募“暗引”二股东，与牛散“重名”，其他投研骨干依旧无股权]]></title>
+        <id>3636205</id>
+        <link href="https://wallstreetcn.com/articles/3636205"/>
+        <updated>2021-07-23T13:36:13.000Z</updated>
+        <summary type="html"><![CDATA[实控人不是法人]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南美政坛剧变，对铜价意味着什么？]]></title>
+        <id>3636203</id>
+        <link href="https://wallstreetcn.com/articles/3636203"/>
+        <updated>2021-07-23T13:28:18.000Z</updated>
+        <summary type="html"><![CDATA[随着全球减少使用化石燃料、逐渐向清洁能源转型，铜的需求激增，而南美国家内部关于矿业政策的不确定性将影响其供应，进一步推高铜价。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利好疫苗！美国疫苗委员会初步支持注射加强针]]></title>
+        <id>3636204</id>
+        <link href="https://wallstreetcn.com/articles/3636204"/>
+        <updated>2021-07-23T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[但由于新冠疫苗的紧急授权中的一些限制，医生不能为特定人群（例如免疫功能低下的人群）推荐额外的剂量。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晓有见地｜房地产风声鹤唳]]></title>
+        <id>3636202</id>
+        <link href="https://wallstreetcn.com/articles/3636202"/>
+        <updated>2021-07-23T13:07:41.000Z</updated>
+        <summary type="html"><![CDATA[行业正在经历一场信心危机。]]></summary>
+        <author>
+            <name>周智宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“热过头”的临期市场，还能跑多远？]]></title>
+        <id>3636201</id>
+        <link href="https://awtmt.com/articles/3636201?from=wscn"/>
+        <updated>2021-07-23T13:05:27.000Z</updated>
+        <summary type="html"><![CDATA[行业仍存在供应链“硬伤”，缺乏相应的监管和规则，同时，“割韭菜”式的新加盟品牌也在快速抢夺个体创业者的“心智”。每个从业者都想成为“收割者”，但在不经意间，或许就已被同行收割。]]></summary>
+        <author>
+            <name>胡描</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会接最后一棒么？部分A股基金六月空仓七月猛加仓]]></title>
+        <id>3636200</id>
+        <link href="https://wallstreetcn.com/articles/3636200"/>
+        <updated>2021-07-23T12:22:54.000Z</updated>
+        <summary type="html"><![CDATA[基金经理看好新能源及半导体]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基金中报VS公司中报，要继续“抱团”吗？——大类资产周度回顾]]></title>
+        <id>3636097</id>
+        <link href="https://wallstreetcn.com/articles/3636097"/>
+        <updated>2021-07-23T12:14:07.000Z</updated>
+        <summary type="html"><![CDATA[从上市公司的中报业绩预告和基金中报的配置来看，业绩和配置还是存在一定的差别，这个差别体现了当前市场的两方面特征：更重视细分行业的成长空间和交易的抱团效应。]]></summary>
+        <author>
+            <name>周欣瑜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河南水灾：城市灾难应急管理模范生香港可否被借鉴？]]></title>
         <id>https://www.bbc.com/zhongwen/simp/chinese-news-57941051</id>
@@ -62,6 +1525,16 @@ BBC中文记者　香港报道
         <summary type="html"><![CDATA[6月美国房地产市场呈现放量上涨。]]></summary>
         <author>
             <name>周欣瑜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股盘前：下周美联储高官们将讨论taper；大摩认为美股面临“重大调整风险”...]]></title>
+        <id>3636199</id>
+        <link href="https://wallstreetcn.com/articles/3636199"/>
+        <updated>2021-07-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel Q2财报超预期，数据中心持续疲软；美国经济增速已见顶，将面临一系列独特风险...]]></summary>
+        <author>
+            <name>于旭东</name>
         </author>
     </entry>
     <entry>
