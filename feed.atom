@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T08:10:42.625Z</updated>
+    <updated>2021-07-26T10:23:42.621Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[东京奥运的性别话题：女运动员遭“性别歧视”的着装规则]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/sports-57968402</id>
+        <link href="https://www.bbc.com/zhongwen/simp/sports-57968402"/>
+        <updated>2021-07-26T09:43:07.000Z</updated>
+        <summary type="html"><![CDATA[16 分钟前
+
+
+
+图像来源，Getty Images
+
+
+挪威男女沙滩手球队的球衣看起来有些不同。
+
+
+
+“我们将继续一起争取改变着装规则，以让球员能穿着感觉舒适的衣服比赛。”
+
+这是挪威手球联合会（NHF）的声明，此前挪威女子沙滩手球队被罚款1500欧元（1764美元）。
+
+她们犯了什么罪？她们在参加欧锦赛时拒绝穿比基尼泳裤。然而就在那前一天，一名女残疾人运动员被告知她的短裤“太短，太暴露”。
+
+不幸的是，监管女运动员（和一般女性）的穿着并不是新鲜事。我们回顾一下一些最知名的事件和随后女性们的反击。
+
+
+
+沙滩手球队因不穿比基尼泳裤被罚
+
+
+
+
+
+挪威沙滩手球队的队员们抱怨说，她们被要求在最近的比赛中穿的泳裤太束缚，过度性感，而且不舒服。
+
+因此她们在对阵西班牙队时选择穿短裤（如上图）以争取获得铜牌的机会。
+
+在锦标赛开始前，挪威与国际手球联合会联系请求允许女性穿短裤。他们的请求不仅被拒绝而且被提醒违反规则会受到惩罚，当球队在比赛中选择穿短裤后，每个球员被罚177美元。
+
+欧洲手球联合会以“着装不当”为由处以罚款，并指出挪威队在比赛中使用的短裤“不符合国际手球联合会沙滩手球比赛规则中规定的运动员制服条例”。
+
+反弹
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+多年来女运动员的穿着已被批评过多次。
+
+
+
+但罚款引来反弹。许多人质问，如果男性沙滩手球运动员可以穿长而宽松的背心和短裤，短裤可以一直到膝盖，为什么女性不能穿类似的衣服？
+
+挪威手球联合会负责人卡雷·盖尔·利奥（Kåre Geir Lio）认为：“最重要的是要有让运动员感到舒适的装备。”
+
+他支持女运动员，也支持同意支付罚款的联合会。
+
+挪威排球联合会主席埃里克·索尔达勒（Eirik Sordahl）说："在2021年，这甚至不应是个问题“。
+
+而该国的文化和体育部长阿比德·拉贾（Abid Raja）在推特…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/67938</id>
+        <link href="https://sspai.com/post/67938"/>
+        <updated>2021-07-26T09:15:13.000Z</updated>
+        <summary type="html"><![CDATA[本期《派评》的主要内容有：
+
+QQ 音乐推出简洁版，给你「小而美」的听歌体验。
+天天豆：心情记录工具，帮你记录每一天。
+Cubox 6.0：从书签收藏夹到个人知识库的蜕变。
+CARROT Weather：新增天气报告和智能布局。
+Squash 3：老牌 Mac 端图片处理工具大更新。
+……
+
+你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。
+不容错过的新 App
+虽然少数派一直在为大家发发现和介绍各平台上的优质 App，但仍有不少设计、功能、交互、体验都非常优秀的 App，还没有被我们发掘和介绍。它们可能是一款老 App，也可能是近期上架的新 App，我们会在这里介绍给你。
+和风天气：直观了解天气情况
+
+平台：iOS / iPadOS / watchOS
+关键词：天气
+
+@Snow：今年以来天气一直不太平，暴雨、高温、沙尘就没消停过，武汉吹起了龙卷风，河南遭遇了极端暴雨，就连台风都在江浙沿海来了一次罕见的二次登陆。面对这样的极端天气，密切关注天气预报和动向，才能更好地保障自身的安全。上周，和风天气更新至 3.0 版，新版在数据丰富度上有了进一步的提升，希望能在这糟心的天气里为你的生活带去一丝便利。
+3.0 依旧延续了以天气地图为主的UI设计，原本底部两栏的卡片整合成了一张，当下天气图示和文字说明，让你可以更为直观地了解天气情况。上滑卡片即可打开更详细的天气信息，了解不亚于 彩云天气 的分钟级降水提醒、每小时天气变化、未来 30 天预报，以及空气质量、日月变化等资讯。
+在天气地图的呈现上，和风天气也进一步向彩云靠拢，你可以在地图上开启不同图层用以标注不同的天气变化情况，例如常用的温度、相对湿度、云量等，以及更专业向的 CAPE 值、露点温度等图示，部分功能需要订阅高级版后才可启用。风与海浪的动态图示也比…]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“巨额”罚单再现！新网银行被央行罚款630万，副行长、相关部门总经理均被罚]]></title>
+        <id>3636328</id>
+        <link href="https://wallstreetcn.com/articles/3636328"/>
+        <updated>2021-07-26T09:05:31.000Z</updated>
+        <summary type="html"><![CDATA[此前曾被监管点名批评]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李奇霖：美国木材市场暴跌，对大宗商品市场有何启示？]]></title>
+        <id>3636326</id>
+        <link href="https://wallstreetcn.com/articles/3636326"/>
+        <updated>2021-07-26T08:55:37.000Z</updated>
+        <summary type="html"><![CDATA[5月美国木材价格一度超过1600美元每千板英尺，但自5月下旬开始大幅下跌，主要是因为市场看到了供给端修复的希望。而这一次木材价格的暴涨暴跌也告诉我们，要想遏制住大宗商品价格的走势，核心就是要打破市场对于供给刚性的预期。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成本压力山大 这家美国家电巨头也考虑涨价]]></title>
+        <id>3636307</id>
+        <link href="https://wallstreetcn.com/articles/3636307"/>
+        <updated>2021-07-26T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[继包括联合利华在内的消费巨头们公布了涨价计划后，家电制造商惠而浦也表示可能会对其产品进一步提价。该公司今年春季已经提价5%至12%。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿私募盘后发声：现在是长牛中的调整，市场忽略了一个逻辑]]></title>
+        <id>3636321</id>
+        <link href="https://wallstreetcn.com/articles/3636321"/>
+        <updated>2021-07-26T08:15:53.000Z</updated>
+        <summary type="html"><![CDATA[关注供需趋势向好的可选消费与服务业]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股盘前：中概股普跌、教育股大跌、滴滴再创新低]]></title>
+        <id>3636320</id>
+        <link href="https://wallstreetcn.com/articles/3636320"/>
+        <updated>2021-07-26T08:15:52.000Z</updated>
+        <summary type="html"><![CDATA[最强财报周来袭！标普500成分股87%业绩超预期；全球投资者押注美股，资金净流入创1992年以来新高；美股散户又回来了...]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月26日会员晚报：景气验证期下：茅指数与宁组合分化加剧]]></title>
+        <id>3636319</id>
+        <link href="https://wallstreetcn.com/premium/articles/3636319?layout=wscn-layout"/>
+        <updated>2021-07-26T07:59:45.000Z</updated>
+        <summary type="html"><![CDATA[市场继续进入业绩验证期]]></summary>
+        <author>
+            <name>见智研究员</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 玩家必备神器入门：从零开始安装 Magisk]]></title>
+        <id>https://sspai.com/post/67932</id>
+        <link href="https://sspai.com/post/67932"/>
+        <updated>2021-07-26T07:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+少数派上一篇介绍 Magisk 本体的文章还是在两年前，两年间，Android 大版本从 9 来到了 12，Magisk 开发者 John Wu 也从 Apple 跳槽到了 Google。物换星移，人去梁空，这个神奇的开源项目却没有因此止步不前。现在的 Magisk 有着广泛的兼容性和繁荣的模块生态，依然是每一个 Android 玩家必备的神器。
+五月，Magisk 发布了 v23，并悄然更新了安装教程，删改了过时内容。本文以此教程为基础，重新介绍 Magisk 官方推荐的刷入方式以及其他要点。一些内容为照顾新手玩家而作，有一定知识储备的玩家可以按需跳过。
+Magisk 简介
+Magisk 是一个安全、美观且非常强大的 Android 自定义工具。它主要有以下三个功能：
+
+MagiskSU：获取设备 Root 并经用户授权给应用；
+Magisk Modules：下载、挂载与管理模块，模块则能个性化各种系统设置；
+MagiskHide：对选定应用隐藏设备已 Root 的事实和 Magisk 自身的存在。
+Root 管理，模块管理，MagiskHide 三个界面
+如果想在 Android 设备上管理 root 权限，或是实现某些深度自定义的功能（比如替换字体、调控性能等），那么刷入 Magisk 就是你目前最好的选择，而且「貍猫换太子」的挂载方式使得 Magisk 对现有的系统文件不会造成影响。其原理和安全性如何，可以查看少数派一篇旧文的前两部分：
+
+关联阅读：每个 Android 玩家都不可错过的神器（一）：Magisk 初识与安装…]]></summary>
+        <author>
+            <name>柯帕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保障劳动收入、参加社保、不得“最严算法”考核！七部门出台指导意见维护外卖送餐员权益]]></title>
+        <id>3636318</id>
+        <link href="https://wallstreetcn.com/articles/3636318"/>
+        <updated>2021-07-26T07:51:45.000Z</updated>
+        <summary type="html"><![CDATA[七部门还称，督促平台及第三方合作单位为建立劳动关系的外卖送餐员参加社会保险；不得将“最严算法”作为考核要求，通过“算法取中”等方式，合理确定订单数量、准时率、在线率等考核要素，适当放宽配送时限。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人民政协报刊评：优化生育政策 从推倒影响生育意愿的一座座大山出发]]></title>
+        <id>3636316</id>
+        <link href="https://wallstreetcn.com/articles/3636316"/>
+        <updated>2021-07-26T07:24:24.000Z</updated>
+        <summary type="html"><![CDATA[归根结底，相关部门需要在家庭、用人单位和政府部门之间，构建一套合理的成本分担机制，既要让用人单位愿意支持生育，也要让育龄夫妇想生、敢生、养得起，最大程度释放三孩政策的红利。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谢锋：美方应当树立正确的合作观，不能一边寻求合作，一边损害中国利益]]></title>
+        <id>3636311</id>
+        <link href="https://wallstreetcn.com/articles/3636311"/>
+        <updated>2021-07-26T06:50:33.000Z</updated>
+        <summary type="html"><![CDATA[谢锋表示，会谈中，中方直面两国关系存在的问题，开诚布公地阐明中方对发展中美关系的态度和立场，明确反对美方干涉中国内政、损害中国利益，明确要求美方改弦易辙、纠正错误。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伦敦水灾：气候变化会议举行之际暴雨来袭　医院、地铁站、公路淹水关闭]]></title>
         <id>https://www.bbc.com/zhongwen/simp/uk-57967155</id>
@@ -152,6 +363,16 @@
 COP26会议快将迎来倒数百日，预计来自全球196个国家以及欧盟的谈判代表将参加这次大会，回顾、评估自2015年《巴黎气候协议》签署以来所取得的进展，总结失败教训。]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风电的逻辑正在发生变化]]></title>
+        <id>3636309</id>
+        <link href="https://wallstreetcn.com/articles/3636309"/>
+        <updated>2021-07-26T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[中信华鹏伟认为，由于平价时代来临，政策上由补贴政策时代向目标政策时代转变；且成本出现下降，目前部分风电机组投标价格低于 2500 元/KW，因此风电行业迎来成长期。]]></summary>
+        <author>
+            <name>于旭东</name>
         </author>
     </entry>
     <entry>
