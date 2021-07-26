@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T22:08:23.715Z</updated>
+    <updated>2021-07-26T00:30:35.527Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[铜价见顶了吗？]]></title>
+        <id>3636268</id>
+        <link href="https://wallstreetcn.com/articles/3636268"/>
+        <updated>2021-07-26T00:17:30.000Z</updated>
+        <summary type="html"><![CDATA[金融和经济两个角度综合来看，铜价顶部可能已现，下半年或很难超过前期高点。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[房价、教育、生育与制造业高级化！七大政策一周出台，事关中期经济增长]]></title>
+        <id>3636266</id>
+        <link href="https://wallstreetcn.com/articles/3636266"/>
+        <updated>2021-07-26T00:01:54.000Z</updated>
+        <summary type="html"><![CDATA[申万宏源认为，这背后其实隐藏着同一条主线，就是房价、人口与制造业高级化的我国中期经济增长的因果问题。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两个指标观察中国平安的坠落]]></title>
+        <id>3636267</id>
+        <link href="https://wallstreetcn.com/articles/3636267"/>
+        <updated>2021-07-26T00:00:19.000Z</updated>
+        <summary type="html"><![CDATA[目前平安的新业务价值在下降，产品竞争力在下滑，随着客户能选择的产品越来越多，价格更低的且服务范围更广的产品会更有竞争优势。]]></summary>
+        <author>
+            <name>林菁扬</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“一天发售”再现新基市场，150亿上限同样罕见，是绝对收益还是新能源更受欢迎？]]></title>
+        <id>3636254</id>
+        <link href="https://wallstreetcn.com/articles/3636254"/>
+        <updated>2021-07-25T23:39:11.000Z</updated>
+        <summary type="html"><![CDATA[30只新基金即将发行]]></summary>
+        <author>
+            <name>王小康</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新股“大肉”又来了，宁德时代上游供应商“上架”发行，年内最强热点要接受考验了]]></title>
+        <id>3636260</id>
+        <link href="https://wallstreetcn.com/articles/3636260"/>
+        <updated>2021-07-25T23:31:14.000Z</updated>
+        <summary type="html"><![CDATA[锂电池、电路板企业也结对上市]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年7月26日]]></title>
+        <id>3636262</id>
+        <link href="https://wallstreetcn.com/articles/3636262"/>
+        <updated>2021-07-25T23:14:37.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厦门行vlog：加长即正义，试驾路虎揽胜极光L]]></title>
         <id>https://www.geekpark.net/news/281893</id>
@@ -6994,31 +7054,6 @@ Windows 这次支持原生运行 Android 应用的新特性，和之前推出的
 
 但就目前，用户能在微软商城上搜索并下载的 Android 应用，仅限亚马逊 Appstore 现存的应用。这就像是微软多开了一个「柜台」，在帮亚马逊平台做应用分发。
 大部分 Android 应用基于 ARM 架构开发，而 PC 多为传统 x86 架构。那么，Windows 跑安卓是如何实现的…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日优鲜 IPO 背后：生鲜电商的出路，不在互联网]]></title>
-        <id>https://www.geekpark.net/news/280608</id>
-        <link href="https://www.geekpark.net/news/280608"/>
-        <updated>2021-06-26T10:27:37.000Z</updated>
-        <summary type="html"><![CDATA[6 月 25 日，每日优鲜上市了，市值约 32 亿美元，约合人民币 200 亿元，成为生鲜第一股。这是过去 10 年里，生鲜电商领域烧钱大战的一个阶段性注脚：终于诞生了一家上市公司。即便这家公司依旧没有盈利。
-
-在 2010 年那个时候，拼多多还没有诞生，阿里、京东在电商领域占据着绝对的话语权。而对于他们薄弱的生鲜品类，则成为了绝对的蓝海，先后形成了两次小的生鲜创业风口。
-每日优鲜就是在 2014 年的热潮期成立的。
-创始人徐正是位少年天才，他在 15 岁的时候就被保送到了中科大的数学系，后来进入到联想集团，在 28 岁的时候成为联想最年轻的高管。他在联想卖过电脑，后来被调入联想成立的农业公司佳沃负责农业业务。也由此，徐正看到了农业、生鲜市场的机会，开始创业。
-每日优鲜在 2015 年正式推出了服务，通过他们首创的「前置仓」模式，能够大幅缩短配送时长，于是，在一众竞争对手中脱颖而出，逐渐在生鲜电商领域站稳了位置。
-
-          
-        
-
-      广州珠江新城，一位每日优鲜的派送员正飞奔在送货的路上
-
-然而，从过往数据上看，生鲜电商一直不是一门好生意，中国目前有大大小小的 4000 多家生鲜电商玩家，其中 4% 盈亏平衡，88% 亏损，7% 巨额亏损，只有 1% 实现盈利。而盈利的玩家中，做到很大规模的还没有。
-每日优鲜也是一样，烧钱七年，亏损上百亿。不过，在这个过程中每日优鲜也取得了阶段性的成果：一方面验证了自身模式的可行性，另一方面也证明了它的局限性。源于这种局限性，过去一年里，每日优鲜也在陆续地进行业务上的转变。
-中国零售行业，经历了从向外企沃尔玛、家乐福学习，到成为各自区域割据的「一方诸侯」，又经历了互联网冲击下一片的迷茫。无论是传统线下玩家，还是后来入局的以每日优鲜为代表的互联网玩家都在快速迭代，继续寻找适应市场的方式。
-随着每日优鲜的上市，…]]></summary>
         <author>
             <name>极客公园 - 资讯</name>
         </author>
