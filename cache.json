@@ -839,6 +839,15 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636569",
+          "author": "朱希",
+          "description": "五分钟看懂全球市场，尽在财经早餐。",
+          "link": "https://wallstreetcn.com/articles/3636569",
+          "publishedOn": "2021-07-28T23:13:59.000Z",
+          "wordCount": 220,
+          "title": "华尔街见闻早餐FM-Radio｜2021年7月29日"
+        },
+        {
           "id": "3636575",
           "author": "李丹",
           "description": "标普道指两连跌，波音涨超4%领跑道指成份股，纳指反弹，谷歌涨超3%领涨蓝筹科技股，Facebook盘后跌超5%，好未来和高途教育两日均两位数大涨。科技股力挺泛欧股指最近四日二度创新高。鲍威尔讲话期间，美元指数创逾两周新低，10年期美债收益率转降。更新中",
@@ -846,6 +855,24 @@
           "publishedOn": "2021-07-28T22:50:01.000Z",
           "wordCount": 135,
           "title": "美联储未能挽回标普道指跌势 中概强势反弹 教育股继续高涨"
+        },
+        {
+          "id": "3636577",
+          "author": "李丹",
+          "description": "两党议员就主要问题达成一致给参议院启动基建议案辩论的投票扫清了障碍。基建协议或将带来约5500亿美元的新增预期联邦政府支出。",
+          "link": "https://wallstreetcn.com/articles/3636577",
+          "publishedOn": "2021-07-28T22:49:49.000Z",
+          "wordCount": 112,
+          "title": "最快周三晚投票！美两党议员化解万亿美元基建案主要分歧"
+        },
+        {
+          "id": "3636542",
+          "author": "于旭东",
+          "description": "在2013年时任美联储主席伯南克表示将缩减QE规模后，标准普尔500指数到年底上涨了约30%，在此之后回调了大约6%；美国10年期国债收益率，从近1.5%的低点飙升到了3.1%。",
+          "link": "https://wallstreetcn.com/articles/3636542",
+          "publishedOn": "2021-07-28T22:35:25.000Z",
+          "wordCount": 121,
+          "title": "以史为鉴：2013年Taper的时候，美股和美债怎么走？"
         },
         {
           "id": "3636576",
@@ -4509,105 +4536,6 @@
           "publishedOn": "2021-06-29T13:07:29.000Z",
           "wordCount": 115,
           "title": "松下清仓特斯拉？！动力电池江湖再起波澜"
-        },
-        {
-          "id": "3634143",
-          "author": "于旭东",
-          "description": "而这次FTC起诉Facebook被驳回，也为反垄断运动的支持者头上泼了一盆冷水。此次裁决表明，联邦贸易委员会和司法部监管机构作出反垄断指控是多么困难。",
-          "link": "https://wallstreetcn.com/articles/3634143",
-          "publishedOn": "2021-06-29T12:20:20.000Z",
-          "wordCount": 120,
-          "title": "FTC起诉Facebook被驳回，反垄断之剑不好使了？"
-        },
-        {
-          "id": "3634131",
-          "author": "苏瑞",
-          "description": "2021年高瓴的IPO方向以新一代基因治疗、细胞疗法的创新药为主。就其投资的企业类型来看，创新研发能力强、处于早期阶段的科创企业更受青睐。",
-          "link": "https://wallstreetcn.com/articles/3634131",
-          "publishedOn": "2021-06-29T12:15:08.000Z",
-          "wordCount": 146,
-          "title": "2021上半年，这11家高瓴投资的生物医药公司已正式IPO"
-        },
-        {
-          "id": "3634114",
-          "author": "韩枫",
-          "description": "立讯拿到iPhone13订单，22年预期将超越和硕成为苹果第二大代工厂？\n富士康入股了宁德时代，与北汽集团共同研发生产新一代动力电池。龙头企业最新情况如何？",
-          "link": "https://wallstreetcn.com/articles/3634114",
-          "publishedOn": "2021-06-29T12:03:29.000Z",
-          "wordCount": 167,
-          "title": "立讯代工iPhone 13，而富士康去造车了？聊聊苹果代工龙头的那些事 | 见智研究所"
-        },
-        {
-          "id": "3634141",
-          "author": "芦依",
-          "description": "此次合作是两家头部企业的再次“牵手”。对于站上万亿市值高位的宁德时代而言，与第一大客户特斯拉的深度捆绑，不仅关乎该客户带来的电池装机量，更是一张突围海外动力电池市场的重要门票。",
-          "link": "https://wallstreetcn.com/articles/3634141",
-          "publishedOn": "2021-06-29T12:02:24.000Z",
-          "wordCount": 174,
-          "title": "特斯拉将宁德时代送上了“C位”"
-        },
-        {
-          "id": "3634139",
-          "author": "张娱",
-          "description": "或难见明显好转",
-          "link": "https://wallstreetcn.com/premium/articles/3634139?layout=wscn-layout",
-          "publishedOn": "2021-06-29T11:30:31.000Z",
-          "wordCount": 110,
-          "title": "美国西部地区旱情持续，影响几何？"
-        },
-        {
-          "id": "3634017",
-          "author": "俞涛",
-          "description": "泰尔只需要等到他59岁半，也就是2027年再从他的账户中提现 ，就永远无须为这几十亿支付一分钱的税。",
-          "link": "https://wallstreetcn.com/articles/3634017",
-          "publishedOn": "2021-06-29T11:10:40.000Z",
-          "wordCount": 161,
-          "title": "美国富豪花式避税“第二集”：这次是硅谷风投大佬彼得·泰尔"
-        },
-        {
-          "id": "3634138",
-          "author": "张进",
-          "description": "以最新收盘价统计，沪指与创业板指的差值已收窄至166.9点，可能创业板指超越沪指只是时间问题。",
-          "link": "https://wallstreetcn.com/articles/3634138",
-          "publishedOn": "2021-06-29T10:53:53.000Z",
-          "wordCount": 121,
-          "title": "创业板要反超沪指了？两者差距创历史新低，历史上都怎么样了"
-        },
-        {
-          "id": "3634137",
-          "author": "韩旭阳",
-          "description": "2009年以后，中国的资本市场提供了非常好的回报率。从2009年开始这10年左右诞生的这一批公司未来的成长是可以期望的。",
-          "link": "https://wallstreetcn.com/articles/3634137",
-          "publishedOn": "2021-06-29T10:52:05.000Z",
-          "wordCount": 161,
-          "title": "付鹏：09年开始打基础的这批中国公司未来可能屹立于世界之巅"
-        },
-        {
-          "id": "3634133",
-          "author": "韩旭阳",
-          "description": "今年融资需求下降，才是主线。融资需求的下降，既有融资主体客观的融资需求下降的问题，也有银行惜贷的因素。",
-          "link": "https://wallstreetcn.com/articles/3634133",
-          "publishedOn": "2021-06-29T10:35:35.000Z",
-          "wordCount": 108,
-          "title": "今年债市是赚谁的钱？"
-        },
-        {
-          "id": "3634134",
-          "author": "阿贝师傅",
-          "description": "鲲鹏、鸿蒙后，昇腾又来了。",
-          "link": "https://wallstreetcn.com/articles/3634134",
-          "publishedOn": "2021-06-29T10:21:13.000Z",
-          "wordCount": 181,
-          "title": "A股五张图：不仅公告前大涨30%，收购标的居然还是刚刚成立的？"
-        },
-        {
-          "id": "3634115",
-          "author": "于旭东",
-          "description": "重组预期致*ST众泰暴涨，但致博投资的终止投资及第一、二大流通股东双双“跑路”或成为终结涨势的稻草。",
-          "link": "https://wallstreetcn.com/articles/3634115",
-          "publishedOn": "2021-06-29T10:18:42.000Z",
-          "wordCount": 154,
-          "title": "狂拉61涨停，最牛ST股刮的究竟是什么“妖风”？"
         }
       ]
     },
