@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T08:10:32.733Z</updated>
+    <updated>2021-07-29T10:09:55.437Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街招新：每周工作95小时，10万美元！干不干？]]></title>
+        <id>3636638</id>
+        <link href="https://wallstreetcn.com/articles/3636638"/>
+        <updated>2021-07-29T08:49:54.000Z</updated>
+        <summary type="html"><![CDATA[今年以来，投行分析师对工作强度怨声载道。迫于无奈，投行纷纷选择加薪留人。目前，大摩也加入了调薪队伍，只剩高盛还在苦苦支撑。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是一份各系统的 SOS 求救指南，但我们希望你永远用不上]]></title>
+        <id>https://sspai.com/post/67984</id>
+        <link href="https://sspai.com/post/67984"/>
+        <updated>2021-07-29T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[突如其来的河南水灾和台风「烟花」，都让我们感受到了在各种意料之外的自然灾害面前，生命是多么的渺小。
+尽管如今基础通信设施不断完善，社交媒体所触达的人群越来越多，我们在危难时刻也能通过手机发出、接收甚至是直接跟进各类求救信息。但在一些连不上数据和网络服务的情况下，我们还是得靠紧急求助电话。
+从小学开始，老师就用耳熟能详的儿歌教导我们，火警电话 119、报警电话 110 …… 而如今各大手机品牌系统中都内置了「紧急呼叫」的功能，方便我们在第一时间发出求救讯号。
+在今天这篇文章中，我们就挑选了目前市面上较常见的手机系统，为大家总结它们的设置及使用方法——尽管文中介绍的功能我们希望你永远用不上，但我们还是建议你花几分钟时间了解、设置。有备也是无患的前提，说不定这些功能就能在某个时刻救你于危难之中。
+
+iOS
+在 3 年前的 iOS 11 系统中，「SOS 紧急联络」就已经被提高到系统设置的一级列表之下，和「面容 ID 与密码」位于同一层级。进入 SOS 紧急联络的设置界面之后，你会发现它并不像大多数系统功能一样提供打开或关闭的选项，页面上方则配有示意动画，引导你了解、使用这个功能。Apple 对这一功能的重视可见一斑。
+
+工作逻辑
+当我们通过「SOS 紧急联络」拨打求救电话时，iPhone 会瞬间跳转到紧急求助拨号界面，停用所有生物解锁方式并自动拨打本地急救号码。
+需要注意的是，在国内我们需要选取对应的电话号码，例如警察 110、火警 119 或救护车 120，而在美国这种只有一个求救电话的地区则无需选择、直接拨通。
+同时，如果我们在「SOS 紧急联络」中添加了紧急联系人的话，报警电话呼叫结束后，iPhone 还会用短信向他们发送当前的定位信息（可手动取消）。这一位置信息的共享并不是单次的，iPhone 会在进入 SOS 模式后的一段时间里，持续根据位置的变化，不断向紧急联系人更新…]]></summary>
+        <author>
+            <name>Elliana_W</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49.8万韩元一股！“吃鸡”游戏《绝地求生》开发商定下IPO发行价]]></title>
+        <id>3636634</id>
+        <link href="https://wallstreetcn.com/articles/3636634"/>
+        <updated>2021-07-29T08:21:27.000Z</updated>
+        <summary type="html"><![CDATA[《绝地求生》开发商Krafton的此次IPO有望创下首尔史上第二高的发行价格，筹资规模达4.3万亿韩元。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月29日会员晚报：热门赛道大涨，大盘缩量反弹？]]></title>
+        <id>3636629</id>
+        <link href="https://wallstreetcn.com/premium/articles/3636629?layout=wscn-layout"/>
+        <updated>2021-07-29T08:01:11.000Z</updated>
+        <summary type="html"><![CDATA[热门板块普遍大涨。]]></summary>
+        <author>
+            <name>见智研究员</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宁德时代：钠离子电池计划于2023年形成基本产业链]]></title>
+        <id>3636628</id>
+        <link href="https://wallstreetcn.com/articles/3636628"/>
+        <updated>2021-07-29T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[宁德时代开发的第一代钠离子电池，电芯单体能量密度已经达到了160Wh/kg，为目前全球最高水平。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[东京奥运：西蒙·拜尔斯退赛，我们对待运动员精神健康的态度会改变吗]]></title>
         <id>https://www.bbc.com/zhongwen/simp/sports-58009168</id>
@@ -123,6 +184,17 @@ https://feedx.top]]></summary>
         <summary type="html"><![CDATA[覃汉认为，接下来即使美债利率重回上行通道，但是斜率很难太陡，大概率处于宽幅区间震荡格局，再加上市场对联储退出宽松预期非常充分，所以不会再出现年初2-3月份那种因为美债利率上行对权益市场造成严重冲击的情况。]]></summary>
         <author>
             <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话 Mr 厉害：数码评测的价值到底真实存在，还是从业者的美好幻想？]]></title>
+        <id>https://sspai.com/post/67980</id>
+        <link href="https://sspai.com/post/67980"/>
+        <updated>2021-07-29T07:23:20.000Z</updated>
+        <summary type="html"><![CDATA[第二期 Precog Channel，我们邀请了知名数码评测人 Mr 厉害，听他谈谈自己作为一个从业多年的科技数码评测人对于评测、恰饭、商业模式等问题的看法和观点。从某种程度上来说这是一期「关于评测的评测」，我们听到了一个资深从业者真诚的表达和反思，也更加了解数码评测行业背后的运作方式。
+© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。]]></summary>
+        <author>
+            <name>张奕源Nick</name>
         </author>
     </entry>
     <entry>
