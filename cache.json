@@ -911,6 +911,42 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636640",
+          "author": "侯秋芸",
+          "description": "美国二手车涨幅一枝独秀。",
+          "link": "https://wallstreetcn.com/premium/articles/3636640?layout=wscn-layout",
+          "publishedOn": "2021-07-29T12:41:57.000Z",
+          "wordCount": 109,
+          "title": "全球二手车涨价，为何只有美国通胀飙升？"
+        },
+        {
+          "id": "3636661",
+          "author": "韩旭阳",
+          "description": "美国二季度实际GDP年化季环比初值 6.5%，预期 8.4%，前值 6.4%。",
+          "link": "https://wallstreetcn.com/articles/3636661",
+          "publishedOn": "2021-07-29T12:30:19.000Z",
+          "wordCount": 120,
+          "title": "美国二季度GDP环比增长6.5% 低于预期"
+        },
+        {
+          "id": "3636662",
+          "author": "于旭东",
+          "description": "美国7月24日当周首次申请失业救济人数40万人，预期38.5万人，前值41.9万人。",
+          "link": "https://wallstreetcn.com/articles/3636662",
+          "publishedOn": "2021-07-29T12:30:00.000Z",
+          "wordCount": 109,
+          "title": "美国上周首申40万人，小幅降低却仍高于预期"
+        },
+        {
+          "id": "3636659",
+          "author": "许超",
+          "description": "高盛预计，在电动车热潮推动下，美国电力需求到2040年将增长5.7%；整车厂和公用事业行业的长期供应商将会受益。",
+          "link": "https://wallstreetcn.com/articles/3636659",
+          "publishedOn": "2021-07-29T12:25:00.000Z",
+          "wordCount": 110,
+          "title": "高盛：未来二十年，电动车将带着电力需求“一起飞”"
+        },
+        {
           "id": "3636639",
           "author": "张娱",
           "description": "实际利率普遍被视作反映实际增长预期的指标",
@@ -918,6 +954,33 @@
           "publishedOn": "2021-07-29T12:21:43.000Z",
           "wordCount": 104,
           "title": "美债收益率持续下行！为何无视高通胀？"
+        },
+        {
+          "id": "3636647",
+          "author": "韩旭阳",
+          "description": "辉瑞已经处于一个比较成熟的状态，其股价在过去5年仅增长了20%；但Moderna在近几年仍保持了较高的成长性，其股价较发行价格涨逾20多倍。",
+          "link": "https://wallstreetcn.com/articles/3636647",
+          "publishedOn": "2021-07-29T12:03:30.000Z",
+          "wordCount": 115,
+          "title": "疫苗全球大卖，美股两大疫苗股Moderna和辉瑞有何差异？"
+        },
+        {
+          "id": "3636658",
+          "author": "于旭东",
+          "description": "苹果和特斯拉也将开始“缺芯”；Facebook Q2营收同比增56%，净利润同比翻倍……",
+          "link": "https://wallstreetcn.com/articles/3636658",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 129,
+          "title": "美股盘前：美联储未就taper作出决定，参议院就基建计划达成一致"
+        },
+        {
+          "id": "3636657",
+          "author": "高星",
+          "description": "软银在多项投资方面出师不利，靠出售股票弥补损失也就成为了选项之一。",
+          "link": "https://wallstreetcn.com/articles/3636657",
+          "publishedOn": "2021-07-29T11:53:31.000Z",
+          "wordCount": 110,
+          "title": "拆东墙补西墙！软银卖Uber持仓“补血”"
         },
         {
           "id": "3636655",
