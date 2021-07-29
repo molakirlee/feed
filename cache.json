@@ -929,6 +929,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636678",
+          "author": "高星",
+          "description": "美国6月成屋签约待过户销售环比5月下降1.9%，差于预期。分析认为，高房价以及可售房产有限，正阻碍潜在买家进入市场。本周稍早，6月新屋销售数据让市场大跌眼镜。这些都表明，美国楼市有放缓迹象。",
+          "link": "https://wallstreetcn.com/articles/3636678",
+          "publishedOn": "2021-07-29T17:32:16.000Z",
+          "wordCount": 120,
+          "title": "美国楼市可能见顶的又一信号：美国成屋签约销售意外下跌"
+        },
+        {
+          "id": "3636681",
+          "author": "杜玉",
+          "description": "三星预计2021年下半年芯片需求、特别是存储芯片需求将保持强劲。公司高管重申在三年内寻求“有意义的”并购交易承诺，透露正考虑在人工智能、5G和汽车等领域拓展。下月将发布多款新手机，今年将“all in”营销可折叠屏手机。",
+          "link": "https://wallstreetcn.com/articles/3636681",
+          "publishedOn": "2021-07-29T17:23:57.000Z",
+          "wordCount": 145,
+          "title": "芯片短缺助长半导体业务，三星营收创二季度最高，三年内要收购 | 财报见闻"
+        },
+        {
           "id": "3636680",
           "author": "李丹",
           "description": "Robinhood开盘价持平位于指导区间低端的发行价。更新中",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T18:10:50.459Z</updated>
+    <updated>2021-07-29T20:09:33.837Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -344,6 +344,26 @@ BBC健康事物记者蒙达萨德（Smitha Mundasad）说，英国有研究显�
 这29名来自11个国家的难民运动员，分别在13个避难国家进行训练，他们获得国际奥委会的奥林匹克难民运动员奖学金（Olympic Scholarships for Refugee Athletes）赞助经费。]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国楼市可能见顶的又一信号：美国成屋签约销售意外下跌]]></title>
+        <id>3636678</id>
+        <link href="https://wallstreetcn.com/articles/3636678"/>
+        <updated>2021-07-29T17:32:16.000Z</updated>
+        <summary type="html"><![CDATA[美国6月成屋签约待过户销售环比5月下降1.9%，差于预期。分析认为，高房价以及可售房产有限，正阻碍潜在买家进入市场。本周稍早，6月新屋销售数据让市场大跌眼镜。这些都表明，美国楼市有放缓迹象。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芯片短缺助长半导体业务，三星营收创二季度最高，三年内要收购 | 财报见闻]]></title>
+        <id>3636681</id>
+        <link href="https://wallstreetcn.com/articles/3636681"/>
+        <updated>2021-07-29T17:23:57.000Z</updated>
+        <summary type="html"><![CDATA[三星预计2021年下半年芯片需求、特别是存储芯片需求将保持强劲。公司高管重申在三年内寻求“有意义的”并购交易承诺，透露正考虑在人工智能、5G和汽车等领域拓展。下月将发布多款新手机，今年将“all in”营销可折叠屏手机。]]></summary>
+        <author>
+            <name>杜玉</name>
         </author>
     </entry>
     <entry>
