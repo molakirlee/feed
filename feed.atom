@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T16:13:28.247Z</updated>
+    <updated>2021-07-30T18:10:46.720Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美联储逆回购工具使用规模达到1万亿美元]]></title>
+        <id>3636794</id>
+        <link href="https://wallstreetcn.com/articles/3636794"/>
+        <updated>2021-07-30T17:16:14.000Z</updated>
+        <summary type="html"><![CDATA[美联储逆回购工具使用规模达到1万亿美元...]]></summary>
+        <author>
+            <name>wBlake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美密歇根消费者信心指数7月全线回落，短期通胀预期保持13年高位]]></title>
+        <id>3636793</id>
+        <link href="https://wallstreetcn.com/articles/3636793"/>
+        <updated>2021-07-30T16:59:34.000Z</updated>
+        <summary type="html"><![CDATA[不过，美国人对更长期的价格走势比短期内乐观，五年通胀预期暂为2.8%。负责这项统计的经济学家警告称，虽然大多数消费者仍预计通胀是暂时的，“但越来越多的证据表明，通胀风暴可能会在不久的将来到来。”]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6月PCE进一步出现“背离” 这是怎样的危险信号？]]></title>
         <id>3636788</id>

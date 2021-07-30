@@ -1010,6 +1010,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636794",
+          "author": "wBlake",
+          "description": "美联储逆回购工具使用规模达到1万亿美元...",
+          "link": "https://wallstreetcn.com/articles/3636794",
+          "publishedOn": "2021-07-30T17:16:14.000Z",
+          "wordCount": 110,
+          "title": "美联储逆回购工具使用规模达到1万亿美元"
+        },
+        {
+          "id": "3636793",
+          "author": "杜玉",
+          "description": "不过，美国人对更长期的价格走势比短期内乐观，五年通胀预期暂为2.8%。负责这项统计的经济学家警告称，虽然大多数消费者仍预计通胀是暂时的，“但越来越多的证据表明，通胀风暴可能会在不久的将来到来。”",
+          "link": "https://wallstreetcn.com/articles/3636793",
+          "publishedOn": "2021-07-30T16:59:34.000Z",
+          "wordCount": 126,
+          "title": "美密歇根消费者信心指数7月全线回落，短期通胀预期保持13年高位"
+        },
+        {
           "id": "3636788",
           "author": "乐鸣",
           "description": "美联储的“谎言”。",
