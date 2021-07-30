@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T22:09:38.514Z</updated>
+    <updated>2021-07-30T00:32:54.057Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年7月30日]]></title>
+        <id>3636684</id>
+        <link href="https://wallstreetcn.com/articles/3636684"/>
+        <updated>2021-07-29T23:12:27.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧股新高 标普道指次高 Robinhood首秀失意跌超8% 中概教育股回落]]></title>
         <id>3636682</id>
