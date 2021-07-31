@@ -1010,6 +1010,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636797",
+          "author": "李丹",
+          "description": "CDC称，本月参加公开场所聚集活动后，麻省居民确诊469个新冠病例，其中346人都已完成辉瑞或强生疫苗所有针剂接种至少14天。",
+          "link": "https://wallstreetcn.com/articles/3636797",
+          "publishedOn": "2021-07-30T23:34:26.000Z",
+          "wordCount": 114,
+          "title": "美CDC警告变异病毒凶险：麻省本月74%新增感染者均完成接种"
+        },
+        {
+          "id": "3636796",
+          "author": "朱希",
+          "description": "五分钟看懂全球市场，尽在财经早餐。",
+          "link": "https://wallstreetcn.com/articles/3636796",
+          "publishedOn": "2021-07-30T23:16:43.000Z",
+          "wordCount": 212,
+          "title": "华尔街见闻早餐FM-Radio｜2021年7月31日"
+        },
+        {
           "id": "3636795",
           "author": "李丹",
           "description": "三大美股指齐跌，亚马逊跌超7%。理想汽车涨超8%，小鹏汽车涨超6%，蔚来汽车涨超4%。更新中",

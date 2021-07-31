@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T22:08:43.189Z</updated>
+    <updated>2021-07-31T00:29:48.470Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美CDC警告变异病毒凶险：麻省本月74%新增感染者均完成接种]]></title>
+        <id>3636797</id>
+        <link href="https://wallstreetcn.com/articles/3636797"/>
+        <updated>2021-07-30T23:34:26.000Z</updated>
+        <summary type="html"><![CDATA[CDC称，本月参加公开场所聚集活动后，麻省居民确诊469个新冠病例，其中346人都已完成辉瑞或强生疫苗所有针剂接种至少14天。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年7月31日]]></title>
+        <id>3636796</id>
+        <link href="https://wallstreetcn.com/articles/3636796"/>
+        <updated>2021-07-30T23:16:43.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《黑寡妇》流媒体与影院同步公映引发的好莱坞官司]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58028040</id>
