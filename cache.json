@@ -1046,6 +1046,42 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3636817",
+          "author": "周智宇",
+          "description": "万科、中海都搭建了建材采购SaaS平台。",
+          "link": "https://wallstreetcn.com/articles/3636817",
+          "publishedOn": "2021-07-31T13:39:21.000Z",
+          "wordCount": 140,
+          "title": "巨头的游戏：龙头房企抢滩万亿集采"
+        },
+        {
+          "id": "3636816",
+          "author": "叶桢",
+          "description": "据中信证券测算，领涨的热门板块新能源、半导体、能源金属等7月至今成交额占全部A股比重达15.1%，接近今年2月“茅指数”成交额的占比水平，热门板块与传统板块间的分化已达到比较极致的水平。",
+          "link": "https://wallstreetcn.com/articles/3636816",
+          "publishedOn": "2021-07-31T11:49:55.000Z",
+          "wordCount": 116,
+          "title": "单日万亿成交频现 多路资金大举调仓换股"
+        },
+        {
+          "id": "3636815",
+          "author": "于旭东",
+          "description": "假装“劫富济贫”，却暗中“劫贫济富”，理不清和散户的关系，作为“墙头草”的Robinhood最终遭到了散户的抛弃。",
+          "link": "https://wallstreetcn.com/articles/3636815",
+          "publishedOn": "2021-07-31T11:44:30.000Z",
+          "wordCount": 144,
+          "title": "美国散户最爱的Robinhood，上市却遭“滑铁卢”，发生了什么？"
+        },
+        {
+          "id": "3636814",
+          "author": "叶桢",
+          "description": "公司表示，业绩增长主要受益于铜、锌等金属价格上涨，公司充分把握机遇，积极组织生产，主营矿产品金、铜、 锌等产量同比上升。",
+          "link": "https://wallstreetcn.com/articles/3636814",
+          "publishedOn": "2021-07-31T11:22:23.000Z",
+          "wordCount": 122,
+          "title": "66.49亿元！ 紫金矿业半年盈利超去年全年"
+        },
+        {
           "id": "3636813",
           "author": "叶桢",
           "description": "比行情还火爆，讨论半导体太激动？",
@@ -1062,6 +1098,15 @@
           "publishedOn": "2021-07-31T09:28:49.000Z",
           "wordCount": 133,
           "title": "又双叒叕破纪录了！奥运纪录越来越快被打破，为什么？"
+        },
+        {
+          "id": "3635842",
+          "author": "王汉博",
+          "description": "当大家进行投资和资产配置的时候，大家需要知道自己投资的资产是一个怎样的风险收益特征，不同资产类别的风险收益特征差别很大，预期收益越高的地方，承担的风险也是越高的",
+          "link": "https://wallstreetcn.com/premium/articles/3635842?layout=wscn-layout",
+          "publishedOn": "2021-07-31T08:45:23.000Z",
+          "wordCount": 120,
+          "title": "大类资产的风险收益特征"
         },
         {
           "id": "3636811",
