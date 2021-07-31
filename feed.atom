@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T06:10:52.854Z</updated>
+    <updated>2021-07-31T10:09:18.926Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[有关疫情，权威回应来了！南京疫情重症占比4% 不同技术路线疫苗不能互相替换]]></title>
+        <id>3636811</id>
+        <link href="https://wallstreetcn.com/articles/3636811"/>
+        <updated>2021-07-31T08:36:12.000Z</updated>
+        <summary type="html"><![CDATA[中国疾控中心免疫规划首席专家王华庆表示，不同技术路线的疫苗不能互相替换。有一些特殊情况，用同一个企业的同一个品种的疫苗不能够完成的话，后续也要用相同技术路线的疫苗来完成接种。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南京禄口国际机场抗疫防线何以失守？知情人透露发现疫情两天后员工照常上下班]]></title>
+        <id>3636810</id>
+        <link href="https://wallstreetcn.com/articles/3636810"/>
+        <updated>2021-07-31T07:30:43.000Z</updated>
+        <summary type="html"><![CDATA[据新华社，一位驻场工作人员在接受采访时说，尽管禄口机场20日就发现病例，但受访者21、22日两天依旧冒着被感染风险照常上下班。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股最惨的“时节”要来了]]></title>
+        <id>3636809</id>
+        <link href="https://wallstreetcn.com/articles/3636809"/>
+        <updated>2021-07-31T07:16:59.000Z</updated>
+        <summary type="html"><![CDATA[历史数据显示，7月上中旬是美股史上最强劲的两周，但接下来的8月从统计上来看会是美股最糟糕的时节。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掌控湿度、凉爽一夏：送给受不了 105 度的你]]></title>
+        <id>https://sspai.com/post/68027</id>
+        <link href="https://sspai.com/post/68027"/>
+        <updated>2021-07-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[编注：文章标题的 105 度指的是 105 华氏度，约等于 40.56 摄氏度；在夏季环境湿度为 78%，室温为 31.1 摄氏度时，体感温度约为 40.5 摄氏度，和 105 华氏度非常接近，故借用 《热爱105℃的你》中相关元素作为本文标题。
+
+我们一年四季都会关注在温度这个属性上，它客观地影响着我们衣物地增减，以及是否需要使用制冷制热电器。但事实上，空气的另外一个属性也会切实影响到我们感受到的温度——湿度；而且一些南方特有的「神奇」景象事实上也和湿度有关：南方常见的「回南天」，瓷砖地板都会变得湿漉漉的，好像只能通过通风解决；长江流域的「黄梅天」时间段内晾晒的衣物，往往在「黄梅天」过后要重新洗晒一下，不然很容易发霉。
+所以，在这篇文章里我将带大家认识湿度、湿度对我们有什么影响以及我们可以怎么改变室内空气的湿度。
+什么是相对湿度
+无论是我们日常口语中提到的湿度，还是传感器上给出度数湿度，大部分的情况都在指「相对湿度」概念，单位也用 % 来标识。但想要理解「相对湿度」还是要从解释更广义的气象学上的湿度开始，为了更方便理解我也会同步举例。
+气象学上的湿度指的是：空气中水蒸气的含量，它是指空气中水蒸气的含量。而不含有任何水蒸气的空气则被叫做干空气，我们可以把不含有任何水蒸气的空气理解成是一个空杯子。
+左：干空气可以理解成空杯子；右：空气绝对湿度是有上限的，饱和了会凝结出来
+绝对湿度就是指一定体积的空气中含有的水蒸气的质量，可以理解成刚刚那个杯子里有多少质量的水。正如杯子里可以容纳的水是有上限的一样，一定体积的空气可以容纳的水蒸气也是有上限的，这个上限一般被称为最高湿度，超过湿度的水蒸气会凝结出来，就和超过水杯容量会流出来一样。
+相同的绝对湿度（水量）在不同温度（杯子）下相对湿度（水位线）也有区别
+空气中水蒸气的溶解量随温度不同而变化，温度越高可容纳的水蒸气越多，温度越低可容纳的…]]></summary>
+        <author>
+            <name>广陵止息</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月政治局会议点评：纠正运动式“减碳”，正常化后政策稳增长]]></title>
+        <id>3636808</id>
+        <link href="https://wallstreetcn.com/articles/3636808"/>
+        <updated>2021-07-31T06:45:01.000Z</updated>
+        <summary type="html"><![CDATA[本次会议在货币政策方面清晰传递出三个信号：已经完全正常化、明年M2和社融增速不会随名义GDP增速同步大幅回落、未来“中性降准”的潜在操作并无政策框架约束。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PMI数据释放的三个信号]]></title>
+        <id>3636807</id>
+        <link href="https://wallstreetcn.com/articles/3636807"/>
+        <updated>2021-07-31T06:00:37.000Z</updated>
+        <summary type="html"><![CDATA[第一，需求特别是外需面临较大压力，第二，经济进入被动补库存阶段，第三，中小企业的压力很大，因为原材料价格上行，需求回落，回款压力加大等原因，企业特别是中小企业经营承压。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫健委发话：这个网红手术，禁止！]]></title>
+        <id>3636806</id>
+        <link href="https://wallstreetcn.com/articles/3636806"/>
+        <updated>2021-07-31T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[专家认为，“小腿神经离断瘦腿手术”缺乏科学依据和循证医学证据，直接导致神经不可逆损伤和下肢运动功能障碍，存在严重安全性问题，有悖于医学伦理原则。
+ 
+7...]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人民银行召开2021年下半年工作会议：保持宏观政策稳定性，坚持不搞“大水漫灌”]]></title>
+        <id>3636805</id>
+        <link href="https://wallstreetcn.com/articles/3636805"/>
+        <updated>2021-07-31T05:26:08.000Z</updated>
+        <summary type="html"><![CDATA[会议要求，坚持稳中求进工作总基调，保持宏观政策稳定性，坚持不搞“大水漫灌”，增强前瞻性有效性，稳健的货币政策继续聚焦支持实体经济。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021医保目录初审名单！首款CAR-T、首款国产ADC、多款“天价药”悉数在列]]></title>
         <id>3636798</id>
