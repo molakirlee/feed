@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T16:13:46.405Z</updated>
+    <updated>2021-08-03T18:10:43.304Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Miller Tabak首席市场策略师Maley认为，比特币的下一个目标将是200日移动平均线，突破后将快速飙升。]]></summary>
         <author>
             <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美证监会主席重申加强监管加密货币，拒绝透露会否批准比特币ETF]]></title>
+        <id>3637056</id>
+        <link href="https://wallstreetcn.com/articles/3637056"/>
+        <updated>2021-08-03T16:20:43.000Z</updated>
+        <summary type="html"><![CDATA[SEC新主席称，监管加密货币交易所或为最佳方式，正研究至少七大领域来探索潜在政策变化，包括初始代币发行、交易场所、借贷平台、去中心化金融、稳定币、托管以及ETF和其他代币基金。加密货币普跌，比特币一度失守3.8万美元。]]></summary>
+        <author>
+            <name>杜玉</name>
         </author>
     </entry>
     <entry>
