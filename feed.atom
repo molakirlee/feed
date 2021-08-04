@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T06:12:06.554Z</updated>
+    <updated>2021-08-04T08:10:54.453Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -14,6 +14,44 @@
         <summary type="html"><![CDATA[Miller Tabak首席市场策略师Maley认为，比特币的下一个目标将是200日移动平均线，突破后将快速飙升。]]></summary>
         <author>
             <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天开始生效！《王者荣耀》未满12周岁禁止充值]]></title>
+        <id>3637099</id>
+        <link href="https://wallstreetcn.com/articles/3637099"/>
+        <updated>2021-08-04T06:36:37.000Z</updated>
+        <summary type="html"><![CDATA[此外，未成年用户每日22时至次日8时禁玩，国家法定节假日每日限玩2小时（之前每日限玩3小时），其他时间每日限玩1小时（之前每日限玩1.5小时）。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从页到金字塔结构——PPT 制作入门指南]]></title>
+        <id>https://sspai.com/post/67962</id>
+        <link href="https://sspai.com/post/67962"/>
+        <updated>2021-08-04T06:36:18.000Z</updated>
+        <summary type="html"><![CDATA[从金字塔结构转变为「页」
+上一章节中，我们获得了可以作为整个 PPT 演示思路的金字塔结构。那么如何让金字塔结构转变为 PPT 呢？这一步可能是很多同学都很头疼的问题。在这个章节中，我们就重点围绕金字塔结构，探讨每一页 PPT 的诞生过程。
+首先，我们要将金字塔结构转化为 PPT 中对应的单元——「页」，页即我们平时在 PPT 中所见到的每一页，是我们制作 PPT 中的最小单元。
+对于「页」，我们需要提出一个基本的原则：
+
+一页只能包含一个主要观点，同一个核心观点也可以由多个子页来解释和支撑。
+
+每一页中，除了主要观点，还有就是支撑这个观点的「结论」。结论通常是文字、数据、图表等等既成事实所得出的结论。
+所以一页通常由「主要观点、信息结论、信息」构成。我们继续以 A 地的销售问题举例，在进行金字塔结构的思考时，我们会先自下而上，从事实依据进行思考，推导出我们的主要观点：
+
+信息：1. 与竞品的价格比较；2. 过往促销情况与销量增长的关系；3. 用户对于本品价格的看法。
+信息结论：1. 竞品价格稍低于本品；2. 促销没有触发爆发式的增长；3. 高定价带来品牌好感。
+主要观点：在售商品单价应保持不变。
+
+从事实到观点，是我们在思考过程中的「推演」过程，是「从分到总」的顺序。当我们需要转变为「页」的内容时，则需要将这个结构倒过来呈现，转变为「总分结构」。
+
+扭转金字塔呈现方式的原因，是因为我们希望观者能够快速明白我们想传达的信息。而观点的确立则通过下方的信息结论来进行佐证。
+我们曾在前文中提到，观看我们 PPT 的人有可能非常的忙，他们没有时间定下心来逐字逐句的阅读我们的 PPT，而是以速览的方式阅读。我自己的体会也是如此，在正式演示时，很少会有人在意 11 号以下的小字写了些什么东西，观者都习惯于从最大号的字体看起，迅速明白这一页的主要信息，就开始忙手上的其他事情。
+所以一定要…]]></summary>
+        <author>
+            <name>Quentin_Yu</name>
         </author>
     </entry>
     <entry>
