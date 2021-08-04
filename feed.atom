@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T02:24:35.854Z</updated>
+    <updated>2021-08-04T04:11:59.770Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -14,6 +14,46 @@
         <summary type="html"><![CDATA[Miller Tabak首席市场策略师Maley认为，比特币的下一个目标将是200日移动平均线，突破后将快速飙升。]]></summary>
         <author>
             <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股强势反弹 恒生科技指数涨超3%  腾讯、美团反弹近5%]]></title>
+        <id>3637089</id>
+        <link href="https://wallstreetcn.com/articles/3637089"/>
+        <updated>2021-08-04T03:40:25.000Z</updated>
+        <summary type="html"><![CDATA[腾讯控股涨幅扩大至5%，盘初跌逾3%。阿里巴巴港股一度跌3.6%，财报显示其第一季度营收低于分析师预估。截至发稿，阿里翻红，涨0.36%。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游戏行业：两大瓶颈和三个新增长极]]></title>
+        <id>3637032</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637032?layout=wscn-layout"/>
+        <updated>2021-08-04T03:13:54.000Z</updated>
+        <summary type="html"><![CDATA[2018年以来，用户增长红利逐渐消失，行业整合空间也几近饱和。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滞涨风险增加！高盛：为美股大幅下跌做好对冲]]></title>
+        <id>3637091</id>
+        <link href="https://wallstreetcn.com/articles/3637091"/>
+        <updated>2021-08-04T03:09:45.000Z</updated>
+        <summary type="html"><![CDATA[高盛表示，标普500指数已经有187天没有出现下跌5%的情况，为过去100年来最长持续时间之一；随着股票和债券越来越贵，多资产组合也变得更容易受到利率和经济增长冲击的影响。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资产配置中如何看股票风格轮转]]></title>
+        <id>3635873</id>
+        <link href="https://wallstreetcn.com/premium/articles/3635873?layout=wscn-layout"/>
+        <updated>2021-08-04T02:19:55.000Z</updated>
+        <summary type="html"><![CDATA[资产配置中如何看股票风格轮转]]></summary>
+        <author>
+            <name>王汉博</name>
         </author>
     </entry>
     <entry>
@@ -18973,30 +19013,6 @@ Google Play Store Wear OS 版本开始测试新版 UI
 苹果出手打击，百度、腾讯等难以绕过隐私新规
 北京时间 7 月 5 日消息，据凤凰科技报道，百度、腾讯以及字节跳动牵头的科技公司正在测试名为互联网广告标识 (CAID) 的追踪方案。有了 CAID，即便苹果的广告标志符 (IDFA) 无法使用，他们也能够跟踪 iPhone 用户并投放广告。
 但根据苹果的最新隐私规定，企业在跟踪用户前需要先获得用户的同意。苹果迅速作出了回应，清楚地表明了立场。对于被发现在 App Store 软件更新中支持 CAID 的多款中国应用，苹果拒绝了他们的更新请求。来自中国内地和香港的多位人士称，在这些应用更新被拒绝后，CAID…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个 App，想用你的「良心」赚钱]]></title>
-        <id>https://www.geekpark.net/news/280934</id>
-        <link href="https://www.geekpark.net/news/280934"/>
-        <updated>2021-07-05T15:48:55.000Z</updated>
-        <summary type="html"><![CDATA[公交出行 80g，地铁出行 52g。用每一笔无碳行为的绿色能量，养一颗虚拟的树，日积月累，就可以在沙漠戈壁种植一棵真正的树。国内，由个人参与的节能减排活动，大部分在蚂蚁森林里。它的机制是「奖励式」的，即便如此，蚂蚁森林能够起到的更大作用还是增加「社交乐趣」。
-
-最近，国外兴起一系列类似产品，与蚂蚁森林相反，它们的机制是「惩罚式」的。你的每一次日常行为都会被核算成对应的碳排放，数字高到连你自己都看不下去时，你可以通过「交罚款」把碳排放量消掉。看似「乌托邦」，却有一些产品在近两年接二连三拿到融资。
-想法固然新颖，疑问也随之而来。目前它们更多承担为教育用户的「公益项目」，还是能够成为可持续发展的商业模式？不只是一场娱乐游戏，它们如何真切解决环保问题？
-
-
-15美元买一张「赎罪券」
-Wren 就是一款进行「个人碳中和」的产品。2019 年在 YC 毕业之后，又在去年拿到 Paul Gramham 和 VC Union Square Ventures 150 万美金的种子投资。
-首先 Wren 通过一些问题生成个人的碳足迹报告，例如「一年长/短途飞行多少次？」、「住宅有多少平米？」、「你多久吃一次红肉或乳制品？」等等。这些具体行为都会被换算成平均碳消耗量。
-
-          
-
-中国人均每年碳排放是 9 吨，如果你的测算结果在这个量级，需要每个月支付 13.57 美元用来碳中和。当然，数字越高，用来抵消的费用也越高。
-拿了这笔钱，Wren 会帮你干什么？它在抽成运营成本之后，通过资金资助的方式参与到全球性碳中和和环保项目中。
-比如在乌干达北部，使用当地能源所产生的烟雾相当于一人每天抽两包烟，一家能源公司通过将农业废弃物转化为清洁能源的方式，到 2023 年将满足乌干达 20 万难民家庭所有的烹饪燃烧需求。到了亚马逊雨林，Wren 资助一家基金会，他们使用卫星图像、无人机来检测和组…]]></summary>
         <author>
             <name>极客公园 - 资讯</name>
         </author>
