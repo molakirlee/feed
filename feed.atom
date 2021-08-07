@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T14:07:59.284Z</updated>
+    <updated>2021-08-07T18:10:28.279Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[潘石屹能如愿卖掉SOHO吗？]]></title>
+        <id>3637397</id>
+        <link href="https://wallstreetcn.com/articles/3637397"/>
+        <updated>2021-08-07T14:19:41.000Z</updated>
+        <summary type="html"><![CDATA[进入立案审查阶段，SOHO中国“卖身”仍存悬念。]]></summary>
+        <author>
+            <name>周智宇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[又要无理打压中企！外媒：美议员要求商务部将荣耀公司列入经济黑名单]]></title>
         <id>3637395</id>
