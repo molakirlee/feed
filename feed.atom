@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T06:10:49.858Z</updated>
+    <updated>2021-08-08T08:10:06.019Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[巴萨为什么放弃梅西？真正的原因找到了！]]></title>
+        <id>3637406</id>
+        <link href="https://wallstreetcn.com/articles/3637406"/>
+        <updated>2021-08-08T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[债务高筑，工资帽超限，资本强行介入遭拒，商业价值受损……巴萨的未来，正在走入无解旋涡中。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[郭磊：从地铁客运量看本轮区域疫情影响]]></title>
         <id>3637405</id>
