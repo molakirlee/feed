@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T04:11:40.891Z</updated>
+    <updated>2021-08-08T06:10:49.858Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[郭磊：从地铁客运量看本轮区域疫情影响]]></title>
+        <id>3637405</id>
+        <link href="https://wallstreetcn.com/articles/3637405"/>
+        <updated>2021-08-08T05:06:12.000Z</updated>
+        <summary type="html"><![CDATA[考虑到防控会在疫情结束后存在一个谨慎观察期，这意味着三季度处在防控升温期的时间显著偏长，预计对服务业影响会较为明显，对实物消费有多大影响需要进一步观察。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[屈庆：下周可能是债市减仓的最好和最后的机会]]></title>
+        <id>3637404</id>
+        <link href="https://wallstreetcn.com/articles/3637404"/>
+        <updated>2021-08-08T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[江海证券屈庆认为，短期而言，由于疫情已经出现改善的曙光，利率难以进一步下行，再加上未来积压的供给释放压力加大，因此下周可能是债市减仓的好机会。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[东京奥运：送钱送房送母牛……各国如何奖励夺得奖牌的运动员]]></title>
         <id>https://www.bbc.com/zhongwen/simp/sports-58112452</id>

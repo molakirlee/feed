@@ -1325,6 +1325,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637405",
+          "author": "曾心怡",
+          "description": "考虑到防控会在疫情结束后存在一个谨慎观察期，这意味着三季度处在防控升温期的时间显著偏长，预计对服务业影响会较为明显，对实物消费有多大影响需要进一步观察。",
+          "link": "https://wallstreetcn.com/articles/3637405",
+          "publishedOn": "2021-08-08T05:06:12.000Z",
+          "wordCount": 137,
+          "title": "郭磊：从地铁客运量看本轮区域疫情影响"
+        },
+        {
+          "id": "3637404",
+          "author": "于旭东",
+          "description": "江海证券屈庆认为，短期而言，由于疫情已经出现改善的曙光，利率难以进一步下行，再加上未来积压的供给释放压力加大，因此下周可能是债市减仓的好机会。",
+          "link": "https://wallstreetcn.com/articles/3637404",
+          "publishedOn": "2021-08-08T03:50:00.000Z",
+          "wordCount": 111,
+          "title": "屈庆：下周可能是债市减仓的最好和最后的机会"
+        },
+        {
           "id": "3637403",
           "author": "于旭东",
           "description": "福奇表示，目前形势显然已经发生了非常糟糕的转变，若是让病毒以每天10万例的速度传播，病毒就会有足够概率变异。",
