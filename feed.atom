@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T08:10:06.019Z</updated>
+    <updated>2021-08-08T10:09:35.336Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[阿里王帅转发文章：在阿里9年从没听说过有女同事要去陪酒]]></title>
+        <id>3637413</id>
+        <link href="https://wallstreetcn.com/articles/3637413"/>
+        <updated>2021-08-08T09:37:59.000Z</updated>
+        <summary type="html"><![CDATA[该文章称：不能保护好一个女性，是件很丢脸的事。一个企业让女性在遭受屈辱又丢下尊严找回尊严是件很丢脸的事。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中信证券：当前市场风格切向消费和金融概率依然不高，需等待三季度末]]></title>
+        <id>3637410</id>
+        <link href="https://wallstreetcn.com/articles/3637410"/>
+        <updated>2021-08-08T09:07:37.000Z</updated>
+        <summary type="html"><![CDATA[中信证券认为，国家的产业政策目标和路径明晰，错误夸大或引导政策认知的行为正在被纠偏。当下A股市场风格平衡的过程已经开启，但基本面因素制约下风格的切换仍需等待至三季度末。]]></summary>
+        <author>
+            <name>曾心怡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下周重磅日程：中美7月通胀数据，A股迎中报密集披露周]]></title>
+        <id>3637326</id>
+        <link href="https://wallstreetcn.com/articles/3637326"/>
+        <updated>2021-08-08T08:00:32.000Z</updated>
+        <summary type="html"><![CDATA[下周，中国7月CPI、PPI同比以及新增人民币贷款、社融等金融数据将公布；成品油调价窗口开启。理想汽车将在港交所挂牌上市，药明康德、金龙鱼、中国移动、中国电信、李宁将披露2021年中报。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万亿量化真“香”，也别太“贪杯”]]></title>
+        <id>3637409</id>
+        <link href="https://wallstreetcn.com/articles/3637409"/>
+        <updated>2021-08-08T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[我们不能准确判断量化什么时候alpha又衰减了，但至少我们应该知道什么样的情况下会导致alpha衰减，以防持有人因为短期管理人表现不好过早下车的遗憾。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巴萨为什么放弃梅西？真正的原因找到了！]]></title>
         <id>3637406</id>
