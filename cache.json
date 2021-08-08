@@ -1316,6 +1316,15 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637398",
+          "author": "于旭东",
+          "description": "靠疫苗建立群体免疫的想法几乎破灭；儿童也不再安全；第三针补种成为必须。",
+          "link": "https://wallstreetcn.com/articles/3637398",
+          "publishedOn": "2021-08-08T00:50:00.000Z",
+          "wordCount": 193,
+          "title": "Delta突变株，已经导致海外对疫情三个最重要的理解完全转向"
+        },
+        {
           "id": "3637397",
           "author": "周智宇",
           "description": "进入立案审查阶段，SOHO中国“卖身”仍存悬念。",
@@ -1323,6 +1332,15 @@
           "publishedOn": "2021-08-07T14:19:41.000Z",
           "wordCount": 137,
           "title": "潘石屹能如愿卖掉SOHO吗？"
+        },
+        {
+          "id": "3637396",
+          "author": "陈湘婷",
+          "description": "严查深房理、经营贷等炒房链条，多人被刑拘。",
+          "link": "https://wallstreetcn.com/articles/3637396",
+          "publishedOn": "2021-08-07T12:46:55.000Z",
+          "wordCount": 115,
+          "title": "深圳调控下狠手，房价终于要跌了？"
         },
         {
           "id": "3637395",

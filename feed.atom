@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T00:31:50.932Z</updated>
+    <updated>2021-08-08T02:19:46.107Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Delta突变株，已经导致海外对疫情三个最重要的理解完全转向]]></title>
+        <id>3637398</id>
+        <link href="https://wallstreetcn.com/articles/3637398"/>
+        <updated>2021-08-08T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[靠疫苗建立群体免疫的想法几乎破灭；儿童也不再安全；第三针补种成为必须。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潘石屹能如愿卖掉SOHO吗？]]></title>
         <id>3637397</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[进入立案审查阶段，SOHO中国“卖身”仍存悬念。]]></summary>
         <author>
             <name>周智宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳调控下狠手，房价终于要跌了？]]></title>
+        <id>3637396</id>
+        <link href="https://wallstreetcn.com/articles/3637396"/>
+        <updated>2021-08-07T12:46:55.000Z</updated>
+        <summary type="html"><![CDATA[严查深房理、经营贷等炒房链条，多人被刑拘。]]></summary>
+        <author>
+            <name>陈湘婷</name>
         </author>
     </entry>
     <entry>
