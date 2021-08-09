@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T02:21:10.972Z</updated>
+    <updated>2021-08-09T04:11:52.534Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人民日报旗下“踏浪青年”：锐评阿里王成文性侵事件]]></title>
+        <id>3637458</id>
+        <link href="https://wallstreetcn.com/articles/3637458"/>
+        <updated>2021-08-09T03:18:55.000Z</updated>
+        <summary type="html"><![CDATA[不仅要把权力关进笼子里，更要把资本关进笼子里。不要妄想大而不倒，自然规律告诉我们，一鲸落，万物生。更不要妄想像韩国财阀一样操控一切，这里是中国。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[银指数翻身 宁指数大跌！上证50强势涨超1% 金融地产走强 宁德时代跌超6%]]></title>
+        <id>3637455</id>
+        <link href="https://wallstreetcn.com/articles/3637455"/>
+        <updated>2021-08-09T03:16:10.000Z</updated>
+        <summary type="html"><![CDATA[创业板指弱势回调，半导体芯片股跌幅居前，芯朋微跌超12%。央视财经发表评论称，“缺芯”不是“炒芯”的理由。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年赚8亿，全球CIS芯片第一，国产替代巨头格科微今日申购 | IPO见闻]]></title>
+        <id>3637343</id>
+        <link href="https://wallstreetcn.com/articles/3637343"/>
+        <updated>2021-08-09T02:04:30.000Z</updated>
+        <summary type="html"><![CDATA[毛利率仅20%出头，格科微一年还是能赚8亿。]]></summary>
+        <author>
+            <name>陈晨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股结构性行情还能演绎多久？]]></title>
+        <id>3637451</id>
+        <link href="https://wallstreetcn.com/articles/3637451"/>
+        <updated>2021-08-09T01:56:23.000Z</updated>
+        <summary type="html"><![CDATA[A股行业分化是大势所趋，本轮结构性行情或趋于尾声，投资者需提防下半年大盘回撤的风险。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里：开除涉事员工，直属领导辞职；腾讯：微视裁员70%不实；东京奥运闭幕，中国 38 金成亚军]]></title>
+        <id>https://www.geekpark.net/news/282594</id>
+        <link href="https://www.geekpark.net/news/282594"/>
+        <updated>2021-08-09T01:52:42.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴开除涉事员工，直属领导辞职
+阿里巴巴「女员工被侵犯」事件在全网发酵了一整天后，董事会主席兼 CEO 张勇在内网公布了阶段性内部调查结果和处理决定：辞退曲一、永不录用；同城零售事业群总裁李永和、HRG 徐昆引咎辞职；阿里巴巴首席人力资源官童文红记过处分。曲一是否存在违法行为，警方正在调查取证。
+信中表示，对事件处理过程涉及的其他停职主管及相关 HR 的调查仍在继续。（来源：新浪科技）
+
+
+
+
+
+特斯拉 Cybertruck 电动皮卡提车日延后
+原计划在 2021 年底上市的特斯拉 Cybertruck 将推迟到 2022 年。Cybertruck 页面显示，买家将可以「在 2022 年」提车（完成配置）。
+特斯拉目前已有超过 100 万辆 Cybertruck 的预购订单。Cybertruck 目前处于阿尔法测试阶段，公司已经完成了车辆架构的基本设计。由于当前 Model Y 车型正在柏林和奥斯汀建造，电动皮卡的生产只能推后。（来源：Techweb）
+
+
+吉利控股、雷诺将共同开发节能及混动车型
+吉利控股集团与雷诺集团共同宣布，双方已签署谅解备忘录，将建立创新型合作伙伴关系。根据备忘录，双方的合作将体现吉利控股对旗下整车架构的开放战略，及加速雷诺集团「Renaulution 计划」在中国和韩国两个市场落地。
+其中，在中国市场，双方将基于吉利控股的平台技术联合开发雷诺品牌混合动力车型；在韩国市场，双方则将基于领克节能平台 CMA 架构展开合作，共同开发适用于韩国市场的车型。（来源：财联社）
+
+
+腾讯回应微视裁员并停止投放：不实消息
+媒体报道称腾讯微视正在进行大规模人员优化，员工裁减比例接近 70%，微视的绝大部分对外投放也已经停止。
+对此，腾讯平台与内容事业群（PCG）方面回应称：外界有关于微视将减员、裁撤员工的报道均为不实消息。在 OVBU(在线视频事业部）进行的新一轮…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾艺人助阵奥运遭遇网军攻击 行走两岸生存新法则？]]></title>
         <id>https://www.bbc.com/zhongwen/simp/chinese-news-58116399</id>
@@ -59,6 +129,36 @@
 8月5日，小S终于打破沉默，表示自己“不是台独”，但再次引发议论纷纷。随后，大陆国台办的媒体《中国台湾网》立即在微…]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国7月CPI同比上涨1% PPI同比上涨9%]]></title>
+        <id>3637453</id>
+        <link href="https://wallstreetcn.com/articles/3637453"/>
+        <updated>2021-08-09T01:30:55.000Z</updated>
+        <summary type="html"><![CDATA[7月份，市场供需总体平稳，CPI环比由降转涨，同比涨幅回落；受原油、煤炭及相关产品价格大幅上涨影响，PPI涨幅略有扩大。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专题 | 央媒一出手 市场抖三抖]]></title>
+        <id>3637301</id>
+        <link href="https://wallstreetcn.com/topics/1003689"/>
+        <updated>2021-08-09T01:30:03.000Z</updated>
+        <summary type="html"><![CDATA[新华社近日连续发文，聚焦电子烟、“增高针”、配方奶粉，随即股市相关板块和个股股价急转直下。此外，8月3日经济参考报发文将网络游戏比作新型“毒品”，尽管文章随后删除，不过以腾讯为首的港股游戏股还是大幅下挫。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人民日报刊文：医疗美容，要最佳效果也要防不良后果]]></title>
+        <id>3637450</id>
+        <link href="https://wallstreetcn.com/articles/3637450"/>
+        <updated>2021-08-09T01:22:47.000Z</updated>
+        <summary type="html"><![CDATA[近年来，医疗美容行业迅速发展，然而其中的问题却不容忽视。一些医美机构在宣传过程中只谈“最佳效果”，不谈“不良后果”，容易使消费者忽视安全隐患；在许多医美机构官网信息中，基本没有风险性提示。]]></summary>
+        <author>
+            <name>方凌</name>
         </author>
     </entry>
     <entry>
