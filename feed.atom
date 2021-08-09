@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T18:10:27.511Z</updated>
+    <updated>2021-08-09T20:09:52.110Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[拜登万亿基建“财源”浮出水面：两党就加密货币税收修正案达成一致]]></title>
+        <id>3637529</id>
+        <link href="https://wallstreetcn.com/articles/3637529"/>
+        <updated>2021-08-09T18:16:38.000Z</updated>
+        <summary type="html"><![CDATA[基建案可能让加密货币企业面临征税300亿美元。修正案缩小了经纪商的定义范围，给予区块链验证者和硬件/软件钱包生产者豁免。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恒大汽车深夜预警：上半年净亏损扩大至约48亿元，较去年同期翻倍]]></title>
         <id>3637528</id>
