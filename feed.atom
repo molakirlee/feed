@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T16:13:52.506Z</updated>
+    <updated>2021-08-09T18:10:27.511Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[恒大汽车深夜预警：上半年净亏损扩大至约48亿元，较去年同期翻倍]]></title>
+        <id>3637528</id>
+        <link href="https://wallstreetcn.com/articles/3637528"/>
+        <updated>2021-08-09T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[公司称，净亏损主要由于拓展新能源汽车业务，处于投入阶段，购买固定资产及设备，研发等相关费用增加及利息支出。此前，有媒体称多家实力超强的国资和民企正就入股恒大汽车和恒大物业与恒大进行深入洽谈，预计合作很快落地。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国职位空缺爆破1000万 美联储年内紧缩箭在弦上]]></title>
+        <id>3637523</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637523?layout=wscn-layout"/>
+        <updated>2021-08-09T15:25:25.000Z</updated>
+        <summary type="html"><![CDATA[工作就摆在那里，就差吃福利的美国人来就业了。]]></summary>
+        <author>
+            <name>乐鸣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BioNTech二季度收入暴增近130倍 调高今年新冠疫苗销售额预期｜财报见闻]]></title>
+        <id>3637526</id>
+        <link href="https://wallstreetcn.com/articles/3637526"/>
+        <updated>2021-08-09T15:05:32.000Z</updated>
+        <summary type="html"><![CDATA[BioNTech二季度财报显示，当季收入同比暴增近130倍，此外本年度新冠疫苗的销售额预期也已调高至159亿欧元。财报公布后，BioNTech涨幅扩大至约12%，刷新2019年美国IPO以来的盘中最高位至435.79美元。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘鲜达恶性事件背后：要改造世界的巨头，被改造了]]></title>
         <id>https://www.geekpark.net/news/282648</id>
