@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T12:14:18.505Z</updated>
+    <updated>2021-08-10T14:09:04.508Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[软银本财年一季度净利同比下滑39% 旗下交易部门大举抛售美国科技股 | 财报见闻]]></title>
+        <id>3637607</id>
+        <link href="https://wallstreetcn.com/articles/3637607"/>
+        <updated>2021-08-10T12:45:14.000Z</updated>
+        <summary type="html"><![CDATA[软银表示，净利润下滑主要是因为来自所投资企业的收益减少，以及缺乏大型IPO活动；公司将回购更多股票，但时间将有待确定。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个因踩雷而爆赚的案例]]></title>
+        <id>3637612</id>
+        <link href="https://wallstreetcn.com/articles/3637612"/>
+        <updated>2021-08-10T12:37:17.000Z</updated>
+        <summary type="html"><![CDATA[赚到这笔钱的又是谁呢？从股东名册中看，大多是当初在重整方案中选择债转股的银行。这些银行会继续持有吗？大概率不会，想走。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股高歌猛进？策略师：当心三大危险信号！]]></title>
+        <id>3637609</id>
+        <link href="https://wallstreetcn.com/articles/3637609"/>
+        <updated>2021-08-10T12:30:25.000Z</updated>
+        <summary type="html"><![CDATA[美国银行策略师Savita Subramanian预测，标普500年底相对目前有14%的下跌空间。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股盘前：参议院预计今天通过万亿基建计划，软银抛售数十亿美国科技巨头股票]]></title>
+        <id>3637610</id>
+        <link href="https://wallstreetcn.com/articles/3637610"/>
+        <updated>2021-08-10T12:19:08.000Z</updated>
+        <summary type="html"><![CDATA[AMC股价在开盘前上涨超过7%，这家影院巨头第二季度的业绩表现超出预期；随着公众对Delta变异病毒的担忧加剧，对关键消费行业的支出随之放缓......]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再创新高的运价会持续到几时？]]></title>
         <id>3637600</id>
@@ -14,6 +54,56 @@
         <summary type="html"><![CDATA[三季度历来是集运旺季]]></summary>
         <author>
             <name>张娱</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军：下一个目标是三年时间，小米手机销量拿下全球第一！]]></title>
+        <id>3637608</id>
+        <link href="https://wallstreetcn.com/articles/3637608"/>
+        <updated>2021-08-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[雷军还强调，相比全球第一的长期目标，更期待小米能够尽快真正坐稳全球第二。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基金代销市场打响“价格战”？]]></title>
+        <id>3637593</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637593?layout=wscn-layout"/>
+        <updated>2021-08-10T11:46:43.000Z</updated>
+        <summary type="html"><![CDATA[已经有机构尝到降费率的甜头了。]]></summary>
+        <author>
+            <name>侯秋芸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“渣男”变“男神”！军工是下一个新能源？]]></title>
+        <id>3637605</id>
+        <link href="https://wallstreetcn.com/articles/3637605"/>
+        <updated>2021-08-10T11:46:08.000Z</updated>
+        <summary type="html"><![CDATA[军工产业链产能释放不是一蹴而就的，军工行情也多以“暴涨暴跌”收场。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宋都曝退地原因，直指祥生、宝龙违约]]></title>
+        <id>3637606</id>
+        <link href="https://wallstreetcn.com/articles/3637606"/>
+        <updated>2021-08-10T11:31:57.000Z</updated>
+        <summary type="html"><![CDATA[房企合作拿地纠纷浮出。]]></summary>
+        <author>
+            <name>陈湘婷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凶猛疫情面前，美国消费者已经开始缩减开支了]]></title>
+        <id>3637588</id>
+        <link href="https://wallstreetcn.com/articles/3637588"/>
+        <updated>2021-08-10T11:20:09.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通的研究报告显示，随着公众对Delta变异病毒的担忧加剧，对航空等关键消费行业的支出在放缓；随着疫情继续蔓延，预计消费支出将进一步下降。]]></summary>
+        <author>
+            <name>韩旭阳</name>
         </author>
     </entry>
     <entry>

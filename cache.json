@@ -1505,6 +1505,42 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637607",
+          "author": "许超",
+          "description": "软银表示，净利润下滑主要是因为来自所投资企业的收益减少，以及缺乏大型IPO活动；公司将回购更多股票，但时间将有待确定。",
+          "link": "https://wallstreetcn.com/articles/3637607",
+          "publishedOn": "2021-08-10T12:45:14.000Z",
+          "wordCount": 124,
+          "title": "软银本财年一季度净利同比下滑39% 旗下交易部门大举抛售美国科技股 | 财报见闻"
+        },
+        {
+          "id": "3637612",
+          "author": "韩旭阳",
+          "description": "赚到这笔钱的又是谁呢？从股东名册中看，大多是当初在重整方案中选择债转股的银行。这些银行会继续持有吗？大概率不会，想走。",
+          "link": "https://wallstreetcn.com/articles/3637612",
+          "publishedOn": "2021-08-10T12:37:17.000Z",
+          "wordCount": 133,
+          "title": "第一个因踩雷而爆赚的案例"
+        },
+        {
+          "id": "3637609",
+          "author": "高星",
+          "description": "美国银行策略师Savita Subramanian预测，标普500年底相对目前有14%的下跌空间。",
+          "link": "https://wallstreetcn.com/articles/3637609",
+          "publishedOn": "2021-08-10T12:30:25.000Z",
+          "wordCount": 127,
+          "title": "美股高歌猛进？策略师：当心三大危险信号！"
+        },
+        {
+          "id": "3637610",
+          "author": "韩旭阳",
+          "description": "AMC股价在开盘前上涨超过7%，这家影院巨头第二季度的业绩表现超出预期；随着公众对Delta变异病毒的担忧加剧，对关键消费行业的支出随之放缓......",
+          "link": "https://wallstreetcn.com/articles/3637610",
+          "publishedOn": "2021-08-10T12:19:08.000Z",
+          "wordCount": 147,
+          "title": "美股盘前：参议院预计今天通过万亿基建计划，软银抛售数十亿美国科技巨头股票"
+        },
+        {
           "id": "3637600",
           "author": "张娱",
           "description": "三季度历来是集运旺季",
@@ -1512,6 +1548,51 @@
           "publishedOn": "2021-08-10T12:12:41.000Z",
           "wordCount": 105,
           "title": "再创新高的运价会持续到几时？"
+        },
+        {
+          "id": "3637608",
+          "author": "于旭东",
+          "description": "雷军还强调，相比全球第一的长期目标，更期待小米能够尽快真正坐稳全球第二。",
+          "link": "https://wallstreetcn.com/articles/3637608",
+          "publishedOn": "2021-08-10T12:00:00.000Z",
+          "wordCount": 188,
+          "title": "雷军：下一个目标是三年时间，小米手机销量拿下全球第一！"
+        },
+        {
+          "id": "3637593",
+          "author": "侯秋芸",
+          "description": "已经有机构尝到降费率的甜头了。",
+          "link": "https://wallstreetcn.com/premium/articles/3637593?layout=wscn-layout",
+          "publishedOn": "2021-08-10T11:46:43.000Z",
+          "wordCount": 108,
+          "title": "基金代销市场打响“价格战”？"
+        },
+        {
+          "id": "3637605",
+          "author": "许超",
+          "description": "军工产业链产能释放不是一蹴而就的，军工行情也多以“暴涨暴跌”收场。",
+          "link": "https://wallstreetcn.com/articles/3637605",
+          "publishedOn": "2021-08-10T11:46:08.000Z",
+          "wordCount": 205,
+          "title": "“渣男”变“男神”！军工是下一个新能源？"
+        },
+        {
+          "id": "3637606",
+          "author": "陈湘婷",
+          "description": "房企合作拿地纠纷浮出。",
+          "link": "https://wallstreetcn.com/articles/3637606",
+          "publishedOn": "2021-08-10T11:31:57.000Z",
+          "wordCount": 126,
+          "title": "宋都曝退地原因，直指祥生、宝龙违约"
+        },
+        {
+          "id": "3637588",
+          "author": "韩旭阳",
+          "description": "摩根大通的研究报告显示，随着公众对Delta变异病毒的担忧加剧，对航空等关键消费行业的支出在放缓；随着疫情继续蔓延，预计消费支出将进一步下降。",
+          "link": "https://wallstreetcn.com/articles/3637588",
+          "publishedOn": "2021-08-10T11:20:09.000Z",
+          "wordCount": 138,
+          "title": "凶猛疫情面前，美国消费者已经开始缩减开支了"
         },
         {
           "id": "3637604",
