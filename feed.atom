@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T20:09:43.897Z</updated>
+    <updated>2021-08-11T22:09:26.398Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通胀担忧暂歇 标普道指再涨 纳指又跌 美元及美债收益率盘中跳水]]></title>
+        <id>3637741</id>
+        <link href="https://wallstreetcn.com/articles/3637741"/>
+        <updated>2021-08-11T22:50:01.000Z</updated>
+        <summary type="html"><![CDATA[标普道指又创新高，纳指逾一周新低，材料和金融板块领涨，医疗健康板块独跌，生物科技股继续跑输大盘，Moderna跌超15%；泛欧股指八日连创新高，创两个月最长连涨，科技和旅游股逆市跌。美国CPI公布后，创四周新高的10年期美债收益率盘中转降，盘中创四个月新高的美元指数转跌。比特币站稳4.6万美元再创近三月新高。原油盘中跌超1%，仍收涨逾1%创一周新高。黄金创近两周最大涨幅。伦铜跌落一周高位，伦锡再创新高。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSCI：将金山在线和北京万泰生物纳入MSCI新兴市场指数]]></title>
+        <id>3637742</id>
+        <link href="https://wallstreetcn.com/articles/3637742"/>
+        <updated>2021-08-11T21:13:01.000Z</updated>
+        <summary type="html"><![CDATA[明晟公司（MSCI）：被新纳入MSCI新兴市场指数的前三大个股包括金山在线和北京万泰生物，被纳入全球...]]></summary>
+        <author>
+            <name>wBlake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[响应拜登新能源车“小目标” 特斯拉劲敌Rivian或在德州建厂]]></title>
+        <id>3637740</id>
+        <link href="https://wallstreetcn.com/articles/3637740"/>
+        <updated>2021-08-11T20:54:11.000Z</updated>
+        <summary type="html"><![CDATA[据彭博，背靠亚马逊的电动汽车初创公司Rivian Automotive正在洽谈，投资至少50亿美元在德克萨斯州沃斯堡附近建造工厂。建厂一事尚未最终敲定。此前媒体称Rivian潜在估值达700亿美元，有望挑战今年最大规模IPO。当前特斯拉正在德州建厂，预计今年晚些时候完工。]]></summary>
+        <author>
+            <name>陈茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私募巨头进化难题：千亿资管董事长遭“谏言”，“一把手”究竟该抓投资还是抓管理？]]></title>
         <id>3637736</id>

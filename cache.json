@@ -1586,6 +1586,33 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637741",
+          "author": "李丹",
+          "description": "标普道指又创新高，纳指逾一周新低，材料和金融板块领涨，医疗健康板块独跌，生物科技股继续跑输大盘，Moderna跌超15%；泛欧股指八日连创新高，创两个月最长连涨，科技和旅游股逆市跌。美国CPI公布后，创四周新高的10年期美债收益率盘中转降，盘中创四个月新高的美元指数转跌。比特币站稳4.6万美元再创近三月新高。原油盘中跌超1%，仍收涨逾1%创一周新高。黄金创近两周最大涨幅。伦铜跌落一周高位，伦锡再创新高。",
+          "link": "https://wallstreetcn.com/articles/3637741",
+          "publishedOn": "2021-08-11T22:50:01.000Z",
+          "wordCount": 165,
+          "title": "通胀担忧暂歇 标普道指再涨 纳指又跌 美元及美债收益率盘中跳水"
+        },
+        {
+          "id": "3637742",
+          "author": "wBlake",
+          "description": "明晟公司（MSCI）：被新纳入MSCI新兴市场指数的前三大个股包括金山在线和北京万泰生物，被纳入全球...",
+          "link": "https://wallstreetcn.com/articles/3637742",
+          "publishedOn": "2021-08-11T21:13:01.000Z",
+          "wordCount": 113,
+          "title": "MSCI：将金山在线和北京万泰生物纳入MSCI新兴市场指数"
+        },
+        {
+          "id": "3637740",
+          "author": "陈茜",
+          "description": "据彭博，背靠亚马逊的电动汽车初创公司Rivian Automotive正在洽谈，投资至少50亿美元在德克萨斯州沃斯堡附近建造工厂。建厂一事尚未最终敲定。此前媒体称Rivian潜在估值达700亿美元，有望挑战今年最大规模IPO。当前特斯拉正在德州建厂，预计今年晚些时候完工。",
+          "link": "https://wallstreetcn.com/articles/3637740",
+          "publishedOn": "2021-08-11T20:54:11.000Z",
+          "wordCount": 115,
+          "title": "响应拜登新能源车“小目标” 特斯拉劲敌Rivian或在德州建厂"
+        },
+        {
           "id": "3637736",
           "author": "孙建楠",
           "description": "行业共性问题",
