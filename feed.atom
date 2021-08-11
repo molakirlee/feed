@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T12:14:26.147Z</updated>
+    <updated>2021-08-11T16:13:39.601Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[港交所：立足中国是主要优势，希望打造成“面向未来的市场”]]></title>
+        <id>3637733</id>
+        <link href="https://wallstreetcn.com/articles/3637733"/>
+        <updated>2021-08-11T14:59:31.000Z</updated>
+        <summary type="html"><![CDATA[“目前有约200家企业正排队在港上市，有信心会有更多公司在港上市。”在8月11日举行的香港交易所（以下简称“港交所”）2021年上半年业绩报告发布会上，港交所新任行政总裁欧冠升作出上述表述。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPI通胀持续高烧在13年高位 螺旋上升风险爆升]]></title>
+        <id>3637727</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637727?layout=wscn-layout"/>
+        <updated>2021-08-11T14:04:04.000Z</updated>
+        <summary type="html"><![CDATA[这不像是通胀周期尾部，更像是刚刚开始。]]></summary>
+        <author>
+            <name>乐鸣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新能源崛起，这三种金属的时代来了？]]></title>
+        <id>3637728</id>
+        <link href="https://wallstreetcn.com/articles/3637728"/>
+        <updated>2021-08-11T13:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Wood Mackenzie最近的一份报告显示，太阳能发电将推动对铝、铜和锌的需求；到2040年，该行业对这三种金属的需求量将翻一番。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[供需缺口持续拉大！欧洲煤炭价格创九年新高]]></title>
+        <id>3637724</id>
+        <link href="https://wallstreetcn.com/articles/3637724"/>
+        <updated>2021-08-11T13:14:47.000Z</updated>
+        <summary type="html"><![CDATA[新冠疫情导致的停工停产使得全球煤炭供应短缺；热浪暴雨等极端天气则推动需求走高，供需缺口持续拉大，导致煤炭价格在年中时陡然升高。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地产股大涨背后：新土拍游戏规则隐现]]></title>
+        <id>3637725</id>
+        <link href="https://wallstreetcn.com/articles/3637725"/>
+        <updated>2021-08-11T13:02:18.000Z</updated>
+        <summary type="html"><![CDATA[有平衡，才有得玩。]]></summary>
+        <author>
+            <name>陈湘婷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA宇航服项目造价10亿美元！马斯克：有需要的话，我来帮你们做]]></title>
+        <id>3637719</id>
+        <link href="https://wallstreetcn.com/articles/3637719"/>
+        <updated>2021-08-11T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[目前NASA的宇航服研发进度落后于计划，可能直到2025年才能准备就绪，无法赶上2024年的登月计划。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月的金融数据：没那么美好，也没那么糟糕]]></title>
+        <id>3637722</id>
+        <link href="https://wallstreetcn.com/articles/3637722"/>
+        <updated>2021-08-11T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[国元宏观杨为敩认为，7月的社融偏低是因为非标容易在7月大幅下降（非标转标的影响），这个特殊的季节性因素会在统计上放大社融的同比跌幅。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通胀未见“退烧”！美国7月CPI同比大涨5.4% 与前值持平]]></title>
+        <id>3637720</id>
+        <link href="https://wallstreetcn.com/articles/3637720"/>
+        <updated>2021-08-11T12:30:31.000Z</updated>
+        <summary type="html"><![CDATA[美国7月CPI继续创08年来最大涨幅，能源成本涨幅最大；核心CPI涨幅低于预期，主要是由于租金成本和二手车价格增速放缓。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆全球而动！新加坡给加密货币支付“开门”]]></title>
+        <id>3637718</id>
+        <link href="https://wallstreetcn.com/articles/3637718"/>
+        <updated>2021-08-11T12:12:28.000Z</updated>
+        <summary type="html"><![CDATA[新加坡金管局表示，它已准备好向部分提出申请的加密货币支付机构“发放支付服务许可”，不过相关机构为满足持牌运营的要求，还需要制定相关措施。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数十年来最严重霜冻！巴西糖业大受打击，全球糖价预计持续高企]]></title>
+        <id>3637713</id>
+        <link href="https://wallstreetcn.com/articles/3637713"/>
+        <updated>2021-08-11T12:02:50.000Z</updated>
+        <summary type="html"><![CDATA[霜冻对巴西甘蔗主产区造成了巨大的破坏，为上世纪90年代以来最大；法国糖业巨头Tereos预估称，受巴西减产影响，目前的高糖价状态将持续到2023年。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股盘前：参议院通过3.5万亿美元预算决议，美国7月通胀数据即将出炉]]></title>
+        <id>3637716</id>
+        <link href="https://wallstreetcn.com/articles/3637716"/>
+        <updated>2021-08-11T12:01:28.000Z</updated>
+        <summary type="html"><![CDATA[白宫呼吁OPEC+提高石油产量；Coinbase公布盈利超出预期，股价上涨......]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教培行业从业人员的下一站会是保险吗？]]></title>
+        <id>3637700</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637700?layout=wscn-layout"/>
+        <updated>2021-08-11T11:59:12.000Z</updated>
+        <summary type="html"><![CDATA[加入百万代理人队伍或许是一个选项。]]></summary>
+        <author>
+            <name>侯秋芸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猪价止跌企稳后下步怎么走？]]></title>
+        <id>3637695</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637695?layout=wscn-layout"/>
+        <updated>2021-08-11T11:44:36.000Z</updated>
+        <summary type="html"><![CDATA[有哪些利多、利空因素？]]></summary>
+        <author>
+            <name>张娱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国、立陶宛与台湾争端：北京召回大使的前前后后]]></title>
         <id>https://www.bbc.com/zhongwen/simp/chinese-news-58172684</id>
@@ -49,6 +179,62 @@
 “我们敦促立方立即纠正错误决定，采取切实措施，消除恶劣影响，不要在错误的道路上越走越远。我们也正告台湾当局，’台独’是死路一条，图谋在国际上…]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来三年拿下全球第一，小米的底气是什么？]]></title>
+        <id>https://www.geekpark.net/news/282763</id>
+        <link href="https://www.geekpark.net/news/282763"/>
+        <updated>2021-08-11T11:38:50.000Z</updated>
+        <summary type="html"><![CDATA[导语：
+
+52 岁的雷军身着一件白衬衣、牛仔裤和球鞋，身材依旧挺拔，诉说着这位企业家的自律。2021 年 8 月 10 日，站在小米 11 周年发布会的台上，雷军几度动情。
+自 20 年前，在金山上市后退出，实现财务自由的雷军一猛子钻进了方兴未艾的手机行业，历经供应链危机、上市破发、股价腰斩等风波。发布会的屏幕上，一度放出小米上市破发当日，雷军与几位合伙人躲进港交所通道内杂物间的照片。照片里的他露出苦笑。
+时隔三年，昨夜的雷军露出胜利的笑容。2021 年 1 月 4 日，小米收盘价 34 港元，终于抵达发行价的两倍；在刚刚过去的 2021Q1，小米手机全球销量首次超越苹果，成为全球第二。现在，他们发起了「冲击第一」的号角。
+对于雷军而言，这是一个特殊的夜晚，他与过去的自己和解了。
+
+
+撰写 | 赵维鹏
+编辑 | 卫诗婕
+
+
+孟京辉是国内知名的先锋戏剧导演，被问到如何做人生选择时，他说，「选择最难干的事情。不现实往往比现实更有力量。」事实如此，他从一所技校的语文老师，成长为最出名的戏剧导演。
+一次谈话中，雷军问他，如何做先锋？「说起来是简单的，但当你要做的时候，必须得有一个先锋的心态，先锋的标准。打破一些固步自封的东西。」孟京辉说，在过程中，可能还得面对别人的不熟悉、不理解，甚至各种批评。
+这也是雷军一直面临的处境。在小米成立之初，因为供应商不理解小米模式，小米公司迟迟找不到货源和愿意合作的工厂，经历过差点「胎死腹中」的绝望。
+后来，在第一代手机推出之后，小米一路高歌，来到了出货量世界第三的位置。2014 年的乌镇首届世界互联网大会上，主持人问雷军，小米未来发展战略是什么？正是意气风发的时候，雷军脱口而出，「五到十年做到全球第一。」
+主持人又问在场的苹果高级副总裁布鲁斯·塞维尔怎么看，他说，It's easy to say, it's much more difficult …]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCL李东生：未来面板行业周期性波动将大幅减少]]></title>
+        <id>3637711</id>
+        <link href="https://awtmt.com/articles/3637711?from=wscn"/>
+        <updated>2021-08-11T11:37:52.000Z</updated>
+        <summary type="html"><![CDATA[李东生表示，从现在的趋势来看，面板行业在经历了一年多的行业利好经济，下半年供不应求的情况会得到缓解。但从全球面板格局的调整、大的产业格局的变化以及中国产业政策的调整来讲，未来面板业的周期波动幅度将会明显减弱。]]></summary>
+        <author>
+            <name>于惠如</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“OPEC+产量还不够！”白宫如此呼吁过后，油价跌超1%]]></title>
+        <id>3637714</id>
+        <link href="https://wallstreetcn.com/articles/3637714"/>
+        <updated>2021-08-11T11:37:08.000Z</updated>
+        <summary type="html"><![CDATA[拜登政府表示，在全球经济复苏的关键时期，OPEC+应该提高石油产量，还呼吁监管机构对美国汽油市场的价格进行严格监控。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又见默默离场？光大理财两大“王牌”双双离职，是水土不服还是自然选择？]]></title>
+        <id>3637715</id>
+        <link href="https://wallstreetcn.com/articles/3637715"/>
+        <updated>2021-08-11T11:28:51.000Z</updated>
+        <summary type="html"><![CDATA[目前高管来自光大银行]]></summary>
+        <author>
+            <name>陈圣洁</name>
         </author>
     </entry>
     <entry>
