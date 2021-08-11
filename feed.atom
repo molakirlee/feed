@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T10:11:14.711Z</updated>
+    <updated>2021-08-11T12:14:26.147Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国、立陶宛与台湾争端：北京召回大使的前前后后]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/chinese-news-58172684</id>
+        <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58172684"/>
+        <updated>2021-08-11T11:43:02.000Z</updated>
+        <summary type="html"><![CDATA[6 分钟前
+
+
+
+图像来源，EPA
+
+
+中国从立陶宛召回其大使，抗议台湾能以”台湾“名义设立代表处。
+
+
+
+中国宣布召回驻欧盟成员国立陶宛（Lithuania）大使，并要求对方也召回驻华大使，以示反对台湾在立陶宛首都维尔纽斯以台湾名义设立代表处。美国与欧盟声援立陶宛的决定。
+
+美国国务院星期二（8月10日）谴责北京“报复”维尔纽斯，欧洲联盟对外行动署认为台湾在立陶宛设立代表处，并未违反欧盟的“一个中国”政策。
+
+当天稍早时候，北京批评维尔纽斯“不顾中方反复交涉、晓以利害”，“严重损害中国主权和领土完整”，同时批评台北“勾连外部势力进行谋‘独’挑衅”。
+
+立陶宛官员透露，维尔纽斯疏远北京，亲近台北的近因，可追溯至2019年香港“反送中”示威期间在维尔纽斯发生的事件。
+
+
+
+
+立陶宛捐赠台湾疫苗：梳理立陶宛如何“近台湾远大陆”
+台湾邦交国面临中国“疫苗外交”诱惑 中台外交角力不停
+立陶宛十字架山涉港标语缘何引起争端
+
+
+召回大使，北京、维尔纽斯与台北各说了什么？
+
+中国外交部星期二下午发表“发言人谈话”，宣布召回大使。
+
+这位不具名的发言人说：“近一段时间，立陶宛政府不顾中方反复交涉、晓以利害，宣布允许台湾当局以’台湾’名义设立’代表处’。此举公然违背中立两国建交公报精神，严重损害中国主权和领土完整。中国政府对此表示坚决反对，决定召回中国驻立陶宛大使，并要求立政府召回驻中国大使。”
+
+“中方正告立方，世界上只有一个中国，中华人民共和国政府是代表全中国的唯一合法政府。一个中国原则是公认的国际关系准则和国际社会普遍共识，是中国同其他国家发展双边关系的政治基础。中国政府和人民实现祖国统一的决心不可动摇，维护国家主权和领土完整的红线不容触碰。”
+
+“我们敦促立方立即纠正错误决定，采取切实措施，消除恶劣影响，不要在错误的道路上越走越远。我们也正告台湾当局，’台独’是死路一条，图谋在国际上…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中共中央、国务院：加强和改进反垄断与反不正当竞争执法]]></title>
+        <id>3637712</id>
+        <link href="https://wallstreetcn.com/articles/3637712"/>
+        <updated>2021-08-11T10:57:07.000Z</updated>
+        <summary type="html"><![CDATA[《法治政府建设实施纲要（2021-2025年）》提出，加强和改进反垄断与反不正当竞争执法。强化公平竞争审查制度刚性约束，及时清理废除妨碍统一市场和公平竞争的各种规定和做法，推动形成统一开放、竞争有序、制度完备、治理完善的高标准市场体系。]]></summary>
+        <author>
+            <name>新华社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月磷酸铁锂装车量3年首次超越三元锂，LG化学竟差点跌出TOP10 | 见智研究所]]></title>
+        <id>3637709</id>
+        <link href="https://wallstreetcn.com/articles/3637709"/>
+        <updated>2021-08-11T10:16:33.000Z</updated>
+        <summary type="html"><![CDATA[7月磷酸铁锂电池装车5.8GWh，同环比上升235.5%/13.4%，LG化学差点跌落出装车量企业排名TOP10。]]></summary>
+        <author>
+            <name>吴悠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘永好的另一盘棋：半导体上游、湿电子化学供应商华融化学来了 | IPO见闻]]></title>
+        <id>3637567</id>
+        <link href="https://wallstreetcn.com/articles/3637567"/>
+        <updated>2021-08-11T10:03:30.000Z</updated>
+        <summary type="html"><![CDATA[氢氧化钾处于淘汰过剩产能转型阶段，其作为湿电子化学品在电子、半导体行业等拥有广泛应用，但近年来随着半导体等新兴产业向国内的转移，其对上游湿电子化学品的需求极大拉动了国内配套产业的发展。 华融化学是一家从事氢氧化钾综合利用的企业，主要产品为高品质氢氧化钾，其化工产品主要为内销，占比90%以上。]]></summary>
+        <author>
+            <name>王誉霖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情概念股 ，收入增长50%，散热器厂商九州风神拟赴创业板 | IPO见闻]]></title>
+        <id>3637478</id>
+        <link href="https://wallstreetcn.com/articles/3637478"/>
+        <updated>2021-08-11T10:03:22.000Z</updated>
+        <summary type="html"><![CDATA[受新冠疫情影响，居家办公、线上学习以及相关消费需求增加，在2020年度全球电脑出货量达到2.75亿台，PC 市场整体出现回暖。同时，电子竞技爱好者也是电脑散热器高端产品、高端机箱和电源的重要客户。主营电脑散热器的九州风神，境外营收占比70％以上，能否实现进一步增收？]]></summary>
+        <author>
+            <name>王誉霖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“梅西感觉被巴塞罗那背叛了”：西甲球王离队加盟巴黎圣日耳曼内幕]]></title>
         <id>https://www.bbc.com/zhongwen/simp/sports-58171248</id>
@@ -86,6 +171,29 @@ BBC体育部西班牙足球记者
         <summary type="html"><![CDATA[在过去一周内，全美新冠住院病例数上升了40%。周一，德州的新冠住院人数接近历史高点，医院已接近满负荷运转，约87%的医院床位正在使用。]]></summary>
         <author>
             <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译文｜数字设计师用这七个步骤，营造专属「会员感」]]></title>
+        <id>https://sspai.com/post/67812</id>
+        <link href="https://sspai.com/post/67812"/>
+        <updated>2021-08-11T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[专栏文章 首页推荐
+少数派专栏是 Matrix 社区中的一部分，我们会不定期挑选专栏中最优质的文章，展示来自用户和开发者的真实体验和观点。点此 了解什么是少数派专栏，点击 查看全部少数派专栏。
+本文来自 全球科技之窗 专栏，翻译国外科技媒体的深度文章，帮我们开拓不同的视野。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+原文链接：Forget ‘users’ and focus on the 7 steps to make your organization ‘memberful’ (thenextweb.com)
+原文作者： Harald Dunnink，Momkai 的创始人兼 The Correspondent 的联合创始人。
+
+会员的参与感可以转化为持久的积极性。
+
+Harald Dunnink 是一位创意总监，因领导两项打破世界纪录的众筹活动而闻名。作为战略设计机构 Momkai 的创始人，Harald 一直在寻找他想帮助的品牌创始人，并与他们分享自己的经历。他曾协助推出过全球知名的平台以及经久不衰的产品。
+自从万维网（World Wide Web）诞生以来，「数字设计」和「用户体验」这两种概念便出现在了我们的视野中。对于不同的人来说，这两个短语的意义会有所差别；但大体上来说，这两个词描述的是某人在与网络上的内容打交道时的所学、所见、所感。
+作为一个数字设计师，我被这种用户体验深深吸引了：个人是如何通过网络，以及现实世界与一个组织建立联系的？这种体验（或者说这种「关系」）的性质为何在组织的可持续发展中起如此重要的作用？
+在一个会员制的例子中，公司和客户之间可以创立一种真正的深度关系，即用户在重视产品之外，还会相信企业的理念，并用付费以外的方式来表示支持。不同于一般的「用户」，「会员」的生命周期会长得多。也正因此，用心考虑「会员体验」是值得的。
+用户和会员有…]]></summary>
+        <author>
+            <name>北堂岚舞</name>
         </author>
     </entry>
     <entry>
