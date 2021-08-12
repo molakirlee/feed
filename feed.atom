@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T04:11:46.578Z</updated>
+    <updated>2021-08-12T06:11:37.668Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[抖音外卖“开门营业”]]></title>
+        <id>3637778</id>
+        <link href="https://wallstreetcn.com/articles/3637778"/>
+        <updated>2021-08-12T05:25:23.000Z</updated>
+        <summary type="html"><![CDATA[肯德基喜茶开始在抖音做起了外卖。以外卖业务作为切入点，抖音想要改写以美团和饿了么为首的“2+N”格局，显然要付出更多成本。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股上市首日开盘即破发，被美团疯狂看好的理想这次还行吗？]]></title>
+        <id>3637773</id>
+        <link href="https://wallstreetcn.com/articles/3637773"/>
+        <updated>2021-08-12T05:09:51.000Z</updated>
+        <summary type="html"><![CDATA[烧钱压力之下，理想领先蔚来先行回港。尝试撕下曾经的“增程式”标签走向纯电，理想离自己的“理想”还有多远？]]></summary>
+        <author>
+            <name>陈晨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两位投决会成员合作一只基金？中欧瑞丰增配卢纯青管理]]></title>
+        <id>3637776</id>
+        <link href="https://wallstreetcn.com/articles/3637776"/>
+        <updated>2021-08-12T04:40:40.000Z</updated>
+        <summary type="html"><![CDATA[50多亿的基金配上两位大咖]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果也缺芯 半导体行业供需难平衡？]]></title>
+        <id>3637772</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637772?layout=wscn-layout"/>
+        <updated>2021-08-12T03:48:48.000Z</updated>
+        <summary type="html"><![CDATA[汽车缺芯是小周期，先进制程芯片供不应求将是大周期。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基金经理和研究员值得投资者信赖吗？]]></title>
+        <id>3636734</id>
+        <link href="https://wallstreetcn.com/premium/articles/3636734?layout=wscn-layout"/>
+        <updated>2021-08-12T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[所有公募基金做的都是选优质公司，让公司帮你挣钱这么一件事情，所以研究员的价值观也是比较统一的，就是企业的价值创造才是投资收益的来源。]]></summary>
+        <author>
+            <name>肖觅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们需要什么样的双向链接，它适合你吗？]]></title>
+        <id>https://sspai.com/post/67996</id>
+        <link href="https://sspai.com/post/67996"/>
+        <updated>2021-08-12T03:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+近一年来笔记行业发展迅猛，「双向链接」这一概念受到很多知识管理爱好者的追捧，也有很多人清醒地认识到双向链接没有那么神奇，甚至存在很多问题。经过了一年多的实践，我从双链软件中获益许多，于是也在不断地思考为什么有这么多人如此依赖双链，我们在哪些场景下最需要双向链接，以及到底需要什么样的双向链接呢？
+什么是双向链接？
+双向链接（bi-directional link）的概念其实非常简单，也没有什么神奇的地方。参照 Maggie Appleton 绘制的示意图来看，假定我们在 A 文档中设置了关于 B 文档的超链接，我们可以在阅读 A 文档的时候通过超链接一键阅读 B 文档，但我们在阅读 B 文档的时候并不能知道A文档曾经关联过 B，这种只有A到B的链接就是单向链接，也是我们很熟悉的超链接的模式。如果我们在阅读B文档时也可以直观地看到 A 文档曾经提及过 B，我们就构建了一个双向链接，包括了从 A 到 B 和从 B 到 A。假定从 A 到 B 是正向链接，那么从 B 到 A 可以称为反向链接，反之亦然。
+
+单向链接和双向链接
+互联网时代，我们其实早已习惯了（单向）超链接的使用，我们可以轻松地通过一个链接从某个网页进入一个新网页。一个经常被提及的例子就是维基百科，比如说我们可以从关于维基百科的介绍的网页一步步点开链接，在了解什么是维基百科的同时，还可以根据自己的兴趣去了解关于 Alexa Internet、San Francisco、西班牙语、罗曼语系、Jimmy Wales、College-preparatory school 的相关内容…]]></summary>
+        <author>
+            <name>和燕燕</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[资金缺口来临，八月流动性大考？]]></title>
         <id>3637710</id>
