@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T20:09:36.924Z</updated>
+    <updated>2021-08-12T22:09:17.635Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Airbnb二季度收入猛增三倍 警告新冠病毒影响 盘后先涨后跌 | 财报见闻]]></title>
+        <id>3637852</id>
+        <link href="https://wallstreetcn.com/articles/3637852"/>
+        <updated>2021-08-12T20:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb二季度营收和总订单额分别较疫情爆发前的2019年同期水平高10%和37%，净亏损较去年同期收窄仅90%。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧股九创新高 道指艰难三连阳 纳指反弹 比特币跌离近三月高位]]></title>
+        <id>3637851</id>
+        <link href="https://wallstreetcn.com/articles/3637851"/>
+        <updated>2021-08-12T20:00:11.000Z</updated>
+        <summary type="html"><![CDATA[道指尾盘转涨，和标普三日收创新高，纳指脱离逾一周低谷。特斯拉和苹果涨2%，领跑龙头科技股。生物科技股跑赢大盘，诺瓦瓦克斯涨超5%。10年期美债收益率再创四周新高。美元指数靠近四个月高位，比特币跌超2000美元跌离近三月高位，以太坊一度跌近9%。原油跌离逾一周高位。黄金终结四周来首次两连阳。伦铜两连阴，伦锡跌离纪录高位。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[缺芯依旧严峻！马斯克呼吁芯片制造商解决 福特再度推迟交货]]></title>
         <id>3637849</id>
