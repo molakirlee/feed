@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T16:13:57.566Z</updated>
+    <updated>2021-08-12T18:11:01.955Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[荣耀赵明三点回应美政客要求把荣耀列入“实体清单”传闻]]></title>
+        <id>3637846</id>
+        <link href="https://wallstreetcn.com/articles/3637846"/>
+        <updated>2021-08-12T16:58:17.000Z</updated>
+        <summary type="html"><![CDATA[8月12日晚，荣耀CEO赵明在荣耀Magic 3系列发布会上接受采访时，列出三点回应近期的美国政客要求把荣耀列入“实体清单”传闻。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定增规模582亿或刷新民企之最！宁德时代斥巨资投向锂电池生产]]></title>
+        <id>3637843</id>
+        <link href="https://wallstreetcn.com/articles/3637843"/>
+        <updated>2021-08-12T16:25:42.000Z</updated>
+        <summary type="html"><![CDATA[宁德时代在深交所公告称，将向不超过35名特定对象定向增发A股，募集资金规模最高将达到582亿元，有望创下A股民企定增规模新高。除去93亿元补充流动资金外，募集所得将投入6个新能源项目当中，其中5个为锂离子电池生产项目。截至周四收盘，宁德时代市值为11691亿元。]]></summary>
+        <author>
+            <name>高星</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快手「老铁」开始重新定义知识]]></title>
         <id>https://www.geekpark.net/news/282833</id>
