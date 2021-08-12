@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T02:20:29.992Z</updated>
+    <updated>2021-08-12T04:11:46.578Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[资金缺口来临，八月流动性大考？]]></title>
+        <id>3637710</id>
+        <link href="https://wallstreetcn.com/articles/3637710"/>
+        <updated>2021-08-12T03:19:38.000Z</updated>
+        <summary type="html"><![CDATA[当前市场对于8月流动性的担忧主要来自7000亿MLF到期和7000亿新增地方债发行，我们预计本月大概率等量对冲且发债压力适中。十年国债收益率的中枢从经济面来看在3%，从流动性来看在2.85%。股市依然依赖流动性，因而对成长板块的青睐仍是主流。]]></summary>
+        <author>
+            <name>周欣瑜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挥别爆发期，蔚来的未来靠什么？]]></title>
+        <id>3637752</id>
+        <link href="https://wallstreetcn.com/articles/3637752"/>
+        <updated>2021-08-12T03:19:05.000Z</updated>
+        <summary type="html"><![CDATA[蔚来二季度财报显示，业绩表现差强人意。整体来看，蔚来汽车从爆发式改善进入相对平稳的阶段，交付量平稳爬坡，毛利率保持稳定，预计亏损缓慢收窄。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来李斌：高端领域没有能全面竞争的对手 将通过新品牌进入大众市场]]></title>
+        <id>3637768</id>
+        <link href="https://wallstreetcn.com/articles/3637768"/>
+        <updated>2021-08-12T02:58:44.000Z</updated>
+        <summary type="html"><![CDATA[蔚来称明年计划推出包括电动轿车ET7在内的三款新车，新的自动驾驶技术NT2.0首先在ET7上搭载。有一款车会比目前所有产品定价略低，是蔚来品牌价格最低的车型。自动驾驶团队年底将达到800人。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厦门钨业持股，毛利率高于华友、寒锐，“二进宫”的腾远钴业能否闯关成功？ | IPO见闻]]></title>
+        <id>3637573</id>
+        <link href="https://wallstreetcn.com/articles/3637573"/>
+        <updated>2021-08-12T02:47:51.000Z</updated>
+        <summary type="html"><![CDATA[锂电池刚需下，钴价进入走高区间，2020年腾远钴业的钴、铜毛利率均走高，但“二进宫”似乎仍然存在问题。]]></summary>
+        <author>
+            <name>陈晨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股震荡走弱 科创50涨超1% 储能走势分化 汽车整车逆势大涨]]></title>
+        <id>3637767</id>
+        <link href="https://wallstreetcn.com/articles/3637767"/>
+        <updated>2021-08-12T02:23:10.000Z</updated>
+        <summary type="html"><![CDATA[储能概念股开盘分化，四方股份加速顶一字板，科泰电源、和顺电气、易事特、百川股份等继续冲高。汽车整车板块异动拉升，东风汽车涨超7%。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车上市首日开盘即破发 昨日暗盘股价一度跌4%]]></title>
+        <id>3637760</id>
+        <link href="https://wallstreetcn.com/articles/3637760"/>
+        <updated>2021-08-12T02:18:04.000Z</updated>
+        <summary type="html"><![CDATA[理想成为继小鹏之后第二家完成在美国和中国香港市场双重上市的公司。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看懂A股的定价逻辑]]></title>
+        <id>3637761</id>
+        <link href="https://wallstreetcn.com/articles/3637761"/>
+        <updated>2021-08-12T02:14:15.000Z</updated>
+        <summary type="html"><![CDATA[低估值并不是应该买入的理由和投资依据，尤其是拿现有的估值和历史做对比，可能会存有较大的估值陷阱，因为宏观环境是完全不一样的，看上去便宜的东西往往是因为有不可预知的风险。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾：国民党主席选举开跑，朱立伦江启臣先抛反美亲美议题]]></title>
         <id>https://www.bbc.com/zhongwen/simp/chinese-news-58166368</id>
@@ -97,6 +167,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[连续更换医药方向基金管理人，嘉实“大健康”风口的下一步谋划？]]></title>
+        <id>3637766</id>
+        <link href="https://wallstreetcn.com/articles/3637766"/>
+        <updated>2021-08-12T02:11:19.000Z</updated>
+        <summary type="html"><![CDATA[郝淼接任三只产品，颜媛只参与其中一只]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于智能网联车数据安全、自动驾驶，工信部重磅意见来了！]]></title>
+        <id>3637765</id>
+        <link href="https://wallstreetcn.com/articles/3637765"/>
+        <updated>2021-08-12T02:02:46.000Z</updated>
+        <summary type="html"><![CDATA[《意见》明确，在中华人民共和国境内运营中收集和产生的个人信息和重要数据应当按照有关法律法规规定在境内存储，需要向境外提供数据的，应当通过数据出境安全评估。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暴涨之后财报成“抛售窗口”，mRNA疫苗双雄两天市值蒸发600亿美元]]></title>
+        <id>3637756</id>
+        <link href="https://wallstreetcn.com/articles/3637756"/>
+        <updated>2021-08-12T01:23:07.000Z</updated>
+        <summary type="html"><![CDATA[两家公司市值在两日内一共缩水约600亿美元。欧洲药管局目前正在调查mRNA新冠疫苗可能引发的3项新的副作用——多形红斑（一种急性、炎症性皮肤病）、肾小球肾炎和肾病综合征。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[B 站超优酷，成中国第三大视频网站；传软银暂停中国投资，否认声明发出即被删；NASA发「模拟火星生活」召集令｜极客早知道]]></title>
         <id>https://www.geekpark.net/news/282773</id>
         <link href="https://www.geekpark.net/news/282773"/>
@@ -129,6 +229,16 @@ B 站日活突破 6500 万，用户使用时长超 80 分钟
 《晚点 LatePost》获悉…]]></summary>
         <author>
             <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月12日会员早报：CPI通胀持续高烧在13年高位 美联储放鹰9月就宣布缩QE]]></title>
+        <id>3637758</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637758?layout=wscn-layout"/>
+        <updated>2021-08-12T00:55:06.000Z</updated>
+        <summary type="html"><![CDATA[CPI通胀持续高烧在13年高位。]]></summary>
+        <author>
+            <name>见智研究员</name>
         </author>
     </entry>
     <entry>
