@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T22:09:17.635Z</updated>
+    <updated>2021-08-13T00:31:31.401Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迪士尼三财季营收止步四连跌，Disney+新增1200万用户，盘后涨5% | 财报见闻]]></title>
+        <id>3637853</id>
+        <link href="https://wallstreetcn.com/articles/3637853"/>
+        <updated>2021-08-12T21:13:12.000Z</updated>
+        <summary type="html"><![CDATA[调整后EPS是上年同期十倍，流媒体视频订阅服务Disney+用户增至1.16亿，高于预期，流媒体运营亏损同比砍半，乐园、体验和产品营收六个季度里首次同比增长，种种疫情后期的利好消息推动盘后涨超5%，若延续至明日将年内转涨。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿迪达斯出售锐步交易定了！25亿美元，买家破产品牌收购王ABG]]></title>
+        <id>3637850</id>
+        <link href="https://wallstreetcn.com/articles/3637850"/>
+        <updated>2021-08-12T20:51:45.000Z</updated>
+        <summary type="html"><![CDATA[周四，阿迪达斯表示，已经和Authentic Brands Group（ABG）公司达成协议，以最多21亿欧元（约25亿美元）的价格出售陷入困境的运动鞋和体育用品品牌锐步。这25亿美元中的大部分交易金额将以现金支付，其余交易金额涉及递延或或有对价，具体细节未披露，整个交易预计在2022年第一季度完成。]]></summary>
+        <author>
+            <name>陈茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airbnb二季度收入猛增三倍 警告新冠病毒影响 盘后先涨后跌 | 财报见闻]]></title>
         <id>3637852</id>
