@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T18:10:45.635Z</updated>
+    <updated>2021-08-13T22:09:12.006Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧股十日新高 消费者信心逊色拉涨美债 道指勉强四连阳 比特币升破4.7万美元]]></title>
+        <id>3637939</id>
+        <link href="https://wallstreetcn.com/articles/3637939"/>
+        <updated>2021-08-13T22:50:01.000Z</updated>
+        <summary type="html"><![CDATA[泛欧股指创近十五年最长连涨日，科技股逆市跌，保险板块一周涨近4%。道指微涨，和标普四创新高，但能源和金融板块跌，纳指两连涨，本周仍跌。10年期美债收益率下破1.3%脱离四周高位，一日降7个基点。美元指数创一周新低，比特币创三个月新高，一度涨近4000美元。黄金本周二创两周最大涨幅。原油两连阴，本周仍涨。伦铜创近两周新高本周涨超1%，伦锡连涨八周。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成功“上天”后 维珍银河老板再度大举抛售公司股票]]></title>
+        <id>3637938</id>
+        <link href="https://wallstreetcn.com/articles/3637938"/>
+        <updated>2021-08-13T20:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Richard Branson本周卖出1040万股维珍银河股票，约占公司股票的4%，套现约3亿美元。Branson大举抛售，正值华尔街下调维珍银河股票，以及业内对太空商业化公司加强监管的呼声在增加。]]></summary>
+        <author>
+            <name>陈茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桥水二季减持好未来、新东方、京东、唯品会和特斯拉，重仓必需消费和芯片股]]></title>
+        <id>3637937</id>
+        <link href="https://wallstreetcn.com/articles/3637937"/>
+        <updated>2021-08-13T17:59:33.000Z</updated>
+        <summary type="html"><![CDATA[桥水对重仓股沃尔玛和宝洁较为偏爱，上半年持续大幅增持，二季度减持规模较大的个股还包括多种黄金ETF，一季度刚建仓的特斯拉被直接卖出三成。该基金二季度持仓规模猛涨37%，标普大盘ETF被大幅抛售后仍是最大重仓股。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索罗斯二季度建仓亚马逊 跻身五大重仓股 清仓腾讯音乐]]></title>
+        <id>3637936</id>
+        <link href="https://wallstreetcn.com/articles/3637936"/>
+        <updated>2021-08-13T17:41:29.000Z</updated>
+        <summary type="html"><![CDATA[二季度索罗斯基金新进的前五位个股包括龙头科技股亚马逊、微软和谷歌；清仓奈飞，腾讯音乐是一季度增持股份第二位的个股；二季度增持前五位的应用材料等四只在五大重仓股之列；美光科技是减持第一位的个股。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你为何需要关注美国债务上限？这关系到全球资产定价]]></title>
         <id>3637934</id>
