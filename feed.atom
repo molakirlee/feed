@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T16:13:58.703Z</updated>
+    <updated>2021-08-13T18:10:45.635Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[你为何需要关注美国债务上限？这关系到全球资产定价]]></title>
+        <id>3637934</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637934?layout=wscn-layout"/>
+        <updated>2021-08-13T15:10:02.000Z</updated>
+        <summary type="html"><![CDATA[这场闹剧持续时间越长，越是“利好”。]]></summary>
+        <author>
+            <name>乐鸣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上市银行首批半年报出炉！宁波银行收入猛增25%以上，招行直言下半年存款压力不减]]></title>
+        <id>3637935</id>
+        <link href="https://wallstreetcn.com/articles/3637935"/>
+        <updated>2021-08-13T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[亮点抢先看]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国俄国2021宁夏军事演习引发多方不同角度的关注]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58173421</id>
