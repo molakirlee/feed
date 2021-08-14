@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:29:14.081Z</updated>
+    <updated>2021-08-14T02:20:49.204Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三星掌门人李在镕假释出狱；中国移动财报：一天收入24亿；国外玩家遇袭 昆特牌挡刀救命｜极客早知道]]></title>
+        <id>https://www.geekpark.net/news/282895</id>
+        <link href="https://www.geekpark.net/news/282895"/>
+        <updated>2021-08-14T01:30:15.000Z</updated>
+        <summary type="html"><![CDATA[三星掌门人李在镕假释出狱：重获自由 但无法重返经营岗位
+北京时间 8 月 13 日消息，三星集团实际控制人、三星电子副会长李在镕今天获假释出狱，重获自由身。从现场照片来看，李在镕有些消瘦。
+
+          
+
+今年 1 月 18 日，韩国上诉法院对李在镕贿赂案重审，判处他 30 个月监禁，立即逮捕。今年 8 月 9 日，韩国法务部假释审查委员会举行闭门会议，表决通过了于 13 日假释三星电子副会长李在镕的议案。
+不过，李在镕可能无法立即恢复他在三星的职务。根据韩国法律，经济犯罪分子在五年内限制就业，而且获得假释的人员出国旅行受限。目前，李在镕仍有两起案件在身：三星物产和第一毛织的非法并购案、非法注射麻醉药物案等案件尚未结束审判，不排除再次入狱的可能性。若遭定罪，假释将被撤销。(来源：凤凰网科技)
+
+          
+
+用时不到两年 Disney+流媒体平台已吸引 1.16 亿订户
+迪士尼于本周四公布了 Disney+ 订阅用户的增长数据。自 2020 年上线以来，迪士尼旗下的 Disney+ 流媒体平台，已于 2021 年 Q3 财季将订阅用户数增长到 1.16 亿，同比增长达到了 100% 以上。营收也超过了预期的 167.6 亿美元，达到了 170.2 亿美元。
+订阅 Disney+ 的订户，主要被迪士尼旗下丰富的新老资源给吸引，包括皮克斯、漫威宇宙、《星球大战》、以及国家地理等 IP。近段时间推出的《曼达洛人》原创剧集、以及漫威工作室的《假如？》动画系列，也对订户数增长起到了较大的推动作用。（来源：CNBC）
+
+
+中国移动公布新财报：一天收入 24 亿元 5G 用户破 2.5 亿户
+8 月 12 日，中国移动公布 2021 年中期业绩。2021 年上半年，中国移动营运收入达到人民币 4436 亿元，同比增长 13.8%，上半年平均每天营收 24.37 亿元。…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千亿私募景林投资组合“显形”：重仓海外版“美团”，逆势抄底教育股，高集中度埋伏]]></title>
+        <id>3637945</id>
+        <link href="https://wallstreetcn.com/articles/3637945"/>
+        <updated>2021-08-14T01:23:37.000Z</updated>
+        <summary type="html"><![CDATA[接近200亿元规模]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻下坎大哈，塔利班重返“老巢”意味着什么？]]></title>
+        <id>3637944</id>
+        <link href="https://wallstreetcn.com/articles/3637944"/>
+        <updated>2021-08-14T00:49:35.000Z</updated>
+        <summary type="html"><![CDATA[坎大哈是阿富汗第二大城市，也曾是塔利班的“老巢”。此次塔利班夺回坎大哈，也被认为是阿富汗战事发展至今又一标志性事件。]]></summary>
+        <author>
+            <name>潘凌飞</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“混打”或提升新冠疫苗效力，国内多个序贯免疫研究正在进行]]></title>
+        <id>3637943</id>
+        <link href="https://wallstreetcn.com/articles/3637943"/>
+        <updated>2021-08-14T00:42:46.000Z</updated>
+        <summary type="html"><![CDATA[近期艾棣维欣宣布，其新冠DNA候选疫苗已获准与科兴的灭活疫苗开展探索序贯免疫策略的临床试验。上述提到的“序贯免疫”被冠以“新冠疫苗混打模式”而引发讨论。]]></summary>
+        <author>
+            <name>方凌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年8月14日]]></title>
         <id>3637942</id>
