@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T22:09:12.006Z</updated>
+    <updated>2021-08-14T00:29:14.081Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年8月14日]]></title>
+        <id>3637942</id>
+        <link href="https://wallstreetcn.com/articles/3637942"/>
+        <updated>2021-08-13T23:01:55.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[才抄底就跑！索罗斯一季度吃进Archegos“爆仓概念股”二季度脱手]]></title>
+        <id>3637941</id>
+        <link href="https://wallstreetcn.com/articles/3637941"/>
+        <updated>2021-08-13T22:54:44.000Z</updated>
+        <summary type="html"><![CDATA[索罗斯基金公司一季度合计投入至少3.5亿美元抄底，二季度除了清仓腾讯音乐，还抛售了和一季度买入价值相当的ViacomCBS、百度和唯品会股票。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧股十日新高 消费者信心逊色拉涨美债 道指勉强四连阳 比特币升破4.7万美元]]></title>
         <id>3637939</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[泛欧股指创近十五年最长连涨日，科技股逆市跌，保险板块一周涨近4%。道指微涨，和标普四创新高，但能源和金融板块跌，纳指两连涨，本周仍跌。10年期美债收益率下破1.3%脱离四周高位，一日降7个基点。美元指数创一周新低，比特币创三个月新高，一度涨近4000美元。黄金本周二创两周最大涨幅。原油两连阴，本周仍涨。伦铜创近两周新高本周涨超1%，伦锡连涨八周。更新中]]></summary>
         <author>
             <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一家“软银系”金融科技独角兽离IPO近了：Chime新获融资7.5亿美元 估值250亿美元]]></title>
+        <id>3637940</id>
+        <link href="https://wallstreetcn.com/articles/3637940"/>
+        <updated>2021-08-13T21:43:59.000Z</updated>
+        <summary type="html"><![CDATA[知情人士称，本轮融资为Chime在明年上半年IPO做好准备，公司还宣布任命三位新的独立董事，包括达拉斯小牛队首席执行官和巴菲特旗下伯克希尔哈撒韦公司的一位董事。Chime去年估值一度超过Robinhood，两者都受益于疫情居家令。]]></summary>
+        <author>
+            <name>杜玉</name>
         </author>
     </entry>
     <entry>
