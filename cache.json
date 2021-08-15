@@ -1856,6 +1856,24 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637969",
+          "author": "韩旭阳",
+          "description": "尽管技术没有完全成熟，“飞行出租车”在许多特定领域却拥有着独特的竞争优势。",
+          "link": "https://wallstreetcn.com/articles/3637969",
+          "publishedOn": "2021-08-15T08:29:19.000Z",
+          "wordCount": 137,
+          "title": "市场“新玩具”：一堆飞行出租车公司即将扎堆上市"
+        },
+        {
+          "id": "3637967",
+          "author": "叶桢",
+          "description": "作为A股历史上发行价最高的新股，义翘神州的发行价高达292.92元/股，若上市首日涨幅超过200%，中一签的盈利将高达30万元，有望创造新的打新盈利纪录。",
+          "link": "https://wallstreetcn.com/articles/3637967",
+          "publishedOn": "2021-08-15T07:47:50.000Z",
+          "wordCount": 131,
+          "title": "A股史上最贵新股明天上市！一签大赚30万？"
+        },
+        {
           "id": "3637968",
           "author": "叶桢",
           "description": "美国银行分析指出，随着杰克逊霍尔年会的到来，久期风险（duration risk）处于历史最高水平。实际无风险利率每发生1个基点的变化，就会转化为标普500指数20-30个基点的波动。",

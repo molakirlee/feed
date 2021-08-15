@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T08:10:34.933Z</updated>
+    <updated>2021-08-15T10:09:48.334Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[市场“新玩具”：一堆飞行出租车公司即将扎堆上市]]></title>
+        <id>3637969</id>
+        <link href="https://wallstreetcn.com/articles/3637969"/>
+        <updated>2021-08-15T08:29:19.000Z</updated>
+        <summary type="html"><![CDATA[尽管技术没有完全成熟，“飞行出租车”在许多特定领域却拥有着独特的竞争优势。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股史上最贵新股明天上市！一签大赚30万？]]></title>
+        <id>3637967</id>
+        <link href="https://wallstreetcn.com/articles/3637967"/>
+        <updated>2021-08-15T07:47:50.000Z</updated>
+        <summary type="html"><![CDATA[作为A股历史上发行价最高的新股，义翘神州的发行价高达292.92元/股，若上市首日涨幅超过200%，中一签的盈利将高达30万元，有望创造新的打新盈利纪录。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗局势：塔利班攻下除首都喀布尔外的所有关键城市]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58220470</id>
