@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T04:11:50.085Z</updated>
+    <updated>2021-08-15T06:11:00.279Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港民阵一致通过解散　结束19年历史　“七一”游行主办单位不敌《国安法》威胁]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/chinese-news-58201174</id>
+        <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58201174"/>
+        <updated>2021-08-15T05:43:01.000Z</updated>
+        <summary type="html"><![CDATA[12 分钟前
+
+
+
+图像来源，SOPA Images/LightRocket/Getty Images
+
+
+2019年6月9日，民阵召集人岑子杰（中）与壹传媒创办人黎智英（左二）带领反对《逃犯条例》修订案的游行。民阵称有103万人参加，这天普遍被视为“反送中“抗争的开始。
+
+
+
+因主办香港“七一”反政府游行而知名的“民间人权阵线”（简称“民阵”）宣布解散，结束19年历史。成为继香港教育专业人员协会（教协）之后，又一个因应《香港国安法》而结束的香港泛民主派组织。
+
+“民阵”星期天（8月15日）发表声明说，因召集人陈皓桓已经入狱，秘书处已无法运作，且没有成员愿意参与来届秘书处工作，星期五（13日）一致议决解散。民阵称感谢香港市民与组织一直并肩同行。
+
+自今年3月以来，香港官方和亲北京媒体接连指控民阵涉嫌收取美国官方组织资助等行为，意图危害中共政权，违反《香港国安法》，并涉嫌其他刑事犯罪，建制派政客促请香港警方作刑事查处。陈皓桓此前曾对BBC中文批评称，香港警察调查民阵是政治打压，旨在让其倒闭。
+
+香港警务处处长萧泽颐对官方报纸称，警方已搜集证据，将“随时执法”，“辞职也没用”。
+
+
+
+
+香港教协宣布解散　民主派最大工会“无力化解危机”
+香港民阵会否消失？召集人陈皓桓谈“年轻一代孤单不安的民主路”
+《国安法》大旗下辗转腾挪的香港黄店店主、教师和普通市民
+香港《国安法》下纪念“六四”，传承者邹幸彤谈“坚持底线和拒绝红线”
+
+
+民阵的声明说：“近一年多来，政府不断以疫情为由，拒绝民阵及不同团体的游行申请，各成员团体遭受打压，公民社会面临前所未有的严峻挑战。民阵本希望继续以原有的方式与大家迎难而上，可是，召集人陈皓桓已因多宗案件身陷囹圄，秘书处已无法维持运作，而在没有成员参与来届秘书处的情况下，只能在此无奈宣布解散。”
+
+“民阵已于8月13日召开周年大会，出席成员团体一致议决由即日起解…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta突变株极高传播能力的突变位点被确定]]></title>
+        <id>3637966</id>
+        <link href="https://wallstreetcn.com/articles/3637966"/>
+        <updated>2021-08-15T05:32:23.000Z</updated>
+        <summary type="html"><![CDATA[研究表明，Delta突变株的传播能力远超过了之前传播迅速的Alpha突变株，这是因为P681R单一点突变造成的。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街看涨水平创近二十年新高 分析师警告：物极必反]]></title>
+        <id>3637965</id>
+        <link href="https://wallstreetcn.com/articles/3637965"/>
+        <updated>2021-08-15T05:07:30.000Z</updated>
+        <summary type="html"><![CDATA[尽管美国企业的盈利正以2008年以来最强劲的速度增长，推升股市和看涨情绪同时走高；但分析师们预计，企业很难维持高估值，盈利增长可能已经见顶，将在未来几个月内放缓。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盐湖提锂有多暴利？这家上市公司半年报“泄露天机”！]]></title>
+        <id>3637964</id>
+        <link href="https://wallstreetcn.com/articles/3637964"/>
+        <updated>2021-08-15T03:12:49.000Z</updated>
+        <summary type="html"><![CDATA[受益于盐湖提锂业务及业绩大增，科达制造也上演了一下“别人家的公司”传奇，一方面其股价持续上涨，另一方面，科达制造2020年员工持股计划不到一年间已经浮盈8倍！]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看什么 Café丨当我们聊「电影感」的时候，我们在聊些什么？]]></title>
         <id>https://sspai.com/post/68175</id>
