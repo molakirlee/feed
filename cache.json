@@ -1838,6 +1838,42 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637959",
+          "author": "叶桢",
+          "description": "蔚来品牌部人士回复称，Navigate on Pilot（NOP）领航辅助不是自动驾驶，后续有调查结果会向外界同步信息。",
+          "link": "https://wallstreetcn.com/articles/3637959",
+          "publishedOn": "2021-08-15T01:45:12.000Z",
+          "wordCount": 134,
+          "title": "知名企业家“萌剑客”车祸去世，车型蔚来ES8，或因领航辅助？车企回应：正在调查"
+        },
+        {
+          "id": "3637962",
+          "author": "韩旭阳",
+          "description": "本周五，美国新冠肺炎的七天平均死亡人数达到645人，在两周内几乎翻了一番，达到5月以来的最高水平。",
+          "link": "https://wallstreetcn.com/articles/3637962",
+          "publishedOn": "2021-08-15T01:00:42.000Z",
+          "wordCount": 110,
+          "title": "Delta凶猛！美国日新增死亡病例近两周几乎翻番"
+        },
+        {
+          "id": "3637960",
+          "author": "叶桢",
+          "description": "江海证券屈庆认为，如果央行只是续作一部分MLF，另外一部分MLF到期的资金缺口通过降准去补充，这是对市场最好的情况。等于是用更便宜的资金替换了MLF的成本。",
+          "link": "https://wallstreetcn.com/articles/3637960",
+          "publishedOn": "2021-08-15T00:50:45.000Z",
+          "wordCount": 117,
+          "title": "下周MLF到期7000亿，如何续作是市场的焦点"
+        },
+        {
+          "id": "3637961",
+          "author": "叶桢",
+          "description": "当地一位立法官员表示，政府军首先向塔利班投降，导致其他亲政府民兵丧失士气放弃抵抗，两名军阀已经逃出巴尔赫省，去向不明。",
+          "link": "https://wallstreetcn.com/articles/3637961",
+          "publishedOn": "2021-08-15T00:40:45.000Z",
+          "wordCount": 106,
+          "title": "攻下阿富汗北部重镇，塔利班已接管该国22个省会"
+        },
+        {
           "id": "3637954",
           "author": "方凌",
           "description": "经过两年的高速发展，理财公司已经超越股份制银行，成为存续理财产品规模最大的机构类型。同时分机构类型来看，理财公司单只产品平均规模达到15.63亿元，为各机构类型最大。",

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:31:14.600Z</updated>
+    <updated>2021-08-15T02:19:10.606Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知名企业家“萌剑客”车祸去世，车型蔚来ES8，或因领航辅助？车企回应：正在调查]]></title>
+        <id>3637959</id>
+        <link href="https://wallstreetcn.com/articles/3637959"/>
+        <updated>2021-08-15T01:45:12.000Z</updated>
+        <summary type="html"><![CDATA[蔚来品牌部人士回复称，Navigate on Pilot（NOP）领航辅助不是自动驾驶，后续有调查结果会向外界同步信息。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta凶猛！美国日新增死亡病例近两周几乎翻番]]></title>
+        <id>3637962</id>
+        <link href="https://wallstreetcn.com/articles/3637962"/>
+        <updated>2021-08-15T01:00:42.000Z</updated>
+        <summary type="html"><![CDATA[本周五，美国新冠肺炎的七天平均死亡人数达到645人，在两周内几乎翻了一番，达到5月以来的最高水平。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下周MLF到期7000亿，如何续作是市场的焦点]]></title>
+        <id>3637960</id>
+        <link href="https://wallstreetcn.com/articles/3637960"/>
+        <updated>2021-08-15T00:50:45.000Z</updated>
+        <summary type="html"><![CDATA[江海证券屈庆认为，如果央行只是续作一部分MLF，另外一部分MLF到期的资金缺口通过降准去补充，这是对市场最好的情况。等于是用更便宜的资金替换了MLF的成本。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻下阿富汗北部重镇，塔利班已接管该国22个省会]]></title>
+        <id>3637961</id>
+        <link href="https://wallstreetcn.com/articles/3637961"/>
+        <updated>2021-08-15T00:40:45.000Z</updated>
+        <summary type="html"><![CDATA[当地一位立法官员表示，政府军首先向塔利班投降，导致其他亲政府民兵丧失士气放弃抵抗，两名军阀已经逃出巴尔赫省，去向不明。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[健康新知：最新研究剖析新陈代谢之谜 解开中年发福密码]]></title>
         <id>https://www.bbc.com/zhongwen/simp/science-58200798</id>
