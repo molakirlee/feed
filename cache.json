@@ -1856,6 +1856,78 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3637971",
+          "author": "叶桢",
+          "description": "当李彦宏在百度业绩电话会上喊出Robotaxi五年后盈利，成本将低于网约车时，一定没有想到，两天后一起蔚来车祸，使得自动驾驶的前景再度蒙上疑云。",
+          "link": "https://wallstreetcn.com/articles/3637971",
+          "publishedOn": "2021-08-15T12:02:13.000Z",
+          "wordCount": 145,
+          "title": "网约车司机的“职业生涯”只有五年了？"
+        },
+        {
+          "id": "3637979",
+          "author": "韩旭阳",
+          "description": "开源证券认为，经过调整与反弹，市场分歧度、热门赛道波动率仍在较高的范围中，意味着当下市场本身对于外部的变化就会是相当敏感的，市场的结构调整难言结束。",
+          "link": "https://wallstreetcn.com/articles/3637979",
+          "publishedOn": "2021-08-15T11:47:05.000Z",
+          "wordCount": 139,
+          "title": "变化才刚刚开始"
+        },
+        {
+          "id": "3637980",
+          "author": "叶桢",
+          "description": "美股上市公司皮埃蒙特锂业对外宣称，将推迟向特斯拉交付第一批锂精矿，且目前尚不确定将推迟到何时。",
+          "link": "https://wallstreetcn.com/articles/3637980",
+          "publishedOn": "2021-08-15T11:37:33.000Z",
+          "wordCount": 130,
+          "title": "特斯拉竟被“放鸽子”了！这些小金属令“钢铁侠”马斯克焦虑……"
+        },
+        {
+          "id": "3637981",
+          "author": "韩旭阳",
+          "description": "东亚前海证券认为，市场结构性过热已经达到历史极端水平，市场的高低切换只是刚刚开始，未来资金进一步由热...",
+          "link": "https://wallstreetcn.com/articles/3637981",
+          "publishedOn": "2021-08-15T11:35:17.000Z",
+          "wordCount": 153,
+          "title": "市场切换只是刚刚开始"
+        },
+        {
+          "id": "3637974",
+          "author": "韩旭阳",
+          "description": "散户投资者们正在重新涌入加密货币市场，交易量激增，并推动比特币、以太币等数字货币价格回到高位。",
+          "link": "https://wallstreetcn.com/articles/3637974",
+          "publishedOn": "2021-08-15T11:23:27.000Z",
+          "wordCount": 137,
+          "title": "美国散户转移阵地 又开始炒币了"
+        },
+        {
+          "id": "3637977",
+          "author": "叶桢",
+          "description": "据俄罗斯卫星网消息，阿富汗前内政部长阿里·艾哈迈德·贾拉里将成为阿富汗过渡政府首脑。",
+          "link": "https://wallstreetcn.com/articles/3637977",
+          "publishedOn": "2021-08-15T10:37:46.000Z",
+          "wordCount": 103,
+          "title": "快讯！外媒：阿富汗总统加尼将在几小时内放弃权力，塔利班领导的新政府将组建"
+        },
+        {
+          "id": "3637970",
+          "author": "韩旭阳",
+          "description": "信达证券认为，行业集中度提升是我国制造业结构升级的必经之路，我国制造业十年变迁证实集中度与利润率呈正相关，“集中度-利润率”有望引领A股走出一波长牛行情。",
+          "link": "https://wallstreetcn.com/articles/3637970",
+          "publishedOn": "2021-08-15T09:51:49.000Z",
+          "wordCount": 212,
+          "title": "未来十年 A股“长牛”的突破口在哪里？"
+        },
+        {
+          "id": "3637818",
+          "author": "韩旭阳",
+          "description": "下周，中国7000亿MLF到期，市场尤为关注央行是否及如何续作；中国7月规模以上工业增加值、社会消费品零售总额等重要月度经济数据将公布。美联储FOMC将公布货币政策会议纪要。",
+          "link": "https://wallstreetcn.com/articles/3637818",
+          "publishedOn": "2021-08-15T09:51:33.000Z",
+          "wordCount": 132,
+          "title": "下周重磅日程：关注MLF是否续作，中国7月经济数据，美联储会议纪要"
+        },
+        {
           "id": "3637969",
           "author": "韩旭阳",
           "description": "尽管技术没有完全成熟，“飞行出租车”在许多特定领域却拥有着独特的竞争优势。",
