@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T18:11:10.202Z</updated>
+    <updated>2021-08-16T20:09:24.576Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“大空头”有了新目标：做空“木头姐”ARK]]></title>
+        <id>3638091</id>
+        <link href="https://wallstreetcn.com/articles/3638091"/>
+        <updated>2021-08-16T18:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Michael Burry旗下公司二季度持有Cathie Wood主力基金ARKK逾23万股看跌期权，而且加码做空ARKK重仓股特斯拉，所持看跌期权股份较一季度增长34%。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美联储Taper时间表日渐清晰：明年中或结束史诗级无限量QE]]></title>
         <id>3638090</id>
