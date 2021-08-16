@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T20:09:24.576Z</updated>
+    <updated>2021-08-16T22:09:12.929Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能源股施压 欧股终结十连新高 但道指标普盘中转涨 比特币转跌 伦锡又新高]]></title>
+        <id>3638093</id>
+        <link href="https://wallstreetcn.com/articles/3638093"/>
+        <updated>2021-08-16T22:50:03.000Z</updated>
+        <summary type="html"><![CDATA[泛欧股指终结十连涨，零售和矿业股领跌。道指标普五创新高，能源板块领跌，纳指终结两连阳，龙头科技股中特斯拉独跌，跌超4%；蔚来等三只中概新能源车股至少跌超3%，知乎涨超5%。美元指数脱离一周低谷，比特币涨破4.8万美元逼近三个月高位后盘中转跌。10年期美债收益率创逾一周新低。原油收跌逾1%创一周新低，美油盘中跌近4%。黄金创逾一周新高。伦铜创一周新低及近两周最大跌幅，伦锡四日里二度创新高。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伯克希尔哈撒韦清仓Biogen等股票，减持通用汽车，增持Kroger]]></title>
+        <id>3638095</id>
+        <link href="https://wallstreetcn.com/articles/3638095"/>
+        <updated>2021-08-16T20:09:31.000Z</updated>
+        <summary type="html"><![CDATA[伯克希尔哈撒韦清仓Biogen等股票，减持通用汽车，增持Kroger。]]></summary>
+        <author>
+            <name>wBlake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6月美国最大“债主”日本今年罕见增持美债，中国持债四连降]]></title>
+        <id>3638094</id>
+        <link href="https://wallstreetcn.com/articles/3638094"/>
+        <updated>2021-08-16T20:01:38.000Z</updated>
+        <summary type="html"><![CDATA[日本6月继续位居美国国债的最大海外持有国，增持111亿美元至1.277万亿美元，是11个月里第三次增持。中国大陆仍为美债第二大海外持有地，减持美债165亿并连降四个月，总量至1.062万亿美元创八个月最低。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“大空头”有了新目标：做空“木头姐”ARK]]></title>
         <id>3638091</id>
