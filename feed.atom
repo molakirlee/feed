@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T22:08:58.481Z</updated>
+    <updated>2021-08-16T00:32:01.363Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年8月16日]]></title>
+        <id>3637992</id>
+        <link href="https://wallstreetcn.com/articles/3637992"/>
+        <updated>2021-08-15T23:08:28.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[索尼 Xperia 1 III 微单手机评测：影像功力向微单「看齐」，索尼越来越上道了]]></title>
         <id>https://www.geekpark.net/news/282509</id>
