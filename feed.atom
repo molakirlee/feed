@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T14:21:57.046Z</updated>
+    <updated>2021-08-16T18:11:10.202Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美联储Taper时间表日渐清晰：明年中或结束史诗级无限量QE]]></title>
+        <id>3638090</id>
+        <link href="https://wallstreetcn.com/articles/3638090"/>
+        <updated>2021-08-16T16:50:34.000Z</updated>
+        <summary type="html"><![CDATA[根据近期美联储高官的公开演讲和采访对话，华尔街日报分析称，美联储内部就缩减QE近乎达成一致：如果经济继续复苏，美联储将在大约三个月内开始缩减QE，一些官员推动在明年年中结束资产购买。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无视拜登政府呼吁 OPEC+认为无需再多产油]]></title>
+        <id>3638089</id>
+        <link href="https://wallstreetcn.com/articles/3638089"/>
+        <updated>2021-08-16T16:27:59.000Z</updated>
+        <summary type="html"><![CDATA[分析称，OPEC+对不会超量增产的强硬态度令油价在周一美股盘中反弹，这也令拜登政府陷入两难境地，因为呼吁OPEC+超量增产将激怒北美的石油生产商，也会令支持经济脱碳的人们不满。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发达国家第一个加息 新西兰的底气何在]]></title>
+        <id>3638087</id>
+        <link href="https://wallstreetcn.com/premium/articles/3638087?layout=wscn-layout"/>
+        <updated>2021-08-16T15:52:50.000Z</updated>
+        <summary type="html"><![CDATA[三大因素别家都没有……]]></summary>
+        <author>
+            <name>乐鸣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“不老神话”朱少醒大幅加仓老牌铅锌巨头，“冷门”有色金属行业要变“热门”？]]></title>
+        <id>3638086</id>
+        <link href="https://wallstreetcn.com/articles/3638086"/>
+        <updated>2021-08-16T14:28:22.000Z</updated>
+        <summary type="html"><![CDATA[驰宏锌锗上半年净利增长超六成]]></summary>
+        <author>
+            <name>王小康</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿私募“清奇话术”？踏空的客户迎来了“洗脑”和“焦虑输出”]]></title>
+        <id>3638085</id>
+        <link href="https://wallstreetcn.com/articles/3638085"/>
+        <updated>2021-08-16T13:56:26.000Z</updated>
+        <summary type="html"><![CDATA[沟通艺术还是行为艺术]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500万门槛挡不住认购热情，“价值大佬”陈光明新产品发售第一天，认购规模料破百亿]]></title>
+        <id>3638084</id>
+        <link href="https://wallstreetcn.com/articles/3638084"/>
+        <updated>2021-08-16T13:56:09.000Z</updated>
+        <summary type="html"><![CDATA[未来看好自下而上的机会]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搜索的「供给侧改革」]]></title>
+        <id>https://www.geekpark.net/news/282955</id>
+        <link href="https://www.geekpark.net/news/282955"/>
+        <updated>2021-08-16T13:53:43.000Z</updated>
+        <summary type="html"><![CDATA[2019 年的年初，我曾经有机会和现任百度集团执行副总裁的沈抖一起吃饭，当时他已经在主抓搜索业务了。我当时提出了一个问题：「搜索看起来也不增长了，甚至还在下滑，该怎么办？」
+沈抖当时说了一个逻辑：虽然人们信息获取的习惯在发生变化，比如信息流推荐越来越变得主流，但它并不能解决所有的问题，对一个问题找答案的过程，自主的搜索还是比机器推送更合理。说白了，搜索这件事情，其实是每个人都比较底层的需求。
+沈抖认为搜索「是一个被压抑了的需求」，这源于搜索的交付还有很大的提升空间，有很多有明确服务需求的问题没有得到满足。饭局上沈抖说「搜索问题要解决，核心就要解决搜索交付的问题。」而这句话，我发现确实成了百度这几年在搜索变革上的主轴。
+后来在 2019 年 5 月，百度搜索公司战略转型为移动生态事业群组（MEG）后，沈抖主导了对百度移动生态的战略重构，逐步搭建了以百度 App 为核心、以搜索+信息流为双引擎、百家号+智能小程序+托管页为三支柱的移动生态布局。
+距离那次吃饭，两年过去了，最近我关注到百度 App 又有一些进展和新变化。今年 4 月，百度 App 正式对外宣布品牌升级，新 slogan 为「百度一下，生活更好」，近期又官宣了新的代言人。
+站在现在，把这些事都连在一起，我再重新去理解当时饭局中沈抖说的话，其实他想表达的是：搜索需要一场供给侧的改革。
+
+
+从「无为」到「有为」
+在讨论搜索该怎么变革之前，还是要去聊一聊过去这些年，搜索所处的时代之变。更确切地说，是从 PC 互联网时代到移动互联网时代，搜索引擎两端的「供需之变」。
+早期互联网用户对于搜索的期待，更多的是解决认知问题，消灭信息差，而此时「无为」便是最大的「有为」。当时百度信仰的也是技术中立，以让人们平等方便获取信息为价值。就像李彦宏所说，「你只要能够上网，那么你跟信息的距离就是一样的，是平等的。」
+但智能手机时代的到来，使…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“蔚”来还有多远，自动驾驶驶向何方？]]></title>
         <id>3638049</id>
@@ -146,6 +227,46 @@
 此前有报道称塔利班将沿用20年前曾使用过的政权名称“阿富汗伊斯兰酋长国”（Islamic Emirate of Afghanistan）。]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[供应链瓶颈之痛：运费暴涨，全球进出口企业成本飙升十倍]]></title>
+        <id>3638080</id>
+        <link href="https://wallstreetcn.com/articles/3638080"/>
+        <updated>2021-08-16T13:36:44.000Z</updated>
+        <summary type="html"><![CDATA[现在是圣诞季向欧洲供应的关键时刻，集装箱运费的爆炸式上涨，加上供应延迟，将产生严重后果；季节性商品短缺将推高通胀，而且这个问题不会很快消失。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[质疑安全性！美国对特斯拉自动驾驶系统展开正式调查]]></title>
+        <id>3638076</id>
+        <link href="https://wallstreetcn.com/articles/3638076"/>
+        <updated>2021-08-16T13:34:22.000Z</updated>
+        <summary type="html"><![CDATA[美国将对76.5万辆特斯拉汽车的自动驾驶系统展开安全调查，包括Model Y、Model X等多款车型。其自动驾驶系统在之前就已导致多起交通事故。特斯拉股价开盘小幅回落至703.7美元。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taper时间表来了？瑞银：节奏比起点更重要！]]></title>
+        <id>3638079</id>
+        <link href="https://wallstreetcn.com/articles/3638079"/>
+        <updated>2021-08-16T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[瑞银认为，美联储最有可能在12月taper，并将在12个月内完成taper路径。此外瑞银还表示，与其猜测taper时点，不如关注taper节奏。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[义翘神州上市首日收涨68%，疫情后业绩成长仍存不确定性]]></title>
+        <id>3638073</id>
+        <link href="https://wallstreetcn.com/articles/3638073"/>
+        <updated>2021-08-16T13:18:27.000Z</updated>
+        <summary type="html"><![CDATA[作为重组蛋白国产老大，义翘神州在疫情中的表现名副其实；但如果没有了新冠疫情，公司又该如何跑在同行前面？]]></summary>
+        <author>
+            <name>徐红</name>
         </author>
     </entry>
     <entry>
