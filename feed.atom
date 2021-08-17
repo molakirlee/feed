@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T06:11:19.514Z</updated>
+    <updated>2021-08-17T08:11:05.664Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开学季｜证多不压身，聊聊大学里值得「拼一拼」的证书考试]]></title>
+        <id>https://sspai.com/post/68224</id>
+        <link href="https://sspai.com/post/68224"/>
+        <updated>2021-08-17T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[无论你是怀着无比激动的心情奔赴大学校园的萌新，还是一两年后重返校园的一条咸鱼，考试都会成为大学生活中绕不开的一个话题。尽管大学期间不再是「考考考，老师的法宝」，但是多如牛毛的资格型、水平性考试仍然十分受到大家青睐，毕竟人人都说「证不压身」。因此，我们从许多类似的考试中，选出了几门我们认为比较重要的、值得一试的，跟大家介绍一下它们的情况，希望能够对你的大学生活有所帮助。
+我们今天要谈到的考试是以下七种：
+
+大学英语等级考试（四六级）
+普通话水平测试
+全国计算机等级考试（通称「计算机 X 级」）
+国家统一法律职业资格考试（「法考」）
+注册会计师全国统一考试（CPA）
+全国翻译专业资格（水平）考试（CATTI）
+中小学教师资格考试（通称「教资」）
+
+我们会从报名、用处和一些过来人的备考建议几个方面，说一说这些考试。当然，其中的法考、CPA 和计算机二级我没有亲身经历过，所以是在网上找了比较权威的资料进行了一些考试情况的整合，也咨询了一些自己的大佬朋友，在此也对他们表示由衷谢意！
+当然，我在这里说得再多也不过是一家之言。少数派的各位社会大佬们如果有任何意见、建议，也请不要吝啬，在评论区尽情施展你的才华 —— 我一个人的力量毕竟有限，但是我真的很想让这篇文章能够变成大家值得参考的攻略。
+大学英语等级考试（四六级）
+
+大学英语考试是一项大规模标准化考试，是一个「标准关联的常模参照测验」。大学英语四、六级考试作为一项全国性的教学考试由「国家教育部高教司」主办，分为四级考试（CET-4）和六级考试（CET-6），每年各举行两次，分别在同一天的上午和下午进行。从 2005 年 1 月起，成绩满分为 710 分，由国家教育部高教司委托「全国大学英语四六级考试委员会」给每位考生发成绩单。
+
+报名方式与费用
+大学英语等级考试是只能由在读大学生报名的，社会人员一般不能参与。根据就读学校的不同，对考生…]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股跌幅扩大 恒生科技指数跌超3% 腾讯、阿里跌超4%]]></title>
+        <id>3638136</id>
+        <link href="https://wallstreetcn.com/articles/3638136"/>
+        <updated>2021-08-17T06:01:41.000Z</updated>
+        <summary type="html"><![CDATA[哔哩哔哩一度跌超7%，股价续刷历史新低；网易、百度跌超5%......]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲气价暴涨1000%！天然气平价时代即将结束？]]></title>
+        <id>3638135</id>
+        <link href="https://wallstreetcn.com/articles/3638135"/>
+        <updated>2021-08-17T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[分析人士指出，随着全球主要经济体致力于实现碳中和，天然气将成为未来几十年最重要的过渡燃料，并将在中期内保持价格高位、长期内持续上升。]]></summary>
+        <author>
+            <name>于旭东</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗局势：塔利班重掌政权　中美相互批评]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58240657</id>
@@ -57,6 +105,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[高瓴建仓Airbnb 海外酒店实现“免疫”？]]></title>
+        <id>3638129</id>
+        <link href="https://wallstreetcn.com/premium/articles/3638129?layout=wscn-layout"/>
+        <updated>2021-08-17T05:34:41.000Z</updated>
+        <summary type="html"><![CDATA[受到德尔塔毒株传播影响，万豪集团入住率在4月份达到71%，但在5月份下降至68%，6月进一步下降到约60%。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“华尔街最悲观的分析师”投降了？摩根士丹利上调标普目标点位]]></title>
+        <id>3638131</id>
+        <link href="https://wallstreetcn.com/articles/3638131"/>
+        <updated>2021-08-17T05:30:19.000Z</updated>
+        <summary type="html"><![CDATA[大摩将标普500年底预测值从3900点上调至4000点，较目前点位仍有10%下跌空间。分析师Michael Wilson表示，仍对股票价格回报持谨慎态度。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新网银行“二次创业”后首份财报出炉：上半年净利润同比增长7.39% ，“缩表”现象缓解]]></title>
+        <id>3638133</id>
+        <link href="https://wallstreetcn.com/articles/3638133"/>
+        <updated>2021-08-17T04:27:13.000Z</updated>
+        <summary type="html"><![CDATA[出清网贷业务后业绩如何？]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电改之后，水价改革也加速了]]></title>
+        <id>3638132</id>
+        <link href="https://wallstreetcn.com/articles/3638132"/>
+        <updated>2021-08-17T04:10:59.000Z</updated>
+        <summary type="html"><![CDATA[近期，水价改革迎来密集催化，A股中和达科技、江南水务、威派格等一度脉冲上涨。
+消息面上，8月16日，...]]></summary>
+        <author>
+            <name>尹洪昌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业绩创二十多年新高！重获投资者青睐，对冲基金的 "白银时代"来了？]]></title>
+        <id>3638130</id>
+        <link href="https://wallstreetcn.com/articles/3638130"/>
+        <updated>2021-08-17T03:51:42.000Z</updated>
+        <summary type="html"><![CDATA[今年为止，美国对冲基金回报率已经达到近10%，为20多年来同期最好表现。问题在于，行业真的迎来了拐点，或只是衰落过程中的昙花一现？]]></summary>
+        <author>
+            <name>魏虓铳</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[六项举措进行校外培训机构治理......最全北京版“双减”政策来了！]]></title>
         <id>3638128</id>
         <link href="https://wallstreetcn.com/articles/3638128"/>
@@ -64,6 +163,16 @@
         <summary type="html"><![CDATA[校外培训机构治理包括：严格审批准入，不再审批新的面向义务教育阶段学生的学科类培训机构，对现有学科类培训机构重新审核登记；严禁资本化运作，严格落实中央有关要求， 学科类培训机构一律不得上市融资等。]]></summary>
         <author>
             <name>方凌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[银行：低估值、低波动、内生增长非常快]]></title>
+        <id>3637325</id>
+        <link href="https://wallstreetcn.com/premium/articles/3637325?layout=wscn-layout"/>
+        <updated>2021-08-17T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[银行的估值虽然一直在往下掉，但是它的内生增长非常稳定且非常高，所以即使一直在杀它的估值，它依然能获得接近两位数的增长。]]></summary>
+        <author>
+            <name>李欣</name>
         </author>
     </entry>
     <entry>
