@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T04:12:05.977Z</updated>
+    <updated>2021-08-22T06:11:18.921Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[医药股全面下跌，给一级市场投资哪些启示？]]></title>
+        <id>3638527</id>
+        <link href="https://wallstreetcn.com/articles/3638527"/>
+        <updated>2021-08-22T03:53:04.000Z</updated>
+        <summary type="html"><![CDATA[这是一个关乎14亿人生存的行业，除了需要泡沫来堆出更高的台阶，也需要时间来给创新真正的答案。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经济日报评香港A50指数期货：将促进国际长线资金流入我国]]></title>
         <id>3638532</id>
@@ -32371,16 +32381,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
         <link href="https://wallstreetcn.com/articles/3636211"/>
         <updated>2021-07-23T18:43:08.000Z</updated>
         <summary type="html"><![CDATA[在经过讨价还价之后，美国两党参议员距离在基建法案上达成一致似乎越来越近，而代价之一是将特朗普时代的医保条例推迟实行。目前两党分歧焦点是如何为基建方案中的新增支出买单。]]></summary>
-        <author>
-            <name>杜玉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接力美联储与英国央行 欧央行也放松疫情期间的银行派息限制！]]></title>
-        <id>3636212</id>
-        <link href="https://wallstreetcn.com/articles/3636212"/>
-        <updated>2021-07-23T17:43:31.000Z</updated>
-        <summary type="html"><![CDATA[计算显示，欧元区最大的十家银行已预留出超222亿欧元用于日后回馈股东。但一周前有欧央行官员预警称，取消回馈上限后，银行仍应执行“平均规模”的股息政策，否则欧央行会介入干预。这抑制了欧洲银行业股息派发激增的可能性。]]></summary>
         <author>
             <name>杜玉</name>
         </author>
