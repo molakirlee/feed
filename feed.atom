@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T20:09:32.761Z</updated>
+    <updated>2021-08-23T22:09:46.176Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -33162,46 +33162,6 @@ Android 省电模式自定义，打造更适合自己的长续航体验
         <summary type="html"><![CDATA[壹基金、郑州慈善总会也回应了]]></summary>
         <author>
             <name>王丽</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最严！“双减”文件说了什么？]]></title>
-        <id>3636249</id>
-        <link href="https://wallstreetcn.com/articles/3636249"/>
-        <updated>2021-07-25T09:35:26.000Z</updated>
-        <summary type="html"><![CDATA[已上市的义务教育学科类培训业务或面临剥离，或选择转型素质教育或职业教育；早教、素质教育、职教培训、民办高教、企业管理培训赛道不受“双减”文件影响。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球极端气候频发，科学家们懵了，罪魁祸首是它？]]></title>
-        <id>3636247</id>
-        <link href="https://wallstreetcn.com/articles/3636247"/>
-        <updated>2021-07-25T09:33:31.000Z</updated>
-        <summary type="html"><![CDATA[从德国洪水泛滥，到俄国远东地区火灾，再到北美高温和干旱，全球近期极端天气频频发生。谈及背后的罪魁祸首，科学家将目光投向高速气流。]]></summary>
-        <author>
-            <name>林菁扬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储已经事实上“缩表”？]]></title>
-        <id>3636246</id>
-        <link href="https://wallstreetcn.com/articles/3636246"/>
-        <updated>2021-07-25T09:11:25.000Z</updated>
-        <summary type="html"><![CDATA[短期内逆回购规模以更快速度的增加相当于美联储阶段性“锁住”了更多流动性，如果扣掉逆回购规模，美联储资产负债表规模从4月下旬便开始逐步回落，形成了事实上（de facto）的“缩表”效果。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中信喊话：市场流动性开始趋紧，极致分化行情提前终结]]></title>
-        <id>3636244</id>
-        <link href="https://wallstreetcn.com/articles/3636244"/>
-        <updated>2021-07-25T08:19:40.000Z</updated>
-        <summary type="html"><![CDATA[不过宏观层面流动性仍然宽松，抱团瓦解的市场冲击弱于一季度，下半年宏观经济驱动力和亮点犹存，基本面支撑市场结构再平衡，传统核心资产负面预期已充分反映，再平衡过程中有估值修复空间。]]></summary>
-        <author>
-            <name>曾心怡</name>
         </author>
     </entry>
 </feed>
