@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T16:13:57.526Z</updated>
+    <updated>2021-08-23T20:09:32.761Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[疫苗利好助推美股走高 原油强劲反弹带动能源股 比特币三个月来首上5万美元]]></title>
+        <id>3638656</id>
+        <link href="https://wallstreetcn.com/articles/3638656"/>
+        <updated>2021-08-23T19:09:57.000Z</updated>
+        <summary type="html"><![CDATA[道指盘中涨超300点，标普纳指齐新高，盘中涨超1%，能源板块涨近4%；生物科技指数一度涨超3%，疫苗股中Moderna涨超7%，辉瑞及其合作方BioNTech分别曾涨超5%和11%；特斯拉涨超4%领跑龙头科技股。泛欧股指两连阳，矿业和油气股领跑，Sainsbury涨超15%。美元指数跌离九个月高位。原油盘中涨近6%；伦铜创近一个月最大涨幅，伦锡三日连创一个月新低；黄金两周多来首次升破1800美元。10年期美债收益率盘中转降。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国FDA正式批准辉瑞新冠疫苗 更多强制接种箭在弦上]]></title>
+        <id>3638658</id>
+        <link href="https://wallstreetcn.com/articles/3638658"/>
+        <updated>2021-08-23T18:40:41.000Z</updated>
+        <summary type="html"><![CDATA[美国FDA完全批准了辉瑞和BioNTech的新冠疫苗。全面批准可以推动企业、学校和各州执行疫苗接种，并鼓励一些犹豫不决的人群接种疫苗。拜登表示，在接种疫苗方面，没有时间可以浪费，更多的公司必须加强对员工接种疫苗的要求，请大家今天就完成接种。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亿万富翁Branson的卫星发射公司今年打算借壳上市，波音确认投资]]></title>
+        <id>3638657</id>
+        <link href="https://wallstreetcn.com/articles/3638657"/>
+        <updated>2021-08-23T17:13:12.000Z</updated>
+        <summary type="html"><![CDATA[维珍轨道将与前高盛高管发起的SPAC合并而上市，估值为32亿至37亿美元，计划筹集的4.83亿美元中包括波音和其他私募股权公司投资。波音称这是一项押注卫星发射市场重要性的战略举措，分析认为该赛道未来几年将指数级增长。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高瓴“新主体”曝光，千亿巨头的“投资外衣”究竟有多复杂？]]></title>
+        <id>3638652</id>
+        <link href="https://wallstreetcn.com/articles/3638652"/>
+        <updated>2021-08-23T16:11:26.000Z</updated>
+        <summary type="html"><![CDATA[颇有讲究]]></summary>
+        <author>
+            <name>孙建楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月成屋销售继续回暖 高端房屋销售同比激增]]></title>
+        <id>3638655</id>
+        <link href="https://wallstreetcn.com/articles/3638655"/>
+        <updated>2021-08-23T15:42:58.000Z</updated>
+        <summary type="html"><![CDATA[美国7月季调后年化成屋销售为599万套，好于预期，创四个月新高，较6月增长2%，比去年7月增长了1.5%。成屋价格中位数创史上最高。100万美元以上房屋的销售同比大增近60%。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗同性恋者：“我可能会被当场处决”]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58308292</id>
@@ -33152,67 +33202,6 @@ Android 省电模式自定义，打造更适合自己的长续航体验
         <summary type="html"><![CDATA[不过宏观层面流动性仍然宽松，抱团瓦解的市场冲击弱于一季度，下半年宏观经济驱动力和亮点犹存，基本面支撑市场结构再平衡，传统核心资产负面预期已充分反映，再平衡过程中有估值修复空间。]]></summary>
         <author>
             <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下周重磅日程：美联储何时Taper见分晓？欧美通胀数据，中国PMI]]></title>
-        <id>3636070</id>
-        <link href="https://wallstreetcn.com/articles/3636070"/>
-        <updated>2021-07-25T07:40:54.000Z</updated>
-        <summary type="html"><![CDATA[下周关注美国万亿基建方案进展，拜登曾信心满满表示，两党将于下周一达成协议；美联储利率决议来袭，还有鲍威尔新闻发布会；中国PMI，欧美通胀和GDP数据密集发布；财报方面，贵州茅台，特斯拉，FAAMG陆续登场。]]></summary>
-        <author>
-            <name>叶桢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通胀猛美债更猛？巨头们不信邪，继续看空]]></title>
-        <id>3636243</id>
-        <link href="https://wallstreetcn.com/articles/3636243"/>
-        <updated>2021-07-25T07:35:44.000Z</updated>
-        <summary type="html"><![CDATA[分析师认为，美债当前的低利率反映了市场对经济前景的悲观预期，但和实际情况相比有些过度。疫情回潮确实削弱了债市乐观情绪，但还不至于到达现如今看不到什么新卖盘的程度。]]></summary>
-        <author>
-            <name>林菁扬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仓位降至接近“零”，左手加仓右手减仓……这些基金经理的“神奇”操作为哪般？]]></title>
-        <id>3636242</id>
-        <link href="https://wallstreetcn.com/articles/3636242"/>
-        <updated>2021-07-25T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[另外，热衷于写“小作文”的基金经理越来越多了，有人在季报中洋洋洒洒数千字阐述投资思路，有人直接向持有人表达歉意，还有人直呼“迷茫”。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 扩展管理器，和我的四级扩展管理法]]></title>
-        <id>https://sspai.com/post/67844</id>
-        <link href="https://sspai.com/post/67844"/>
-        <updated>2021-07-25T06:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-在 Chrome 中启用/禁用扩展不是一件方便的事：禁用扩展需要在图标上右键，点击管理扩展程序 -> 关闭，启用扩展甚至需要跳转到新标签页 chrome://extensions，近几个版本在右上角加入的折叠设计则让情况变得更糟。但是对于像我这样有 20 多个扩展的用户而言，一直启用所有插件并非明智之举，空占了许多内存，也没有处理好需要禁用某插件的特殊场景。因此，我们需要一款快速启停扩展的扩展。
-扩展管理器（Extension Manager）是一个由国人开发、名字朴素的 Chrome 系浏览器插件，它不仅做到了这件事，而且还能实现基于网址自动启停扩展的效果。配置的方法对于初识此扩展的人来说可能有点复杂，我基于自己的使用经验将其总结为「四级扩展管理法」，层次分明，容易理解。不过别急，我们先来看看这个扩展的基础功能。
-基础功能介绍
-首先，自然是它的本职工作——点击图标启停扩展。安装此插件后，先进入浏览器的扩展折叠菜单，将此扩展钉在浏览器右上角方便操作。然后鼠标单击扩展管理器图标，会弹出一个包含所有已安装扩展的界面，在此界面上点击想要启用或停用的扩展图标，该扩展就会立刻切换启停状态。就是这么方便！
-
-这个界面除了可以启停扩展外，还提供了访问扩展主页、设置、卸载和锁定扩展四个快捷功能。四个快捷功能在网络视图下可以通过在图标上悬停鼠标 -> 点击图标旁出现的三点图示呼出，在列表模式下，则会在悬停后直接出现在扩展名称旁。
-
-弹出界面的外观、图标大小、排序方式以及显示模式都可以在扩展的「基本设置」中自定义。如果某个扩展因为名字太长而在界面中显…]]></summary>
-        <author>
-            <name>柯帕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越南允许“货币更大灵活性”，美国取消对越加税威胁]]></title>
-        <id>3636240</id>
-        <link href="https://wallstreetcn.com/articles/3636240"/>
-        <updated>2021-07-25T05:51:34.000Z</updated>
-        <summary type="html"><![CDATA[美国贸易代表办公室正式公布对越南汇率政策“301调查” 的结论，称越南央行与美国财政部日前就汇率问题所达成的协议，为正在调查的问题提供了“令人满意的解决方案”，因此不需要采取任何贸易行动。]]></summary>
-        <author>
-            <name>林菁扬</name>
         </author>
     </entry>
 </feed>
