@@ -2,10 +2,451 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T22:09:46.176Z</updated>
+    <updated>2021-08-24T04:11:49.464Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[900亿蒸发！中国电信回应连吃跌停：理性看待，若破发将采用"绿鞋机制"]]></title>
+        <id>3638696</id>
+        <link href="https://wallstreetcn.com/articles/3638696"/>
+        <updated>2021-08-24T02:59:04.000Z</updated>
+        <summary type="html"><![CDATA[市场上有说法称“因绿鞋选择权，发行券商会希望上市30日内股价比发行价越低越好，股价比发行价越低，赚取的差价就越大，所以根据计算，后面至少会有三至四个跌停。”]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么阿里和腾讯对互联互通的态度并不相同？]]></title>
+        <id>3638689</id>
+        <link href="https://wallstreetcn.com/articles/3638689"/>
+        <updated>2021-08-24T02:47:35.000Z</updated>
+        <summary type="html"><![CDATA[互联互通意味着阿里可以获得其梦寐以求的微信传播链，这对缺乏社交关系的阿里而言至关重要。而腾讯的电商业务稳步增长，即便不进行互联互通，微信支付在线上的支付份额本身也会继续增长。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中金：白酒历次周期复盘——调整已到底部布局区间]]></title>
+        <id>3638683</id>
+        <link href="https://wallstreetcn.com/articles/3638683"/>
+        <updated>2021-08-24T02:04:56.000Z</updated>
+        <summary type="html"><![CDATA[中金认为此次调整与2018年类似，且已到底部布局区间。都是市场悲观预期导致的，而基本面变化不大，预计2025年高端容量将超过3000亿元，茅五泸将持续享受消费升级红利。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股走势分化 工业母机概念股、煤炭股继续大涨 军工回调]]></title>
+        <id>3638693</id>
+        <link href="https://wallstreetcn.com/articles/3638693"/>
+        <updated>2021-08-24T01:51:07.000Z</updated>
+        <summary type="html"><![CDATA[中国电信A股连续第二个交易日一字跌停，上周五上市首日涨近35%。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最紧缺的电解液厂家说了，三季度比二季度还要赚得多！又启动了一大波扩产……]]></title>
+        <id>3638682</id>
+        <link href="https://wallstreetcn.com/articles/3638682"/>
+        <updated>2021-08-24T01:39:45.000Z</updated>
+        <summary type="html"><![CDATA[动力电池产业链的景气度，直接拉动了动力电池的核心基础材料之一的电解液的需求。由于供应缺口不断拉大，六氟磷酸锂价格已从年初10万元/吨的价格上涨至当前42万元/吨，近期个别小单甚至上探至45万元/吨，价格涨幅超350%。]]></summary>
+        <author>
+            <name>匡媛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街乐观派：美国疫情峰值将至，现在是抄底重启交易最好机会]]></title>
+        <id>3638675</id>
+        <link href="https://wallstreetcn.com/articles/3638675"/>
+        <updated>2021-08-24T01:39:29.000Z</updated>
+        <summary type="html"><![CDATA[在摩根士丹利管理约75亿美元资产的Andrew Slimmon认为，新一波疫情将在第四季度得到有效控制，投资者应该在8月就开始买入此前跌幅较大的股票，而不是等到10月。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列为何着急打加强针？辉瑞疫苗有效性衰退的太快了]]></title>
+        <id>3638677</id>
+        <link href="https://wallstreetcn.com/articles/3638677"/>
+        <updated>2021-08-24T01:34:27.000Z</updated>
+        <summary type="html"><![CDATA[据以色列卫生部称，到8月份，研究表明辉瑞疫苗的抗感染效力下降到39%，而对于1月份第二次注射的人来说，这一数据低至16%。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工关节“国采”来袭，春立、爱康等近50家企业获入场券，产品价格望大幅下降]]></title>
+        <id>3638676</id>
+        <link href="https://wallstreetcn.com/articles/3638676"/>
+        <updated>2021-08-24T01:19:27.000Z</updated>
+        <summary type="html"><![CDATA[人工关节国家集采来了，又一个医疗领域将迎巨变，大家期待的“国产替代”能通过集采实现吗？]]></summary>
+        <author>
+            <name>徐红</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动车争霸赛进入下半场，新王可能正在路上]]></title>
+        <id>3638678</id>
+        <link href="https://wallstreetcn.com/articles/3638678"/>
+        <updated>2021-08-24T01:14:43.000Z</updated>
+        <summary type="html"><![CDATA[汽车行业的革新，电动化是上半场，智能化是下半场。新生态对跨界者更加友好，从华为到小米，再比如OPPO、VIVO等手机厂商已经开始筹备造车了，对于后来者，仍然还有成功的机会。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[煤炭开盘继续暴涨 焦炭期货主力开盘涨超9% 焦煤涨8.8%]]></title>
+        <id>3638685</id>
+        <link href="https://wallstreetcn.com/articles/3638685"/>
+        <updated>2021-08-24T01:14:23.000Z</updated>
+        <summary type="html"><![CDATA[分析认为，蒙古煤暂停进口的消息，导致了焦煤、焦炭市场情绪都有阶段性激发，基差颇大的远月合约期价直接涨停。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿富汗局势：塔利班掌权了，这里的女性担心什么]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/world-58302043</id>
+        <link href="https://www.bbc.com/zhongwen/simp/world-58302043"/>
+        <updated>2021-08-24T01:13:06.000Z</updated>
+        <summary type="html"><![CDATA[20 分钟前
+
+
+
+图像来源，Getty Images
+
+
+阿富汗女性的前路充满不确定性。
+
+
+
+20多年前塔利班第一次掌权时，对阿富汗女性实施斩首、石刑和强迫穿罩袍等残暴行为。这帮武装分子被赶下台后，阿富汗女性在职业发展上取得重大进展，她们成为部长、市长、法官和警察。现在她们的未来不确定性极高。
+
+五位在各自领域有所建树的阿富汗女性向BBC讲述了他们对未来的担忧。
+
+
+塔利班流亡领袖重返阿富汗掌权 首场记者会称将依据教法保护女性
+塔利班强调要遵循的沙里亚法是什么？
+阿富汗局势：即将重掌控制权的塔利班是谁？
+阿富汗局势：BBC记者亲历塔利班攻势下的民众生活 严厉教法统治阴影依旧
+
+
+斗争和牺牲在所难免
+
+在世界大部分地区，女记者面对面采访高级官员并不是新闻。
+
+但鉴于塔利班镇压女性的残酷历史，当塔利班高级官员马瓦维·阿卜杜勒哈克·赫马德（Mawlawi Abdulhaq Hemad）同意接受私营媒体Tolo新闻主播贝赫斯塔·阿尔汉德（Beheshta Arghand）的采访时，许多人感到惊讶。
+
+
+
+
+
+
+
+
+图像来源，Tolo News
+
+
+这是塔利班领导人第一次走进直播室，第一次接受女记者的采访。
+
+
+
+上周二的采访打破了另一个传统：这是塔利班领导人第一次在电视演播室里这样做。尽管有这些明显的让步，阿尔汉德仍有疑虑。
+
+“他们说，‘我们对阿富汗女性工作没有任何问题。我们支持她们工作’。但我很害怕。”她后来告诉BBC。
+
+她说，喀布尔的工作环境和城市环境已改变，她不再与嘉宾自由谈论有争议议题。她小心翼翼地选择自己的言辞。
+
+“一两个月后，他们（塔利班）会对我们制定一些法律。我认为他们不会允许我们做想做的事。他们将使我们难以独立。现在他们没有任何反应，但我们必须小心。我非常小心。”
+
+在20世纪90年代末和21世纪初，该组织根据对伊斯兰教法的严格解释统治着阿富汗，禁止了电视…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军基地德特里克堡为何会成为中国新冠阴谋论的中心？]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/chinese-news-58303799</id>
+        <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58303799"/>
+        <updated>2021-08-24T01:13:06.000Z</updated>
+        <summary type="html"><![CDATA[19 分钟前
+
+
+
+图像来源，Getty Images
+
+
+
+在美国情报机构关于新冠溯源的报告出炉之际，一场声称病毒源自美国马里兰州一座军事基地的虚假新闻宣传攻势正在中国获得越来越高的人气。
+
+今年5月，美国总统拜登（Joe Biden）下令要求进行为期90天的调查，调查新冠病毒究竟是来自一场实验室事故，还是源自人类与受感染动物的接触。
+
+在此之前，大多数科学家一直认为“武汉实验室泄露”论不值得讨论，并视之为一种边缘阴谋论。
+
+但现在，随着美方报告发表期限日益临近，中国已经发起进攻。过去几周，各中文消息源一直在宣传一个毫无依据的指控，暗示新冠病毒是在美国制造出来的。
+
+
+
+他们的手段多种多样，从饶舌音乐到虚假脸书（Facebook）帖文。专家表示，这些宣传工作已经成功说服中国国内观众对国际上批评中国在新冠疫情中角色的声音存疑，但这对于向外部世界构建中国合理化没有起到任何帮助。
+
+指控
+
+大多数美国人可能从未听过德特里克堡（Fort Detrick）这个地方，但如今这个名字在中国正在变得家喻户晓。
+
+中国宣传人员推动的一个阴谋论声称，新冠病毒是在美国这个军事设施内制造并泄露出来的，这个地方位于华盛顿特区以北约80公里处，在马里兰州弗雷德里克（Frederick）县内。
+
+这里以前曾是美国生物武器项目的中心，如今是多座生物医学实验室所在地，这些实验室研究埃博拉、天花等病毒。其复杂的历史在中国引起了一些猜测。
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+
+中国民族主义说唱组合“天府事变”发布了一首歌曲，意指这个实验室正在策划一些邪恶的阴谋，这首歌最近得到了中国外交部发言人赵立坚的支持。
+
+这首歌的节奏尴尬，里面的歌词写道，“实验室里在琢磨什么阴谋诡计/多少生灵为此被毁/皇帝的新衣/把门打开别再遮掩”，而赵立坚则在今年8月在推特上表示，这首歌“说出了我们的心里话”。
+
+赵立…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京残奥会：从1960年的罗马至今，那些被改变的人生]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/sports-58304179</id>
+        <link href="https://www.bbc.com/zhongwen/simp/sports-58304179"/>
+        <updated>2021-08-24T01:13:06.000Z</updated>
+        <summary type="html"><![CDATA[16 分钟前
+
+
+
+图像来源，Getty Images
+
+
+里约残奥会开幕式
+
+
+
+2020东京残奥会于周二（8月24日）开幕时，将会迎来这项体育盛事的60周年（由于因新冠疫情延期，实际上是61年）。自创办以来，它就是精英运动员的舞台，帮助残疾人实现了人生中实实在在的改变。
+
+在残奥会即将开幕之际，BBC访问了数十年来那些曾经代表他们的国家出现在这个最高舞台上的运动员。
+
+
+东京奥运奖牌均由回收废料所造
+
+
+改变人生
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+马沙姆女爵（中）代表英国队参加过三届残奥会。
+
+
+
+“我想它（残奥会）带来了很大的影响，它将全世界的人带到了一起，这是在这之前所没有的，”来自伊尔顿的马沙姆女爵（Baroness Masham）说。她曾代表英国参加过1960年在罗马的第一届残奥会。
+
+“我认为它带来了巨大的改变。”
+
+
+
+1958年的一次骑马事故令她需要以轮椅代步，当时救治她的男人正是后来帮助创办残疾人奥运会（Paralympic Games）的路德维希·古特曼医生（Dr Ludwig Guttmann）。
+
+“当一个人坐上了轮椅，运动就成为治疗的一部分，”她说，“它是生活的一部分，是作息的一部分。”
+
+古特曼医生在英国创办了斯托克·曼德维尔运动会（Stoke Mandeville Games，名字源于他治疗脊椎受伤病人的医院），之后它逐渐演变成了残疾人奥林匹克运动会（Paralympics，帕拉林匹克运动会）。
+
+对于在发生意外前已经是体育迷的马沙姆女爵来说，能够在第一届残奥会中参赛是一个令人兴奋的机会。
+
+“参赛已经非常好，参加国际比赛就更加好了，”她说，“而我喜欢认识来自世界各地的人们。”
+
+丢失的奖牌
+
+她在罗马残奥会以及之后的东京和特拉维夫残奥会上的经历是非常成功的——她在游泳和乒乓球项目中赢得了三枚奖牌，只不过并不是全部奖牌都被她…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日的“专精特新”，明日的“隐形冠军”]]></title>
+        <id>3638673</id>
+        <link href="https://wallstreetcn.com/articles/3638673"/>
+        <updated>2021-08-24T00:53:29.000Z</updated>
+        <summary type="html"><![CDATA[中金统计，在专精特新名单的A股上市公司约300家，8月23日市值合计接近2.96万亿元，这些上市公司大部分来自制造业，分布数量最多的行业是机械（94家）、基础化工（48家）和医药生物（35家）。]]></summary>
+        <author>
+            <name>匡媛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：银联云闪付和微信条码支付已可互联互通等]]></title>
+        <id>https://sspai.com/post/68446</id>
+        <link href="https://sspai.com/post/68446"/>
+        <updated>2021-08-24T00:53:05.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事
+银联云闪付和微信条码支付已可互联互通
+8 月 23 日，据北京商报报道，通过银联云闪付 App 扫描个人微信「二维码收款」已经可以完成付款。去年 1 月，有消息指出银联和财付通达成条码支付互联互通合作，双方正在共同研究条码支付互联互通技术方案，并率先建立了全面的互扫互认的条码支付服务网络，相关试点也在逐步推进。另外有消息称手机淘宝 App 正在测试使用云闪付 App 付款，部分测试截图显示，付款方式选择页面新增了云闪付。来源
+小米即将召开海外新品发布会
+8 月 23 日，小米官方通过 Twitter 发布活动预告，将于 9 月 15 日召开海外新品发布会。有外媒根据此前信息及预热图推测，本次要发布的手机为小米 11T Pro 系列，目前该设备已在多个国家和地区获得入网认证，并配备高通骁龙 888 处理器以及 120Hz OLED 显示屏。来源
+
+维信诺（合肥）G6 全柔性屏 AMOLED 生产线实现量产
+8 月 23 日，维信诺正式宣布，维信诺（合肥）G6 全柔性屏 AMOLED 生产线实现量产，将向某国内头部智能终端客户批量交付产品。维信诺（合肥）G6 全柔 AMOLED 生产线基板尺寸为 1500mm × 1850mm，这条产线投资总额达 440 亿元，设计产能为 30K 片/月。也是维信诺继昆山第 5.5 代、固安第 6 代全柔 AMOLED 生产线之后的第三条实现量产交付能力的规模生产线。来源
+微博否认「花钱撤热搜」传闻
+8 月 23 日，微博管理员官方发布公告信息，回应近期网络有关「花钱撤热搜」的传闻。公告表示微博热搜根据微博用户的真实行为进行计算，实时发现微博平台内正受到广泛关注的热点内容，并形成实时榜单。
+除此之外，微博方面也表明将通过对热搜机制算法的不断打磨和升级，加强对热搜榜单的规范化运营，完善细则，为用户提供更精彩的热点内容。本着开诚…]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月24日会员早报：美国8月份服务业和制造业增速放缓至八个月低点 市场反创历史新高]]></title>
+        <id>3638680</id>
+        <link href="https://wallstreetcn.com/premium/articles/3638680?layout=wscn-layout"/>
+        <updated>2021-08-24T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[央行召开金融机构货币信贷形势分析座谈会：促进实际贷款利率下行。]]></summary>
+        <author>
+            <name>华尔街见闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7年来最大规模抛售战略原油储备，美国人誓要压油价？]]></title>
+        <id>3638674</id>
+        <link href="https://wallstreetcn.com/articles/3638674"/>
+        <updated>2021-08-24T00:49:36.000Z</updated>
+        <summary type="html"><![CDATA[美国能源部周一宣布，计划从国家战略石油储备中出售至多2000万桶原油。美国此前还曾向OPEC施压增产，结果被拒了。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉「机器人」遭媒体网友群嘲；阿里组织调整：俞永福任本地生活 CEO，盒马回归；「快看」漫画获 2.4 亿美元融资]]></title>
+        <id>https://www.geekpark.net/news/283307</id>
+        <link href="https://www.geekpark.net/news/283307"/>
+        <updated>2021-08-24T00:44:13.000Z</updated>
+        <summary type="html"><![CDATA[阿里组织调整：俞永福担任本地生活 CEO，盒马回归集团
+
+8 月 23 日，阿里内部经组织调整，经过本地生活公司董事会批准，俞永福（花名：永福）担任本地生活公司 CEO，代表集团继续分管包括本地生活公司、高德、飞猪在内的生活服务板块。同时，俞永福还将兼任已完成重组后的同城零售事业群总裁，向张勇汇报。
+另外，阿里合伙人、B2B 事业群、MMC 事业群总裁戴珊（花名：苏荃）将不再代表集团分管盒马事业群，盒马事业群总裁侯毅（花名：老菜）直接向张勇汇报。（来源：晚点）
+
+          
+特斯拉：燃油车起火的概率远远高于特斯拉
+8 月 23 日，据国外媒体报道，电动车着火常常能成为热点新闻。不过根据特斯拉提供的数据表明，燃油车起火概率远远高于特斯拉。
+
+          
+
+《2020 年度影响力报告》中，特斯拉提供的数据表明，2019 年，全美发生近 19 万起汽车火灾，但其中只有很小一部分涉及电动汽车；从 2012 年到 2020 年，大约每行驶 2.05 亿公里会发生一起特斯拉汽车着火事件。相比之下，美国国家消防协会和美国交通部的数据显示，全美每行驶 0.3 亿公里就有一辆汽车发生火灾。（来源：TechWeb）
+
+
+微博回应「花钱撤热搜」传言：热搜排序不存在任何商业售卖位置
+8 月 23 日上午，微博管理员发布公告公布微博热搜管理规则，回应「花钱撤热搜」、「花钱压热搜」等传言。公告称，热搜排序中，不存在任何商业售卖位置。热搜榜排序之外，存在两个广告资源位，一个在第 3 位热搜词之下，一个在第 6 位热搜词之下。其中商业广告会展示「商」标签。广告资源位不参与热搜排序竞争，也不会影响其它词的热度计算。（来源：36Kr）
+
+
+字节跳动申请「抖音云游戏」商标
+8 月 23 日消息，今年 2 月份，字节跳动游戏官网现正式上线，品牌名称为「朝夕光年」（NVERSEGAME），这意味…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有芯片，丰田减产、大众减产，都因马来西亚？]]></title>
+        <id>3638660</id>
+        <link href="https://wallstreetcn.com/articles/3638660"/>
+        <updated>2021-08-24T00:22:31.000Z</updated>
+        <summary type="html"><![CDATA[马来西亚是全球芯片测试和封装的主要中心，这一环节特别容易受到疫情的影响，因为与高度自动化的芯片制造相比，它需要更多的人工操作。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高度关注！专访尹中卿：9个苗头性、趋势性、倾向性问题，可能影响下半年经济运行]]></title>
+        <id>3638669</id>
+        <link href="https://wallstreetcn.com/articles/3638669"/>
+        <updated>2021-08-24T00:09:02.000Z</updated>
+        <summary type="html"><![CDATA[高度关注“三个上升”：原材料价格高位运行、国际运输价格持续攀升、人民币汇率不断升值；高度关注“三个放缓”：消费增长放缓、投资增长放缓、货物出口增长放缓。]]></summary>
+        <author>
+            <name>潘凌飞</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行又开信贷座谈会：较往年提前三个月，这一次“可能不一样”]]></title>
+        <id>3638668</id>
+        <link href="https://wallstreetcn.com/articles/3638668"/>
+        <updated>2021-08-24T00:00:42.000Z</updated>
+        <summary type="html"><![CDATA[回顾前两次货币信贷座谈会召开后的情况，债市都先小跌、后大涨，但这次还能重演历史吗？我们不妨回顾下，为何过去两次座谈会没有带来宽信用预期发酵。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网监管的蝴蝶效应！企业所在地高房价还能持续？]]></title>
+        <id>3638654</id>
+        <link href="https://wallstreetcn.com/premium/articles/3638654?layout=wscn-layout"/>
+        <updated>2021-08-24T00:00:19.000Z</updated>
+        <summary type="html"><![CDATA[雷军之问，郁亮之思]]></summary>
+        <author>
+            <name>张帆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[限价房！50%首付，一定年限后余款打折！东莞试验“三限房”]]></title>
+        <id>3638667</id>
+        <link href="https://wallstreetcn.com/articles/3638667"/>
+        <updated>2021-08-23T23:50:58.000Z</updated>
+        <summary type="html"><![CDATA[“三限房”指商业住房土地出让时，限房价、限地价、限销售对象的房产。承购人按总价的50%出资购买50%产权，享有与普通商品住房同等的教育、医疗、户政、养老、住房公积金等公共服务权益。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行信贷座谈会解读：易纲定调“保持信贷平稳增长仍需努力”]]></title>
+        <id>3638665</id>
+        <link href="https://wallstreetcn.com/articles/3638665"/>
+        <updated>2021-08-23T23:48:52.000Z</updated>
+        <summary type="html"><![CDATA[会议进一步指出，要“衔接好今年下半年和明年上半年信贷工作”，我们理解这一表述的涵义是督促银行及时放贷，平滑信贷节奏，及早形成对实体的信贷支持，不要按照传统节奏今年四季度银行储备项目冲刺明年开门红。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年8月24日]]></title>
+        <id>3638659</id>
+        <link href="https://wallstreetcn.com/articles/3638659"/>
+        <updated>2021-08-23T23:06:09.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲍威尔讲话威胁更大了！全球央行年会前 “全球资产定价之锚”流动性恶化]]></title>
+        <id>3638662</id>
+        <link href="https://wallstreetcn.com/articles/3638662"/>
+        <updated>2021-08-23T23:02:09.000Z</updated>
+        <summary type="html"><![CDATA[部分源于美联储政策的不确定性，22万亿美元规模的美国国债市场流动性最近下降。这意味着，一有风吹草动，价格就可能大起大落。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行释放重要信贷信号 业内看好年内再降准 提振效应或8月显现]]></title>
+        <id>3638661</id>
+        <link href="https://wallstreetcn.com/articles/3638661"/>
+        <updated>2021-08-23T21:49:24.000Z</updated>
+        <summary type="html"><![CDATA[部署下一步货币信贷工作的座谈会上，央行行长易纲强调，加大信贷对实体经济特别是中小微企业的支持力度，增强信贷总量增长的稳定性。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疫苗利好助推美股走高 原油强劲反弹带动能源股 比特币三个月来首上5万美元]]></title>
         <id>3638656</id>
@@ -33032,136 +33473,6 @@ Android 省电模式自定义，打造更适合自己的长续航体验
         <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
         <author>
             <name>李丹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厦门行vlog：加长即正义，试驾路虎揽胜极光L]]></title>
-        <id>https://www.geekpark.net/news/281893</id>
-        <link href="https://www.geekpark.net/news/281893"/>
-        <updated>2021-07-25T13:10:57.000Z</updated>
-        <summary type="html"><![CDATA[极客之选的vlog好久没有更新了，这次出差去厦门，湿身体验了一把翻不了的帆船，相当刺激。当然啦，重头戏还是路虎揽胜极光L的试驾体验，作为路虎品牌高端系列揽胜家族的一员，揽胜极光L在高级感和科技感方面的表现还是相当突出的，至于这次轴距加长体验如何，看看视频就知道啦！]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国君：“宁组合”继续赢！VS. 中信：抄底“茅指数”！]]></title>
-        <id>3636252</id>
-        <link href="https://wallstreetcn.com/articles/3636252"/>
-        <updated>2021-07-25T11:21:25.000Z</updated>
-        <summary type="html"><![CDATA[国君认为，分母端无风险利率下行的核心驱动下，A股风格上仍是盈利决胜，科技成长股仍将主导A股市场；而中信认为随着流动性趋紧，市场中部分对估值水平容忍度较高的长线资金，已经开始左侧调整配置方向。]]></summary>
-        <author>
-            <name>林菁扬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国教育减负新政冲击波 培训机构股价暴跌千亿投资被困]]></title>
-        <id>https://www.bbc.com/zhongwen/simp/business-57961427</id>
-        <link href="https://www.bbc.com/zhongwen/simp/business-57961427"/>
-        <updated>2021-07-25T11:13:02.000Z</updated>
-        <summary type="html"><![CDATA[8 分钟前
-
-
-
-图像来源，Getty Images
-
-
-新规要求大大增加学校课后服务，结束时间原则上不早于当地正常下班时间，这一刚性要求可能进一步压缩校外培训机构的市场空间。
-
-
-
-中国教育培训行业迎来“黑色星期五”，路透社当天（7月23日）援引三位消息人士称，中国发文要求，严禁教培机构“资本化”运作，学科类培训机构一律不得上市融资等措施。
-
-有金融人士称新规对教育培训行业的打击“一步到位”，让“这个赛道在资本层面基本上废了”。
-
-在中国海外上市的教育类股票应声而跌。23日，新东方在港交所的股价一度“腰斩”，在美股收盘跌幅54.22%，高途跌幅达63.26%，好未来跌幅更是超过70%。
-
-一天之后，中国官方于7月24日晚公布文件，彻底坐实了传言。
-
-
-
-
-中国允许生育三胎 网民称“问题是一个都不想生”
-从放开三胎反思中国人口政策 几十年的“慢性病”难有特效药
-
-
-培训机构上市禁令
-
-
-
-
-
-
-图像来源，Getty Images
-
-
-中国校外培训机构众多，总规模惊人。
-
-
-
-这份名为《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》措辞严厉、政策严苛，超过市场预期。
-
-比如，“依法依规严肃查处不具备相应资质条件、未经审批多址开展培训的校外培训机构。”
-
-比如，“学科类培训机构一律不得上市融资，严禁资本化运作……外资不得通过兼并收购……等方式控股或参股学科类培训机构。已违规的，要进行清理整治。”
-
-
-
-
-
-
-图像来源，WEIBO
-
-
-新东方官方微博对“双减负”政策的回应
-
-
-
-再比如，“对现有学科类培训机构重新审核登记，逐步大大压减，解决过多过滥问题；依法依规严肃查处存在不符合资质、管理混乱、借机敛财、虚假宣传、与学校勾连牟利等严重问题的机构。”
-
-文件中称，上述政策的目的是“有效减轻义务教育阶段学生过重作业负担和校外培训负担”，并将其概括为“双减负政策”。这一工作还将被列入地方政府重点任务。
-
-“这个赛道基本上废了”
-
-“没想到（监管政策）这么不含糊，一刀切了。只有个别公募减持比较早，”一位在上海从事互联网企业风投人士向BBC中文表示，“所有条款都不看，仅仅看一条‘一律不得融资上市’，这个赛道基本上是废了。”
-
-
-
-
-
-
-图像来源，Getty Images
-
-
-目前上市禁令针对的只是学科类教育培训机构，对总体校外培训市场还有外资培训机构的影响还有待观察。
-
-
-
-“而且这些企业无论上没上市，都多轮融资，很多投资人通过上市变现退出的路已被堵死，大量风投资金都被困住了。”
-
-《21世纪商业评论》援引多鲸资本合伙人葛文伟估计，大约有2000亿元人民币的资金因此被迫沉淀在教培行业里，暂时出不去了。
-
-而已经在美国、香港上市的好未来、新东方、高途等培训机构，除了正在经历的股价“跳水”，也面临合规经营的压力，需要深度调整业务构成，甚至面临是否要退市的问题。
-
-对于未来，中国教培行业的深度调整才刚刚开始，“双减负政策”要求现存教培企业都登记为营利性企业，并对培训的时间、时长、范围、学费等都进行了非常严格的限制，培训企业的经营空间由此被极大压缩。
-
-花旗报告指出，“我们认为最大的负面意外来自周末和假期补习的禁令、所有机构都变成非营利组织（不能自由调整学费、分配股息或自由并购）和资本市场禁令。”
-
-有中国国资背景的投行中金公司在一份研报中表示，“此次教培行业的规范管理严格程度史无前例”。
-
-上述金融人士认为，这一次监管力度远超市场预期，叠加中美关系恶化、瑞幸造假、滴滴下架等事件，对于境外资本而言，中国互联网企业不确定性日益增加，或许会影响这些企业的整体估值。]]></summary>
-        <author>
-            <name>BBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿星尔克诈捐？董事长本人回应]]></title>
-        <id>3636250</id>
-        <link href="https://wallstreetcn.com/articles/3636250"/>
-        <updated>2021-07-25T10:12:01.000Z</updated>
-        <summary type="html"><![CDATA[壹基金、郑州慈善总会也回应了]]></summary>
-        <author>
-            <name>王丽</name>
         </author>
     </entry>
 </feed>
