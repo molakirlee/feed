@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T02:22:14.380Z</updated>
+    <updated>2021-09-11T04:12:01.843Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上半年风电上市公司业绩哪家强？9家净利增速翻倍，最高暴增585%]]></title>
+        <id>3640179</id>
+        <link href="https://wallstreetcn.com/articles/3640179"/>
+        <updated>2021-09-11T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[自“双碳”目标提出以来，新能源产业迎来历史性发展机遇，板块企业运达股份、川能动力，近2个月股价涨幅均超过100%；天顺风能、金风科技、明阳智能等多股也于近日收获涨停。]]></summary>
+        <author>
+            <name>潘凌飞</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通胀“狼真的来了”？美股创6月以来最惨一周]]></title>
+        <id>3640178</id>
+        <link href="https://wallstreetcn.com/articles/3640178"/>
+        <updated>2021-09-11T03:23:21.000Z</updated>
+        <summary type="html"><![CDATA[华尔街警告美股这轮大牛市面临回调考验，高盛集团、花旗集团等策略师发布最新预测认为，可能会出现负面冲击以打乱股市的连涨势头。疫情持续下的通胀担忧、全球经济复苏疲软以及美联储taper，都会带来风险。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商品涨势再起，但通胀预期为何踌躇不前？]]></title>
+        <id>3640141</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640141?layout=wscn-layout"/>
+        <updated>2021-09-11T03:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Taper风起。]]></summary>
+        <author>
+            <name>侯秋芸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传小米 2024 年「出车」，前三年销量 90 万辆；美团首次公开骑手配送时间算法；美法官：允许绕过苹果应用商店进行支付]]></title>
+        <id>https://www.geekpark.net/news/284954</id>
+        <link href="https://www.geekpark.net/news/284954"/>
+        <updated>2021-09-11T02:40:37.000Z</updated>
+        <summary type="html"><![CDATA[美国法官批准 Epic 针对苹果公司支付渠道发出的禁令
+9 月 10 日消息，美国法官宣判苹果公司与 Epic 反垄断案件，作出对苹果 App Store 不利的判决，法官批准原告 Epic 针对苹果公司支付渠道发出的禁令、勒令苹果允许 APP 开发商引导 APP 买家通过第三方支付平台付费，同时要求原告 Epic 向苹果支付至少 400 万美元损失。（来源：品玩）
+
+
+美团外卖首次公开骑手配送时间算法
+9 月 10 日，美团外卖首次公开关于骑手配送时间的计算规则。
+美团对配送时间有四种评估算法，包括「历史数据模型估算时间」、「城市通行状态特性下估算时间」、「出餐到店取餐等配送各场景累加估算时间」和「配送距离估算时间」，而实际订单会以其中最长的一个时间作为预估送达时间。
+
+
+
+同时，美团在部分城市试点将订单的预计送达时间由原先的「时间点」变更为弹性的「时间段」，试点数据显示用户对骑手的差评率降低了 50.7%。（来源：新浪科技）
+
+
+英特尔任命王锐博士为中国区董事长
+9 月 10 日，英特尔公司宣布了中国区组织架构的全新升级。王锐博士晋升为英特尔公司高级副总裁、出任英特尔中国区董事长，全权领导英特尔中国区的所有业务和团队。（来源：TechWeb）
+
+
+雅虎 CEO 宣布辞职 交友应用 Tinder CEO 继任
+9 月 10 日消息，据报道，雅虎 CEO 古鲁·谷冉攀（Guru Gowrappan）宣布，他将辞去 CEO 一职，由交友应用 Tinder CEO 吉姆·兰佐恩（Jim Lanzone）继任。谷冉攀将转任 Apollo Global Management 公司高级顾问。
+据了解，2017 年，雅虎被 Verizon 收购，后与 AOL 合并，组成新公司 Oath，CEO 为曾担任阿里巴巴全球总经理的谷冉攀。后来，Oath 更名为「Verizon Media」。今…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量化基金究竟怎么样？]]></title>
+        <id>3640175</id>
+        <link href="https://wallstreetcn.com/articles/3640175"/>
+        <updated>2021-09-11T01:51:30.000Z</updated>
+        <summary type="html"><![CDATA[成交额破万亿的推手？三分钟看懂什么是量化基金。]]></summary>
+        <author>
+            <name>潘凌飞</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北京法定数字货币试验区揭牌]]></title>
         <id>3640174</id>
@@ -15622,55 +15691,6 @@ Magic3 有晨晖金、曙光蓝、釉白色、亮黑色四种配色，而 Magic3
         <summary type="html"><![CDATA[宁德时代在深交所公告称，将向不超过35名特定对象定向增发A股，募集资金规模最高将达到582亿元，有望创下A股民企定增规模新高。除去93亿元补充流动资金外，募集所得将投入6个新能源项目当中，其中5个为锂离子电池生产项目。截至周四收盘，宁德时代市值为11691亿元。]]></summary>
         <author>
             <name>高星</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快手「老铁」开始重新定义知识]]></title>
-        <id>https://www.geekpark.net/news/282833</id>
-        <link href="https://www.geekpark.net/news/282833"/>
-        <updated>2021-08-12T15:50:02.000Z</updated>
-        <summary type="html"><![CDATA[仅仅一年时间，GY 局长就在快手收获了 700 多万粉丝。他是一名母婴育儿领域的创作者，专注于 3 至 16 岁少儿防性侵、防拐骗、防欺凌的科普教育。
-
-GY 局长的第一条快手短视频发布于去年 7 月 21 日。视频里，一群孩子在天台玩耍，大朋友怂恿小朋友翻过栏杆，跨越到很危险的高处。小朋友十分犹豫，身穿蓝色警卫制服的 GY 局长出现，及时制止。
-除了教孩子远离危险朋友，GY 局长还告诉孩子们游泳的救命常识，被拐之后的自救方法等等。他有时口播知识点，有时找小演员出演，以剧情的方式言传身教，一年下来，发布了 300 多个作品。
-GY 局长致力于少儿「三防」知识的科普。2015 年，他曾借款一百多万，去到各个学校给孩子们做安全保护的公益课程。这一趟的效果，他却并不满意。毕竟，线下辐射的范围有限，能够帮助的家庭其实不多。
-不满意的状况，因为短视频和直播有了质的改善。入驻快手至今，有十万多个孩子和家长通过私信找到 GY 局长，咨询各种问题。GY 局长说，「这意味着我们的科普视频在快手帮助了十万多个家庭。」
-正是这些，让 GY 局长意识到，知识的生产和传播在快手上有了新变化。
-
-
-
-      GY 局长快手主页｜快手
-
-
-
-在快手，构建一套完整的知识传播体系
-如今，不少人依旧给短视频打上碎片化和娱乐化的标签。做短视频科普的 GY 局长也会被问到，用这种方式传播知识真的有效？
-GY 局长并不否认短视频的碎片化，他认为短视频就是碎片化的科普。创作者们应该利用好这种内容形态的优势。
-在 GY 局长的方法论里，短视频是创作者的名片，是其吸引粉丝的第一落点。通过段子化趣味性的视频，让他人对你传播的知识产生兴趣，再通过更系统的方式学习知识。
-短视频很大的作用就是科普，GY 局长说，如果你真的想学习知识，肯定要通过课程这类更系统的方式。实际上，以视频内容作为载体，快手已经构建起了一套系统性传播知…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀平板 V7 Pro 体验：悬浮键盘+手写笔，能否让平板生产力「再进一步」？]]></title>
-        <id>https://www.geekpark.net/news/282832</id>
-        <link href="https://www.geekpark.net/news/282832"/>
-        <updated>2021-08-12T15:17:45.000Z</updated>
-        <summary type="html"><![CDATA[过去数年中，虽然 Android 平板在消费级高端平板市场落于 iPad 系列之后，但由于 2020 年因疫情而兴起的远程办公/教育浪潮，原已经逐渐流于小众 Android 平板市场又重新焕发了生机：在 2020 年，搭载 Android 系统的平板电脑在全球所占市场份额已经达到了 57.8%，不仅创下新高，更占据了平板市场的半壁江山，成为平板市场的一股主流力量。
-伴随着这一波突如其来的需求，Android 平板厂商都开始重新思考 Android 平板的定位以及用户的实际需求，在功能进行更多的探索，探索如何摆脱「大号 Android 手机」的传统印象。
-
-
-在去年荣耀发布 V6 平板电脑之后，荣耀品牌经历了包括品牌独立在内的一系列大事件；包括荣耀旗下 V 系列、Play 系列以及 X 系列新机的更新迭代，因此在 2021 年年中发布的荣耀平板 V7 Pro，不仅是新荣耀诞生以来的首款高端 Android 平板，同时在产品定位以及理念上相较于前代，也发生了很多值得关注的变化。
-
-
-这一改变首先在平板的外观设计上得以体现：荣耀平板 V7 Pro 搭载了一块 11 英寸、屏幕分辨率为 2560x1600 像素的 2.5K 屏幕。除了支持 DCI-P3 色域显示与 120Hz 刷新率，还针对平板常见的网课常见加入了通过莱茵认证 TUV Full Care 2.0 认证的低蓝光护眼模式；搭配四扬声器阵列，立体声效果也不错，观看高清视频内容的影音效果相比前代都有大幅提升。
-在屏幕显示比例的选择上，荣耀平板 V7 Pro 则选择了 16:10；至于荣耀为何没有选择如今在笔电上更流行的 3:2 显示比例，个人认为可能是与荣耀平板主打操作逻辑更适合 Android 生态的功能「平行视界」有关，也能在桌面模式下同屏显示更多应用。
-
-
-笔者本次拿到的是荣耀平板 V7 Pro 的曙光蓝版本，背壳设…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
         </author>
     </entry>
 </feed>
