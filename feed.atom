@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T20:09:29.688Z</updated>
+    <updated>2021-09-12T22:08:47.372Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -14611,16 +14611,6 @@ BBC 新闻
         <link href="https://wallstreetcn.com/articles/3637957"/>
         <updated>2021-08-14T11:23:41.000Z</updated>
         <summary type="html"><![CDATA[疫情担忧减弱，叠加taper来袭，市场准备好经受冲击了么。]]></summary>
-        <author>
-            <name>潘凌飞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张忆东：A股科创长牛起步颠簸，布局中小市值“小巨人”]]></title>
-        <id>3637952</id>
-        <link href="https://wallstreetcn.com/articles/3637952"/>
-        <updated>2021-08-14T09:15:45.000Z</updated>
-        <summary type="html"><![CDATA[“A股科创长牛起步颠簸，就像2005年的楼市和2013年的创业板，颠簸之后方向不变。”“现在是港股最坏的时候，也是长期投资的最好机会。”]]></summary>
         <author>
             <name>潘凌飞</name>
         </author>
