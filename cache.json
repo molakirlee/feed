@@ -992,6 +992,78 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3640241",
+          "author": "俞涛",
+          "description": "自苹果2014年筹备泰坦计划（苹果汽车生产项目）以来便并非一帆风顺，该项目7年中已出现4位负责人的离职。苹果甚至一度放弃了该计划，专注于自动驾驶软件的研发，之后又重新将造车列入目标。",
+          "link": "https://wallstreetcn.com/articles/3640241",
+          "publishedOn": "2021-09-13T03:19:08.000Z",
+          "wordCount": 140,
+          "title": "七年四任主管离职，苹果还造得出车吗？"
+        },
+        {
+          "id": "3640247",
+          "author": "陈圣洁",
+          "description": "银行股的股价低估了没？对A股投资者来说，这是个疑问句。对银行高管来说，这是个设问句。",
+          "link": "https://wallstreetcn.com/articles/3640247",
+          "publishedOn": "2021-09-13T03:15:49.000Z",
+          "wordCount": 154,
+          "title": "“买股明志”真有用！银行高管年内增持近6000万，前三名中两个赚钱了"
+        },
+        {
+          "id": "3640044",
+          "author": "郭胜北",
+          "description": "从美联储行动的逻辑看透全球流动性传导机制，从全球宏观落实到资产配置。",
+          "link": "https://wallstreetcn.com/premium/articles/3640044?layout=wscn-layout",
+          "publishedOn": "2021-09-13T02:46:43.000Z",
+          "wordCount": 157,
+          "title": "郭胜北X对话录（上） | Taper的触发条件到底是什么？"
+        },
+        {
+          "id": "3640245",
+          "author": "夏雨辰",
+          "description": "中金认为，万亿元可能是A股成交的新均衡水平，市场并未出现全面过热的现象。如果市场成交额上升至单日2万亿元或持续高于1.8万亿元，可能是值得警戒的水平。",
+          "link": "https://wallstreetcn.com/articles/3640245",
+          "publishedOn": "2021-09-13T02:29:52.000Z",
+          "wordCount": 189,
+          "title": "中金：如今的A股，单日2万亿成交额才值得警惕"
+        },
+        {
+          "id": "3640249",
+          "author": "赵颖",
+          "description": "黑石集团终止收购SOHO中国，SOHO中国或将选择私有化退市。",
+          "link": "https://wallstreetcn.com/articles/3640249",
+          "publishedOn": "2021-09-13T02:13:25.000Z",
+          "wordCount": 134,
+          "title": "港股SOHO中国跌40%，黑石集团终止对其收购要约"
+        },
+        {
+          "id": "3640248",
+          "author": "应依汝",
+          "description": "恒生指数开盘跌1.22%报25885.3点，失守26000点大关。",
+          "link": "https://wallstreetcn.com/articles/3640248",
+          "publishedOn": "2021-09-13T01:40:53.000Z",
+          "wordCount": 108,
+          "title": "恒生指数开盘跌1.22%，美团、阿里巴巴跌超3%"
+        },
+        {
+          "id": "3640243",
+          "author": "应依汝",
+          "description": "Delta病毒对美国基本面的冲击、高通胀及市场已有充分预期的Taper预计都不会对美股造成持续性影响，但加税将是下半年影响美股表现的最大风险，预计将在三季度末爆发。",
+          "link": "https://wallstreetcn.com/articles/3640243",
+          "publishedOn": "2021-09-13T01:11:16.000Z",
+          "wordCount": 115,
+          "title": "美股涨不动了么？"
+        },
+        {
+          "id": "3640242",
+          "author": "赵颖",
+          "description": "新茶饮品牌已经将供应链建设提上了日程。这背后反映的是竞争残酷的茶饮行业。在这个大环境下，新品牌们迫切需要摆脱产品同质化严重的困境，并建立更稳固的竞争壁垒。",
+          "link": "https://wallstreetcn.com/articles/3640242",
+          "publishedOn": "2021-09-13T01:00:20.000Z",
+          "wordCount": 147,
+          "title": "新茶饮为什么都要做农业公司"
+        },
+        {
           "id": "3640240",
           "author": "叶桢",
           "description": "文章指出，在这关键时期，提升海运运力，降低海运成本，畅通物流环节，对全球经济复苏、抑制通胀具有重要意义。",

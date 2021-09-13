@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T02:22:40.250Z</updated>
+    <updated>2021-09-13T04:12:04.979Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[七年四任主管离职，苹果还造得出车吗？]]></title>
+        <id>3640241</id>
+        <link href="https://wallstreetcn.com/articles/3640241"/>
+        <updated>2021-09-13T03:19:08.000Z</updated>
+        <summary type="html"><![CDATA[自苹果2014年筹备泰坦计划（苹果汽车生产项目）以来便并非一帆风顺，该项目7年中已出现4位负责人的离职。苹果甚至一度放弃了该计划，专注于自动驾驶软件的研发，之后又重新将造车列入目标。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“买股明志”真有用！银行高管年内增持近6000万，前三名中两个赚钱了]]></title>
+        <id>3640247</id>
+        <link href="https://wallstreetcn.com/articles/3640247"/>
+        <updated>2021-09-13T03:15:49.000Z</updated>
+        <summary type="html"><![CDATA[银行股的股价低估了没？对A股投资者来说，这是个疑问句。对银行高管来说，这是个设问句。]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郭胜北X对话录（上） | Taper的触发条件到底是什么？]]></title>
+        <id>3640044</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640044?layout=wscn-layout"/>
+        <updated>2021-09-13T02:46:43.000Z</updated>
+        <summary type="html"><![CDATA[从美联储行动的逻辑看透全球流动性传导机制，从全球宏观落实到资产配置。]]></summary>
+        <author>
+            <name>郭胜北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中金：如今的A股，单日2万亿成交额才值得警惕]]></title>
+        <id>3640245</id>
+        <link href="https://wallstreetcn.com/articles/3640245"/>
+        <updated>2021-09-13T02:29:52.000Z</updated>
+        <summary type="html"><![CDATA[中金认为，万亿元可能是A股成交的新均衡水平，市场并未出现全面过热的现象。如果市场成交额上升至单日2万亿元或持续高于1.8万亿元，可能是值得警戒的水平。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股SOHO中国跌40%，黑石集团终止对其收购要约]]></title>
+        <id>3640249</id>
+        <link href="https://wallstreetcn.com/articles/3640249"/>
+        <updated>2021-09-13T02:13:25.000Z</updated>
+        <summary type="html"><![CDATA[黑石集团终止收购SOHO中国，SOHO中国或将选择私有化退市。]]></summary>
+        <author>
+            <name>赵颖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交媒体：美国公司报告称亲中网军扩大至多种语言和试图煽动美国示威]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58502371</id>
@@ -102,6 +152,16 @@ BBC中文记者
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[恒生指数开盘跌1.22%，美团、阿里巴巴跌超3%]]></title>
+        <id>3640248</id>
+        <link href="https://wallstreetcn.com/articles/3640248"/>
+        <updated>2021-09-13T01:40:53.000Z</updated>
+        <summary type="html"><![CDATA[恒生指数开盘跌1.22%报25885.3点，失守26000点大关。]]></summary>
+        <author>
+            <name>应依汝</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[李光满： 中国自媒体作家的文章为何引发“文革2.0”的担忧]]></title>
         <id>https://www.bbc.com/zhongwen/simp/chinese-news-58500007</id>
         <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58500007"/>
@@ -140,6 +200,26 @@ BBC中文记者
 但他也得到了一些网友的支持，“迈阿密上海观天下”留言：“李光满，所有…]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股涨不动了么？]]></title>
+        <id>3640243</id>
+        <link href="https://wallstreetcn.com/articles/3640243"/>
+        <updated>2021-09-13T01:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Delta病毒对美国基本面的冲击、高通胀及市场已有充分预期的Taper预计都不会对美股造成持续性影响，但加税将是下半年影响美股表现的最大风险，预计将在三季度末爆发。]]></summary>
+        <author>
+            <name>应依汝</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新茶饮为什么都要做农业公司]]></title>
+        <id>3640242</id>
+        <link href="https://wallstreetcn.com/articles/3640242"/>
+        <updated>2021-09-13T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[新茶饮品牌已经将供应链建设提上了日程。这背后反映的是竞争残酷的茶饮行业。在这个大环境下，新品牌们迫切需要摆脱产品同质化严重的困境，并建立更稳固的竞争壁垒。]]></summary>
+        <author>
+            <name>赵颖</name>
         </author>
     </entry>
     <entry>
