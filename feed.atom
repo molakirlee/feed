@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T12:15:20.041Z</updated>
+    <updated>2021-09-13T14:08:51.554Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[需求将更强劲！OPEC上调明年预期 称全球原油需求将超过疫情前水平]]></title>
+        <id>3640302</id>
+        <link href="https://wallstreetcn.com/articles/3640302"/>
+        <updated>2021-09-13T13:10:30.000Z</updated>
+        <summary type="html"><![CDATA[OPEC预测，由于全球燃料消费增长和其他地区的产出供应中断，对其原油的需求将更加强劲，将2021年的全球原油需求预估上调98万桶至1.008亿桶。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二手房成交量骤降超80%！这个一线城市，楼市遇冷！有业主愿意降价百万元卖房...]]></title>
+        <id>3640300</id>
+        <link href="https://wallstreetcn.com/articles/3640300"/>
+        <updated>2021-09-13T12:58:15.000Z</updated>
+        <summary type="html"><![CDATA[8月深圳二手房仅成交2043套，同比下降约81.96%，买卖双方已进入深度博弈。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建行“70后”首席财务官辞任，“年富力强”者的下一步引人关注]]></title>
+        <id>3640297</id>
+        <link href="https://wallstreetcn.com/articles/3640297"/>
+        <updated>2021-09-13T12:22:12.000Z</updated>
+        <summary type="html"><![CDATA[曾在建行工作12年]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股盘前：美国众议员民主党计划提议加税]]></title>
+        <id>3640294</id>
+        <link href="https://wallstreetcn.com/articles/3640294"/>
+        <updated>2021-09-13T12:17:56.000Z</updated>
+        <summary type="html"><![CDATA[辉瑞的新冠疫苗有望用于低龄儿童；迪士尼计划只在影院上映2021年剩余的影片；以色列开始为第四针疫苗备货......]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广东：三孩登记目前限初婚夫妻现场办理，女方享受80日的奖励假]]></title>
+        <id>3640293</id>
+        <link href="https://wallstreetcn.com/articles/3640293"/>
+        <updated>2021-09-13T11:44:49.000Z</updated>
+        <summary type="html"><![CDATA[广东省卫生健康委表示，除了产假外，符合法律、法规规定生育子女的夫妻，女方享受八十日的奖励假，男方享受十五日的陪产假，各用人单位应按照现有规定为生育第三个子女的职工提供生育假期。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航运旺季来临！达飞冻价后，“队友们”会跟进？]]></title>
+        <id>3640290</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640290?layout=wscn-layout"/>
+        <updated>2021-09-13T11:41:08.000Z</updated>
+        <summary type="html"><![CDATA[监管部门对海运价格的关注也持续升级]]></summary>
+        <author>
+            <name>张娱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗局势：塔利班宣布大学性别隔离政策，女生需符合着装新规]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58543965</id>
@@ -15325,46 +15385,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
         <summary type="html"><![CDATA[从法国长棍面包，到中东扁面包，再到亚洲面条，小麦的价格对消费者的影响比玉米和大豆等作物更直接。]]></summary>
         <author>
             <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知名企业家“萌剑客”车祸去世，车型蔚来ES8，或因领航辅助？车企回应：正在调查]]></title>
-        <id>3637959</id>
-        <link href="https://wallstreetcn.com/articles/3637959"/>
-        <updated>2021-08-15T01:45:12.000Z</updated>
-        <summary type="html"><![CDATA[蔚来品牌部人士回复称，Navigate on Pilot（NOP）领航辅助不是自动驾驶，后续有调查结果会向外界同步信息。]]></summary>
-        <author>
-            <name>叶桢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta凶猛！美国日新增死亡病例近两周几乎翻番]]></title>
-        <id>3637962</id>
-        <link href="https://wallstreetcn.com/articles/3637962"/>
-        <updated>2021-08-15T01:00:42.000Z</updated>
-        <summary type="html"><![CDATA[本周五，美国新冠肺炎的七天平均死亡人数达到645人，在两周内几乎翻了一番，达到5月以来的最高水平。]]></summary>
-        <author>
-            <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下周MLF到期7000亿，如何续作是市场的焦点]]></title>
-        <id>3637960</id>
-        <link href="https://wallstreetcn.com/articles/3637960"/>
-        <updated>2021-08-15T00:50:45.000Z</updated>
-        <summary type="html"><![CDATA[江海证券屈庆认为，如果央行只是续作一部分MLF，另外一部分MLF到期的资金缺口通过降准去补充，这是对市场最好的情况。等于是用更便宜的资金替换了MLF的成本。]]></summary>
-        <author>
-            <name>叶桢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻下阿富汗北部重镇，塔利班已接管该国22个省会]]></title>
-        <id>3637961</id>
-        <link href="https://wallstreetcn.com/articles/3637961"/>
-        <updated>2021-08-15T00:40:45.000Z</updated>
-        <summary type="html"><![CDATA[当地一位立法官员表示，政府军首先向塔利班投降，导致其他亲政府民兵丧失士气放弃抵抗，两名军阀已经逃出巴尔赫省，去向不明。]]></summary>
-        <author>
-            <name>叶桢</name>
         </author>
     </entry>
 </feed>
