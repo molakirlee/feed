@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-14T04:12:00.510Z</updated>
+    <updated>2021-09-14T06:11:15.985Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美银：如果美国碰到严冬，油价有望冲击百元大关]]></title>
+        <id>3640353</id>
+        <link href="https://wallstreetcn.com/articles/3640353"/>
+        <updated>2021-09-14T04:13:27.000Z</updated>
+        <summary type="html"><![CDATA[美国银行认为，接下来天气将成为能源市场最重要的驱动因素，如果出现严冬，全球石油需求可能会激增100万至200万桶/天。另外，天然气价格的快速上涨可能会导致原油市场出现一些替代性需求。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤字可以货币化 为什么美国仍要开发税源？]]></title>
+        <id>3640355</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640355?layout=wscn-layout"/>
+        <updated>2021-09-14T04:10:06.000Z</updated>
+        <summary type="html"><![CDATA[危机的尽头是债务，债务的尽头是通缩。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moderna一度跌近8%！《柳叶刀》报告表示：大多数人现在不需要接种加强针]]></title>
+        <id>3640321</id>
+        <link href="https://wallstreetcn.com/articles/3640321"/>
+        <updated>2021-09-14T03:43:57.000Z</updated>
+        <summary type="html"><![CDATA[18名科学家撰文表示，加强针对大多数已经接种过一次疫苗的人没有必要，现在更应该让未接种者使用当前的疫苗产生免疫力。报告发布后，Moderna盘中一度跌近8%，BioNTech跌逾6%。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ulysses 与 Zotero 的梦幻工作流，轻松搞定参考文献]]></title>
+        <id>https://sspai.com/post/68678</id>
+        <link href="https://sspai.com/post/68678"/>
+        <updated>2021-09-14T03:32:40.000Z</updated>
+        <summary type="html"><![CDATA[专栏文章 首页推荐
+少数派专栏是 Matrix 社区中的一部分，我们会不定期挑选专栏中最优质的文章，展示来自用户和开发者的真实体验和观点。点此 了解什么是少数派专栏，点击 查看全部少数派专栏。
+本文来自 Ulysses 专栏，Ulysses 拥有面向 Mac、iPhone 和 iPad 的一站式写作环境，优雅、专注、高效、灵活。关注专栏，随时掌握最新资讯。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+在过去的几个月，我一直攻读我的博士学位。为此我建立了一个工作流程，以便我的 Markdown 文档可以快速地转变成 Word 文档，就像魔术一样。或许我也可以选择发邮件给我的导师，想他解释 Markdown 是一种简单高效的标记语言。但是，当你尝试过后就会发现，他没有时间来听我废话。 因此，我创立了一个工作流程，可以将你的所有引文自动转换成相应的参考文献 （无论你使用的是什么论文格式，Chicago、 MLA、 APA、MHRA……） 以及所有适当的 ibids. 、页码等等。
+为此，本指南既是为了我自己，也是为了予人方便--列出了为此所需的一切准备工作。只需要几下点击就能瞬间将 Markdown 变成 Word 文档。我们的确生活在未来！ 
+
+写作 - Ulysses
+首先，我的论文是通过 Ulysses 完成的。Ulysses 是一款优美的 Markdown 文字处理器。它能在拥有像Scrivener 这样强大的写作工具的功能同时，提供给用户沉浸式写作体验，使用户专注于写作。我很喜欢 Ulysses，它很好。我只在它的默认设置上进行了小的微调，以及一个为支持 Zotero 使用的小改动，这一改动我将在下一章节介绍。
+参考文献工具
+当涉及到学术参考资料，我使用了一个相当复杂的系统。但是它可以放在后台，并不会打扰正常工作，此外这套系统的安装也非常简单，当我重装 ma…]]></summary>
+        <author>
+            <name>Ulyssesapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何抓住美联储货币体系的深层逻辑？]]></title>
+        <id>3640275</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640275?layout=wscn-layout"/>
+        <updated>2021-09-14T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在过去的投资实践中，我们多次遇到推论和主流不相符合的情况，有时候甚至推论内部都有潜在矛盾，但事实验证了我们的推论。]]></summary>
+        <author>
+            <name>郭胜北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中纪委网站刊文：整顿饭圈并不是整顿粉丝，而是背后的产业链]]></title>
+        <id>3640349</id>
+        <link href="https://wallstreetcn.com/articles/3640349"/>
+        <updated>2021-09-14T03:28:12.000Z</updated>
+        <summary type="html"><![CDATA[明星要自律，平台要尽职，粉丝要理性，社会要参与，法律要出手。某些现象的出现只不过是大江东流时夹带着的泥沙，但如果不加以纠正，就会使负面的声音掩盖真正的“好声音”，带坏社会风气。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万亿巨头又有大动作，被长期忽视的云母提锂要火？]]></title>
+        <id>3640352</id>
+        <link href="https://wallstreetcn.com/articles/3640352"/>
+        <updated>2021-09-14T03:17:49.000Z</updated>
+        <summary type="html"><![CDATA[9月13日晚间，宁德时代发布公告称，拟在有着“亚洲锂都”之称的江西宜春投资建设新型锂电池生产制造基地项目，总投资不超过135亿元。]]></summary>
+        <author>
+            <name>尹洪昌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业板涨超2%，半导体回暖，新能源汽车大涨，宁德时代涨超6%]]></title>
         <id>3640347</id>
