@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-14T06:11:15.985Z</updated>
+    <updated>2021-09-14T08:11:25.626Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[期货热门品种全线回调 沪铝、沪镍跌超4% 焦炭跌5%]]></title>
+        <id>3640360</id>
+        <link href="https://wallstreetcn.com/articles/3640360"/>
+        <updated>2021-09-14T07:02:41.000Z</updated>
+        <summary type="html"><![CDATA[沪镍、沪铝均跌超4%，此前沪铝多日续创历史新高；焦煤、焦炭均跌超5%，昨日夜盘焦煤一度跌超7%；玻璃跌超4%，纯碱跌超3%，生猪、PVC、甲醇、尿素均跌超2%。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飓风刚走 热带风暴又来 美国原油产能再迎冲击！]]></title>
+        <id>3640359</id>
+        <link href="https://wallstreetcn.com/articles/3640359"/>
+        <updated>2021-09-14T07:01:56.000Z</updated>
+        <summary type="html"><![CDATA[热带风暴“尼古拉斯”可能在登陆前演变成飓风，预计将给德克萨斯州的休斯顿、路易斯安那州部分地区带来暴风雨，而路易斯安那州还未从两周前飓风“艾达”的袭击中回复过来。]]></summary>
+        <author>
+            <name>卜淑情</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机视觉简史：为了让机器学会“看”，人类到底有多努力]]></title>
+        <id>3640286</id>
+        <link href="https://wallstreetcn.com/articles/3640286"/>
+        <updated>2021-09-14T07:00:09.000Z</updated>
+        <summary type="html"><![CDATA[从《黑客帝国》开始人类对人工智能的想象逐步升级，但目前的AI还停留在感知阶段，为了教会机器“看”，人类已经付出了很多。]]></summary>
+        <author>
+            <name>陈晨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[供给快速减少，有基金经理断言：美国铀价还要涨40%！]]></title>
+        <id>3640342</id>
+        <link href="https://wallstreetcn.com/articles/3640342"/>
+        <updated>2021-09-14T06:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Sprott基金公司疯狂扫货，推动铀价上行，铀行业公司股价普遍上涨，标志着铀行业开始了持久的牛市。]]></summary>
+        <author>
+            <name>赵颖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人网站 / 博客必备，零成本、低门槛创建专属数据分析工具：umami.is]]></title>
+        <id>https://sspai.com/post/68721</id>
+        <link href="https://sspai.com/post/68721"/>
+        <updated>2021-09-14T06:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics 应该是当今互联网使用最广泛的网站流量分析服务。通过在网页中嵌入追踪代码，Google Analytics 能够帮我们收集网站的流量来源，同时自动分析跳出率、转化率等核心指标。但是对于大部分中小型站点而言，接入 Google Analytics 并不是最理想的选择，因为它太复杂了，同时国内访问也不太方便。
+umami.is 则可以看作是 Google Analytics 的精简版解决方案，它完全免费且开源，非常适合中小站点的网络流量统计分析。相对于复杂的 Google Analytics，umami.is 的界面也更加简洁，只关注于核心指标，并方便分享出去。
+umami 示例页面
+作为一款开源解决方案，umami.is 并不提供官方的托管服务，而是需要自行部署。提到部署，你可能想到需要使用自己的服务器或租用云主机。不用担心，接下来我将会介绍利用互联网上现成的无服务器解决方案，零成本、零门槛部署可靠的 umami.is 服务。
+前期准备
+Serverless 无服务器计算架构近年来逐渐火热，这里的无服务器并不意味着无需服务器参与计算，而是指开发者不必过多关心底层服务器的状态、性能、资源等。因为这一切由云服务商提供，并动态管理机器资源的分配。所以为了达到零成本部署的目标，我们需要选择一些免费可靠的 Serverless 服务。
+根据 umami.is 官方文档 的说明，其服务需要运行在 Node.js 环境中，且需要对接到 MySQL 或者 PostgreSQL 数据库。所以，接下来我们会使用到免费可靠的 Vercel 静态站点托管服务，以及同样免费可靠的 PostgreSQL 数据库服务商 Supabase。
+那么正式开始之前，你需要做的第一件事是 注册一个 GitHub 帐号。为什么注册 GitHub 呢？因为我们后续要克隆 umami.is…]]></summary>
+        <author>
+            <name>huhuhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获阿里领投3亿美元B轮融资！又一家Robotaxi创企驶入「同城货运」赛道]]></title>
+        <id>3640358</id>
+        <link href="https://wallstreetcn.com/articles/3640358"/>
+        <updated>2021-09-14T06:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Robotaxi距离商业变现尚有一段距离，业内L4级Robotaxi公司的商业探索重心从载人出行慢慢转向了载货运输领域，无人物流运输俨然成了Robotaxi公司盯上的又一块香饽饽。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛：为了提高回报率 对冲基金开始抢PE和VC的饭碗了]]></title>
+        <id>3640310</id>
+        <link href="https://wallstreetcn.com/articles/3640310"/>
+        <updated>2021-09-14T06:11:30.000Z</updated>
+        <summary type="html"><![CDATA[过去，资助初创企业，尤其是早期初创企业，是风险资本家独有的事情，而现在，像Tiger这样的公司也乐于在更长的时间内获得较小的回报，所以他们变得非常有竞争力。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美银：如果美国碰到严冬，油价有望冲击百元大关]]></title>
         <id>3640353</id>
