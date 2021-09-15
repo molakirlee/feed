@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T04:11:55.896Z</updated>
+    <updated>2021-09-15T06:11:24.697Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[刚刚，关于恒大事件，国家统计局回应了！]]></title>
+        <id>3640466</id>
+        <link href="https://wallstreetcn.com/articles/3640466"/>
+        <updated>2021-09-15T05:27:59.000Z</updated>
+        <summary type="html"><![CDATA[关于恒大、消费回落、制造业投资、经济走势、PPI走势等市场关注热点，国家统计局新闻发言人付凌晖做出了一一回应。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[征了四十年房产税 为什么美国房价却一直涨]]></title>
+        <id>3640464</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640464?layout=wscn-layout"/>
+        <updated>2021-09-15T05:06:46.000Z</updated>
+        <summary type="html"><![CDATA[拜登3.5万亿财政支出计划急需可行的增税方案，但房产税并不在其列。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加量不加价，“真香”iPhone 13能让苹果喘口气？]]></title>
+        <id>3640465</id>
+        <link href="https://awtmt.com/articles/3640465?from=wscn"/>
+        <updated>2021-09-15T04:55:48.000Z</updated>
+        <summary type="html"><![CDATA[相较上一代，新iPhone全系刘海缩小，支持5G无线标准，电池续航最高增2.5小时，价格却更低。去年Q4，iPhone 12销量破苹果近五年纪录，被寄予厚望的iPhone 13会有怎样的表现？]]></summary>
+        <author>
+            <name>于惠如</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储传统货币政策的隐患和新方法的诞生]]></title>
+        <id>3640367</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640367?layout=wscn-layout"/>
+        <updated>2021-09-15T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[美联储在货币体系中扮演着什么角色？在货币主义和股东资本主义下分别如何理解广义货币和基础货币之间的关系？美国的QE独特在哪里？]]></summary>
+        <author>
+            <name>郭胜北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025沙盘推演：乘用车行业的演化路径]]></title>
+        <id>3640460</id>
+        <link href="https://wallstreetcn.com/articles/3640460"/>
+        <updated>2021-09-15T03:22:27.000Z</updated>
+        <summary type="html"><![CDATA[从“产品定义能力”和“全栈自研能力”两个维度评价整车企业的竞争力，这两项能力将会是未来估值溢价的核心来源。]]></summary>
+        <author>
+            <name>应依汝</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12年后，那个龙头房企又杀回来了！]]></title>
         <id>3640448</id>
@@ -16049,26 +16099,6 @@ Google Pixel 5a 真机图在一维修公司上传的照片中曝光，该机型�
         <summary type="html"><![CDATA[Michael Burry旗下公司二季度持有Cathie Wood主力基金ARKK逾23万股看跌期权，而且加码做空ARKK重仓股特斯拉，所持看跌期权股份较一季度增长34%。]]></summary>
         <author>
             <name>李丹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储Taper时间表日渐清晰：明年中或结束史诗级无限量QE]]></title>
-        <id>3638090</id>
-        <link href="https://wallstreetcn.com/articles/3638090"/>
-        <updated>2021-08-16T16:50:34.000Z</updated>
-        <summary type="html"><![CDATA[根据近期美联储高官的公开演讲和采访对话，华尔街日报分析称，美联储内部就缩减QE近乎达成一致：如果经济继续复苏，美联储将在大约三个月内开始缩减QE，一些官员推动在明年年中结束资产购买。]]></summary>
-        <author>
-            <name>张茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无视拜登政府呼吁 OPEC+认为无需再多产油]]></title>
-        <id>3638089</id>
-        <link href="https://wallstreetcn.com/articles/3638089"/>
-        <updated>2021-08-16T16:27:59.000Z</updated>
-        <summary type="html"><![CDATA[分析称，OPEC+对不会超量增产的强硬态度令油价在周一美股盘中反弹，这也令拜登政府陷入两难境地，因为呼吁OPEC+超量增产将激怒北美的石油生产商，也会令支持经济脱碳的人们不满。]]></summary>
-        <author>
-            <name>杜玉</name>
         </author>
     </entry>
 </feed>
