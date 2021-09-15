@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T16:12:34.739Z</updated>
+    <updated>2021-09-15T20:09:53.606Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高盛要花22亿美元收购的金融科技独角兽，什么来头？]]></title>
+        <id>3640526</id>
+        <link href="https://wallstreetcn.com/articles/3640526"/>
+        <updated>2021-09-15T19:15:20.000Z</updated>
+        <summary type="html"><![CDATA[高盛同意以约22.4亿美元收购GreenSky，收购价约每股12美元，是其三年前上市IPO价格的约一半。银行通过GreenSky的技术，向消费者提供贷款，用于家庭装修、太阳能、医疗保健等一次性大额消费支出。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达利欧：现金是垃圾 多元化投资重要 比特币有被扼杀可能]]></title>
+        <id>3640525</id>
+        <link href="https://wallstreetcn.com/articles/3640525"/>
+        <updated>2021-09-15T17:16:30.000Z</updated>
+        <summary type="html"><![CDATA[全球最大对冲基金桥水的创始人达利欧表示，如果有一天加密货币真的成功了，那么监管会扼杀它。不过政府不希望加密货币成功，不意味着它不值得用于实现投资多元化。现金是垃圾。股市享有的优势会逐步减少。当前最重要的是在不同货币、资产类别和国家之间进行多元化分配。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辉瑞加强针悬了？ 周五评估会前FDA拒绝表态 称缺少经核实数据]]></title>
+        <id>3640524</id>
+        <link href="https://wallstreetcn.com/articles/3640524"/>
+        <updated>2021-09-15T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[本周五开会评估辉瑞疫苗的加强针申请前，美国FDA工作人员发布文件称，FDA还未曾独立地审查或核实基础数据或其结论，一些已知和未知的偏见可以影响观察性研究的可靠性。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周美EIA原油库存回落至两年低位，国际油价涨幅扩大至逾3%]]></title>
         <id>3640521</id>
@@ -16459,156 +16489,6 @@ iQOO 的外观设计是最不需要担心的，它虽然是一个年轻品牌，
 “现在面临最大风险的阿富汗人，正是那些一…]]></summary>
         <author>
             <name>BBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[展示逻辑的更优解——用形状表达抽象信息]]></title>
-        <id>https://sspai.com/post/68263</id>
-        <link href="https://sspai.com/post/68263"/>
-        <updated>2021-08-17T07:56:11.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章中，我们正式进入「图像化」的阶段，从「图片」这个图像元素开始，谈到它的使用逻辑，也就是区分「传递信息」和「渲染情感」两种不同的使用情境。并搭配「简化─聚焦」的设计原则，来达成「图像化」的目的。
-然而，并不是所有的文字信息，都能以「图片」来做「图像化」。如果你想强调的重点信息，不是具体的事物，而是抽象的逻辑或概念，那我们就得换另一种图像元素了，也就是本篇要谈到的「形状」和「图标」。
-为什么我们需要使用「形状」？
-让我们先退回「结构化」的阶段，也就是刚完成了文字信息的排版，这时，你可能会发现，这一段的文字信息，并不能用单张或多张图片来置换。这是为什么呢？
-因为并不是所有的重点信息，都是具体的人事物。
-事实上，大多数经过梳理的文字内容，其重点可能更多是放在整体的逻辑架构，或者较为抽象的概念上。如果非得从中撷取一个具体的词汇，硬是用「图片」来呈现，就会显得本末倒置，甚至是图文不符了。
-举例来说，在电影领域有个编剧的方法，是由 Syd Field 提出的「电影三幕剧」，其中包括三个阶段，分别是「铺陈」、「冲突」和「解决」。这边我先将关于「电影三幕剧」的描述，以「结构化」的方式整理好，内容如下图：
-
-当你看完整段「电影三幕剧」的文字描述，很容易就能看出，这三幕在逻辑架构上事先后次序的关系。
-这时，你肯定不会想找「图片」来呈现，而是直接在「铺陈」、「冲突」和「解决」这三个关键词，加入指向性的箭头，来呈现它们之间的次序关系。至于原本三个关键词底下的描述，直接口述就可以了。
-
-从上面可以看出，「形状」在幻灯片设计时的作用，就是能更好地展现内容信息的逻辑关系。你不需要阅读完大段的文字，再来分析它隐含的逻辑是并列、包含、层级，或者是递进、循环等，而是第一眼就能先对整体的逻辑框架，有个清楚的认知，再来填补其中的内容细节。
-回到「电影三幕剧」这个例子，我们已经用「形状」处理好它的逻辑关系…]]></summary>
-        <author>
-            <name>艾伦习字</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季｜证多不压身，聊聊大学里值得「拼一拼」的证书考试]]></title>
-        <id>https://sspai.com/post/68224</id>
-        <link href="https://sspai.com/post/68224"/>
-        <updated>2021-08-17T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[无论你是怀着无比激动的心情奔赴大学校园的萌新，还是一两年后重返校园的一条咸鱼，考试都会成为大学生活中绕不开的一个话题。尽管大学期间不再是「考考考，老师的法宝」，但是多如牛毛的资格型、水平性考试仍然十分受到大家青睐，毕竟人人都说「证不压身」。因此，我们从许多类似的考试中，选出了几门我们认为比较重要的、值得一试的，跟大家介绍一下它们的情况，希望能够对你的大学生活有所帮助。
-我们今天要谈到的考试是以下七种：
-
-大学英语等级考试（四六级）
-普通话水平测试
-全国计算机等级考试（通称「计算机 X 级」）
-国家统一法律职业资格考试（「法考」）
-注册会计师全国统一考试（CPA）
-全国翻译专业资格（水平）考试（CATTI）
-中小学教师资格考试（通称「教资」）
-
-我们会从报名、用处和一些过来人的备考建议几个方面，说一说这些考试。当然，其中的法考、CPA 和计算机二级我没有亲身经历过，所以是在网上找了比较权威的资料进行了一些考试情况的整合，也咨询了一些自己的大佬朋友，在此也对他们表示由衷谢意！
-当然，我在这里说得再多也不过是一家之言。少数派的各位社会大佬们如果有任何意见、建议，也请不要吝啬，在评论区尽情施展你的才华 —— 我一个人的力量毕竟有限，但是我真的很想让这篇文章能够变成大家值得参考的攻略。
-大学英语等级考试（四六级）
-
-大学英语考试是一项大规模标准化考试，是一个「标准关联的常模参照测验」。大学英语四、六级考试作为一项全国性的教学考试由「国家教育部高教司」主办，分为四级考试（CET-4）和六级考试（CET-6），每年各举行两次，分别在同一天的上午和下午进行。从 2005 年 1 月起，成绩满分为 710 分，由国家教育部高教司委托「全国大学英语四六级考试委员会」给每位考生发成绩单。
-
-报名方式与费用
-大学英语等级考试是只能由在读大学生报名的，社会人员一般不能参与。根据就读学校的不同，对考生…]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[港股跌幅扩大 恒生科技指数跌超3% 腾讯、阿里跌超4%]]></title>
-        <id>3638136</id>
-        <link href="https://wallstreetcn.com/articles/3638136"/>
-        <updated>2021-08-17T06:01:41.000Z</updated>
-        <summary type="html"><![CDATA[哔哩哔哩一度跌超7%，股价续刷历史新低；网易、百度跌超5%......]]></summary>
-        <author>
-            <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲气价暴涨1000%！天然气平价时代即将结束？]]></title>
-        <id>3638135</id>
-        <link href="https://wallstreetcn.com/articles/3638135"/>
-        <updated>2021-08-17T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[分析人士指出，随着全球主要经济体致力于实现碳中和，天然气将成为未来几十年最重要的过渡燃料，并将在中期内保持价格高位、长期内持续上升。]]></summary>
-        <author>
-            <name>于旭东</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿富汗局势：塔利班重掌政权　中美相互批评]]></title>
-        <id>https://www.bbc.com/zhongwen/simp/world-58240657</id>
-        <link href="https://www.bbc.com/zhongwen/simp/world-58240657"/>
-        <updated>2021-08-17T05:43:06.000Z</updated>
-        <summary type="html"><![CDATA[3 分钟前
-
-
-
-图像来源，AFP
-
-
-阿富汗喀布尔居民涌至机场试图逃离家园。
-
-
-
-阿富汗塔利班（Taliban）武装迅速攻陷首都喀布尔重掌政权，中国批评美国撤军“造成严重负面影响”，美国总统拜登（Joe Biden）辩护称，延续美国在阿富汗战事只会让中国与俄罗斯得益。
-
-中国国务委员兼外交部长王毅星期一（8月17日）晚间与美国国务卿布林肯（Antony Blinken）通电话时批判说，“美前一段仓促撤军已对阿局势造成严重负面影响”，并警告华府勿“再制造出新的问题”。
-
-拜登则称，中国与俄罗斯作为美国“真正的战略竞争者”，“最乐意不过”华府继续为阿富汗战事投放数以十亿美元计资金。
-
-分析人士认为，中国为了保住在阿富汗的经济利益，在别无选择之下，只能寄望塔利班信守“不包庇危害中国的武装组织”的承诺。王毅早前曾要求塔利班访华代表与支持新疆独立的维吾尔族穆斯林武装划清界线。
-
-
-
-
-喀布尔闪电易主，拜登撤军引来种种争议
-国际间对塔利班重新掌控喀布尔的各方表态
-阿富汗战争过去未来的四大问题
-中国成为塔利班的新朋友 中俄印如何面对阿富汗“改朝换代”
-谁是塔利班？
-
-
-长期研究中国事务的美国《外交家》杂志总编香农·蒂耶兹（Shannon Tiezzi）星期二（17日）发表文章说，中国正以“不协调的乐观”来回应阿富汗局势，而塔利班代表团7月访华期间作出的“不包庇”承诺只能予以观望。
-
-她指出，中国在巴基斯坦项目最近接连遭遇攻击，说明了塔利班在阿富汗执政所能造成的影响。塔利班迅速夺取政权将启发其他武装力量崛起，而当中恐将包括对北京并不友好的势力。
-
-蒂耶兹认为，中国深知此风险，但与塔利班建立友好关系，并从中施压使其信守承诺，已是北京当前的最佳选择，但这也仅限于维护中国在阿利益，北京重申其不干预别国内政的立场，说明中国对阿富汗人民尤其是女性在塔利班掌权下的处境毫无兴趣。
-
-
-
-
-
-
-图像来…]]></summary>
-        <author>
-            <name>BBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高瓴建仓Airbnb 海外酒店实现“免疫”？]]></title>
-        <id>3638129</id>
-        <link href="https://wallstreetcn.com/premium/articles/3638129?layout=wscn-layout"/>
-        <updated>2021-08-17T05:34:41.000Z</updated>
-        <summary type="html"><![CDATA[受到德尔塔毒株传播影响，万豪集团入住率在4月份达到71%，但在5月份下降至68%，6月进一步下降到约60%。]]></summary>
-        <author>
-            <name>岳嘉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“华尔街最悲观的分析师”投降了？摩根士丹利上调标普目标点位]]></title>
-        <id>3638131</id>
-        <link href="https://wallstreetcn.com/articles/3638131"/>
-        <updated>2021-08-17T05:30:19.000Z</updated>
-        <summary type="html"><![CDATA[大摩将标普500年底预测值从3900点上调至4000点，较目前点位仍有10%下跌空间。分析师Michael Wilson表示，仍对股票价格回报持谨慎态度。]]></summary>
-        <author>
-            <name>叶桢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新网银行“二次创业”后首份财报出炉：上半年净利润同比增长7.39% ，“缩表”现象缓解]]></title>
-        <id>3638133</id>
-        <link href="https://wallstreetcn.com/articles/3638133"/>
-        <updated>2021-08-17T04:27:13.000Z</updated>
-        <summary type="html"><![CDATA[出清网贷业务后业绩如何？]]></summary>
-        <author>
-            <name>陈圣洁</name>
         </author>
     </entry>
 </feed>
