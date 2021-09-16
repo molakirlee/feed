@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T16:13:41.399Z</updated>
+    <updated>2021-09-16T18:10:44.795Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美联储高官炒股风波后，鲍威尔命令重审道德规则，参议员呼吁不能持有和交易个股]]></title>
+        <id>3640625</id>
+        <link href="https://wallstreetcn.com/articles/3640625"/>
+        <updated>2021-09-16T16:54:36.000Z</updated>
+        <summary type="html"><![CDATA[美联储官员炒股引争议，恰好发生在拜登政府决定是否任命鲍威尔连任美联储主席的关键时点，鲍威尔的反应也说明他感到了事件对美联储独立性和公信力的威胁。鲍威尔其实也持有不少股票资产，被疑很难在作出货币决策时保持公正。]]></summary>
+        <author>
+            <name>杜玉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身体比嘴更诚实 “木头姐”这个月狂卖特斯拉 但目标价还是3000美元]]></title>
         <id>3640623</id>
