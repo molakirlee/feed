@@ -1100,6 +1100,60 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3640623",
+          "author": "张茜",
+          "description": "9月以来，“木头姐”Cathie Wood旗下ETF共卖出特斯拉超35万股，价值2.66亿美元。单单本周三，其ARKK和ARKW两只ETF就卖出了超过8.16万股特斯拉，价值6200万美元。而就在本月初，她对特斯拉的基本预判是可以达到每股3000美元。",
+          "link": "https://wallstreetcn.com/articles/3640623",
+          "publishedOn": "2021-09-16T15:17:04.000Z",
+          "wordCount": 115,
+          "title": "身体比嘴更诚实 “木头姐”这个月狂卖特斯拉 但目标价还是3000美元"
+        },
+        {
+          "id": "3640622",
+          "author": "陈湘婷",
+          "description": "金地董事长凌克出手，提振信心。",
+          "link": "https://wallstreetcn.com/articles/3640622",
+          "publishedOn": "2021-09-16T15:16:27.000Z",
+          "wordCount": 123,
+          "title": "地产股跌跌不休，大佬罕见增持护盘！"
+        },
+        {
+          "id": "3640621",
+          "author": "陈嘉懿",
+          "description": "广发副总经理再添投研人员",
+          "link": "https://wallstreetcn.com/articles/3640621",
+          "publishedOn": "2021-09-16T15:08:22.000Z",
+          "wordCount": 116,
+          "title": "又有明星基金经理升职！傅友兴、刘格菘新任副总"
+        },
+        {
+          "id": "3640618",
+          "author": "乐鸣",
+          "description": "美债也会成为“寡妇制造者”么？",
+          "link": "https://wallstreetcn.com/premium/articles/3640618?layout=wscn-layout",
+          "publishedOn": "2021-09-16T14:53:05.000Z",
+          "wordCount": 108,
+          "title": "为什么对冲基金又在押注美债收益率上升？"
+        },
+        {
+          "id": "3640617",
+          "author": "徐红",
+          "description": "这是一次看点颇多的高值耗材集采。",
+          "link": "https://wallstreetcn.com/articles/3640617",
+          "publishedOn": "2021-09-16T14:51:33.000Z",
+          "wordCount": 153,
+          "title": "关节“国采”盘点：报价理性降价温和，还有难得一见的“满堂红”"
+        },
+        {
+          "id": "3640601",
+          "author": "王眉",
+          "description": "提高债务上限非常困难，而暂停债务上限后果又非常严重，美国这次债务上限之争或会像2011年那样严重损害人们对美国主权信用质量的看法。同时对美国金融市场与中期财政政策造成重大影响。",
+          "link": "https://wallstreetcn.com/articles/3640601",
+          "publishedOn": "2021-09-16T14:09:39.000Z",
+          "wordCount": 144,
+          "title": "高盛警告：这一次美国债务上限之争和2011年风险相当！当时美债技术性违约"
+        },
+        {
           "id": "3640616",
           "author": "陈嘉懿",
           "description": "以平常心找阿尔法",

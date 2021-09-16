@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T14:09:37.462Z</updated>
+    <updated>2021-09-16T16:13:41.399Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[身体比嘴更诚实 “木头姐”这个月狂卖特斯拉 但目标价还是3000美元]]></title>
+        <id>3640623</id>
+        <link href="https://wallstreetcn.com/articles/3640623"/>
+        <updated>2021-09-16T15:17:04.000Z</updated>
+        <summary type="html"><![CDATA[9月以来，“木头姐”Cathie Wood旗下ETF共卖出特斯拉超35万股，价值2.66亿美元。单单本周三，其ARKK和ARKW两只ETF就卖出了超过8.16万股特斯拉，价值6200万美元。而就在本月初，她对特斯拉的基本预判是可以达到每股3000美元。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地产股跌跌不休，大佬罕见增持护盘！]]></title>
+        <id>3640622</id>
+        <link href="https://wallstreetcn.com/articles/3640622"/>
+        <updated>2021-09-16T15:16:27.000Z</updated>
+        <summary type="html"><![CDATA[金地董事长凌克出手，提振信心。]]></summary>
+        <author>
+            <name>陈湘婷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又有明星基金经理升职！傅友兴、刘格菘新任副总]]></title>
+        <id>3640621</id>
+        <link href="https://wallstreetcn.com/articles/3640621"/>
+        <updated>2021-09-16T15:08:22.000Z</updated>
+        <summary type="html"><![CDATA[广发副总经理再添投研人员]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么对冲基金又在押注美债收益率上升？]]></title>
+        <id>3640618</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640618?layout=wscn-layout"/>
+        <updated>2021-09-16T14:53:05.000Z</updated>
+        <summary type="html"><![CDATA[美债也会成为“寡妇制造者”么？]]></summary>
+        <author>
+            <name>乐鸣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关节“国采”盘点：报价理性降价温和，还有难得一见的“满堂红”]]></title>
+        <id>3640617</id>
+        <link href="https://wallstreetcn.com/articles/3640617"/>
+        <updated>2021-09-16T14:51:33.000Z</updated>
+        <summary type="html"><![CDATA[这是一次看点颇多的高值耗材集采。]]></summary>
+        <author>
+            <name>徐红</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛警告：这一次美国债务上限之争和2011年风险相当！当时美债技术性违约]]></title>
+        <id>3640601</id>
+        <link href="https://wallstreetcn.com/articles/3640601"/>
+        <updated>2021-09-16T14:09:39.000Z</updated>
+        <summary type="html"><![CDATA[提高债务上限非常困难，而暂停债务上限后果又非常严重，美国这次债务上限之争或会像2011年那样严重损害人们对美国主权信用质量的看法。同时对美国金融市场与中期财政政策造成重大影响。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[别“畏高慕低”！“基金大跌”成热搜第一，大牌基金公司紧急“解盘”]]></title>
         <id>3640616</id>
