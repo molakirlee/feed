@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T02:25:54.969Z</updated>
+    <updated>2021-09-17T04:11:54.641Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英伟达：五年二十倍的芯片大牛是如何炼成的？]]></title>
+        <id>3640642</id>
+        <link href="https://wallstreetcn.com/articles/3640642"/>
+        <updated>2021-09-17T02:42:52.000Z</updated>
+        <summary type="html"><![CDATA[英伟达从启动资金4万美金的创业公司成长为市值超过5000亿美元算力芯片公司。其凭借在GPU上积累的全球领先计算能力，推出“GPU+CPU+DPU”的“三芯”战略，布局游戏、数据中心和汽车三大业务，有望继续维持公司的领先优势。]]></summary>
+        <author>
+            <name>赵颖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行今日公开市场净投放900亿元 2月以来首次重启14天逆回购]]></title>
+        <id>3640662</id>
+        <link href="https://wallstreetcn.com/articles/3640662"/>
+        <updated>2021-09-17T02:37:13.000Z</updated>
+        <summary type="html"><![CDATA[由于国庆长假因素，从过去几年来看国庆前两周开启14天逆回购也是惯例操作，从投放量来看也保持适度，应没有货币层面的信号。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[头部船运公司警告：大宗海运费将继续走高]]></title>
+        <id>3640658</id>
+        <link href="https://wallstreetcn.com/articles/3640658"/>
+        <updated>2021-09-17T01:59:44.000Z</updated>
+        <summary type="html"><![CDATA[快速增长的需求远超目前供应链物流所能承载的水平，带动船运费用攀升。大宗商品运输费用高升，价格承压，加剧了通货膨胀。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同样是3700点，但为何这次和今年2月却大不相同？]]></title>
+        <id>3640657</id>
+        <link href="https://wallstreetcn.com/articles/3640657"/>
+        <updated>2021-09-17T01:54:49.000Z</updated>
+        <summary type="html"><![CDATA[A股结构化行情愈发显著，大小盘指数涨跌幅差距达40个百分点，不同行业首尾涨跌幅差距更是达到94个百分点。基金重仓股相对估值受到估值和业绩两方面影响明显回落。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国钢价一年多翻四倍，“高钢价是可持续的”！美国钢铁30亿美元扩产]]></title>
+        <id>3640647</id>
+        <link href="https://wallstreetcn.com/articles/3640647"/>
+        <updated>2021-09-17T01:47:25.000Z</updated>
+        <summary type="html"><![CDATA[当前美国钢板现货市场价格接近2000美元/吨，2020年夏季这一价格仅为不到500美元/吨。所有钢材制造商都实际感受了价格飙涨带来的高额收益。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飞了15分钟！Rolls-Royce首架电动飞机在英国成功“处女航”]]></title>
         <id>3640652</id>

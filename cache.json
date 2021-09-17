@@ -1091,6 +1091,51 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3640642",
+          "author": "赵颖",
+          "description": "英伟达从启动资金4万美金的创业公司成长为市值超过5000亿美元算力芯片公司。其凭借在GPU上积累的全球领先计算能力，推出“GPU+CPU+DPU”的“三芯”战略，布局游戏、数据中心和汽车三大业务，有望继续维持公司的领先优势。",
+          "link": "https://wallstreetcn.com/articles/3640642",
+          "publishedOn": "2021-09-17T02:42:52.000Z",
+          "wordCount": 218,
+          "title": "英伟达：五年二十倍的芯片大牛是如何炼成的？"
+        },
+        {
+          "id": "3640662",
+          "author": "叶桢",
+          "description": "由于国庆长假因素，从过去几年来看国庆前两周开启14天逆回购也是惯例操作，从投放量来看也保持适度，应没有货币层面的信号。",
+          "link": "https://wallstreetcn.com/articles/3640662",
+          "publishedOn": "2021-09-17T02:37:13.000Z",
+          "wordCount": 120,
+          "title": "央行今日公开市场净投放900亿元 2月以来首次重启14天逆回购"
+        },
+        {
+          "id": "3640658",
+          "author": "夏雨辰",
+          "description": "快速增长的需求远超目前供应链物流所能承载的水平，带动船运费用攀升。大宗商品运输费用高升，价格承压，加剧了通货膨胀。",
+          "link": "https://wallstreetcn.com/articles/3640658",
+          "publishedOn": "2021-09-17T01:59:44.000Z",
+          "wordCount": 121,
+          "title": "头部船运公司警告：大宗海运费将继续走高"
+        },
+        {
+          "id": "3640657",
+          "author": "俞涛",
+          "description": "A股结构化行情愈发显著，大小盘指数涨跌幅差距达40个百分点，不同行业首尾涨跌幅差距更是达到94个百分点。基金重仓股相对估值受到估值和业绩两方面影响明显回落。",
+          "link": "https://wallstreetcn.com/articles/3640657",
+          "publishedOn": "2021-09-17T01:54:49.000Z",
+          "wordCount": 184,
+          "title": "同样是3700点，但为何这次和今年2月却大不相同？"
+        },
+        {
+          "id": "3640647",
+          "author": "俞涛",
+          "description": "当前美国钢板现货市场价格接近2000美元/吨，2020年夏季这一价格仅为不到500美元/吨。所有钢材制造商都实际感受了价格飙涨带来的高额收益。",
+          "link": "https://wallstreetcn.com/articles/3640647",
+          "publishedOn": "2021-09-17T01:47:25.000Z",
+          "wordCount": 123,
+          "title": "美国钢价一年多翻四倍，“高钢价是可持续的”！美国钢铁30亿美元扩产"
+        },
+        {
           "id": "3640652",
           "author": "应依汝",
           "description": "罗尔斯罗伊斯（Rolls-Royce）的全电动飞机在英国实现首飞，并成功在天空中翱翔了15分钟。",
