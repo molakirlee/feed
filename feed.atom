@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T22:09:19.157Z</updated>
+    <updated>2021-09-17T00:36:12.824Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
@@ -12,6 +12,26 @@
         <link href="https://wallstreetcn.com/articles/3640629"/>
         <updated>2021-09-16T22:50:12.000Z</updated>
         <summary type="html"><![CDATA[能源和材料板块跌超1%领跌标普，纳指两连阳，特斯拉、微软和生物科技股盘中转涨，疫苗股BioNTech涨近5%。泛欧股指脱离逾六周低谷，旅游板块涨超3%领涨，瑞安航空涨近8%，传媒巨头拉加代尔涨近20%。内盘动力煤日间新高夜盘收跌，欧洲天然气跌落历史高位，美国天然气跌离七年高位，美油收平，布油又七周新高。美元指数创近三周新高。黄金跌超1%创五周新低，白银跌超4%创十个月新低。10年期美债收益率盘中上测1.35%刷新本周高位。更新中]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证券日报：基金风格漂移是病，得治！]]></title>
+        <id>3640631</id>
+        <link href="https://wallstreetcn.com/articles/3640631"/>
+        <updated>2021-09-16T22:45:12.000Z</updated>
+        <summary type="html"><![CDATA[基金的风格漂移主要体现在一些行业主题基金，其投资组合与行业主题或是投资风格产生较大差异。虽然不同的市场主体对基金风格漂移理解是不同的，但需要明确的一点是，基金风格漂移后不管是赚钱还是亏损，这种行为都是违约行为，挑战的是投资者对基金管理人的信任和市场已经形成的契约精神。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狂抛美股猛囤美债！7月海外抛售美股创07年崩盘来次高 美债持仓创新高]]></title>
+        <id>3640630</id>
+        <link href="https://wallstreetcn.com/articles/3640630"/>
+        <updated>2021-09-16T22:00:54.000Z</updated>
+        <summary type="html"><![CDATA[7月美国最大海外债主日本的美债持仓创新高，第二大债主中国五个月内首次单月增持。更新中]]></summary>
         <author>
             <name>李丹</name>
         </author>
@@ -17273,34 +17293,6 @@ BBC北美事务编辑
 印度对于处于战略要冲的阿富汗一直较为重视。这里也是印度中亚战略的重点地区。特别是对于有领土争议和战略冲突的巴基斯坦，印度“远交近攻”，与阿富汗加强关系，使得巴基斯坦国…]]></summary>
         <author>
             <name>BBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 裁员：后疫情时代「打工人」如何与算法共存？]]></title>
-        <id>https://www.geekpark.net/news/283049</id>
-        <link href="https://www.geekpark.net/news/283049"/>
-        <updated>2021-08-18T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[人的命运再一次被算法「主宰」。
-近日，俄罗斯一家游戏支付公司 Xsolla 利用 AI 算法解雇了 147 名员工。Xsolla 主要为游戏公司开发商提供支付、结算、发行和营销工具，其客户包括知名游戏公司 Roblox、Eipc Games 和 Steam。
-在这家共有 500 名左右员工的公司里，被裁人数将近占了三分之一，被解雇的原因则是：AI 算法「认为」他们「不敬业且效率低下」。
-一时间，「用 AI 裁员合理吗」的话题引发广泛关注与讨论。在技术与算法不断演进的基础上，在后疫情时代远程办公或许将成为常态的环境下，算法如何影响人们的劳动与工作将是一个无法回避的问题。
-
-
-突如其来的邮件
-8 月初，一些 Xsolla 员工的邮箱里突然多了一封来自 CEO 兼创始人 Aleksandr Agapitov 的邮件，收到邮件的员工被告知「Xsolla 不适合您」并提出 Xsolla 将帮助他们寻找「别的去处」。
-
-          
-
-Aleksandr Agapitov 发出的解雇邮件｜网络截图
-
-
-在这封信之前，员工没有收到任何关于如何「正确」工作的警告或建议。
-8 月 3 日，该邮件被泄露，起初人们怀疑它是假的，而随后该邮件得到了 Aleksandr Agapitov 本人的证实。
-Aleksandr Agapitov 在接受俄罗斯媒体 Meduza 的采访时回应称：「裁员是因为公司近 6 个月增长放缓——低于 40% 的增长目标，因此他和公司领导层决定通过裁员将公司的工资预算支出减少 10%。」
-受到疫情的影响，Xsolla 的工作转移到线上进行，新的绩效评估系统在今年年初开始施行，公司根据 30 多个指标，以百分制评估员工的工作效率。其中关键的评价指标包括：在内部 Wiki 中撰写和阅读文章、创建和关闭任务工单，以及活动的追踪数据和参与内部会议的情况等等。
-关于用撰写…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
         </author>
     </entry>
 </feed>
