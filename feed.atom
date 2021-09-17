@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T04:11:54.641Z</updated>
+    <updated>2021-09-17T08:11:22.060Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[航运业“创纪录”大堵塞：65艘船漂在加州海面，排队等待进港]]></title>
+        <id>3640665</id>
+        <link href="https://wallstreetcn.com/articles/3640665"/>
+        <updated>2021-09-17T06:34:42.000Z</updated>
+        <summary type="html"><![CDATA[本周四，圣佩德罗湾排队等候的集装箱船数达到了创纪录的65艘。去年8月时，洛杉矶港几乎没有船只停泊，而今年8月平均有36艘船只停泊。]]></summary>
+        <author>
+            <name>俞涛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甜味剂解密（上）：果糖的甜蜜与烦恼]]></title>
+        <id>https://sspai.com/post/68857</id>
+        <link href="https://sspai.com/post/68857"/>
+        <updated>2021-09-17T06:31:05.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是致力于让没有医学背景的小伙伴能听懂医生在说啥的心内科 Leslie Pan。今天我们来聊一聊一个令人愉悦的东西——糖。
+在所有基本口味中，小朋友多半会更喜欢甜味，尽管这一点会随着年龄的增长而改变，但甜味仍然是人类最渴望的口味之一，而不是酸味和苦味。于是，各种烹饪、甜饮、烘焙花样百出地迎合着人类的甜食渴望，产品迎合市场，甜味带来销量，于是，除了食物本身的葡萄糖、麦芽糖、果糖之外，人们还发现了多种多样的甜味剂，以给食物带来更多甜味和风味。
+但我们也都知道甜食吃多了不好，会胖，胖了不仅不好看，还会增加各种疾病的发生风险，例如 2 型糖尿病、冠心病、脂肪肝等等。在肥胖和 2 型糖尿病患病率持续升高的这 40 年，出于对健康的顾虑，不好被消化吸收的甜味剂（例如某乎月饼中过量摄入会令人化身喷射战士的麦芽糖醇）、甜度是白砂糖上万倍的甜味剂纷纷被投入食品工业中。打着「无糖」和「零卡」旗号进行营销的饮料食品也是层出不穷。
+但，你真的知道你喝进去了多少糖吗？你又知道摄入的糖对身体来说意味着什么吗？「零卡糖」为什么零卡？它真的能满足口腹之欲又不会危害健康吗？
+在每个人的印象与常识之外，医学或流行病学研究对「真糖」和「代糖」都有什么样的研究结论呢？我将用 2 篇文章和大家好好聊一聊甜味剂，把吃进去的真糖、假糖都掰开来细细咂摸一番，争取把代谢原理、研究目前得出的结论都讲到。
+第一篇，咱们先聊聊吃多了会发胖的真糖。
+下面就到了 Leslie「科学地吓唬人」环节。Enjoy your time!
+过量的糖：人类对甜味的渴望
+to Live for：写进基因的需求
+我们都知道人活着需要三大营养素：脂肪、蛋白质和糖，而糖类更是日常饮食中最重要的能量来源。当然这里的糖不是糖果或白砂糖，而是碳水化合物，包含了单糖和二糖、多元醇、低聚糖（麦芽低聚糖和不易消化的低聚糖）和多糖（淀粉和非淀粉多糖）。
+即便…]]></summary>
+        <author>
+            <name>刀客特Leslie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更低的储蓄率 对高房价及负利率意味着什么？]]></title>
+        <id>3640671</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640671?layout=wscn-layout"/>
+        <updated>2021-09-17T05:26:22.000Z</updated>
+        <summary type="html"><![CDATA[财政补贴及防御性储蓄消退后，全球储蓄率将继续下降。]]></summary>
+        <author>
+            <name>岳嘉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海航顾刚：如重整成功，海航基础要退出地产开发 围绕机场发展及免税商业布局]]></title>
+        <id>3640667</id>
+        <link href="https://wallstreetcn.com/articles/3640667"/>
+        <updated>2021-09-17T04:49:07.000Z</updated>
+        <summary type="html"><![CDATA[顾刚表示，首先要做优做强空港服务业，加强与免税牌照公司合作，地产业务要转型升级，持续深化安全管理。]]></summary>
+        <author>
+            <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业板涨超1%，风电、医疗、白酒板块上涨，锂电、半导体持续下跌]]></title>
+        <id>3640664</id>
+        <link href="https://wallstreetcn.com/articles/3640664"/>
+        <updated>2021-09-17T03:46:52.000Z</updated>
+        <summary type="html"><![CDATA[A股三大指数小幅低开，后持续分化，风电板块多股涨停，天能重工涨近20%，白酒、CRO概念股活跃，锂电和半导体板块持续下探。]]></summary>
+        <author>
+            <name>赵颖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为王军：近期将有多个激动人心时刻出现，推进车载显示进入光成像时代]]></title>
+        <id>3640666</id>
+        <link href="https://wallstreetcn.com/articles/3640666"/>
+        <updated>2021-09-17T03:44:03.000Z</updated>
+        <summary type="html"><![CDATA[王军介绍，今年华为在汽车零部件领域的研发投入超过10亿美元，研发团队超过5000人，已上市30多款智能汽车零部件产品，“朋友圈在迅速扩大”。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保护好自己的数字资产，我的方法你也可以试试]]></title>
+        <id>https://sspai.com/post/68634</id>
+        <link href="https://sspai.com/post/68634"/>
+        <updated>2021-09-17T03:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+在如今的世界里，我们的生活重心越来越向数字世界中转移，我们每天要花那么多时间在各类电子设备上，这些设备本身没有那么吸引人，重要的是其作为网络和互联网的终端。我们的目光穿透屏幕之后，看到的是无时无刻不在壮大和发展的数字世界。而在这个世界中通行的唯一认证方式，是账号与密码。
+但当世界发展成现在这样，人们偏好线上办理业务而不是线下办理；手机号实名制使得大部分公司的业务基于手机验证码来进行认证；所有的企业都想涉足金融行业，每个应用点开「我的」里都有一个「钱包」，「钱包」里最显眼的位置一定被「借钱」业务所占据，副标题则是「20 万」，以及一个字体更小的注释：「大约可借」。而为了相互竞争，企业将这个借钱的门槛和认证需求一降再降，这就为一些违法犯罪行为提供了机会。
+这个机会基于这样一个现实：手机号因为成了数字世界的实际身份认证方式而变得极为重要，而大部分人没有意识到它有多重要。一个简单（且实际发生过）的例子是这样的：傍晚你的手机被偷，由于到了营业厅的下班时间，你只能等第二天去补办 SIM 卡，而犯罪分子取下你手机中的 SIM 卡，插在另一台手机上，就可以用来接收验证码。因为一些数据库的泄露，他们能从中查到这个手机号所有者的姓名、身份证、银行卡号等隐私信息，用这些信息和验证码，他们能够在各类金融服务中进行借款，这些借款会先转进你的银行卡，然后用来购买各种难以追踪路径的虚拟物品（在这个过程中，你有所察觉，并及时冻结了信用卡和常用的储蓄卡，这阻止了更大损失的发生，但对于各种借款行为仍然无能为力）。
+当然，这起事件发生以后，其中的薄弱环节已经得到了加强…]]></summary>
+        <author>
+            <name>mang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融危机后，QE政策对美国和新兴市场有什么不同影响？]]></title>
+        <id>3640470</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640470?layout=wscn-layout"/>
+        <updated>2021-09-17T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[我们从QE的体系可以推论这三个东西：一个是美国，西方主导国家不会有通胀；一个新兴市场全部通胀；还有一个是欧洲边缘国家会有债务危机。]]></summary>
+        <author>
+            <name>郭胜北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股反弹：科技股涨幅居前 腾讯、百度、快手涨近3%]]></title>
+        <id>3640663</id>
+        <link href="https://wallstreetcn.com/articles/3640663"/>
+        <updated>2021-09-17T03:19:24.000Z</updated>
+        <summary type="html"><![CDATA[恒指翻红，科技股、医药股涨幅居前，京东集团涨超3%，腾讯控股、百度、快手涨近3%。]]></summary>
+        <author>
+            <name>应依汝</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英伟达：五年二十倍的芯片大牛是如何炼成的？]]></title>
         <id>3640642</id>
