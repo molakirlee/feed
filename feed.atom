@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-18T06:10:38.018Z</updated>
+    <updated>2021-09-18T08:10:54.359Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[经济日报：煤价“高烧”当休矣]]></title>
+        <id>3640728</id>
+        <link href="https://wallstreetcn.com/articles/3640728"/>
+        <updated>2021-09-18T07:36:32.000Z</updated>
+        <summary type="html"><![CDATA[一方面要持续稳定地扩大煤炭供给，另一方面要继续强化煤炭与上下游产业协作，后者也是引导供需市场平稳运行的有效路径。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉中国今年前8个月出口近10万辆 零部件本地化率近9成]]></title>
+        <id>3640727</id>
+        <link href="https://wallstreetcn.com/articles/3640727"/>
+        <updated>2021-09-18T07:06:06.000Z</updated>
+        <summary type="html"><![CDATA[截至8月，特斯拉中国2021年已经出口了97496辆汽车至欧美、澳大利亚、日本、韩国、新加坡等10多个国家和地区。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恒大爆发债务危机、澳洲建造核潜艇、弦子诉朱军案遭驳回和本周更多重要故事]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/world-58592958</id>
+        <link href="https://www.bbc.com/zhongwen/simp/world-58592958"/>
+        <updated>2021-09-18T06:43:06.000Z</updated>
+        <summary type="html"><![CDATA[35 分钟前
+
+
+
+图像来源，Reuters
+
+
+
+9月第三周，中国恒大集团的债务危机引起外界关注，多地出现投资者再求恒大集团还债的画面。恒大集团承认正面对着“前所未有的困难”，并称这是由对集团的“持续负面新闻报道”所导致。
+
+另外，北京一家法院驳回了周晓璇（弦子）针对中国知名电视主持人朱军提起的、在中国具有里程碑意义的性骚扰指控，原因是证据不足，但她声言会上诉。本案原告弦子指控朱军在2014年在她还是央视实习生的时候强行抚摸和强吻她。该案被指再次点燃了中国的#MeToo运动，并提高了中国女权意识。
+
+国际方面，英国、美国和澳大利亚三国宣布签署一项历史性的安全协议，分享先进的防御技术及情报，此举被认为旨在对抗中国。
+
+刚刚过去的一周，BBC中文的以下新闻内容受到读者的关注。如果你错过了它们，BBC中文带你一一回顾。
+
+
+
+1. 中国房地产巨头恒大遭投资者围堵总部逼债前后发生了什么
+
+
+
+
+
+
+图像来源，Reuters
+
+
+
+中国恒大集团遭投资者围堵总部抗议后，承认正面对着“前所未有的困难”，并称是由“对本集团的持续负面新闻报道”所导致。
+
+恒大集团星期二（9月14日）向香港交易所提交公告，证实集团过去三个月物业销售成绩持续恶化，并已聘请财物顾问研究解决方案。该集团在另一份声明中否认正破产重组。恒大集团在香港上市的相关股票当天普遍暴跌，其中中国恒大星期二收盘下跌11.87%，恒大汽车跌24.66%，恒大物业跌12.01%。
+
+恒大总部门前聚集的散户们继续高声齐喊，“还钱！还钱！”一位妇女声泪俱下地指责，“你的良心都让狗吃了吗？”恒大高管瘫坐在墙角，闭着眼睛，一动不动。恒大财富的兑付危机被定格为这样一个戏剧化、情绪化的画面，传遍中文互联网。
+
+不过，如果仔细分析恒大上月发布的财报，不难发现，恒大财富的困境，只是这家“中国第一房企”面临危机的“冰山一角”。
+
+
+恒大危机背后可能被…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港选委会选举：非建制派参选人誓言发出“另类声音”]]></title>
+        <id>https://www.bbc.com/zhongwen/simp/chinese-news-58582031</id>
+        <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58582031"/>
+        <updated>2021-09-18T06:13:03.000Z</updated>
+        <summary type="html"><![CDATA[李翰文
+BBC中文
+
+
+27 分钟前
+
+
+
+图像来源，Getty Images
+
+
+
+香港周日（9月19日）将会迎来选举委员会选举，一千多名候选人将会竞逐300多个有竞争的选委会席位，绝大部份候选人都是建制派，民主派今年几乎完全绝迹。
+
+在新的选举制度下，想加入选委会的人需要经过政治审查，才可以参加选举或提名。唯一一名被视为民主派的前立法会议员郑松泰原本可以透过议席，以当然委员身份进入选委会，不过他因为未能通过审查被拒绝入选委会，同时失去立法会议席。
+
+民主派在2016年由1200组成的选举委员会有325席。但今年在审查制度和民主派参选意欲低下的情况下，只剩下三名被视为非建制派的人士可以参加选举。
+
+
+
+
+
+
+图像来源，Getty Images
+
+
+香港民主派自北京改变选举制度后，一直没有就是否继续参加选举达成共识。
+
+
+
+这三人分别是前民主党成员狄志远、香港铁路“沙中线”工程丑闻吹哨人潘焯鸿和独立民主派人士周贤明。外界不视他们为建制派一员，但他们一些立场与民主派有一定距离，因此香港舆论给他们一个折衷的称号：非建制派。
+
+
+
+狄志远和潘焯鸿在选委会选举前接受BBC中文访问，认为即使是选举委员会中的少数派，他们仍然可以透过参加选举，发出建制派以外的声音，引起外界对不同议题的关注。
+
+
+/* sc-component-id: sc-bdVaJa */
+.sc-bdVaJa {} .rPqeC{overflow:hidden;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;background-color:#F2EFEC;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex…]]></summary>
+        <author>
+            <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信单聊能打开淘宝了，腾讯阿里互开了一道门缝]]></title>
+        <id>3640716</id>
+        <link href="https://wallstreetcn.com/articles/3640716"/>
+        <updated>2021-09-18T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[来自微信的外链调整声明，打响了中国互联网巨头为互联互通开启整改的第一枪。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海建设国际消费中心城市实施方案出炉：大力发展免退税经济、支持老字号企业上市]]></title>
         <id>3640725</id>
