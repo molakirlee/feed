@@ -1100,6 +1100,15 @@
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
         {
+          "id": "3640759",
+          "author": "潘凌飞",
+          "description": "此轮疫情，特点之一就是12岁以下儿童比例较高。疫情局势不可轻视，根据国外的研究报告显示，孩子们感染德尔塔病毒的症状比之前的病毒发生的症状要重得多，令人担心。",
+          "link": "https://wallstreetcn.com/articles/3640759",
+          "publishedOn": "2021-09-19T07:26:07.000Z",
+          "wordCount": 126,
+          "title": "张伯礼：此轮疫情暴露防控薄弱点"
+        },
+        {
           "id": "3640757",
           "author": "潘凌飞",
           "description": "进入该模式后，用户使用时段和服务功能受限，且只能访问青少年专属内容池。业内人士表示，此举对行业意义重大，为整个短视频直播行业起到示范作用。",
@@ -6678,24 +6687,6 @@
           "publishedOn": "2021-08-20T22:53:09.000Z",
           "wordCount": 159,
           "title": "美股收高但全周跌，热门中概大反弹，美油周跌9%，美元年内再新高，比特币涨回4.8万"
-        },
-        {
-          "id": "3638505",
-          "author": "李丹",
-          "description": "在本周五表态前，达拉斯联储主席卡普兰将近四个月来一直敦促美联储尽早开始Taper，上周还重申，应10月开始行动。",
-          "link": "https://wallstreetcn.com/articles/3638505",
-          "publishedOn": "2021-08-20T21:38:00.000Z",
-          "wordCount": 136,
-          "title": "美联储铁杆鹰派动摇？称若德尔塔病毒伤害复苏 Taper预期可能改观"
-        },
-        {
-          "id": "3638504",
-          "author": "李丹",
-          "description": "Ackman领导的PSTH本有望与环球音乐并购成为400亿美元的最大SPAC ，但上月连持股10%的计划都没能实现，最近又称，因本周的诉讼影响并购能力，考虑向投资者返还40亿美元，设新SPAC。",
-          "link": "https://wallstreetcn.com/articles/3638504",
-          "publishedOn": "2021-08-20T20:13:44.000Z",
-          "wordCount": 134,
-          "title": "官司缠身雪上加霜 史上最大SPAC流产 考虑资金退还投资者"
         }
       ]
     },
