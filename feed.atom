@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T02:23:49.637Z</updated>
+    <updated>2021-09-19T04:11:48.167Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「连通」的第一步、「真香」的苹果和「限流」的环球｜极客一周]]></title>
+        <id>https://www.geekpark.net/news/285894</id>
+        <link href="https://www.geekpark.net/news/285894"/>
+        <updated>2021-09-19T03:08:16.000Z</updated>
+        <summary type="html"><![CDATA[连通的第一步
+本周，鹅厂黑板报公众号发布了关于《Wechat 外部链接内容管理规范》调整的声明，正式回应了此前监管强调的互联网大厂之间「互-联-互-通」的规定。
+在微信开放之前，企鹅先以 QQ 作为桥头堡试水。有网友发现，在 QQ 内搜索抖音、淘宝，可以直接转到相应页面，不过也可能是灰度测试，因为也有用户尝试失败。
+当然，相较于 QQ，人们更关注的是真正的国民级应用 Wechat 的开放步伐。在开头提到的「声明」中，企鹅透露了「开放」的第一阶段，Wechat 将会如何做：
+1、在确保信息安全的前提下，用户升级最新版本 Wechat 后，可以在一对一聊天场景中访问外部链接。
+2、为用户提供自主选择权。群链接因涉及广大接收方用户，我们将继续开发功能便于用户自主个性化选择。
+3、设立外链投诉入口，用户可以举报违法违规外链。平台将按照相应规则处理，并对外链提供平台的管理有效性设立信用分级。
+总结成一句话就是，私聊可以立即开放，但是群聊还得等一等，同时乱发链接，链接所属平台可能被「降级」。
+
+          
+        
+Wechat 这样的做法，也符合其定位——首先是即时通讯软件，然后才是生态外延。用户之间私人交流的顺畅应该被保证和鼓励，但是想像拼多多崛起时那样，「砍一刀」满天飞的私域流量玩法可能行不通，不仅流量薅不到，而且该平台会被「降级」。
+在「声明」中，企鹅明确表述了开放的重要原则之一：防止出现过度营销、诱导分享等有损用户利益的行为。
+当然 Wechat 也保留自己的主动权，虽然群链接的选择权似乎交给了用户，但是审核权和评级权依然在自己手中，想要狂薅流量的友商依然要小心翼翼地试探 Wechat 的红线，就像报道这个话题的媒体老师一样——不少媒体报道 WeChat 此次互-联-互-通的推送，在 Wechat 公众号端被标记为内容审核不通过，这也是为什么这篇稿子要用蹩脚…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国打响反垄断大战，韩国即时通信+支付巨头Kakao大跌，空头痛击散户]]></title>
+        <id>3640752</id>
+        <link href="https://wallstreetcn.com/articles/3640752"/>
+        <updated>2021-09-19T03:01:43.000Z</updated>
+        <summary type="html"><![CDATA[随着韩国监管机构开展对大型科技巨头们的反垄断调查，本月Kakao的每日卖空量达到了自5月份卖空禁令解除以来的最高水平。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[送码 | 双向链接、微信记录…… 让「桌面级」iPad 写作体验更进一步：Metion 2.0]]></title>
+        <id>https://sspai.com/post/68722</id>
+        <link href="https://sspai.com/post/68722"/>
+        <updated>2021-09-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metion 是一款支持 iOS、iPadOS、macOS 的 Markdown 写作工具，除了为中文写作场景进行优化，也致力为 iPad 带来了桌面级写作体验。近期，Metion 推出了 2.0 大版本更新，让这款写作工具在多平台上的写作体验进一步统一和完善，不妨一起看看全新的 Metion 有哪些变化。
+对了，Metion 2.0 也为少数派用户准备了一个小彩蛋，不要错过。
+iPhone、iPad 和 Mac：一致的写作体验
+Metion 始于 iOS 版，后想借助 Mac Catalyst、M1 芯片， 快速实现 macOS 版，尝试了，不甚理想。
+决定从零开始重写 Mac 版，经过长时的努力后，默默发布了 Metion 1.9 原生 macOS 版，Metion 2.0 也继续迭代着，现在基本上能跟 iOS 看齐了。
+同样的内容，不同设备的呈现
+写作体验，是 Metion 最在乎的。Metion 2.0 有了巨大的变化，依然坚持写作体验优先。
+iPad、Mac、iPhone 上，不论屏幕的大小，Metion 的功能都想办法保持了一致性。
+而在 iPadOS 上，Metion 投入了更多的精力进行优化，尤其是 iPad Pro。虽然加上键盘的 iPad Pro 重量有点令人诟病，但 iPad 在另一方面，也是被很多朋友忽略掉的却又是非常棒的写作工具台。
+Metion 2.0，特别对于 iPad 而言，无疑会赋予它更强的可能性。
+「连接真实世界」的知识库
+即将于 9 月 21 日发布的 iOS / iPadOS 15 有一个新的特性，照相机可以实时识别文本。Metion 2.0 也新增加了一系列知识库相关的功能，我们想把这两者结合在一起，那么 Metion 上的笔记就能活用起来了。
+或许未来再配合 AI 不断迭代，拿着 Metion 扫描纸上的一个问题，它能提炼出一些直…]]></summary>
+        <author>
+            <name>Hepo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国最大的氢能源概念：中国石化？]]></title>
         <id>3640753</id>
