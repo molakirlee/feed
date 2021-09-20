@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-20T04:12:10.119Z</updated>
+    <updated>2021-09-20T06:11:44.301Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[风电的崛起——又一个新能源爆发了！]]></title>
+        <id>3640765</id>
+        <link href="https://wallstreetcn.com/articles/3640765"/>
+        <updated>2021-09-20T04:17:14.000Z</updated>
+        <summary type="html"><![CDATA[曾经的风电，因为弃风率高、成本高、市场空间小不受待见。但在市场的忽视之下，整个风电行业已经发生了翻天覆地的变化。最核心的风机的价格，相比去年年初几乎腰斩。接下来，风电会复制光伏的神话吗？]]></summary>
+        <author>
+            <name>刘晓翠</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从部署到思考，我的 Ghost 博客搭建手记]]></title>
         <id>https://sspai.com/post/68855</id>
