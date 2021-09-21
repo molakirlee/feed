@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T04:12:31.836Z</updated>
+    <updated>2021-09-21T06:11:35.735Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[揭秘小米「智能眼镜」]]></title>
+        <id>https://www.geekpark.net/news/285944</id>
+        <link href="https://www.geekpark.net/news/285944"/>
+        <updated>2021-09-21T04:45:11.000Z</updated>
+        <summary type="html"><![CDATA[据说今年苹果秋季发布会上最令人失望的不是 iPhone 13 系列升级程度太小，而是没有 One More Thing。还有不少人期待，在最后这个传统环节上，库克会不会拿出个超级新品，让人们惊喜一下，例如传说中的苹果 VR/AR 头显。
+人们之所有这样的期望，其中一个重要原因是因为，小米赶在苹果发布会前一天，发布了一款小米智能眼镜，还拍了一段概念视频，一下子吊起了人们的好奇心。
+虽然海报上明明白白写的是「概念新品」和「探索版」，结合此前字节收购 Pico VR 和当下火热的元宇宙，人们不禁猜想，传说中的 AR 确实「未来已来」了吗？
+智能眼镜技术成熟了？
+根据发布的信息，小米这款探索版智能眼镜重 51 克，重量和体积上已经非常趋近普通眼镜。右侧镜片通过 Micro Led 光机配合光波导镜片，能够实现信息、地图等简单信息的显示；同时，配有蓝牙和触控，支持进行语音和手部操作实现翻译、拍照等功能。
+而小米之所以能够曝光这样一款轻薄的智能眼镜，主要还是因为相关的光学和显示技术已经趋近成熟。
+最近，深圳举行的光博会上，舜宇光学透露，小米智能眼镜采用的是舜宇光学的光机方案，镜片用的是英国厂商 WaveOptics 的镜片。
+智能眼镜或者 AR 眼镜类产品，最大的技术难点在于光学（光机）和显示（镜片）。
+
+光机+光波导镜片｜WaveOptics
+
+AR 眼镜的显示系统可以简单理解为一套投影系统，光机就是投影仪，而镜片就是幕布。要想智能眼镜足够轻薄，则光机和镜片两个部分不仅要小巧、耗电低，且显示要有足够亮度；如果是室外场景，则对镜片的透光度要求较高。
+在光机方面，此前业内知名产品如 Magic Leap 使用的是 LCoS（Liquid Crystal on Silicon 硅基液晶）方案，微软 HoloLens 2 使用的是 LBS（激光束扫描 Laser Beam Scanning）…]]></summary>
+        <author>
+            <name>极客公园 - 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 8 正式版来了，这些新功能值得尝鲜]]></title>
+        <id>https://sspai.com/post/68748</id>
+        <link href="https://sspai.com/post/68748"/>
+        <updated>2021-09-21T04:32:19.000Z</updated>
+        <summary type="html"><![CDATA[随着「科技春晚」的落幕，Apple 为我们带来了全新设计的 Apple Watch Series 7。与此同时，watchOS 8 也正式推送给了 Apple Watch 用户。我已经在自己的 Apple Watch SE 上日常使用测试版有一段时间了，借这次正式版发布的机会和大家一起来看一看 watchOS 8 都有哪些让我们眼前一亮的更新。
+系统新特性
+新增人像模式表盘
+watchOS 每次更新都会伴随着新表盘的出现，在 watchOS 8 中，人像模式表盘成了许多人眼里的「重磅更新」。想要设置人像表盘，你只需要在 Watch 应用中选择人像表盘，随后将自己拍摄的人像照片导入即可。
+图 / Apple
+当你导入一张照片后，系统会自动识别画面中的主体和背景，并提供三种表盘样式。其中最特别的莫过于「顶部后方」，它会将时间放在画面主体后方。在实际体验中，如果照片主体不是人的话，往往不会出现「顶部后方」的选项。因此，你或许不能用猫猫来做人像表盘了（可以设置为人像模式表盘，但不支持「顶部后方」样式）。
+
+此外，人像模式表盘还支持 3 种字体样式和 1 个复杂功能，你可以根据自己的喜好进行调整。
+专注模式更新
+与 iOS 15 一样，Apple Watch 也针对「专注」进行了更新，你可以将 iPhone 上的专注模式设置镜像到 Apple Watch 上，并在控制中心里快速启用。此外，专注模式还会根据你的使用习惯进行推荐，比如当你开始体能训练时会建议你开启对应的专注模式。
+
+与 iOS 更加统一的设计风格
+watchOS 8 在 App 内融入了 iOS 上的大标题设计，在视觉观感上与 iOS / iPadOS 更加统一。不过在 Apple Watch 这么小的屏幕上使用大标题设计无疑压缩了屏幕利用率。
+
+拿「设置」来说，在 watchOS 7 中，你不需要滚动屏幕就能轻松点到「…]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场怕不怕？民主党要和共和党比“胆大”：通过开支法案，要不美国政府月底关门！]]></title>
+        <id>3640797</id>
+        <link href="https://wallstreetcn.com/articles/3640797"/>
+        <updated>2021-09-21T03:57:26.000Z</updated>
+        <summary type="html"><![CDATA[民主党人正准备采取一项冒险举动——将暂停美国债务上限附加到一项必须通过的支出法案中，这可能会招致共和党议员的反对。金融市场惊恐万分，1年期美国主权信用违约互换直线拉升。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shein快闪店引爆北美，来自中国的“快时尚之火”正从线上向线下蔓延]]></title>
         <id>3640798</id>
