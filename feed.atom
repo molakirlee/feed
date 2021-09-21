@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T02:23:21.721Z</updated>
+    <updated>2021-09-21T04:12:31.836Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shein快闪店引爆北美，来自中国的“快时尚之火”正从线上向线下蔓延]]></title>
+        <id>3640798</id>
+        <link href="https://wallstreetcn.com/articles/3640798"/>
+        <updated>2021-09-21T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[当中国年轻人热捧BM风时，外国年轻人却在中国品牌Shein的线下店疯狂了。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[许家印给员工的中秋家书：坚信恒大一定能尽快走出至暗时刻]]></title>
+        <id>3640796</id>
+        <link href="https://wallstreetcn.com/articles/3640796"/>
+        <updated>2021-09-21T02:47:00.000Z</updated>
+        <summary type="html"><![CDATA[许家印在信中感谢员工的辛苦付出，向员工家属致敬，并坚信恒大一定能尽快走出至暗时刻，加快推进全面复工复产，实现“保交楼”目标，向购房者、投资者、合作伙伴和金融机构交出一份敢担当、负责任的答卷。]]></summary>
+        <author>
+            <name>叶桢</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美股真可能回调20%！高盛大摩轮番唱空美股]]></title>
         <id>3640793</id>
