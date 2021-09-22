@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T08:11:04.035Z</updated>
+    <updated>2021-09-22T10:10:12.544Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[经济日报：房企行至十字路口]]></title>
+        <id>3640874</id>
+        <link href="https://wallstreetcn.com/articles/3640874"/>
+        <updated>2021-09-22T08:32:33.000Z</updated>
+        <summary type="html"><![CDATA[个别房企出现债务危机，是房地产行业长期高杠杆、高负债模式下蕴藏风险的集中体现。当前，降杠杆、降负债应成为房企的头等大事，房企应该认真对照“三线四档”规则。]]></summary>
+        <author>
+            <name>韩旭阳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | iOS 15 通知管理和专注模式详解]]></title>
+        <id>https://sspai.com/post/68924</id>
+        <link href="https://sspai.com/post/68924"/>
+        <updated>2021-09-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[直到目前手机依然是串联每个人工作、学习和生活重要的工具，不可否认 App 的依然承担着绝大多数人的日常生活。但有不少 App 却会打着功能试用、个性推荐、甚至是明显的广告各式各样的名义大量推送通知，频繁的通知铃声、手机亮起的屏幕会不停地打断和割裂用户的工作、学习、生活甚至是游戏时的体验。
+距离 iOS 12 上大刀阔斧地改革通知系统已经过了三年，今年的 iOS 15 再次迎来了新的一波通知功能上的更新，Apple 借此希望让你可以更好地、更从容且更智能地管理好你的通知，让你享受数字生活的方方面面。
+全新的通知管理
+隐式推送为什么不好用
+iOS 12 中 Apple 为了解决推送通知引起的打断问题，为用户提供了「隐式推送」的选项，希望借此可以解决非必要或是非紧急通知导致的铃声、亮起的屏幕这些可能会打断用户注意力的情况。但从今天看来「隐式推送」依然有着下列几点问题：
+
+设置选项分离
+呈现形式不佳
+控制不够灵活
+
+我知道「隐式推送」可以直接在「某条通知」-「左滑」-「选项」里直接做调整。但是一直以来 Apple 在第一次打开应用询问允许推送时只有「是/否」这两个选项，没办法直接选择隐式推送。这就导致了大部分人并不能在打开 App 的那一刻就拒绝干扰。而后续普通人对 iOS 系统特性不够熟悉，他们基本上就和「隐式推送」无缘了，只能被动地接受打断；再者 Apple 并没有在「设置」-「通知」提供「隐式推送/显示推送」的开关，用户只能一个个点开具体的应用，再把锁屏、横幅、声音给关掉，才能设置好「隐式推送」，我相信大部分的用户都不会有这个耐心去一个个调整的。
+如果你不知道「隐式推送」，这不怪你
+「隐式推送」的呈现形式也不够好，所有设置了「隐式推送」的通知将仅出现在通知中心中，这就意味着用户在亮起屏幕以后没有办法第一时间接触到所有已经「隐式推送」推送到手机上的通知，用户自然也就没有办法直观…]]></summary>
+        <author>
+            <name>广陵止息</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术进步转向垄断利润！页岩油在OPEC化]]></title>
+        <id>3640871</id>
+        <link href="https://wallstreetcn.com/premium/articles/3640871?layout=wscn-layout"/>
+        <updated>2021-09-22T07:50:07.000Z</updated>
+        <summary type="html"><![CDATA[新的原油托拉斯在形成]]></summary>
+        <author>
+            <name>张帆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内盘动力煤期货涨停 焦煤涨超8% 新加坡铁矿石价格涨10%]]></title>
         <id>3640868</id>
@@ -17513,16 +17555,6 @@ FSD 的最新进展
         <link href="https://wallstreetcn.com/articles/3638662"/>
         <updated>2021-08-23T23:02:09.000Z</updated>
         <summary type="html"><![CDATA[部分源于美联储政策的不确定性，22万亿美元规模的美国国债市场流动性最近下降。这意味着，一有风吹草动，价格就可能大起大落。]]></summary>
-        <author>
-            <name>李丹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[央行释放重要信贷信号 业内看好年内再降准 提振效应或8月显现]]></title>
-        <id>3638661</id>
-        <link href="https://wallstreetcn.com/articles/3638661"/>
-        <updated>2021-08-23T21:49:24.000Z</updated>
-        <summary type="html"><![CDATA[部署下一步货币信贷工作的座谈会上，央行行长易纲强调，加大信贷对实体经济特别是中小微企业的支持力度，增强信贷总量增长的稳定性。]]></summary>
         <author>
             <name>李丹</name>
         </author>
