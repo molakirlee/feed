@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T04:11:54.981Z</updated>
+    <updated>2021-09-22T06:11:30.772Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[反垄断当前，美国科技巨头“大鱼吃小鱼”却创了纪录]]></title>
+        <id>3640862</id>
+        <link href="https://wallstreetcn.com/articles/3640862"/>
+        <updated>2021-09-22T03:57:24.000Z</updated>
+        <summary type="html"><![CDATA[2021年，尽管反垄断愈演愈烈，但各种规模的科技企业并购都达到了新高。FTC委员表示，单独来看，每一笔并购可能不会产生重大影响，但数百笔规模较小的收购的集体影响，可能会导致一家垄断巨头的出现。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从实际使用场景出发，说说为什么我觉得今年的 Apple 系统更新还不错]]></title>
+        <id>https://sspai.com/post/68887</id>
+        <link href="https://sspai.com/post/68887"/>
+        <updated>2021-09-22T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+iOS 15 的正式版终于推送啦，不知道你手头的 iPhone 升级了吗？与 iOS 15 一同推送的还有 iPadOS 15 和 watchOS 8，macOS Monterey 也在路上了，相信在不久的将来也可以正式推送。
+Apple 在 WWDC 2021 上发布的新一代操作系统，引起了不少讨论。与前几年不同的是，今年的升级显得有些「诚意不足」：让许多用户给 iOS 15 戴上了「iOS 14.9」的帽子，iPadOS 的更新更是让许多 iPad Pro 2021 用户直呼「退钱」。
+我在 Apple 推送 Public Beta 版本推送后，就将手头的主力设备全部升级到了最新版本。在一个多月的体验中，新系统的许多新特性对我工作学习、日常生活有很大的帮助，所以我想与你分享一下我的使用经历和感受。
+WWDC21（来源：Apple）
+帮我维持好状态
+如今，手机等智能设备对我们日常工作生活的影响越来越大。方便快捷本该是它们的优点，但是有时过于频繁的通知推送、电话短信的狂轰乱炸往往会分散我们的注意力，干扰手头上的事情。网上关于提升专注度、排除手机干扰的讨论也越来越多，人们似乎在寻找一个排除手机干扰的完美方案。
+在 iOS 15 中加入的专注模式、通知摘要功能，很好地帮我缓解了通知焦虑的问题。它们能够让我在需要专注时维持好状态，更加投入地应对工作、学习。
+专注模式
+专注模式称得上是本次系统更新中我最喜欢的功能。由于 iOS 的限制，没有 App 可以读取到你当前是否在使用手机，在使用什么 App。因此，想要有效地在专注时避免打扰，我们…]]></summary>
+        <author>
+            <name>小蜗壳壳Cedric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoPro HERO10 Black上手，这才是HERO9的完全体]]></title>
         <id>https://www.geekpark.net/news/286021</id>
@@ -17375,16 +17407,6 @@ FSD 的最新进展
         <summary type="html"><![CDATA[美国FDA完全批准了辉瑞和BioNTech的新冠疫苗。全面批准可以推动企业、学校和各州执行疫苗接种，并鼓励一些犹豫不决的人群接种疫苗。拜登表示，在接种疫苗方面，没有时间可以浪费，更多的公司必须加强对员工接种疫苗的要求，请大家今天就完成接种。]]></summary>
         <author>
             <name>张茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亿万富翁Branson的卫星发射公司今年打算借壳上市，波音确认投资]]></title>
-        <id>3638657</id>
-        <link href="https://wallstreetcn.com/articles/3638657"/>
-        <updated>2021-08-23T17:13:12.000Z</updated>
-        <summary type="html"><![CDATA[维珍轨道将与前高盛高管发起的SPAC合并而上市，估值为32亿至37亿美元，计划筹集的4.83亿美元中包括波音和其他私募股权公司投资。波音称这是一项押注卫星发射市场重要性的战略举措，分析认为该赛道未来几年将指数级增长。]]></summary>
-        <author>
-            <name>杜玉</name>
         </author>
     </entry>
 </feed>
