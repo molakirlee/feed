@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T14:08:59.903Z</updated>
+    <updated>2021-09-22T16:13:57.420Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国EIA原油库存创2018年10月来新低 但汽油库存意外增加]]></title>
+        <id>3640923</id>
+        <link href="https://wallstreetcn.com/articles/3640923"/>
+        <updated>2021-09-22T15:38:12.000Z</updated>
+        <summary type="html"><![CDATA[美国9月17日当周EIA原油库存骤降348.1万桶，预期为减少245万桶，连降七周。EIA汽油库存意外增加347.4万桶。数据发布后，WTI原油期货短线下挫0.20美元，至每桶71.57美元，日内整体涨幅收窄至1.6%。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国8月成屋销售同比一年多来首降 首次购房者被挤出市场]]></title>
+        <id>3640921</id>
+        <link href="https://wallstreetcn.com/articles/3640921"/>
+        <updated>2021-09-22T15:17:22.000Z</updated>
+        <summary type="html"><![CDATA[美国8月成屋销售总数年化588万，环比下跌2%。库存不足和房价高企之际，影响了部分买家需求，首次购房者的比例降至2019年以来的最低水平。成屋销售中位数价格35.67万美元，同比上涨14.9%，涨幅为今年1月以来最低。]]></summary>
+        <author>
+            <name>张茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[point 72、盈峰资本、拾贝投资齐现身！9月银行迎来调研潮？谁是“流量王”？]]></title>
+        <id>3640919</id>
+        <link href="https://wallstreetcn.com/articles/3640919"/>
+        <updated>2021-09-22T15:10:29.000Z</updated>
+        <summary type="html"><![CDATA[都关心什么？]]></summary>
+        <author>
+            <name>陈圣洁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国常会月内再提“跨周期调节”，审议通过“十四五”新型基建规划]]></title>
+        <id>3640918</id>
+        <link href="https://wallstreetcn.com/articles/3640918"/>
+        <updated>2021-09-22T14:31:52.000Z</updated>
+        <summary type="html"><![CDATA[国务院总理李克强9月22日主持召开国务院常务会议，要求做好跨周期调节，稳定合理预期，保持经济平稳运行；审议通过“十四五”新型基础设施建设规划，推动扩内需、促转型、增后劲；部署加快中小型病险水库除险加固，提升供水和防灾减灾能力。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国房价还要涨？又一关键建筑材料涨疯了！]]></title>
+        <id>3640907</id>
+        <link href="https://wallstreetcn.com/articles/3640907"/>
+        <updated>2021-09-22T13:48:02.000Z</updated>
+        <summary type="html"><![CDATA[飓风“艾达”扰乱了美国60%的PVC生产，导致PVC价格飙升。建筑成本失控将继续对房价造成上行压力。]]></summary>
+        <author>
+            <name>卜淑情</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT是一门怎样的生意？听创业者怎么说]]></title>
+        <id>3640906</id>
+        <link href="https://awtmt.com/articles/3640906?from=wscn"/>
+        <updated>2021-09-22T13:44:08.000Z</updated>
+        <summary type="html"><![CDATA[有投资人认为，“目前国内大部分的NFT平台，是披着NFT外衣，做着互联网的生意，并没有新的范式和创新。”那么，国内NFT平台的创业者是怎么想的？他们能经营出中国版的“OpenSea”吗？]]></summary>
+        <author>
+            <name>于惠如</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[邪教引诱信徒的秘密：渗透生活各个角落的语言]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58625509</id>
@@ -183,6 +243,36 @@
 它的分子中有一个碳原子和两个氧原子，这就是为什么它的化学式是二氧化碳CO2。]]></summary>
         <author>
             <name>BBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毫无改善迹象！8月芯片交付时间进一步延长至21周]]></title>
+        <id>3640912</id>
+        <link href="https://wallstreetcn.com/articles/3640912"/>
+        <updated>2021-09-22T13:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Susquehanna Financial数据显示，8月份全球芯片交付等待时间继续延长，达到了史无前例的21周，是公司2017年开始跟踪该数据以来的最长等待时间。]]></summary>
+        <author>
+            <name>许超</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“大水有大鱼”，A股创纪录活跃成交由谁主导？]]></title>
+        <id>3640913</id>
+        <link href="https://wallstreetcn.com/articles/3640913"/>
+        <updated>2021-09-22T13:30:38.000Z</updated>
+        <summary type="html"><![CDATA[谁在逆势买入，谁又有所斩获]]></summary>
+        <author>
+            <name>陈嘉懿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家发改委：上半年化肥农药价格涨势较快，需密切关注后期对农业生产带来的影响]]></title>
+        <id>3640908</id>
+        <link href="https://wallstreetcn.com/articles/3640908"/>
+        <updated>2021-09-22T13:24:10.000Z</updated>
+        <summary type="html"><![CDATA[国家发改委官网刊文称，受原材料价格持续上涨、出口拉动、国内库存有限和需求增加等因素共同影响，化肥农药部分产品现货供应紧张，价格上涨。受国际国内需求增加、整体供应量收紧的影响，化肥农药价格预计依然处于高位。]]></summary>
+        <author>
+            <name>韩旭阳</name>
         </author>
     </entry>
     <entry>
@@ -17624,93 +17714,6 @@ PS：本次推荐的产品包括我用过的产品，但目前手里的产品不
         <summary type="html"><![CDATA[中信证券认为未来1年供需错配下的电解液行业高景气度仍将持续，不排除产品价格将继续上行。]]></summary>
         <author>
             <name>尹洪昌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[港股科技股大反攻！恒生科技指数涨超4% 美团涨超9% 京东涨超10%]]></title>
-        <id>3638697</id>
-        <link href="https://wallstreetcn.com/articles/3638697"/>
-        <updated>2021-08-24T04:08:20.000Z</updated>
-        <summary type="html"><![CDATA[互联网股全线飙升，医药股亦上涨强劲，恒大系悉数反弹。]]></summary>
-        <author>
-            <name>俞涛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀赵明，惶者生存]]></title>
-        <id>3638699</id>
-        <link href="https://awtmt.com/articles/3638699?from=wscn"/>
-        <updated>2021-08-24T04:03:12.000Z</updated>
-        <summary type="html"><![CDATA[与华为另一位公众人物余承东不同，赵明每次公开亮相都保持着“理工男”独有的克制，“夯实产品、提升技术”是他在发布会和媒体采访中提到最多的词。]]></summary>
-        <author>
-            <name>于惠如</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃尽税收优惠红利，主营耐火镁产品的东和新材拟创业板上市 | IPO见闻]]></title>
-        <id>3638619</id>
-        <link href="https://wallstreetcn.com/articles/3638619"/>
-        <updated>2021-08-24T03:18:21.000Z</updated>
-        <summary type="html"><![CDATA[公司主营业务为以镁质耐火材料为主的镁制品的研发、生产、销售，主要产品包括电熔镁砂、轻烧氧化镁、定形及不定形耐火制品等，东和新材为高新产业，享受企业所得税优惠政策和安置残疾人就业税收优惠占据利润总额20%左右，比例较大。]]></summary>
-        <author>
-            <name>王誉霖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Day 汇总：特斯拉是一家 AI 机器人公司吗？]]></title>
-        <id>https://sspai.com/post/68408</id>
-        <link href="https://sspai.com/post/68408"/>
-        <updated>2021-08-24T03:17:16.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-特斯拉是一家什么公司？
-第一层，2003 年，特斯拉以新造车公司的身份亮相；
-第二层，2016 年，收购了 Solarcity 的特斯拉是一家能源公司；
-第三层，2019 年，特斯拉推出自主研发的 FSD 芯片，成为一家自动驾驶公司；
-第四层，2020 年，特斯拉介入电池的设计和研发，进阶到一家动力电池公司； 
-Elon Musk 在第五层。今天，特斯拉通过自主研发的大规模深度神经网络训练集群 Dojo 和人工智能机器人 Tesla Bot 佐证了 Elon 说的那句话：「从长远来看，人们会将特斯拉视为一家人工智能机器人公司，就像今天被视为汽车或能源公司那样」。
-美东时间 8 月 19 日下午 5 点，特斯拉举办了 AI Day 人工智能日，整场发布会分为三大节：
-特斯拉 AI 和视觉高级总监 Andrej Karpathy、Autopilot 全栈算法总监 Ashok Elluswamy 和 Autopilot 工程总监 Milan Kovac 介绍的 FSD 完全自动驾驶最新进展。
-特斯拉 Project Dojo 项目高级总监 Ganesh Venkataramanan 介绍特斯拉大规模深度神经网络训练集群。
-Elon Musk 发布特斯拉机器人 Tesla Bot。
-关于 Elon 之外的特斯拉高管们，这张组织架构图可以作为参考：
-
-FSD 的最新进展
-相比全新的 Dojo D1 芯片和 Tesla Bot 机器人，已经在 2019 年自动驾驶日做过部分阐述的 FSD 更像是一个阶段性更新，我们选择几个值得关注的部分来谈谈…]]></summary>
-        <author>
-            <name>类星频道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二手房：逃不出的周期与去中介的价值]]></title>
-        <id>3638698</id>
-        <link href="https://wallstreetcn.com/premium/articles/3638698?layout=wscn-layout"/>
-        <updated>2021-08-24T03:14:40.000Z</updated>
-        <summary type="html"><![CDATA[二季度以来，全国主要二手房城市出现量价齐跌。]]></summary>
-        <author>
-            <name>岳嘉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[900亿蒸发！中国电信回应连吃跌停：理性看待，若破发将采用"绿鞋机制"]]></title>
-        <id>3638696</id>
-        <link href="https://wallstreetcn.com/articles/3638696"/>
-        <updated>2021-08-24T02:59:04.000Z</updated>
-        <summary type="html"><![CDATA[市场上有说法称“因绿鞋选择权，发行券商会希望上市30日内股价比发行价越低越好，股价比发行价越低，赚取的差价就越大，所以根据计算，后面至少会有三至四个跌停。”]]></summary>
-        <author>
-            <name>叶桢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么阿里和腾讯对互联互通的态度并不相同？]]></title>
-        <id>3638689</id>
-        <link href="https://wallstreetcn.com/articles/3638689"/>
-        <updated>2021-08-24T02:47:35.000Z</updated>
-        <summary type="html"><![CDATA[互联互通意味着阿里可以获得其梦寐以求的微信传播链，这对缺乏社交关系的阿里而言至关重要。而腾讯的电商业务稳步增长，即便不进行互联互通，微信支付在线上的支付份额本身也会继续增长。]]></summary>
-        <author>
-            <name>夏雨辰</name>
         </author>
     </entry>
 </feed>
