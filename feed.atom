@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T22:09:08.831Z</updated>
+    <updated>2021-09-22T00:33:19.833Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年9月22日]]></title>
+        <id>3640826</id>
+        <link href="https://wallstreetcn.com/articles/3640826"/>
+        <updated>2021-09-21T23:08:16.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宽松无休止！达利欧警告：美联储Taper之后可能再QE]]></title>
+        <id>3640833</id>
+        <link href="https://wallstreetcn.com/articles/3640833"/>
+        <updated>2021-09-21T22:55:56.000Z</updated>
+        <summary type="html"><![CDATA[全球最大对冲基金桥水的创始人认为，美联储如果最终能缩小资产负债表的规模，可能就是为下一轮QE做准备。继续QE的后果是，持有现金的人将实际得到负回报。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流媒体增长预警！迪士尼盘中跳水创15个月最大跌幅]]></title>
+        <id>3640832</id>
+        <link href="https://wallstreetcn.com/articles/3640832"/>
+        <updated>2021-09-21T22:44:35.000Z</updated>
+        <summary type="html"><![CDATA[迪士尼CEO预计，三季度流媒体平台迪士尼+在全球可能只增长低个位数的百万用户，这意味着，将只有二季度环比新增用户数的三分之一甚至更少。]]></summary>
+        <author>
+            <name>李丹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中美竞争：“拜登经济学”及其对中国可能产生的影响]]></title>
         <id>https://www.bbc.com/zhongwen/simp/business-58645050</id>
@@ -17343,198 +17373,6 @@ https://feedx.top]]></summary>
         <summary type="html"><![CDATA[中美运价较前期高点罕见下滑]]></summary>
         <author>
             <name>张娱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[油价暴跌背后：系统性抛售压力]]></title>
-        <id>3638642</id>
-        <link href="https://wallstreetcn.com/articles/3638642"/>
-        <updated>2021-08-23T12:32:49.000Z</updated>
-        <summary type="html"><![CDATA[最近油价重挫很大一部分上可归因于系统性基金的羊群效应，并非油市基本面出现了实质性变化。一旦油价显著反弹，投机客们将被迫从空头再次转向多头，原油市场的强势有望延续到年末。]]></summary>
-        <author>
-            <name>魏虓铳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[运营商回归A股，再掀一波5G投资浪潮？]]></title>
-        <id>3638623</id>
-        <link href="https://wallstreetcn.com/premium/articles/3638623?layout=wscn-layout"/>
-        <updated>2021-08-23T12:19:12.000Z</updated>
-        <summary type="html"><![CDATA[建设和维护成本高，加大投资还得算一笔经济账。]]></summary>
-        <author>
-            <name>侯秋芸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股盘前：比特币再度突破50000美元大关，国际油价止跌]]></title>
-        <id>3638639</id>
-        <link href="https://wallstreetcn.com/articles/3638639"/>
-        <updated>2021-08-23T11:56:46.000Z</updated>
-        <summary type="html"><![CDATA[FDA正致力于全面批准辉瑞公司的疫苗；华尔街齐吹：新兴市场“失落的十年”将结束......]]></summary>
-        <author>
-            <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个敢发一个敢买！ 美国垃圾债市场“大丰收”]]></title>
-        <id>3638636</id>
-        <link href="https://wallstreetcn.com/articles/3638636"/>
-        <updated>2021-08-23T11:48:54.000Z</updated>
-        <summary type="html"><![CDATA[由于美国利率一直处于历史低位，美国投资者涌入债市评级最低的角落。分析师们预计，垃圾债市场需求不会因delta变种降温，理由是极低利率和高储蓄率使得固收市场中选项变得有限。]]></summary>
-        <author>
-            <name>魏虓铳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国“工业母机”往事]]></title>
-        <id>3638608</id>
-        <link href="https://wallstreetcn.com/articles/3638608"/>
-        <updated>2021-08-23T11:35:31.000Z</updated>
-        <summary type="html"><![CDATA[如果说芯片的国产化是掌握科技行业独立的密码，那工业母机的国产化就是掌握制造业自主的钥匙。要成为真正的制造大国，工业母机的国产化是必经之路。]]></summary>
-        <author>
-            <name>陈晨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超预期！药明生物中报大增150%，这几个变化需要关注 | 见智研究所]]></title>
-        <id>3638638</id>
-        <link href="https://wallstreetcn.com/articles/3638638"/>
-        <updated>2021-08-23T11:34:52.000Z</updated>
-        <summary type="html"><![CDATA[疫苗和XDC平台成为本季新的业务增长亮点。同时，欧洲业务营收占比大幅提升，意味着国际化是市场下一个关注的重点。]]></summary>
-        <author>
-            <name>申思琦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经济日报：国务院再次点名大宗商品价格，释放什么信号？]]></title>
-        <id>3638635</id>
-        <link href="https://wallstreetcn.com/articles/3638635"/>
-        <updated>2021-08-23T10:48:24.000Z</updated>
-        <summary type="html"><![CDATA[完善并落实重要原材料价格上涨应对方案，合理增加国内生产，科学组织储备投放，强化重点商品市场联动监管”，释放出国家将继续确保大宗商品保供稳价的强烈政策信号。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月再增5千亿，公募基金“家底”突破23.54万亿！]]></title>
-        <id>3638634</id>
-        <link href="https://wallstreetcn.com/articles/3638634"/>
-        <updated>2021-08-23T10:42:59.000Z</updated>
-        <summary type="html"><![CDATA[货币基金增长势头最大]]></summary>
-        <author>
-            <name>陈嘉懿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天赐材料上半年锂电业务量价齐升，两大业务为何两极分化？ | 见智研究所]]></title>
-        <id>3638632</id>
-        <link href="https://wallstreetcn.com/articles/3638632"/>
-        <updated>2021-08-23T10:28:39.000Z</updated>
-        <summary type="html"><![CDATA[天赐材料上半年业绩大增132.27%，预计三季度净利润最高可达8.2亿元，同比增近300%，继6月扩产之后再现3大扩产项目。]]></summary>
-        <author>
-            <name>吴悠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晓有见地｜蔚来：养成系明星的跌落]]></title>
-        <id>3638631</id>
-        <link href="https://wallstreetcn.com/articles/3638631"/>
-        <updated>2021-08-23T10:24:12.000Z</updated>
-        <summary type="html"><![CDATA[用户是最不可靠的。]]></summary>
-        <author>
-            <name>周智宇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国官员首次在香港宣讲五年发展规划]]></title>
-        <id>https://www.bbc.com/zhongwen/simp/chinese-news-58304880</id>
-        <link href="https://www.bbc.com/zhongwen/simp/chinese-news-58304880"/>
-        <updated>2021-08-23T10:13:03.000Z</updated>
-        <summary type="html"><![CDATA[9 分钟前
-
-
-
-图像来源，HONG KONG GOVERNMENT
-
-
-林郑月娥形容十四五规划是“一纸千金”，将会为香港带来千载难逢的机会。
-
-
-
-香港政府首次邀请北京官员到当地，为中国第14个五年规划（又称“十四五规划”）进行宣讲，之后转到立法会出席讲座。
-
-中港官员周一（8月23日）先在香港政府总部举行总长数小时的宣讲会，期间香港特首林郑月娥形容“十四五规划”是“一纸千金”，将会为香港带来千载难逢的机会。
-
-出席宣讲会并致辞的发改委发展战略和规划司副司长胡朝晖，更多次称赞香港政府在处理新冠肺炎疫情等议题上展示了“事不避难的担当精神”，又说相信在林郑月娥一定可以团结带领香港社会继续发挥“一国两制”优势。
-
-香港官员又首次直接回应中国人大常委会暂缓表决把《反外国制裁法》加进《基本法》附件三的决定，形容有多点时间考虑“是好事”。
-
-
-
-
-
-
-
-
-图像来源，HONG KONG GOVERNMENT
-
-
-香港政府举行一连串的宣讲活动，宣传与“十四五规划”相关的讯息，包括粤港澳大湾区的发展。
-
-
-
-“香港的最大发展机遇在内地”
-
-除了林郑月娥和胡朝晖，多名北京官员都在宣讲会致辞，包括香港中联办主任骆惠宁，他指全球发展最大机遇在中国，香港的最大发展机遇在内地，“一定要牢牢抓住，香港必定能够打造新优势、作出新贡献”。
-
-中国人民银行金融研究所所长周诚君提到香港在人民币国际化担当的角色，形容香港有足够条件和基础成为全球人民币资产管理中心、增值中心及风险管理中心。
-
-北京官员之后又转到香港立法会举行“十四五规划”讲座，是首次有中国大陆官员到立法会出席官式讲座。
-
-香港政府在周二（8月24日）和周三（8月25日）会继续举行宣讲活动，宣传与“十四五规划”相关的讯息，包括粤港澳大湾区的发展。
-
-
-
-
-
-
-图像来源，Getty Images
-
-
-中国人民银行金融研究所所长称香港有足够条件和基础成为全球人民币资产管理中心、增值中心及风险管理中心。
-
-
-
-“很复杂的问题”
-
-在宣讲会后的记者会，香港官员也首次直接公开回应中国人大常委会8月20日决定暂时不表决是否在香港实施《反外国制裁法》。
-
-行政会议成员任志刚指，被外国制裁的香港官员可以与金融机构断绝关系，让这些机构不致于太尴尬，是“息事宁人的做法”，但当香港当局以《反外国制裁法》作反制，对方就未必同样以息事宁人的做法处事。
-
-他形容，在香港实施这部法律是“很复杂的问题”，多一点时间考虑是好事。
-
-香港政府当天就人大常委会的决定发出新闻稿，但总长500多字的稿件都没有提到《反外国制裁法》，只强调北京政府做的决定都是“以香港利益为依归”，又强调香港的法治没有丝毫受损，国际金融中心的地位也“稳健如昔”。
-
-分析当时认为人大常委会的做法可能是中方高层的临时决定，背后可能是考虑到经济原因。
-
-
-北京制定《反外国制裁法》 透视中国应对美国“工具箱”
-北京暂缓表决港澳《反外国制裁法》，为何商界忌惮这部法律？
-美国财政部制裁中港官员是否真的“没有意义”
-美国宣布制裁11名中港官员，林郑月娥首当其冲
-
-
-港澳与“五年规划”的关系
-
-北京政府的“五年规划”是对国民经济和社会发展做的规划，除了在1962至1966年期间中断外，由1953年起每五年发表一次。
-
-北京政府过去在五年规划对香港和澳门的著墨并不多，在第12个五年规划前，通常只会在最后一章注明会保持港澳长期繁荣稳定、坚持一国两制等。
-
-这个情况到2011年发表的第12个五年规划出现改变，当年的规划以独立一个章节讲述北京对两地的政策，但仍然只限于宏观的政策层面，包括要支持香港巩固和提升国际金融中心的地位、支持澳门建设世界旅游休闲中心等。 2016年发表的第13个五年规划也差不多。
-
-今年3月发表的第14个五年规划，对香港和澳门的发展政策出现更具体的说明。除了支持香港的国际金融中心地位，这个规划说明了要支持香港成为人民币离岸中心，同时推进大湾区的高质量建设、深化广东省、香港和澳门的合作等。]]></summary>
-        <author>
-            <name>BBC</name>
         </author>
     </entry>
 </feed>
