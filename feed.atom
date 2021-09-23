@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T22:09:27.846Z</updated>
+    <updated>2021-09-23T00:34:01.874Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街见闻早餐FM-Radio｜2021年9月23日]]></title>
+        <id>3640930</id>
+        <link href="https://wallstreetcn.com/articles/3640930"/>
+        <updated>2021-09-22T23:13:07.000Z</updated>
+        <summary type="html"><![CDATA[五分钟看懂全球市场，尽在财经早餐。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谱写农业农村改革发展新的华彩乐章——习近平总书记关于“三农”工作重要论述综述]]></title>
+        <id>3640936</id>
+        <link href="https://wallstreetcn.com/articles/3640936"/>
+        <updated>2021-09-22T22:59:55.000Z</updated>
+        <summary type="html"><![CDATA[人民日报署名文章：谱写农业农村改革发展新的华彩乐章——习近平总书记关于“三农”工作重要论述综述。]]></summary>
+        <author>
+            <name>朱希</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美联储Taper将至未至 美元拉升 标普终结四连阴 美债收益率曲线趋陡]]></title>
         <id>3640931</id>
@@ -14,6 +34,17 @@
         <summary type="html"><![CDATA[三大美股指创两月最大涨幅，能源板块涨超3%领涨，波音涨4%领跑道指成份股，龙头科技股中Facebook跌4%独跌。美联储决议后，10年期美债收益率盘中下破1.30%，2年期收益率近四周新高；美元指数先跌后涨创一个月新高。更新中]]></summary>
         <author>
             <name>李丹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了货币政策，鲍威尔新闻发布会还有这两大看点]]></title>
+        <id>3640935</id>
+        <link href="https://wallstreetcn.com/articles/3640935"/>
+        <updated>2021-09-22T22:21:02.000Z</updated>
+        <summary type="html"><![CDATA[看点一：美联储正在评估是否推出数字货币以及以何种形式推出
+看点二：美联储将在争议后改变官员的交易规则以保持公众的信任]]></summary>
+        <author>
+            <name>粥七</name>
         </author>
     </entry>
     <entry>
@@ -17161,115 +17192,6 @@ GIZMODO :…]]></summary>
         <summary type="html"><![CDATA[药明生物2021年上半年业绩再创新高。然而，在看多者之外，也有人担心，公司未来是否能有足够的业绩增长空间，以支撑估值成长。]]></summary>
         <author>
             <name>徐红</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一个特斯拉？八字还没一撇的空中出租车已经被“买爆”！]]></title>
-        <id>3638740</id>
-        <link href="https://wallstreetcn.com/articles/3638740"/>
-        <updated>2021-08-24T12:11:19.000Z</updated>
-        <summary type="html"><![CDATA[尽管市场的热潮可能正在减弱，但投资者已经向空中出租车初创企业注入了创纪录的43亿美元资金，这一行业的融资额在5年内飙升了了83%。]]></summary>
-        <author>
-            <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股盘前：美国国会面临两份历史性法案，高盛预计鲍威尔于11月正式宣布Taper预期]]></title>
-        <id>3638743</id>
-        <link href="https://wallstreetcn.com/articles/3638743"/>
-        <updated>2021-08-24T12:01:23.000Z</updated>
-        <summary type="html"><![CDATA[迪士尼与工会达成协议，要求注射新冠疫苗；美联储隔夜逆回购工具的使用规模攀升至创纪录的1.136万亿美元......]]></summary>
-        <author>
-            <name>韩旭阳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全景透视！哪些高毛利行业有被降价风险？]]></title>
-        <id>3638727</id>
-        <link href="https://wallstreetcn.com/premium/articles/3638727?layout=wscn-layout"/>
-        <updated>2021-08-24T11:58:54.000Z</updated>
-        <summary type="html"><![CDATA[除了“做大蛋糕”外，如何“分蛋糕”更为关键。]]></summary>
-        <author>
-            <name>侯秋芸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李克强：加快推进改革开放 着力保障和改善民生 推动东北全面振兴不断迈出新步伐]]></title>
-        <id>3638742</id>
-        <link href="https://wallstreetcn.com/articles/3638742"/>
-        <updated>2021-08-24T11:50:34.000Z</updated>
-        <summary type="html"><![CDATA[李克强说，东北在国家发展全局中具有重要战略地位。当前东北振兴仍处于爬坡过坎关键阶段，要进一步发挥东北地区积极性创造性，攻坚克难，继续加大中央财政支持，加强金融服务，做好地区间对口合作，形成强大合力，在新台阶上推动东北振兴取得更大进展。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘前大涨11%！拼多多Q2业绩打破市场预期：降低补贴，不仅留住用户还赚钱了  | 财报见闻]]></title>
-        <id>3638741</id>
-        <link href="https://wallstreetcn.com/articles/3638741"/>
-        <updated>2021-08-24T11:43:57.000Z</updated>
-        <summary type="html"><![CDATA[拼多多第二季度营收230.5亿元，相比去年同期增长89%，低于市场一致预期，但净利润大幅扭亏为盈。陈磊接棒后，拼多多呈现出了全新的面貌。]]></summary>
-        <author>
-            <name>陈晨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果代码有心，视障人群也不会被互联网落下]]></title>
-        <id>https://www.geekpark.net/news/282548</id>
-        <link href="https://www.geekpark.net/news/282548"/>
-        <updated>2021-08-24T10:43:49.000Z</updated>
-        <summary type="html"><![CDATA[采写 | 郑玥
-
-编辑 | 诗婕
-
-
-你知道盲人如何使用手机吗？
-通常他们一手握着手机，举在离耳边六七公分的位置，另一只手的几个手指迅速在屏幕上点动滑动，像在敲击键盘，机身播放着因倍速而变声的读屏机器音。
-第一次近距离观察到这些是在苹果商店，一位盲人导购接待了我。为了帮助残障人士就业，苹果一直以来都会招聘和培训视障人士作为店员，一些店员还会携带自己的导盲犬。
-武汉人刘宇是一名 34 岁的盲人按摩师，对他来说，能成为苹果店的导购是梦寐以求的事。我在今年夏天认识了他。因为父母近亲结婚，他先天全盲。1998 年，11 岁的他接触到了表哥的 windows98 系统。他用电脑听音乐，「听」影碟，表哥告诉他一些代码指令，他背下来，开始「拆解」代码，自此爱上了数码产品。
-在明眼人的学校里，初中电脑老师惊讶于他竟然能使用指令操作电脑。无法升学后，他进入专门学习推拿的学校里，成为一名推拿师。刘宇并没有放弃数码的爱好，他建了一个「此生无悔电脑音乐交流群」，教盲人朋友使用电脑，交流学习代码。
-去年是刘宇离梦想最近的时候。在应聘杭州苹果店的销售时，他连过 5 轮面试，最终因为入职程序相关问题遗憾落选。
-我一直以为，因为要面临更多的困难和挑战，视障群体的生活可能更不易。不过这个夏天，与刘宇的见面倒让我时常惊叹，视障人群竟然这么深度地依赖互联网。他们之中有数码迷，有盲人极客，这些年，科技企业正为这些人群修筑起互联网的「盲道」，他们得以参与科技公司产品的检测工作，原来，他们的生活可以很酷炫。
-
-
-
-「给你拍张照吧」
-7 月底，京杭大运河边的石廊里，刘宇突然提出要为我拍张照。
-「一张面容靠近右侧边缘，靠近左侧边缘，居中，拍照。」
-他掏出手机，特意调慢读屏语速给我演示，在 AI 女声居中的准确提示下，他点击快门，翻转手机，晃下脑袋说，「你看，拍好了。这个叫非视觉摄影，读屏提示居中的时候，说明对上焦了。」
-…]]></summary>
-        <author>
-            <name>极客公园 - 资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是调整开始还是蓄势待发，未来股债走势几何？]]></title>
-        <id>3638735</id>
-        <link href="https://wallstreetcn.com/articles/3638735"/>
-        <updated>2021-08-24T10:39:48.000Z</updated>
-        <summary type="html"><![CDATA[国君认为，无需过分担忧政策风险或信用风险，市场回温可待，至于债市后市则是短空长多。]]></summary>
-        <author>
-            <name>夏雨辰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[央视财经热评：打击财务造假 有合力才有威力]]></title>
-        <id>3638738</id>
-        <link href="https://wallstreetcn.com/articles/3638738"/>
-        <updated>2021-08-24T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[打击财务造假不能各自在条线上的单打独斗，而要群策群力，形成“一张网、一盘棋”。打击财务造假，有合力才有威力。只有立足全局，各环节严防死守，有关部门和机构都攥紧拳头一起出击，真正形成合力，才能让财务造假者感到“肉疼”。]]></summary>
-        <author>
-            <name>曾心怡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A股五张图：配股刻在券商的基因里？]]></title>
-        <id>3638736</id>
-        <link href="https://wallstreetcn.com/articles/3638736"/>
-        <updated>2021-08-24T10:16:16.000Z</updated>
-        <summary type="html"><![CDATA[上周四、周五的一切都没发生过？]]></summary>
-        <author>
-            <name>阿贝师傅</name>
         </author>
     </entry>
 </feed>
