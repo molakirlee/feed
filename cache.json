@@ -6,6 +6,15 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/68760",
+          "author": "王隐在录音",
+          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n引言\n西方语境中，13 不是一个好数字：背叛耶稣基督的犹大，据信是最后的晚餐餐桌上第 13 个就座的人。于是，西方人不喜欢数字 13 的传统一直延续到今天，很少有人宴客会邀请 13 个人，12 或 14 人都可以，13 不行。\n不巧的是，今年 9 月刚刚发布的新 iPhone，按照产品迭代顺序，正好是 iPhone 13。因此，发布会之前一个常被提出的问题是， Apple 会考虑另一个名字来绕过它吗？就像 iPhone X 那样？\n随着发布会落下帷幕，答案已经揭晓： Apple 决定继续使用 13 这个编号。不过，回顾 Apple 产品线的命名史，就会发现这样的问题并非孤例： Apple 虽然以简洁的市场文风著称，但有时仍会陷入不可解的命名困局。\n本文就将以 Mac、iPhone、iPad 三大产品线的命名演变史，来尝试还原 Apple 在开辟产品线及市场定位上的诸多困局与转变。\nMac：经典「四象限」，沿袭中演变\n之所以要先提 Mac（泛指 Apple 电脑产品线，下文同），是因为其 Pro 和 Air 命名影响了太多后来者。\n对 Apple 产品外观的模仿很容易让人理解，但为何连命名都要直接借鉴？原因无非两点，一是 Apple 自身的品牌效应引发后来者的跟随；二是这样的命名确实可以让消费者快速知晓产品线的特点与不同：\n\nPro 指 Professional（职业的、专业的），主打专业与性能。\nAir 则让人联想到空气，主打轻薄便携。\n\n这样精准、简洁的命名方式是由乔布斯提出的。\n很长时间里，Apple 都是作为一家电脑公司出现…",
+          "link": "https://sspai.com/post/68760",
+          "publishedOn": "2021-09-23T03:30:11.000Z",
+          "wordCount": 771,
+          "title": "浮名迷真性，硬核助本心——浅谈苹果的命名困局"
+        },
+        {
           "id": "https://sspai.com/post/68932",
           "author": "少数派编辑部",
           "description": "你可能错过的新鲜事\n微软召开 2021 秋季新品发布会，推出多款 Surface 新品\n微软于 9 月 22 日召开 2021 年秋季新品发布会，会上发布了包括 Surface Pro 8、Surface Pro X、Surface Go 3 、Surface Duo 2 、Surface Laptop Studio 等多款新硬件设备。\nSurface Pro 8 采用了一块 13 英寸的 PixelSense™ Flow 屏幕，更窄的边框，刷新率提高到了 120Hz，支持杜比世界和环境色温显示，搭载经过英特尔 Evo 平台认证的第 11 代四核处理器、英特尔锐炬 Xe 显卡、最高 32GB LPDDR4x RAM（8GB / 16GB / 32GB）、最高 1TB 可拆卸 SSD 存储（128GB / 256GB / 512GB / 1TB），同时配备更加轻薄的键盘盖以及类似 Surface Pro X 触控笔收纳槽；整机重量 889g，常规使用下续航时间为 16 小时，影像方面，前置 500万像素摄像头，后置 1000万像素摄像头；接口方面，Surface Pro 8 提供了 2 个支持雷电 4 协议的 USB 4.0 接口、1 个 3.5mm 耳机孔、1 个 Surface Connect 接口以及用于键盘连接的 Surface Type Cover 接口。\n\n值得一提的是同步推出的磁吸式触控笔 Surface Slim Pen 2，可以类似 Surface Pro X 那样被收纳以及充电，不易丢失同时可以保持始终有电，更妙的是触控笔中还搭载了微软自研的 G6 芯片，可以配合 Windows 11 提供细致的震动反馈体验，实现类似真实纸笔的书写触感。\n\n虽然微软着墨不多，但事实上 Surface Pro X 这款基于 ARM 处理器的设备同样迎来了小更新，增加了千兆 …",
@@ -1099,6 +1108,42 @@
       "feedUrl": "https://rsshub.app/wallstreetcn/news/global",
       "siteUrl": "https://wallstreetcn.com/news/global",
       "articles": [
+        {
+          "id": "3640961",
+          "author": "王眉",
+          "description": "尽管经济前景恶化，但对于因价格失控而伤痕累累的巴西来说，需要在控制货币供应和满足不断增长的需求之间做出平衡。巴西央行行长承诺将“不惜一切代价”将通胀拉回目标水平。",
+          "link": "https://wallstreetcn.com/articles/3640961",
+          "publishedOn": "2021-09-23T04:21:22.000Z",
+          "wordCount": 114,
+          "title": "今年第五次！为遏制通胀，巴西再加息100基点"
+        },
+        {
+          "id": "3640962",
+          "author": "松壑",
+          "description": "据中国证券报，证监会副主席阎庆民9月23日在第四批全国证券期货投资者教育基地授权活动上，透露了A股市...",
+          "link": "https://wallstreetcn.com/articles/3640962",
+          "publishedOn": "2021-09-23T04:09:20.000Z",
+          "wordCount": 115,
+          "title": "A股个人投资者突破1.9亿背后：北交所潜在户数或超570万"
+        },
+        {
+          "id": "3640955",
+          "author": "赵颖",
+          "description": "高盛称，天然气供应紧缺，加之寒冷天气风险，石油需求增加，油价将进一步上行，每桶价格突破90美元。",
+          "link": "https://wallstreetcn.com/articles/3640955",
+          "publishedOn": "2021-09-23T03:57:50.000Z",
+          "wordCount": 135,
+          "title": "高盛：如果今年冬天够冷，油价将升破90美元"
+        },
+        {
+          "id": "3640960",
+          "author": "张进",
+          "description": "8月以来，不少造纸企业多次发布涨价函，宣布上调瓦楞纸的出厂价，目前中国AA级别瓦楞纸全国均价约为每吨3870元，同比涨幅约为15%。",
+          "link": "https://wallstreetcn.com/articles/3640960",
+          "publishedOn": "2021-09-23T03:26:27.000Z",
+          "wordCount": 128,
+          "title": "造纸板块掀涨停潮，发生了什么？"
+        },
         {
           "id": "3640958",
           "author": "陈湘婷",
