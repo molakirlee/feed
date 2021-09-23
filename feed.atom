@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://molakirlee.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-23T02:25:43.048Z</updated>
+    <updated>2021-09-23T04:12:13.988Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://molakirlee.github.io/feed/index.html"/>
     <link rel="self" href="https://molakirlee.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旭辉林中：2017年后，本事大的房企才能不亏损]]></title>
+        <id>3640958</id>
+        <link href="https://wallstreetcn.com/articles/3640958"/>
+        <updated>2021-09-23T02:52:02.000Z</updated>
+        <summary type="html"><![CDATA[不要买错地、定错位、用错人。]]></summary>
+        <author>
+            <name>陈湘婷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行公开市场净投放1100亿元 连续四天大额净投放]]></title>
+        <id>3640959</id>
+        <link href="https://wallstreetcn.com/articles/3640959"/>
+        <updated>2021-09-23T02:50:01.000Z</updated>
+        <summary type="html"><![CDATA[自9月17日央行重启14天逆回购以来，已经保持了连续4天的净投放操作。从当前来看，主要目的还是为了保证跨月加跨节的资金需求。预计未来几日央行依然会做14天期逆回购的操作，保证资金平稳跨节。]]></summary>
+        <author>
+            <name>王眉</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quad四方安全对话：美、澳、印、日领导人举行会谈 聚焦台湾、半导体供应链和疫苗分配]]></title>
         <id>https://www.bbc.com/zhongwen/simp/world-58647912</id>
@@ -118,6 +138,16 @@ BBC中文记者
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A股三大指数集体高开，绿电多股涨停，地产板块大涨]]></title>
+        <id>3640957</id>
+        <link href="https://wallstreetcn.com/articles/3640957"/>
+        <updated>2021-09-23T01:57:27.000Z</updated>
+        <summary type="html"><![CDATA[A股三大指数集体高开，绿电板块多股一字涨停，证券板块活跃，地产板块异动拉升。]]></summary>
+        <author>
+            <name>赵颖</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大宗商品全线走高，动力煤逼近涨停]]></title>
         <id>3640956</id>
         <link href="https://wallstreetcn.com/articles/3640956"/>
@@ -155,6 +185,16 @@ BBC中文记者
         <summary type="html"><![CDATA[65岁以上老人是本次疫苗加强针的主要目标人群。此外，职业高风险和重症高风险人群也已获得FDA批准可注射加强针。尽管如此，目前获批人群仍低于拜登政府预期。]]></summary>
         <author>
             <name>夏雨辰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[52TOYS陈威：盲盒被一只“苍蝇”坏了一锅粥 | 创新者Innovator]]></title>
+        <id>3640954</id>
+        <link href="https://awtmt.com/articles/3640954?from=wscn"/>
+        <updated>2021-09-23T01:31:59.000Z</updated>
+        <summary type="html"><![CDATA[资本没有放弃寻找潮玩行业的下一个“泡泡玛特”，在近期完成了今年行业最大金额融资的“52TOYS”成为了新焦点。但在盲盒热度消退，潮玩IP老化快等行业问题下，资本与市场显然希望“52TOYS”讲出一个不同于泡泡玛特的故事。]]></summary>
+        <author>
+            <name>胡描</name>
         </author>
     </entry>
     <entry>
@@ -17363,16 +17403,6 @@ BBC请专家盘点成功职业生涯的十大软技能
 3.宠物食品…]]></summary>
         <author>
             <name>BBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国7月新屋销售四个月来首次回升 价格同比上涨18.4%创新高]]></title>
-        <id>3638760</id>
-        <link href="https://wallstreetcn.com/articles/3638760"/>
-        <updated>2021-08-24T14:56:29.000Z</updated>
-        <summary type="html"><![CDATA[美国7月新屋销售较6月增加1%，达到年化70.8万户，高于预期，6月大跌眼镜的新屋数值获得上修。7月新屋价格同比上涨18.4%，达到39.05万美元，创下历史最高。]]></summary>
-        <author>
-            <name>张茜</name>
         </author>
     </entry>
 </feed>
